@@ -13,6 +13,8 @@ Mircea Lungu is associate professor in computer science at the [IT University o
 
 
 # Research Prototypes 
+Long gone are the days when I was coding myself. (I loved those days, by the way). 
+Nowadays, I'm more of a product owner that guides and advises talented groups of students that create innovative projects. Some fo the projects that I've been recently involved with are: 
 - [Git-Truck](projects/git-truck.md) - visualizing git repositories for fun and profit
 - [Zeeguu](projects/zeeguu.md) - personalized  reading and vocabulary practice online
 - [MathsCamp](projects/maths-camp.md) - personalized maths for kids

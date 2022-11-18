@@ -4,20 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5a7c162691baf3fb",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
         "id": "9eca3bafee88e10a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "news/history.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/history.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "news/history.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "news/history.md"
+                "file": "README.md"
               }
             }
           }
@@ -136,11 +128,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5a7c162691baf3fb",
+  "active": "9eca3bafee88e10a",
   "lastOpenFiles": [
+    "news/history.md",
     "docs/assets/css/style.css.md",
     "README.md",
-    "news/history.md",
     "img/mircea-presenting.png.png",
     "projects/git-truck.md",
     "projects/flask-monitoring-dashboard.md",
