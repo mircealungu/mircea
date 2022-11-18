@@ -9,7 +9,43 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "projects/maths-camp.md",
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f6b678d68e41fb75",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "directions/personalized-learning-environments.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "236b5284d3455f09",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "directions/software-evolution.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "9a5f15ea79ef5cf8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "directions/personalized-learning-environments.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/maths-camp.md",
+                "file": "directions/personalized-learning-environments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/maths-camp.md",
+                "file": "directions/personalized-learning-environments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/maths-camp.md"
+                "file": "directions/personalized-learning-environments.md"
               }
             }
           }
@@ -128,9 +164,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "82a2cef2a64b1c0c",
+  "active": "f6b678d68e41fb75",
   "lastOpenFiles": [
     "README.md",
+    "directions/software-evolution.md",
+    "directions/personalized-learning-environments.md",
+    "projects/maths-camp.md",
     "projects/git-truck.md",
     "projects/zeeguu.md"
   ]
