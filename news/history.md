@@ -10,3 +10,8 @@
 	- Emma and Frida defend their excellent thesis on the Zeeguu Browser Extension
 - Aug - Presenting a paper with Nora Hollenstein at EuroCALL
 
+
+
+
+## 2018
+- Jul - Starting as associate professor at ITU. The colleagues are diverse and telented. The city is as bike-friendly as Groningen was. I have a feeling that is “the beginning of a beautiful friendship” :)
