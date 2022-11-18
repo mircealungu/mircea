@@ -14,7 +14,7 @@ Mircea Lungu is associate professor in computer science at the [IT University o
 
 # Research Prototypes 
 Long gone are the days when I was coding myself. (I loved those days, by the way). 
-Nowadays, I'm more of a product owner that guides and advises talented groups of students that create innovative projects. Some fo the projects that I've been recently involved with are: 
+Nowadays, I'm more of a product owner that guides and advises talented groups of students that create and evaluate innovative projects. Some of these projects are: 
 - [Git-Truck](projects/git-truck.md) - visualizing git repositories for fun and profit
 - [Zeeguu](projects/zeeguu.md) - personalized  reading and vocabulary practice online
 - [MathsCamp](projects/maths-camp.md) - personalized maths for kids
@@ -26,7 +26,7 @@ If you're interested in a student project, please look at the [list of projects 
 
 # News
 - Nov, 2022 - Visiting the lab of Gregorio Robles and Jesus Gonzales-Barahonja at U. Rey-Juan Carlos in Madrid
-- Oct, 2022 - Attending Vissoft 2022 where we're presenting two papers about [projects/git-truck.md]
+- Oct, 2022 - Attending Vissoft 2022 where we're presenting two papers about [Git-Truck](projects/git-truck.md) 
 - Sept, 2022 - Accepted to become the General Chair for the Vissoft 2023 which will happen in Bogota, Colombia
 
 [more news](news/history.md)
