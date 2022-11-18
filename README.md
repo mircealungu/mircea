@@ -25,3 +25,6 @@ He got his PhD working with [Michele Lanza](http://www.inf.usi.ch/lanza/) and 
 
 ## Discontinued
 - Softwarenaut
+
+
+<!--include:../projects/zeeguu.md-->
