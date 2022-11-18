@@ -38,9 +38,10 @@ If you're interested in a student project, please look at the [list of projects 
 
 I am currently teaching or co-teaching the following courses at ITU:
 
--   Software Architecture, with K. Manikas, Fall 2018, Spring 2019 - 2023
--   Advanced Software Engineering, with Y. Dittrich, E.Paja, P. Tell, H. Pfeiffer, Fall 2019 - 2022
--   Technical Interaction Design, Fall 2019, 2020, 2021
+- [DevOps and Software Evolution](https://github.com/itu-devops/lecture_notes), with H. Pfeiffer, Spring (2020 - ...) 
+- Technical Interaction Design, Fall (2019 - ...)
+- Software Architecture, with K. Manikas, Fall 2018, Spring (2019 - ...)
+- Advanced Software Engineering, with Y. Dittrich, E.Paja, P. Tell, H. Pfeiffer, Fall (2019 - ...)
 
 In the past I have been involved in teaching a wide variety of computer science courses, including: Concurrent Programming, UI Design, Compiler Construction, [Introduction to Data Science](http://www.rug.nl/ocasys/fwn/vak/show?code=WMCS16002), [Software Engineering](http://www.rug.nl/ocasys/gmw/vak/show?code=INBSE1-08).
 
