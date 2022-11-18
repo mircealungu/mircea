@@ -9,7 +9,31 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "writings/using-a-performance-monitor.md",
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5da9ecf773072198",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "directions/against-mass-distraction.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6d1a192929ce5e09",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "directions/personalized-learning-environments.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writings/using-a-performance-monitor.md",
+                "file": "directions/against-mass-distraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "writings/using-a-performance-monitor.md",
+                "file": "directions/against-mass-distraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writings/using-a-performance-monitor.md"
+                "file": "directions/against-mass-distraction.md"
               }
             }
           }
@@ -128,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9eca3bafee88e10a",
+  "active": "5da9ecf773072198",
   "lastOpenFiles": [
+    "README.md",
+    "directions/personalized-learning-environments.md",
+    "writings/using-a-performance-monitor.md",
     "news/history.md",
     "projects/git-truck.md",
-    "README.md",
     "docs/assets/css/style.css.md",
     "img/mircea-presenting.png.png",
     "projects/flask-monitoring-dashboard.md",
     "directions/software-evolution.md",
-    "directions/personalized-learning-environments.md",
-    "directions/against-mass-distraction.md",
-    "projects/maths-camp.md"
+    "directions/against-mass-distraction.md"
   ]
 }
