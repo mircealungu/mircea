@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/history.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "news/history.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "news/history.md"
+                "file": "README.md"
               }
             }
           }
@@ -140,10 +140,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9eca3bafee88e10a",
+  "active": "5a7c162691baf3fb",
   "lastOpenFiles": [
-    "README.md",
     "news/history.md",
+    "README.md",
     "img/mircea-presenting.png.png",
     "projects/git-truck.md",
     "projects/flask-monitoring-dashboard.md",
