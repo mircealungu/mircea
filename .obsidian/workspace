@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "news/history.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "news/history.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "news/history.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "news/history.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "9eca3bafee88e10a",
   "lastOpenFiles": [
-    "news/history.md",
     "README.md",
+    "news/history.md",
     "docs/assets/css/style.css.md",
     "img/mircea-presenting.png.png",
     "projects/git-truck.md",
