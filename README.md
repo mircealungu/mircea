@@ -1,10 +1,8 @@
-# Mircea Lungu - Research Overview
-
-## Research Directions
+# Research Directions
 - software evolution
 - 
 
-## Research Projects
+# Research Projects
 
 ## Active
 - [Git-Truck](projects/git-truck.md) 
