@@ -20,7 +20,7 @@ Nowadays, I'm more of a product owner that guides and advises talented groups of
 - [Zeeguu](projects/zeeguu.md) - personalized  reading and vocabulary practice online
 - [MathsCamp](projects/maths-camp.md) - personalized maths for kids
 - [Flask Monitoring Dashboard](projects/flask-monitoring-dashboard.md) - the most lightweight API monitor for Flask systems 
-- [Softwarenaut](projects/softwarenaut.md) - [discontinued] - interactive visualization of software architecture
+- [Softwarenaut](projects/softwarenaut.md) - [discontinued] - interactive visual exploration of software architecture
 
 
 # Student Projects
