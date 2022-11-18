@@ -1,16 +1,12 @@
 # Bio
 
 
-<img src="img/mircea-presenting.png" alt="mircea presenting" width="200" fload="left"/> 
+<img src="assets/mircea-presenting.png" alt="mircea presenting" width="200" fload="left"/> 
 
 
 Mircea is associate professor in computer science at the [IT University of Copenhagen](https://en.itu.dk/research).
 
-Before coming to Denmark he was assistant professor at the [Faculty of Science and Engineering](http://www.rug.nl/research/fmns/?lang=en) of [University of Groningen](http://www.rug.nl/) where he was a member of the [SEARCH](http://www.cs.rug.nl/search/) research group and the [Data Science Pioneers](http://www.rug.nl/research/fmns/themes/dssc/) group. He was also part time visiting researcher in the [SWAT](https://www.cwi.nl/research-groups/software-analysis-and-transformation) group at [CWI in Amsterdam](https://www.cwi.nl/).
-
-Before that he was postdoc at the [University of Bern](http://scg.unibe.ch/) in Switzerland, and for six months, visiting researcher at [IBM TJ Watson Research Center](http://www.watson.ibm.com/index.shtml) in New York.
-
-He got his PhD working with [Michele Lanza](http://www.inf.usi.ch/lanza/) and the REVEAL research group at the [University of Lugano](http://www.inf.usi.ch/), in Switzerland.
+Before coming to Denmark he was assistant professor at the [Faculty of Science and Engineering](http://www.rug.nl/research/fmns/?lang=en) of [University of Groningen](http://www.rug.nl/) where he was a member of the [SEARCH](http://www.cs.rug.nl/search/) research group and the [Data Science Pioneers](http://www.rug.nl/research/fmns/themes/dssc/) group. He was also part time visiting researcher in the [SWAT](https://www.cwi.nl/research-groups/software-analysis-and-transformation) group at [CWI in Amsterdam](https://www.cwi.nl/). Before that he was postdoc at the [University of Bern](http://scg.unibe.ch/) in Switzerland, and for six months, visiting researcher at [IBM TJ Watson Research Center](http://www.watson.ibm.com/index.shtml) in New York. He got his PhD working with [Michele Lanza](http://www.inf.usi.ch/lanza/) and the REVEAL research group at the [University of Lugano](http://www.inf.usi.ch/), in Switzerland.
 
 # Research Directions
 - [Software Evolution](directions/software-evolution.md) 
@@ -24,3 +20,16 @@ He got his PhD working with [Michele Lanza](http://www.inf.usi.ch/lanza/) and 
 - [MathsCamp](projects/maths-camp.md) - personalized maths for kids
 - [Flask Monitoring Dashboard](projects/flask-monitoring-dashboard.md) - the most lightweight API monitor for Flask systems 
 - [Softwarenaut](projects/softwarenaut.md) - [discontinued] - interactive visualization of software architecture
+
+# Student Projects
+If you're interested in a student project, please look at the list of projects available online. Alternatively, look at the projects defined above for ways in which you can contribute, or the directions above for possible projects. 
+
+
+# Contact
+Twitter: [@mircealungu](https://twitter.com/mircealungu) 
+Google Scholar: [profile page](https://scholar.google.nl/citations?user=7zx6Cg0AAAAJ&hl=en) 
+GitHub: [mircealungu](https://github.com/mircealungu) 
+LinkedIn: [profile](https://www.linkedin.com/in/mircealungu/) 
+Research Gate: [profile](https://www.researchgate.net/profile/Mircea-Lungu-2) 
+ITU Page: [profile](https://pure.itu.dk/portal/en/persons/mircea-lungu)
+Office: 4th Floor, DR Building, Emil-Holms Kanal, 2300 Copenhagen, Denmark
