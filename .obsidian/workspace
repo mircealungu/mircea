@@ -154,15 +154,15 @@
   },
   "active": "5da9ecf773072198",
   "lastOpenFiles": [
+    "writings/using-a-performance-monitor.md",
+    "directions/against-mass-distraction.md",
     "README.md",
     "directions/personalized-learning-environments.md",
-    "writings/using-a-performance-monitor.md",
     "news/history.md",
     "projects/git-truck.md",
     "docs/assets/css/style.css.md",
     "img/mircea-presenting.png.png",
     "projects/flask-monitoring-dashboard.md",
-    "directions/software-evolution.md",
-    "directions/against-mass-distraction.md"
+    "directions/software-evolution.md"
   ]
 }
