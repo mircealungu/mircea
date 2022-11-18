@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "directions/software-evolution.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "directions/software-evolution.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "directions/software-evolution.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "directions/software-evolution.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,13 +130,14 @@
   },
   "active": "9a5f15ea79ef5cf8",
   "lastOpenFiles": [
+    "img/mircea-presenting.png.png",
     "README.md",
+    "projects/git-truck.md",
+    "projects/flask-monitoring-dashboard.md",
+    "directions/software-evolution.md",
     "directions/personalized-learning-environments.md",
     "directions/against-mass-distraction.md",
-    "directions/software-evolution.md",
-    "projects/flask-monitoring-dashboard.md",
     "projects/maths-camp.md",
-    "projects/git-truck.md",
     "projects/zeeguu.md"
   ]
 }
