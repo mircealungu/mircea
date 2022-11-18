@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "projects/maths-camp.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "projects/maths-camp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "projects/maths-camp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "projects/maths-camp.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "82a2cef2a64b1c0c",
   "lastOpenFiles": [
+    "README.md",
     "projects/git-truck.md",
-    "projects/zeeguu.md",
-    "README.md"
+    "projects/zeeguu.md"
   ]
 }
