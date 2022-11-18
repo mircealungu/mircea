@@ -24,4 +24,10 @@
 ## 2018
 - Jul - Starting as associate professor at ITU. The colleagues are diverse and telented. The city is as bike-friendly as Groningen was. I have a feeling that is “the beginning of a beautiful friendship” :)
 
-2017
+## 2017
+
+**Jan** 
+- **Three Kinds of Context in Software Analytics** - Invited Talk at the SEN Symposium in Amsterdam 
+	- Honored to  be invited to give a talk along several great speakers including: Felienne Hermans, Andreas Zeller, Marielle Stoelinga, and Hans Wanders the CIO (!) of the Netherlands.
+	- At some point, I took a picture of the audience after I asked them to lift their red cards if they prefer to read `War and Peace` and the yellow cards if they’d prefer to read the source code of `ArgoUML`.
+![[keynote_sen.png]]

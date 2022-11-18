@@ -27,13 +27,6 @@ Nowadays, I'm more of a product owner that guides and advises talented groups of
 If you're interested in a student project, please look at the [list of projects available on GitHub](https://github.com/mircealungu/student-projects/). Alternatively, look at the prototypes and directions listed above. At the end of each, there are several ideas of possible future directions. 
 
 
-# News
-- Nov, 2022 - Visiting the lab of Gregorio Robles and Jesus Gonzales-Barahonja at U. Rey-Juan Carlos in Madrid
-- Oct, 2022 - Attending Vissoft 2022 where we're presenting two papers about [Git-Truck](projects/git-truck.md). 
-- Sept, 2022 - Accepted to become the General Chair for the Vissoft 2023 which will happen in Bogota, Colombia
-
-[more news](news/history.md)
-
 # Teaching
 
 I am currently teaching or co-teaching the following courses at ITU:
@@ -44,6 +37,14 @@ I am currently teaching or co-teaching the following courses at ITU:
 - Advanced Software Engineering, with Y. Dittrich, E.Paja, P. Tell, H. Pfeiffer, Fall (2019 - ...)
 
 In the past I have been involved in teaching a wide variety of computer science courses, including: Concurrent Programming, UI Design, Compiler Construction, [Introduction to Data Science](http://www.rug.nl/ocasys/fwn/vak/show?code=WMCS16002), [Software Engineering](http://www.rug.nl/ocasys/gmw/vak/show?code=INBSE1-08).
+
+
+# News
+- Nov, 2022 - Visiting the lab of Gregorio Robles and Jesus Gonzales-Barahonja at U. Rey-Juan Carlos in Madrid
+- Oct, 2022 - Attending Vissoft 2022 where we're presenting two papers about [Git-Truck](projects/git-truck.md). 
+- Sept, 2022 - Accepted to become the General Chair for the Vissoft 2023 which will happen in Bogota, Colombia
+
+[more news](news/history.md)
 
 
 # Further Web Coordinates
