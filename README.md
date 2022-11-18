@@ -1,7 +1,7 @@
 # Bio
 
 
-<img src="assets/mircea-presenting.png" alt="mircea presenting" width="200" fload="left"/> 
+<img src="docs/assets/mircea-presenting.png" alt="mircea presenting" width="200" fload="left"/> 
 
 
 Mircea is associate professor in computer science at the [IT University of Copenhagen](https://en.itu.dk/research).
