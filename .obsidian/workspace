@@ -14,30 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "5da9ecf773072198",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "directions/against-mass-distraction.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "6d1a192929ce5e09",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "directions/personalized-learning-environments.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -101,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "directions/against-mass-distraction.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "directions/against-mass-distraction.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "directions/against-mass-distraction.md"
+                "file": "README.md"
               }
             }
           }
@@ -152,12 +128,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5da9ecf773072198",
+  "active": "9eca3bafee88e10a",
   "lastOpenFiles": [
-    "writings/using-a-performance-monitor.md",
-    "directions/against-mass-distraction.md",
-    "README.md",
     "directions/personalized-learning-environments.md",
+    "README.md",
+    "directions/against-mass-distraction.md",
+    "writings/using-a-performance-monitor.md",
     "news/history.md",
     "projects/git-truck.md",
     "docs/assets/css/style.css.md",
