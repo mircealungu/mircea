@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9a5f15ea79ef5cf8",
+        "id": "5a7c162691baf3fb",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -128,10 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9a5f15ea79ef5cf8",
+  "active": "5a7c162691baf3fb",
   "lastOpenFiles": [
-    "img/mircea-presenting.png.png",
     "README.md",
+    "img/mircea-presenting.png.png",
     "projects/git-truck.md",
     "projects/flask-monitoring-dashboard.md",
     "directions/software-evolution.md",
