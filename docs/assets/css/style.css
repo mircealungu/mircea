@@ -3,5 +3,3 @@
   
 @import "{{ site.theme }}";
 
-$base-font-size:   18px !default;
-
