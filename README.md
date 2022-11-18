@@ -7,8 +7,8 @@
 ## Research Projects
 
 ## Active
-- [Git-Truck](projects/git-truck) 
-- [Zeeguu](projects/zeeguu)
+- [Git-Truck](projects/git-truck.md) 
+- [Zeeguu](projects/zeeguu.md)
 - MathsCamp
 - In Town
 
