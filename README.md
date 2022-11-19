@@ -8,7 +8,8 @@ Mircea Lungu is associate professor in computer science at the [IT University o
 
 
 # Research Interests
-- [Software Evolution](directions/software-evolution.md) 
+- [Empirical Studies in Software Engineering](directions/empirical-studies.md) 
+- [Tools for Supporting Software Evolution](directions/tools-for-evolution)
 - [Personalized Learning Environments](directions/personalized-learning-environments) 
 - [Fighting Against The Weapons of Mass *Distraction*](directions/against-mass-distraction.md) 
 
@@ -20,7 +21,7 @@ Nowadays, I'm more of a product owner that guides and advises talented groups of
 - [Zeeguu](projects/zeeguu.md) - personalized  reading and vocabulary practice online
 - [MathsCamp](projects/maths-camp.md) - personalized maths for kids
 - [Flask Monitoring Dashboard](projects/flask-monitoring-dashboard.md) - the most lightweight API monitor for Flask systems 
-- [Softwarenaut](projects/softwarenaut.md) - [discontinued] - interactive visualization of software architecture
+- [Softwarenaut](projects/softwarenaut.md) - (discontinued) - interactive exploration of software architecture
 
 
 # Student Projects
