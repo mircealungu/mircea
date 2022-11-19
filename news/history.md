@@ -3,7 +3,7 @@
 ## 2022
 ### Nov
 - Visiting the lab of Gregorio Robles and Jesus Gonzales-Barahonja at U. Rey-Juan Carlos in Madrid
-- Visiting Michalis Vlachos at University of Lausanne to work on ML-based difficulty prediction for foreign language text difficulty
+- Visiting Michalis Vlachos at University of Lausanne to work on ML-based difficulty prediction for foreign language texts
 
 ### Oct
 - Attending Vissoft 2022 where we're presenting two papers about [Git-Truck](/projects/git-truck.md) 

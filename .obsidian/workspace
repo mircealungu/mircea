@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "directions/tools-for-evolution.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "7df4c77b6683a071",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "directions/empirical-studies.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "directions/tools-for-evolution.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "directions/tools-for-evolution.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "directions/tools-for-evolution.md"
+                "file": "README.md"
               }
             }
           }
@@ -142,15 +130,15 @@
   },
   "active": "0aef2f61a5a312de",
   "lastOpenFiles": [
-    "directions/empirical-studies.md",
-    "directions/tools-for-evolution.md",
+    "projects/history.md",
     "README.md",
+    "directions/tools-for-evolution.md",
+    "directions/empirical-studies.md",
     "news/history.md",
     "directions/personalized-learning-environments.md",
     "directions/against-mass-distraction.md",
     "writings/using-a-performance-monitor.md",
     "projects/git-truck.md",
-    "docs/assets/css/style.css.md",
-    "img/mircea-presenting.png.png"
+    "docs/assets/css/style.css.md"
   ]
 }

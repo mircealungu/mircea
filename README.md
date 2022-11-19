@@ -15,13 +15,13 @@ Mircea Lungu is associate professor in computer science at the [IT University o
 
 
 # Research Prototypes 
-Long gone are the days when I was coding myself. (I loved those days, by the way). 
-Nowadays, I'm more of a product owner that guides and advises talented groups of students that create and evaluate innovative prototypes. Some of these projects are: 
+I always loved and I still love coding. However, nowadays I'm more of a product owner that guides and advises talented groups of students that create and evaluate innovative prototypes. Some of these projects are: 
 - [Git-Truck](projects/git-truck.md) - visualizing git repositories for fun and profit
 - [Zeeguu](projects/zeeguu.md) - personalized  reading and vocabulary practice online
 - [MathsCamp](projects/maths-camp.md) - personalized maths for kids
 - [Flask Monitoring Dashboard](projects/flask-monitoring-dashboard.md) - the most lightweight API monitor for Flask systems 
-- [Softwarenaut](projects/softwarenaut.md) - (discontinued) - interactive exploration of software architecture
+
+[more projects](/projects/history.md)
 
 
 # Student Projects
