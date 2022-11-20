@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "8f8531f680846bc0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "projects/git-truck.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "projects/git-truck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "projects/git-truck.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "projects/git-truck.md"
               }
             }
           }
@@ -128,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0aef2f61a5a312de",
+  "active": "8f8531f680846bc0",
   "lastOpenFiles": [
-    "projects/history.md",
     "README.md",
+    "22-Git-Vis-4Edu.md",
+    "projects/git-truck.md",
+    "projects/history.md",
     "directions/tools-for-evolution.md",
     "directions/empirical-studies.md",
     "news/history.md",
     "directions/personalized-learning-environments.md",
     "directions/against-mass-distraction.md",
-    "writings/using-a-performance-monitor.md",
-    "projects/git-truck.md",
-    "docs/assets/css/style.css.md"
+    "writings/using-a-performance-monitor.md"
   ]
 }
