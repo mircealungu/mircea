@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "projects/flask-monitoring-dashboard.md",
+            "file": "projects/zeeguu.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/flask-monitoring-dashboard.md",
+                "file": "projects/zeeguu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/flask-monitoring-dashboard.md",
+                "file": "projects/zeeguu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/flask-monitoring-dashboard.md"
+                "file": "projects/zeeguu.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "440e04f1c83598bd",
   "lastOpenFiles": [
+    "directions/against-mass-distraction.md",
     "projects/zeeguu.md",
+    "projects/git-truck.md",
+    "projects/flask-monitoring-dashboard.md",
     "README.md",
     "docs/assets/papers/18-AsWeMayStudy.pdf",
-    "projects/flask-monitoring-dashboard.md",
-    "projects/git-truck.md",
     "22-Git-Vis-4Edu.md",
     "projects/history.md",
     "directions/tools-for-evolution.md",
-    "directions/empirical-studies.md",
-    "news/history.md"
+    "directions/empirical-studies.md"
   ]
 }
