@@ -10,15 +10,15 @@ Git-Truck is a project that aims to ease the understanding of the evolution of a
 
 ## Papers
 
-1. [Git-Truck: Hierarchy-Oriented Visualization of Git Repository Evolution](/docs/assets/papers/22-Git-Truck.pdf) - a paper in which we show 
+1. **[Git-Truck: Hierarchy-Oriented Visualization of Git Repository Evolution](/docs/assets/papers/22-Git-Truck.pdf)** - a paper in which we show 
 	- how git-truck works
 	- results of an async user evaluation that shows which users benefit the most from such a tool and in which way
 
-2. [Can Git Visualization Support Educators in Assessing Group Projects?](/docs/assets/papers/22-Git-Vis-4Edu.pdf) - a paper which
+2. **[Can Git Visualization Support Educators in Assessing Group Projects?](/docs/assets/papers/22-Git-Vis-4Edu.pdf)** - a paper which
 	- argues that educators are a special kind of user for repository visualization, and lists some of their specific needs
 	- shows with examples the kinds of information educators can gain by using Git-Truck
 
 
 ## Future Work
-- supporting comments
-- 
+- comment analysis to support module understanding
+
