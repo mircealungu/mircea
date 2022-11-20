@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0aef2f61a5a312de",
+        "id": "440e04f1c83598bd",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0aef2f61a5a312de",
+  "active": "440e04f1c83598bd",
   "lastOpenFiles": [
     "README.md",
+    "docs/assets/papers/18-AsWeMayStudy.pdf",
+    "projects/zeeguu.md",
+    "projects/flask-monitoring-dashboard.md",
     "projects/git-truck.md",
     "22-Git-Vis-4Edu.md",
     "projects/history.md",
     "directions/tools-for-evolution.md",
     "directions/empirical-studies.md",
-    "news/history.md",
-    "directions/personalized-learning-environments.md",
-    "directions/against-mass-distraction.md",
-    "writings/using-a-performance-monitor.md"
+    "news/history.md"
   ]
 }
