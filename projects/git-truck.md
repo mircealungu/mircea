@@ -21,4 +21,5 @@ Git-Truck is a project that aims to ease the understanding of the evolution of a
 
 ## Future Work
 - comment analysis to support module understanding
+- add plugins for language-specific analysis - especially dependency analysis
 

@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "8f8531f680846bc0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "projects/git-truck.md",
+            "file": "projects/zeeguu.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/git-truck.md",
+                "file": "projects/zeeguu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/git-truck.md",
+                "file": "projects/zeeguu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/git-truck.md"
+                "file": "projects/zeeguu.md"
               }
             }
           }
@@ -140,11 +128,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8f8531f680846bc0",
+  "active": "0aef2f61a5a312de",
   "lastOpenFiles": [
     "README.md",
-    "22-Git-Vis-4Edu.md",
     "projects/git-truck.md",
+    "22-Git-Vis-4Edu.md",
     "projects/history.md",
     "directions/tools-for-evolution.md",
     "directions/empirical-studies.md",
