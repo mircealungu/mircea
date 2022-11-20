@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "projects/zeeguu.md",
+            "file": "projects/flask-monitoring-dashboard.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/zeeguu.md",
+                "file": "projects/flask-monitoring-dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/zeeguu.md",
+                "file": "projects/flask-monitoring-dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/zeeguu.md"
+                "file": "projects/flask-monitoring-dashboard.md"
               }
             }
           }
@@ -130,9 +130,9 @@
   },
   "active": "440e04f1c83598bd",
   "lastOpenFiles": [
+    "projects/zeeguu.md",
     "README.md",
     "docs/assets/papers/18-AsWeMayStudy.pdf",
-    "projects/zeeguu.md",
     "projects/flask-monitoring-dashboard.md",
     "projects/git-truck.md",
     "22-Git-Vis-4Edu.md",
