@@ -60,3 +60,5 @@ In the past I have been involved in teaching a wide variety of computer science 
 # Contact 
 - Office: 4th Floor, DR Building, Emil-Holms Kanal, 2300 Copenhagen, Denmark
 - Email: mlun -that-sign-  itu  -dot- dk 
+
+[.](/notes/books)

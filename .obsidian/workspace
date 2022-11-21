@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "projects/zeeguu.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/zeeguu.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/zeeguu.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/zeeguu.md"
+                "file": "README.md"
               }
             }
           }
@@ -142,15 +142,15 @@
   },
   "active": "632ac496636811d2",
   "lastOpenFiles": [
+    "notes/books.md",
+    "projects/zeeguu.md",
     "README.md",
     "projects/softwarenaut.md",
     "directions/empirical-studies.md",
     "directions/tools-for-evolution.md",
     "directions/visualization.md",
-    "projects/zeeguu.md",
     "projects/aiki.md",
     "docs/assets/papers/21-Aiki.pdf",
-    "directions/against-mass-distraction.md",
-    "projects/git-truck.md"
+    "directions/against-mass-distraction.md"
   ]
 }
