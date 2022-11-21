@@ -24,7 +24,7 @@ I always loved and I still love coding. However, nowadays I'm more of a product 
 - [Aiki](projects/aiki.md) - a browser extension that uses procrastination for good
 
 
-[past projects](/projects/history.md)
+[> past projects](/projects/history.md)
 
 
 # Student Projects
