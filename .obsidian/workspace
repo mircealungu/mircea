@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books.md"
+                "file": "README.md"
               }
             }
           }
@@ -140,10 +140,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "632ac496636811d2",
+  "active": "174896c16fad059d",
   "lastOpenFiles": [
-    "README.md",
     "notes/books.md",
+    "README.md",
     "projects/zeeguu.md",
     "projects/softwarenaut.md",
     "directions/empirical-studies.md",
