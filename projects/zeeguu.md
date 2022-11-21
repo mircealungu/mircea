@@ -1,4 +1,4 @@
-<h1>Zeeguu <img src="https://www.zeeguu.org/static/images/zeeguuLogo.svg"/></h1>
+<h1><img src="https://www.zeeguu.org/static/images/zeeguuLogo.svg" style="width:40px; margin-right: 0.5em"/>Zeeguu</h1>
 
 Zeeguu is a project that aims to support learners of foreign accelerate the acquisition of their vocabulary by a three-pronged approach:
 - finding relevant articles on the net for them
