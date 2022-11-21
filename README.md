@@ -19,6 +19,7 @@ I always loved and I still love coding. However, nowadays I'm more of a product 
 - [Git-Truck](projects/git-truck.md) - visualizing git repositories for fun and profit
 - [Zeeguu](projects/zeeguu.md) - personalized  reading and vocabulary practice online
 - [MathsCamp](projects/maths-camp.md) - personalized maths for kids
+- [Aiki](/projects/Aiki) - a browser extension that uses procrastination for good
 - [Flask Monitoring Dashboard](projects/flask-monitoring-dashboard.md) - the most lightweight API monitor for Flask systems 
 
 [more projects](/projects/history.md)

@@ -1,6 +1,6 @@
 # Zeeguu
 
-Zeeguu is a project that aims to support learners of foreign language practice their vocabulary by finding relevant articles on the net for them.
+Zeeguu is a project that aims to support learners of foreign language practice their vocabulary by finding relevant articles on the net for them. Architecture of Zeeguu includes both a browser extension and a web application that communicate with each other. 
 
 - Source code: [github.com/zeeguu](https://github.com/zeeguu)
 - Online: [zeeguu.org](https://zeeguu.org)
