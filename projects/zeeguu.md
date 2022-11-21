@@ -1,9 +1,9 @@
 <h1><img src="/docs/assets/icons/zeeguu.svg" style="width:40px; margin-right: 0.5em"/>Zeeguu</h1>
 
 Zeeguu is a project that aims to support learners of foreign languages accelerate the acquisition of their vocabulary by a three-pronged approach:
-- finding relevant articles on the net for them
-- supporting their reading with translation and pronunciation support
-- strengthening retention with the use of automatically and personally generated vocabulary exercises
+1. finding relevant articles on the net for them
+1. supporting their reading with translation and pronunciation support
+1. strengthening retention with the use of automatically and personally generated vocabulary exercises
 
 The architecture of Zeeguu includes both a browser extension and a web application that communicate with each other. 
 
