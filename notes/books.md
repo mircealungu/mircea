@@ -8,7 +8,7 @@
 
 
 
-**# The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure** 
+**The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure** 
 - J. Haidt G. Lukianoff
 - Very well written 
 - I liked the fact that they start with the goal of understanding the new generation rather than from the premise of judging 
