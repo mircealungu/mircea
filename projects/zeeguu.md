@@ -13,11 +13,14 @@ Zeeguu is a project that aims to support learners of foreign language practice t
 	- we report on a study of using it in a highschool French class in the Netherlands
 	- students love and take advantage of the chance of reading on the topics that they like
 
+2. [Bootstrapping an ubiquitous monitoring ecosystem for accelerating vocabulary acquisition](/docs/assets/papers/16-Bootstrapping.pdf) 
+	- a paper that presents a generic ecosystem architecture of which Zeeguu is an instantiation 
 
 
 ## Future Work
 - better and more meaningful progress feedback 
 - more diverse exercises: e.g. reorder parts of sentence into whole with drag and drop
 - add a social component: allow the learners in a class see each other's activity; allow seeing social feedback on existing articles
+- create mobile applications for the various platforms; probably with a cross-platform tech, e.g. Flutter
 
 
