@@ -8,13 +8,12 @@ Zeeguu is a project that aims to support learners of foreign language practice t
 
 
 ## Papers
-1. [**As We May Study: Towards the Web as a Personalized Language Textbook**](/docs/assets/papers/18-AsWeMayStudy.pdf)
+[**As We May Study: Towards the Web as a Personalized Language Textbook**](/docs/assets/papers/18-AsWeMayStudy.pdf)
 	- in this paper we introduce the project
 	- we report on a study of using it in a highschool French class in the Netherlands
 	- students love and take advantage of the chance of reading on the topics that they like
-<br/>
 
-2. [**Bootstrapping an ubiquitous monitoring ecosystem for accelerating vocabulary acquisition**](/docs/assets/papers/16-Bootstrapping.pdf) 
+[**Bootstrapping an ubiquitous monitoring ecosystem for accelerating vocabulary acquisition**](/docs/assets/papers/16-Bootstrapping.pdf) 
 	- a paper that presents a generic ecosystem architecture of which Zeeguu is an instantiation 
 
 
