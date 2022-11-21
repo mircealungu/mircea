@@ -6,7 +6,7 @@ Bitcoin and the blockchain-based algorithm that it is built on is a fascinatingl
 
 Let me explain.
 
-Because we wanted to have the possibility of transfering money without trusting any individual or institution we invented the protocol, which in order to ensure 5 transactions per second wastes more than the energy of Ireland. 
+Because we wanted to have the possibility of transfering money without trusting any individual or institution we invented the protocol, which in order to ensure 5 transactions per second wastes more than the energy of Ireland. This would not be sufficient for the peak hour on market day in my grandma's village. Let alone as a global payment system. But it's not the lack of scalability that matters for my current argument, but rather the very large amount of energy that it requires. 
 
 The alternative would have been to trust an individual, or an organization and then, they could ensure with the help of a Raspbery Pi hundreds of times more transactions per second. 
 
