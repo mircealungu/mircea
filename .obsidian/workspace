@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/softwarenaut.md",
+                "file": "directions/tools-for-evolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/softwarenaut.md",
+                "file": "directions/tools-for-evolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/softwarenaut.md"
+                "file": "directions/tools-for-evolution.md"
               }
             }
           }
@@ -164,8 +164,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "89dc86638771bd7a",
+  "active": "eab7a0112da927a0",
   "lastOpenFiles": [
+    "projects/softwarenaut.md",
     "directions/tools-for-evolution.md",
     "README.md",
     "directions/empirical-studies.md",
@@ -174,7 +175,6 @@
     "projects/aiki.md",
     "docs/assets/papers/21-Aiki.pdf",
     "directions/against-mass-distraction.md",
-    "projects/git-truck.md",
-    "projects/flask-monitoring-dashboard.md"
+    "projects/git-truck.md"
   ]
 }
