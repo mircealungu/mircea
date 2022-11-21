@@ -21,7 +21,7 @@ I always loved and I still love coding. However, nowadays I'm more of a product 
 - [Flask Monitoring Dashboard](projects/flask-monitoring-dashboard.md) - a lightweight API monitor for Flask/Python systems 
 - [Zeeguu](projects/zeeguu.md) - personalized  reading and vocabulary practice online
 - [MathsCamp](projects/maths-camp.md) - personalized maths for kids
-- [Aiki](/projects/Aiki) - a browser extension that uses procrastination for good
+- [aiki](projects/aiki.md) - a browser extension that uses procrastination for good
 
 
 [more projects](/projects/history.md)

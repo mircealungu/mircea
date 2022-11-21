@@ -6,4 +6,7 @@ The best way to predict the future is to invent it. (Peter Drucker)
 
 In order to predict the future of software evolution tools we aim to invent and evaluate new tool prototypes that improve developer work. 
 
-***This page is still a stub*** 
+Some of the software evolution prototypes that we've built over the years are: 
+
+- [Softwarenaut](/projects/softwarenaut.md) - visualizing high-level dependencies between modules of  a system 
+- [Git-Truck](/projects/git-truck.md) - visualizing repository evolution
