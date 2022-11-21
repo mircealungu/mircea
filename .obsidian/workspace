@@ -33,7 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bitcoin-a-reminder.md",
+            "file": "essays/bitcoin-a-reminder.md",
             "mode": "source",
             "source": false
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "essays/all.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "essays/all.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "essays/all.md"
               }
             }
           }
@@ -152,12 +152,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "174896c16fad059d",
+  "active": "32a436f635f793c3",
   "lastOpenFiles": [
-    "bitcoin-a-reminder.md",
+    "README.md",
+    "essays/bitcoin-a-reminder.md",
     "essays/all.md",
     "notes/books.md",
-    "README.md",
     "projects/zeeguu.md",
     "projects/softwarenaut.md",
     "directions/empirical-studies.md",
