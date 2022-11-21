@@ -17,10 +17,11 @@ Mircea Lungu is associate professor in computer science at the [IT University o
 # Research Prototypes 
 I always loved and I still love coding. However, nowadays I'm more of a product owner that guides and advises talented groups of students that create and evaluate innovative prototypes. Some of these projects are: 
 - [Git-Truck](projects/git-truck.md) - visualizing git repositories for fun and profit
+- [Flask Monitoring Dashboard](projects/flask-monitoring-dashboard.md) - a lightweight API monitor for Flask/Python systems 
 - [Zeeguu](projects/zeeguu.md) - personalized  reading and vocabulary practice online
 - [MathsCamp](projects/maths-camp.md) - personalized maths for kids
 - [Aiki](/projects/Aiki) - a browser extension that uses procrastination for good
-- [Flask Monitoring Dashboard](projects/flask-monitoring-dashboard.md) - the most lightweight API monitor for Flask systems 
+
 
 [more projects](/projects/history.md)
 

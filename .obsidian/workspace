@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "projects/Aiki.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Aiki.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/Aiki.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/Aiki.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "174896c16fad059d",
   "lastOpenFiles": [
-    "docs/assets/papers/21-Aiki.pdf",
     "projects/Aiki.md",
+    "docs/assets/papers/21-Aiki.pdf",
     "directions/against-mass-distraction.md",
     "README.md",
     "projects/zeeguu.md",
