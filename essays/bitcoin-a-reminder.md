@@ -1,6 +1,6 @@
 # Bitcoin - a Reminder of the Importance of Trust
 
-And it is also a fascinatingly smart consensus algorithm. But is also a fantastic reminder of the importance of trust. 
+Bitcoin and the blockchain-based algorithm that it is built on is a fascinatingly smart consensus algorithm. A beautiful piece of engineering. But it is also a fantastic reminder of the importance of trust. 
 
 Let me explain.
 

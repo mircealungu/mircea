@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "essays/bitcoin-a-reminder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "essays/bitcoin-a-reminder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "essays/bitcoin-a-reminder.md"
               }
             }
           }
@@ -140,10 +140,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "174896c16fad059d",
+  "active": "58c6b3f88e2e8059",
   "lastOpenFiles": [
-    "essays/all.md",
     "README.md",
+    "essays/all.md",
     "essays/bitcoin-a-reminder.md",
     "notes/books.md",
     "projects/zeeguu.md",
