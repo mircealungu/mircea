@@ -21,6 +21,7 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 [**Bootstrapping an ubiquitous monitoring ecosystem for accelerating vocabulary acquisition**](/docs/assets/papers/16-Bootstrapping.pdf) 
 	- a paper that presents a generic ecosystem architecture of which Zeeguu is an instantiation 
 
+**Analyzing user interactions to estimate reading time in web-based L2 reader applications** - paper with Nora Hollenstein - we describe how one can estimate reading time on the web when they study free reading in the wild
 
 ## Future Work
 - better and more meaningful progress feedback 
