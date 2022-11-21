@@ -21,7 +21,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/books.md",
+            "file": "essays/all.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "58c6b3f88e2e8059",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "bitcoin-a-reminder.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books.md",
+                "file": "bitcoin-a-reminder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books.md",
+                "file": "bitcoin-a-reminder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books.md"
+                "file": "bitcoin-a-reminder.md"
               }
             }
           }
@@ -140,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "632ac496636811d2",
+  "active": "58c6b3f88e2e8059",
   "lastOpenFiles": [
-    "README.md",
+    "essays/all.md",
     "notes/books.md",
+    "README.md",
     "projects/zeeguu.md",
     "projects/softwarenaut.md",
     "directions/empirical-studies.md",
     "directions/tools-for-evolution.md",
     "directions/visualization.md",
     "projects/aiki.md",
-    "docs/assets/papers/21-Aiki.pdf",
-    "directions/against-mass-distraction.md"
+    "docs/assets/papers/21-Aiki.pdf"
   ]
 }
