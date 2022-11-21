@@ -10,6 +10,8 @@ Because we wanted to have the possibility of transfering money without trusting 
 
 The alternative would have been to trust an individual, or an organization and then, they could ensure with the help of a Raspbery Pi hundreds of times more transactions per second. 
 
-Isn't it beautiful? Bitcoin is an extremely expensive way of showing how important trust is. 
+Isn't it beautiful? Bitcoin is an extremely expensive way of showing how valuable trust is. 
 
 In fact, now that I live in Denmark, I remember a conversation I had once with somebody on a plane who was arguing that "the danes know that their country does not have natural resources, but what they consider that it's the most imporatnt resource they have is: trust". 
+
+

@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "174896c16fad059d",
+        "id": "3ab38311fd9edbe2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "58c6b3f88e2e8059",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "essays/bitcoin-a-reminder.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "1e62a535c911258f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "essays/all.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -101,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "essays/all.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "essays/all.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "essays/all.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -152,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1e62a535c911258f",
+  "active": "3ab38311fd9edbe2",
   "lastOpenFiles": [
+    "projects/history.md",
+    "README.md",
+    "projects/softwarenaut.md",
     "essays/bitcoin-a-reminder.md",
     "essays/all.md",
     "all.md",
-    "README.md",
     "notes/books.md",
     "projects/zeeguu.md",
-    "projects/softwarenaut.md",
     "directions/empirical-studies.md",
-    "directions/tools-for-evolution.md",
-    "directions/visualization.md"
+    "directions/tools-for-evolution.md"
   ]
 }
