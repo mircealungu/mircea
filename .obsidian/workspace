@@ -9,43 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "eab7a0112da927a0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "directions/tools-for-evolution.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "89dc86638771bd7a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
             "file": "projects/softwarenaut.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "36b4d73c163b3aa9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "directions/empirical-studies.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "directions/tools-for-evolution.md",
+                "file": "projects/softwarenaut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "directions/tools-for-evolution.md",
+                "file": "projects/softwarenaut.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "directions/tools-for-evolution.md"
+                "file": "projects/softwarenaut.md"
               }
             }
           }
@@ -164,12 +128,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eab7a0112da927a0",
+  "active": "174896c16fad059d",
   "lastOpenFiles": [
-    "projects/softwarenaut.md",
-    "directions/tools-for-evolution.md",
     "README.md",
     "directions/empirical-studies.md",
+    "projects/softwarenaut.md",
+    "directions/tools-for-evolution.md",
     "directions/visualization.md",
     "projects/zeeguu.md",
     "projects/aiki.md",
