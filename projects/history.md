@@ -10,6 +10,7 @@ Or read a story about how it worked.
 The projects on this page are projects that I've been involved with but are discontinued and neither I nor anybody else is maintaining them. 
 
 - [Softwarenaut](/projects/softwarenaut.md) - interactive visual exploration of software architecture
-- SPO - Small Project Observatory - interactive visual exploration of software ecosystems 
+- **SPO** - Small Project Observatory - interactive visual exploration of software ecosystems 
+- **Polite Smalltalk** - an experiment with a Smalltalk that wanted to be even closer to natural language than the original Smalltalk
 
 
