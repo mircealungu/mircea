@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitcoin-a-reminder.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitcoin-a-reminder.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitcoin-a-reminder.md"
+                "file": "README.md"
               }
             }
           }
@@ -152,8 +152,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "58c6b3f88e2e8059",
+  "active": "174896c16fad059d",
   "lastOpenFiles": [
+    "bitcoin-a-reminder.md",
     "essays/all.md",
     "notes/books.md",
     "README.md",
@@ -162,7 +163,6 @@
     "directions/empirical-studies.md",
     "directions/tools-for-evolution.md",
     "directions/visualization.md",
-    "projects/aiki.md",
-    "docs/assets/papers/21-Aiki.pdf"
+    "projects/aiki.md"
   ]
 }
