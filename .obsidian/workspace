@@ -7,8 +7,12 @@
         "id": "3ab38311fd9edbe2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "projects/history.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "projects/history.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "projects/history.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "projects/history.md"
+              }
             }
           }
         ]
@@ -122,8 +130,8 @@
   },
   "active": "3ab38311fd9edbe2",
   "lastOpenFiles": [
-    "projects/history.md",
     "README.md",
+    "projects/history.md",
     "projects/softwarenaut.md",
     "essays/bitcoin-a-reminder.md",
     "essays/all.md",

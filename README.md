@@ -24,7 +24,7 @@ I always loved and I still love coding. However, nowadays I'm more of a product 
 - [Aiki](projects/aiki.md) - a browser extension that uses procrastination for good
 
 
-[more projects](/projects/history.md)
+[past projects](/projects/history.md)
 
 
 # Student Projects
@@ -61,4 +61,4 @@ In the past I have been involved in teaching a wide variety of computer science 
 - Office: 4th Floor, DR Building, Emil-Holms Kanal, 2300 Copenhagen, Denmark
 - Email: mlun -that-sign-  itu  -dot- dk 
 
-[.](notes/books) [.](./essays/all) 
+[.](notes/books) [.](./essays/bitcoin-a-) 
