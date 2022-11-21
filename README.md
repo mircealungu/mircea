@@ -54,7 +54,7 @@ In the past I have been involved in teaching a wide variety of computer science 
 - GitHub: [mircealungu](https://github.com/mircealungu) 
 - Twitter: [@mircealungu](https://twitter.com/mircealungu) 
 - Research: [Google Scholar](https://scholar.google.nl/citations?user=7zx6Cg0AAAAJ&hl=en) [Research Gate](https://www.researchgate.net/profile/Mircea-Lungu-2) 
-- Other:  [University Page](https://pure.itu.dk/portal/en/persons/mircea-lungu) [LinkedIn](https://www.linkedin.com/in/mircealungu/)
+- Other:  [IT University Page](https://pure.itu.dk/portal/en/persons/mircea-lungu) 
 
 # Contact 
 - Office: 4th Floor, DR Building, Emil-Holms Kanal, 2300 Copenhagen, Denmark
