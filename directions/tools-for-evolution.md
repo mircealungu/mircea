@@ -2,7 +2,8 @@
 
 A software system either evolves or becomes progressively irellevant (M. Lehman)
 
-In order to invent the future of tools and techniques that will help support software evolution I am interested in two directions:
-- empirically studying existing developer practices
-- based on the empirical understanding of developer behavior, invent and evaluate new tool prototypes that improve developer lives
+The best way to predict the future is to invent it. (Peter Drucker)
 
+In order to predict the future of software evolution tools we aim to invent and evaluate new tool prototypes that improve developer work. 
+
+***This page is still a stub*** 
