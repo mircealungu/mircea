@@ -2,7 +2,9 @@
 
 **Aiki-do** is a martial art that is based on the precept of using an enemy's force against them. 
 
-This project considers the social media websites as **the enemy that aims to waste our time**. (Or as Bo Burnham observed, the companies behind social media aim to [colonize](https://twitter.com/JoshuaPHilll/status/1587857229054705666) every minute of our lives). Instead, the project proposes that we use our tendency to go to these time-wasting web sites as reminders for doing something useful, e.g. learning. In this way, we are using our enemy's force against them. 
+"Social media companies aim to [colonize](https://twitter.com/JoshuaPHilll/status/1587857229054705666) every minute of our lives". (Bo Burnham )
+
+This project considers the social media websites as **the enemy that aims to waste our time**. Instead, the project proposes that we use our tendency to go to these time-wasting web sites as reminders for doing something useful, e.g. learning. In this way, we are using our enemy's force against them. 
 
 A Chrome extension that helps one save time by redirecting them to a useful site when they try to go to a time-wasting site. Useful and time-wasting are user defined. 
 
