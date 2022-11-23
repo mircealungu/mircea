@@ -25,8 +25,11 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 
 ## Future Work
 - better and more meaningful progress feedback 
+- better and more precise time-measurement on the platform (include exercises, include reviewing words, etc.)
 - more diverse exercises: e.g. reorder parts of sentence into whole with drag and drop
 - add a social component: allow the learners in a class see each other's activity; allow seeing social feedback on existing articles
 - create mobile applications for the various platforms; probably with a cross-platform tech, e.g. Flutter
-
-
+- research questions that should be answereed
+	- how important is the difficulty estimator given that Zeeguu supports the reader also with translations - so they can read texts that are harder than their level; how much harder than their level can they read now? 
+	- how to evaluate the efficiency of the exercise scheduling algorithm?
+	- 
