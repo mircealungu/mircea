@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "essays/all.md",
+            "file": "essays/no-ai-inside.md",
             "mode": "source",
             "source": false
           }
@@ -144,13 +144,13 @@
   "lastOpenFiles": [
     "essays/no-ai-inside.md",
     "essays/all.md",
+    "README.md",
+    "projects/aiki.md",
     "().md",
     "essays/bitcoin-a-reminder.md",
     "essays/soon-comes-the-time.md",
     "projects/zeeguu.md",
     "directions/personalized-learning-environments.md",
-    "README.md",
-    "projects/history.md",
-    "projects/softwarenaut.md"
+    "projects/history.md"
   ]
 }
