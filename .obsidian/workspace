@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "essays/no-ai-inside.md",
+            "file": "projects/aiki.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "essays/no-ai-inside.md",
+                "file": "projects/aiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "essays/no-ai-inside.md",
+                "file": "projects/aiki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essays/no-ai-inside.md"
+                "file": "projects/aiki.md"
               }
             }
           }
@@ -130,14 +130,14 @@
   },
   "active": "3ab38311fd9edbe2",
   "lastOpenFiles": [
-    "projects/aiki.md",
+    "projects/zeeguu.md",
     "essays/no-ai-inside.md",
+    "projects/aiki.md",
     "essays/all.md",
     "README.md",
     "().md",
     "essays/bitcoin-a-reminder.md",
     "essays/soon-comes-the-time.md",
-    "projects/zeeguu.md",
     "directions/personalized-learning-environments.md",
     "projects/history.md"
   ]

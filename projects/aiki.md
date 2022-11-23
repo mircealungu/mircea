@@ -1,10 +1,18 @@
-# Aiki
+<h1><img src="/docs/assets/icons/aiki-logo.png" style="width:40px; margin-right: 0.5em"/>Aiki</h1>
 
 "Social media companies aim to [colonize](https://twitter.com/JoshuaPHilll/status/1587857229054705666) every minute of our lives". (Bo Burnham )
 
 **Aiki-do** is a martial art that is based on the precept of using an enemy's force against them. 
 
 This project considers the social media websites as **the enemy that aims to waste our time**. In the *aiki*-way, the project proposes that we can make use of our tendency to go to these time-wasting web sites. Indeed, what if we intercept our attempts to go to such a website and use it as reminder for doing something useful, e.g. learning. In this way, we are using our enemy's force against them. 
+
+## Papers
+
+[**Aiki: Turning Procrastination into Microlearning**](/docs/assets/papers/21-Aiki.pdf) 
+	- A study with Nanna Inie 
+	- Shows that people who want to learn Danish can use redirection from time-wasting-websites as a strategy and cue to remember that they should learn
+	- Our participants learned quite a bit of Danish and some of them actually found the learning a better use of their time than the 'mindless' scrolling on Facebook
+
 
 ## Prototpye 
 A Chrome extension that helps one save time by redirecting them to a useful site when they try to go to a time-wasting site. Useful and time-wasting are user defined. 
@@ -15,12 +23,7 @@ A Chrome extension that helps one save time by redirecting them to a useful site
 - Collaborators: Nanna Innie
 
 
-## Papers
 
-[**Aiki: Turning Procrastination into Microlearning**](/docs/assets/papers/21-Aiki.pdf) 
-	- A study with Nanna Inie 
-	- Shows that people who want to learn Danish can use redirection from time-wasting-websites as a strategy and cue to remember that they should learn
-	- Our participants learned quite a bit of Danish and some of them actually found the learning a better use of their time than the 'mindless' scrolling on Facebook
 
 
 ## Future Work
