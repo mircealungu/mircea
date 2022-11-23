@@ -2,9 +2,9 @@
 
 "Social media companies aim to [colonize](https://twitter.com/JoshuaPHilll/status/1587857229054705666) every minute of our lives". (Bo Burnham )
 
-**Aiki-do** is a martial art that is based on the precept of using an enemy's force against them. 
+**Aiki-do** is a martial art that is based on the precept of using an enemy's force against themselves. 
 
-This project considers the social media websites as **the enemy that aims to waste our time**. In the *aiki*-way, the project proposes that we can make use of our tendency to go to these time-wasting web sites. Indeed, what if we intercept our attempts to go to such a website and use it as reminder for doing something useful, e.g. learning. In this way, we are using our enemy's force against them. 
+This project considers the social media websites as **the enemy that aims to waste our time**. In the *aiki*-way, the project proposes that we can make use of our tendency to go to these time-wasting web sites. Indeed, if we intercept our attempts to go to such a website and use it as reminder for doing something useful, e.g. learning we can using th enemy's force against themselves. 
 
 ## Papers
 
