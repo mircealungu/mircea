@@ -1,5 +1,5 @@
-<h1><img src="/docs/assets/icons/aiki-logo.png" style="width:40px; margin-right: 0.5em"/>Aiki</h1>
 
+# Aiki
 "Social media companies aim to [colonize](https://twitter.com/JoshuaPHilll/status/1587857229054705666) every minute of our lives". (Bo Burnham )
 
 **Aiki-do** is a martial art that is based on the precept of using an enemy's force against themselves. 
@@ -14,7 +14,7 @@ This project considers the social media websites as **the enemy that aims to was
 	- Our participants learned quite a bit of Danish and some of them actually found the learning a better use of their time than the 'mindless' scrolling on Facebook
 
 
-## Prototpye 
+<h2><img src="/docs/assets/icons/aiki-logo.png" style="width:40px; margin-right: 0.5em"/>Prototype</h2>
 A Chrome extension that helps one save time by redirecting them to a useful site when they try to go to a time-wasting site. Useful and time-wasting are user defined. 
 
 - Source Code: [github.com/aiki-extension](https://github.com/Aiki-Extension/Aiki)
