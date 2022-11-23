@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "1a1e8e3876d23371",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "projects/aiki.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/aiki.md",
+                "file": "essays/no-ai-inside.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/aiki.md",
+                "file": "essays/no-ai-inside.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/aiki.md"
+                "file": "essays/no-ai-inside.md"
               }
             }
           }
@@ -140,12 +128,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a1e8e3876d23371",
+  "active": "3ab38311fd9edbe2",
   "lastOpenFiles": [
+    "projects/aiki.md",
     "essays/no-ai-inside.md",
     "essays/all.md",
     "README.md",
-    "projects/aiki.md",
     "().md",
     "essays/bitcoin-a-reminder.md",
     "essays/soon-comes-the-time.md",
