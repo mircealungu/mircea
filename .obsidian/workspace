@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "projects/aiki.md",
+            "file": "directions/personalized-learning-environments.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/aiki.md",
+                "file": "directions/personalized-learning-environments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/aiki.md",
+                "file": "directions/personalized-learning-environments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/aiki.md"
+                "file": "directions/personalized-learning-environments.md"
               }
             }
           }
@@ -130,9 +130,9 @@
   },
   "active": "3ab38311fd9edbe2",
   "lastOpenFiles": [
+    "projects/aiki.md",
     "projects/zeeguu.md",
     "essays/no-ai-inside.md",
-    "projects/aiki.md",
     "essays/all.md",
     "README.md",
     "().md",
