@@ -23,6 +23,15 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 
 **Analyzing user interactions to estimate reading time in web-based L2 reader applications** - paper with Nora Hollenstein - we describe how one can estimate reading time on the web when they study free reading in the wild
 
+
+## Reports & Theses
+
+[**Audio in Digital Learning Environments**](/docs/assets/reports/22-jkak-gupe-thesis.pdf)
+- thesis by Jonas & Gustav that investigates the impact of adding audio-focused personalized exercises 
+- a controlled experiment with 22 participants showed that users find zeeguu with audio-focused exercises more **fun** and **increases the likelyhood that they'll use it in the future**
+
+
+
 ## Future Work
 - better and more meaningful progress feedback 
 - better and more precise time-measurement on the platform (include exercises, include reviewing words, etc.)
