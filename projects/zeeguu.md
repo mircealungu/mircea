@@ -16,7 +16,7 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 [**As We May Study: Towards the Web as a Personalized Language Textbook**](/docs/assets/papers/18-AsWeMayStudy.pdf)
 	- in this paper we introduce the project
 	- we report on a study of using it in a highschool French class in the Netherlands
-	- students love and take advantage of the chance of reading on the topics that they like
+	- students are **positive about it** and **take advantage of the opportunity of reading on the topics that they like**
 
 [**Bootstrapping an ubiquitous monitoring ecosystem for accelerating vocabulary acquisition**](/docs/assets/papers/16-Bootstrapping.pdf) 
 	- a paper that presents a generic ecosystem architecture of which Zeeguu is an instantiation 
@@ -28,7 +28,7 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 
 [**Audio in Digital Learning Environments**](../docs/assets/reports/22-thesis-audio-exercises.pdf) - a controlled experiment with 22 participants shows that users find zeeguu with audio-focused exercises more **fun** and **increases the likelyhood that they'll use it in the future**
 
-[**Supporting Foreign Language Learning With a Browser Extension**](../docs/assets/reports/22-thesis-browser-extension.pdf) - thesis introduces an architecture for a browser extension for Zeeguu - half of 32 participants prefer the browser extension to clean up an article page before adding interactive translation and pronunciation for reading - the thesis also report challenges with maintaining such a browser extension
+[**Supporting Foreign Language Learning With a Browser Extension**](../docs/assets/reports/22-thesis-browser-extension.pdf) - thesis introducing an architecture for a browser extension for Zeeguu - half of 32 participants **prefer the browser extension which cleans up an article page to the original page**; the extension also adds interactive translation and pronunciation for reading  - the thesis also discusses **challenges with maintaining such a browser extension**
 
 ## Future Work
 - better and more meaningful progress feedback 
