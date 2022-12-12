@@ -26,11 +26,9 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 
 ## Reports & Theses
 
-[**Audio in Digital Learning Environments**](/docs/assets/reports/22-jkak-gupe-thesis.pdf)
-- thesis by Jonas & Gustav that investigates the impact of adding audio-focused personalized exercises 
-- a controlled experiment with 22 participants showed that users find zeeguu with audio-focused exercises more **fun** and **increases the likelyhood that they'll use it in the future**
+[**Audio in Digital Learning Environments**](../docs/assets/reports/22-thesis-audio-exercises.pdf) - a controlled experiment with 22 participants shows that users find zeeguu with audio-focused exercises more **fun** and **increases the likelyhood that they'll use it in the future**
 
-
+[**Supporting Foreign Language Learning With a Browser Extension**](../docs/assets/reports/22-thesis-audio-exercises.pdf) - a study with more than 32 participants shows that a browser extension that cleans up an article page and proivdes interactive translation and pronunciation is very welcome and appreciated - the thesis also lists several of the challenges of such an architecture
 
 ## Future Work
 - better and more meaningful progress feedback 
