@@ -1,7 +1,7 @@
 <h1><img src="/docs/assets/icons/zeeguu.svg" style="width:40px; margin-right: 0.5em"/>Zeeguu</h1>
 
 Zeeguu is a project that aims to support learners of foreign languages accelerate the acquisition of their vocabulary by a three-pronged approach:
-1. Finding relevant articles on the net for them
+1. Automatically finding relevant materials on the Internet for them
 1. Supporting their reading with translation and pronunciation 
 1. Strengthening retention with the use of automatically and personally generated vocabulary exercises
 
@@ -10,6 +10,18 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 - Source code: [github.com/zeeguu](https://github.com/zeeguu)
 - Online: [zeeguu.org](https://zeeguu.org)
 - Contributors: many students over the years
+
+
+## Presentations 
+
+2022: [**Can we make learning foreign languages more personalized?**]()
+- Invited talk at University of Lausanne about Zeeguu 
+
+2021: [**Lessons Learned Developing a Personalized Language Learning System**]()
+- Keynote at EASEAI: International Workshop on Education, Software Engineering, and AI 
+
+
+
 
 
 ## Papers
@@ -32,6 +44,7 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 
 ## Future Work
 - better and more meaningful progress feedback 
+- alternative UI inspired from "swiping apps" - show one article at a time; allow the user to mark it as not interesting; save for later; read more... what is the impact of this on engagement
 - better and more precise time-measurement on the platform (include exercises, include reviewing words, etc.)
 - more diverse exercises: e.g. reorder parts of sentence into whole with drag and drop
 - add a social component: allow the learners in a class see each other's activity; allow seeing social feedback on existing articles
