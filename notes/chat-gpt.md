@@ -23,7 +23,9 @@ To think about
 - Will this result in an even more frantic pace of innovation and adoption of new libraries? As soon as sufficient examples are available, everybody can quickly start porting their systems to the library *du jour*... 
 
 
+## Will ChatGPT render knowing how to write irellevant?
 
+Will it render knowing how to think irellevant?
 
 
 ## A Valid Use Case: The Ultimate Auto-Correct
