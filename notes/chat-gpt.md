@@ -2,9 +2,10 @@ Generative ML are all the hype at the moment. Tools like ChatGPT and Copilot get
 
 ## Generative ML Models vs. Electronic Calculators
 (Jan 18, '23)
-I head people compare ChatGPT with electronic calculators. They observe that once electronic calculators  were here, we started teaching students higher-level skills. 
 
-I'm not sure we're in the same predicament. These tools can only be a parasite, or to put it nicer, a "sidecar" in the presence of the main "engine": large amounts of code written by real developers that these tools are trained on. If developers stop writing new code, these tools won't be able to work. So the skill of writing code will never go away. 
+I head people compare ChatGPT with electronic calculators. They observe that once electronic calculators  were here, we stopped needing to teach and evaluate students capacity to do arithmetic computations. Maths educators started teaching other high-level skills. They wonder whether it's going to be the same with ChatGPT and Co-Pilot. 
+
+I'm not sure we're in the same predicament. These tools can only be a parasite, or to put it nicer, a "sidecar" in the presence of the main "engine": large amounts of code written by real developers that these tools are trained on. If developers stop writing new code, these tools don't have what to interpolate. So the skill of writing code will never go away. 
 
 What might end up happening is that for every new technology, and every new language, a cohort of pioneers will go in and carve the path. After they have written sufficiently many programs that use that new language or API the large language model will start providing decent recommendations for "the masses". 
 
