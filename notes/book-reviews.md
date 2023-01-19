@@ -1,3 +1,5 @@
+I've decided that I must write short notes about the books I read. I'll try to keep them here.
+
 # Books 
 
 ## 2023
