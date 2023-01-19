@@ -8,7 +8,7 @@ Mircea Lungu is associate professor in computer science at the [IT University o
 
 
 # Notes
-[chat-gpt](notes/chat-gpt.md) [book-reviews](notes/book-reviews.md)
+[ChatGPT and CoPilot](notes/ChatGPT%20and%20CoPilot.md) [book-reviews](notes/book-reviews.md)
 
 # Research Interests
 - [Software Visualization](directions/visualization.md)
