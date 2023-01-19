@@ -8,7 +8,7 @@ Mircea Lungu is associate professor in computer science at the [IT University o
 
 
 # Notes
-[ChatGPT-and-CoPilot](notes/ChatGPT-and-CoPilot.md) | [Book-Reviews](notes/Book-Reviews.md) | [Who-is-Afraid-of-AGI](notes/Who-is-Afraid-of-AGI.md)
+[ChatGPT-and-CoPilot](notes/ChatGPT-and-CoPilot.md) | [My-Book-Reviews](notes/My-Book-Reviews.md) | [Who-is-Afraid-of-AGI](notes/Who-is-Afraid-of-AGI.md)
 
 # Research Interests
 - [Software Visualization](directions/visualization.md)
@@ -64,4 +64,4 @@ In the past I have been involved in teaching a wide variety of computer science 
 - Office: 4th Floor, DR Building, Emil-Holms Kanal, 2300 Copenhagen, Denmark
 - Email: mlun -that-sign-  itu  -dot- dk 
 
-[.](notes/Book-Reviews.md) [.](./essays/bitcoin-a-) 
+[.](notes/My-Book-Reviews.md) [.](./essays/bitcoin-a-) 

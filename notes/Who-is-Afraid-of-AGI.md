@@ -5,4 +5,4 @@ The Sillycon Valley technobros are afraid that once we invent AGI there is only 
 
 In this essay I will try to explain why those who are afraid of AGI are literally afraid of mathematics. And you're usually not very smart when you're afraid of mathematics. 
 
-// to be written
+// to be continued
