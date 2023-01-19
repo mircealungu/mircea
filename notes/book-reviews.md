@@ -5,9 +5,9 @@
 ### January
 
 **The Dark Forest** (Audio) 
-- the book is in a sense better than the previous one; really galaxy-scale and long time-scales science fiction, that still succeeds in following a "reluctant" protagonist (Luo Ji)
-- for me it felt like it had a huge suspense arc; for the reader who knows what the dark forest theory stands for the solution of Luo Ji is "obvious" - although now I start to wonder whether in a dark forrest, one ever starts an expedition like the one of the trisolarians...
-- the alien attack felt awe-inspiring - one of the most memorable descriptions of a first encounter with a superior technology that I remember
+- the book is in a sense better than the previous one; galaxy-scale and centuries-scale science fiction, that still succeeds in following a "reluctant" protagonist (Luo Ji)
+- the book has a huge suspense arc if one knows the dark forest theory.  indeed, the solution of Luo Ji is in some sense quite obvious, and once it is set in motion, one can only be eager to see whether it works. (although now I start to wonder whether in a dark forrest, one ever starts an expedition like the one of the trisolarians...)
+- the alien attack is awe-inspiring - one of the most memorable descriptions of a first encounter with a superior technology that I remember reading
 - towards the end there was a certain feeling of deus-ex-machina
 
 
