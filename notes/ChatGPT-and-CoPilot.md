@@ -22,8 +22,7 @@ What might end up happening is that for every new technology, and every new lang
 
 In any case, because of the need for a large number of examples that these systems need before they can become useful, the generative ML models will never do to programing what calculators did to arithmetic: render it unnecessary. 
 
-To think about
-- Will this result in an even more frantic pace of innovation and adoption of new libraries? As soon as sufficient examples are available, everybody can quickly start porting their systems to the library *du jour*... 
+
 
 
 ### Will Our Students Not Need to Know How to Write Anymore? 
@@ -49,6 +48,7 @@ However, a serious responsibility of the writer using the workflow above is maki
 To think about:
 - page limits might become important
 - there is a small risk of a "writing winter" - everything that's easily obtainable has low value and as such, if we can easily generate paragraphs of text effortlessly, we will suddenly stop appreciating thos kinds of essays that can be generated (a bit like in architecture, where after the industrial age, none of the baroque decorations make sense anymore because they are easy to obtain) 
+- Will CoPilot mking easier to write code result in an even more frantic pace of innovation and code churning? Will it accentuate the maintenance problem?  As soon as sufficient examples are available, everybody can quickly start porting their systems to the library *du jour*... 
 
 
 
