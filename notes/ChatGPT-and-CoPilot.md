@@ -1,40 +1,41 @@
 # Notes on ChatGPT and CoPilot
 
-*January 18, '23*
+*Draft in progress* 
+*Started: January 18, '23*
 
-Generative AI models are all the hype at the moment. Tools like ChatGPT and Copilot that integrate large language models (LLM) into the IDE or into a fancy chat web interface get a lot of positive attention. 
+Generative AI models are all the hype at the moment. Tools like ChatGPT and Copilot that integrate large language models (LLM) into the IDE or into a fancy chat web interface get a lot of positive attention. And for good reason: they are surprisingly good compared to the status-quo before them. 
 
-Some of the most intelligent people I know are even wondering whether these tools will forever change education and maybe make programming obsolete. I am much more moderate in my expectations. They will influence education, they will impact software development, they will steal some of the StackOverflow and Google traffic, but programming won't become obsolete and education won't change that much. *Au contraire*, understanding complex programs will even more important and being able to judge an essay will also become much more important. 
+They are so good that some of the smartest people I know are wondering whether these tools will forever change education and maybe even render  programming obsolete. 
 
-
-Blinded by the success of the ChatGPT we forgot about the limitations of these tools. A good reminder is the Galactica system published and retracted one week later by Facebook/Meta: the system which was trained on only scientific papers learned how to generate "new" scientific and encyclopedic articles; but people found so many horrible examples that it generated an outrage, and Facebook was forced to close the public demo. 
-
-## Generative ML Models vs. Electronic Calculators
+I am much more moderate in my expectations. They will influence education, they will impact software development, they will steal some of the StackOverflow and Google traffic, but programming won't become obsolete and education won't change that much. *Au contraire*, understanding complex programs will even more important and being able to judge an essay critically and attentively will also become much more important. 
 
 
-I hear people compare ChatGPT with electronic calculators. They observe that once electronic calculators  were widely available, schools stopped teaching students arithmetic. Maths educators started teaching higher-level skills because knowing how to do arithmetic was not necessary. They wonder whether it's going to be the same with ChatGPT and Co-Pilot. Large language models and electronic calculators are, however, very different. 
+Blinded by the success of the ChatGPT we forgot about the limitations of these tools. A good reminder is the Galactica "scientific text generation system" published and quickly retracted by Facebook/Meta research: the system which was trained on only scientific papers learned how to "parrot"  scientific and encyclopedic articles; but people found so many horrible examples that it generated an outrage, and Facebook was forced to close the public demo. 
 
+## Are the Generative ML Models the new Electronic Calculators? 
 
-### Code Generators
-With respect to code, we're clearly not in the same predicament. These tools can only be a parasite, or to put it nicer, a "sidecar" in the presence of the main "engine": large amounts of code written by real developers that these tools are trained on. If developers stop writing new code, these tools don't have what to interpolate. So the skill of writing code will never go away. 
+I hear people compare ChatGPT with electronic calculators. They observe that once electronic calculators  were widely available, schools stopped teaching students arithmetic. Instead, mathematics educators started teaching higher-level skills because knowing how to do arithmetic was not a necessary skill anymore. They wonder whether it's going to be the same with ChatGPT and Co-Pilot. Alas, writing and thinking are so tightly related that we can not leave the writing to the OpenAI glorious auto-complete bot. 
 
-What might end up happening is that for every new technology, and every new language, a cohort of pioneers will go in and carve the path. After they have written sufficiently many programs that use that new language or API the large language model will start providing decent recommendations for "the masses". 
+There is anohter significant difference between electronic calculators and large language models. Electronic calculators will still function even none of us can do arithmetic anymore. So there is indeed little reason for us to keep computing things in our head. LLMs, on the other hand, can only be a parasite on real code written by real developers, code that is used for training these tools. If developers stop writing new code, these tools don't have what to learn from. So the skill of writing code will never go away. 
 
-In any case, because of the need for a large number of examples that these systems need before they can become useful, the generative ML models will never do to programing what calculators did to arithmetic. 
+What might end up happening is that for every new technology, and every new language, a cohort of pioneers will go in and carve the path -- those will be the amazingly well paid programmers. After they have written sufficiently many programs that use that new language or API the large language model will start providing decent recommendations for "the masses". 
 
-
-### Text Generators
-The need to be able to write will also not go away anytime soon. Not before the need to think will do. This because writing and thinking are tightly integrated. You can't have one without the other. (Ok, you can have writing w/o thinking with the help of LLM)
-
-Thus, yes, the general essay about "life in a village in the southern france" can be automatically be generated. It can even be generated in the form of a sonnet. Or a hip-hop song in the style of Snoop dogg. But a thesis on "a tool that intercepts procrastination in order to induce more useful habits" will not be "generated" anytime soon. 
+In any case, because of the need for a large number of examples that these systems need before they can become useful, the generative ML models will never do to programing what calculators did to arithmetic: render it unnecessary. 
 
 To think about
 - Will this result in an even more frantic pace of innovation and adoption of new libraries? As soon as sufficient examples are available, everybody can quickly start porting their systems to the library *du jour*... 
 
 
-## Will ChatGPT render knowing how to write irellevant?
+### Will Our Students Not Need to Know How to Write Anymore? 
 
-Only when knowing how to think will be irellevant... that is never.
+Only if our students won't know how to think, then they won't need to know how to write. 
+
+Writing and deep thinking are tightly integrated. You can't have one without the other. The only exception being LLM themselves... But, as the dictum goes, "God gave us writing to see how lame our thoughts are". Only in writing can we spot the errors of reason in our thinking. However, the LLMs can't spot errors of thinking. They can only generate the most likely next token in a series. 
+
+And thus, as with the code, the human duty will be to now start debugging the generated text. 
+
+Yes, the general essay about "life in a village in the southern france" can be automatically be generated. It can even be generated in the form of a sonnet. Or a hip-hop song in the style of Snoop dogg. But a thesis on "a tool that intercepts procrastination in order to induce more useful habits" will not be "generated" anytime soon. 
+
 
 
 ## A Valid Use Case: The Ultimate Auto-Correct
@@ -47,6 +48,7 @@ However, a serious responsibility of the writer using the workflow above is maki
 
 To think about:
 - page limits might become important
+- there is a small risk of a "writing winter" - everything that's easily obtainable has low value and as such, if we can easily generate paragraphs of text effortlessly, we will suddenly stop appreciating thos kinds of essays that can be generated (a bit like in architecture, where after the industrial age, none of the baroque decorations make sense anymore because they are easy to obtain) 
 
 
 
