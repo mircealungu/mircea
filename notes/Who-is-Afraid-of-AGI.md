@@ -6,3 +6,8 @@ The Sillycon Valley hackers are afraid (and Elon Musk reportedly can't sleep at 
 In this essay I will try to explain why those who are afraid of AGI are literally afraid of mathematics. And you're usually not very smart when you're afraid of mathematics. 
 
 // to be continued
+
+
+References
+
+- Unlikely to have AGI w/o a sense of self [eliot miranda on linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7022617377229983744/) 

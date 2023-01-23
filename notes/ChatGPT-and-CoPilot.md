@@ -51,6 +51,9 @@ To think about:
 - Will CoPilot mking easier to write code result in an even more frantic pace of innovation and code churning? Will it accentuate the maintenance problem?  As soon as sufficient examples are available, everybody can quickly start porting their systems to the library *du jour*... 
 
 
+Further notes
+- Copenhagen Business School has formally and officially [prohibited students](https://www.linkedin.com/posts/tomasvemola_is-copenhagen-business-school-banning-word-activity-7022278634199478273-rXDk?utm_source=share&utm_medium=member_desktop) from using ChatGPT in an exam
+- 
 
 
 
