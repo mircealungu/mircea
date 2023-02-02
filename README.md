@@ -8,7 +8,7 @@ Mircea Lungu is associate professor in computer science at the [IT University o
 
 
 # Notes
-[ChatGPT-and-CoPilot](notes/ChatGPT-and-CoPilot.md) | [Fear-of-AI-is-Fear-of-Mathematics](notes/Fear-of-AI-is-Fear-of-Mathematics.md) | [Importance-of-Maintenance](notes/Importance-of-Maintenance.md) | [Personalized-Software-Complexity](notes/Personalized-Software-Complexity.md) | [Book-Reviews](notes/Book-Reviews.md) 
+[ChatGPT-and-CoPilot](notes/ChatGPT-and-CoPilot.md) | [Do-Not-Be-Afraid-of-AI](notes/Do-Not-Be-Afraid-of-AI.md) | [Importance-of-Maintenance](notes/Importance-of-Maintenance.md) | [Personalized-Software-Complexity](notes/Personalized-Software-Complexity.md) | [Book-Reviews](notes/Book-Reviews.md) 
 
 # Research Interests
 - [Software Visualization](directions/visualization.md)
