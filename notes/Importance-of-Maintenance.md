@@ -12,10 +12,10 @@ Moreover, even the systems that include AI and blockchains (and quantym algorith
 
 The craddle of all these promising new technologies is still the traditional software written by software engineers. 
 
-And as this traditional software is updated to be keept up with the changes in society where it is required, it becomes more and more complex and requires more and more maintenance (e.g. the software for the Danish tax system, and a million other examples). 
+And as this traditional software is updated to be keept up with the changes in society where it is required, it becomes more and more complex and demands more and more maintenance (e.g. the software for the Danish tax system, and a million other examples). 
 
 Unfortunately, everybody forgets about it. 
 
-Although software maintenance and evolution research is not "cool", it's essential. Software maintenance and evolution is like plumbing: you only realize how important it is when it breaks.
+Thus, although software maintenance and evolution research is not "cool", it's essential. Software maintenance and evolution is like plumbing: you only realize how important it is when it breaks.
 
 We need more research in software plumbing. 
