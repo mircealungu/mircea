@@ -4,7 +4,7 @@ AGI stands for Artificial General Intelligence.
 
 It is theoretized to be the level of AI at which an "algorithm" is as intelligent as a human. It is the "phylosopher's stone" of the modern techno-alchemist.
 
-Many modern people are afraid that once we invent an advanced enough AI, there is only one small step to inventing an AGI - an AI that is as "intelligent" (whatever that may mean) than humans. At that point, there is only one more step to a more-intelligent-than-humans-algorith. This "algorithm" will then start improving itself. And soon after that, the techno-apocalypse comes because the super-AGI is now so much more intelligent than humans and it might just as well decide to dispose with our species. 
+Many people and sometimes smart ones are afraid that once we invent an advanced enough AI, there is only one small step to inventing an AGI - an AI that is as "intelligent" (whatever that may mean) than humans. At that point, there is only one more step to a more-intelligent-than-humans-algorith. This "algorithm" will then start improving itself. And soon after that, the techno-apocalypse comes because the super-AGI is now so much more intelligent than humans and it might just as well decide to dispose with our species. 
 
 Reportedly, Elon Musk can't sleep at night because of his worries about AI. 
 
