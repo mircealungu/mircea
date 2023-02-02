@@ -12,7 +12,7 @@ Moreover, even the systems that include AI and blockchains (and quantym algorith
 
 The craddle of all these promising new technologies is still the traditional software written by software engineers. 
 
-And as this traditional software is trying to keep up with the changes in society it becomes more and more complex (see the software for the Danish tax system), and requires more and more maintenance. 
+And as this traditional software is updated to be keept up with the changes in society where it is required, it becomes more and more complex (see the software for the Danish tax system), and requires more and more maintenance. 
 
 Unfortunately, everybody forgets about it. 
 
