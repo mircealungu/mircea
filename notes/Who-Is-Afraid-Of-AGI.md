@@ -1,5 +1,6 @@
 #*draft*
 
+
 AGI stands for Artificial General Intelligence. 
 
 It is theoretized to be the level of AI at which an "algorithm" is as intelligent as a human. It is the "phylosopher's stone" of the modern techno-alchemist.
