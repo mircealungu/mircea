@@ -44,7 +44,17 @@ A workflow that I imagine is writing a paragraph, and then submitting it to Chat
 
 However, a serious responsibility of the writer using the workflow above is making sure that the "corrected" text still expresses the original idea. Indeed, while the past spell checkers didn't change the meaning of the text, the new generation will rephrase boldly, and at times will change the meaning. Thus, the writer has to attentively scrutinize the work of their co-author and ensure that it still expresses the original idea. 
 
-To think about:
+
+## Another Possible Use Case
+
+A system that rates your writing on surpriseness. 
+
+You write a blog post, and essay. You submit it to the system and it tells you how "surprising" it is. If it's not very surprising maybe you're not that original. Some kind of idea duplication detection. So not syntactic but semantic duplication detection. 
+
+Sounds attractive. However, the originality might be in the details. 
+
+
+## To think about
 - page limits might become important
 - there is a small risk of a "writing winter" - everything that's easily obtainable has low value and as such, if we can easily generate paragraphs of text effortlessly, we will suddenly stop appreciating thos kinds of essays that can be generated (a bit like in architecture, where after the industrial age, none of the baroque decorations make sense anymore because they are easy to obtain) 
 - Will CoPilot mking easier to write code result in an even more frantic pace of innovation and code churning? Will it accentuate the maintenance problem?  As soon as sufficient examples are available, everybody can quickly start porting their systems to the library *du jour*... 
