@@ -18,4 +18,4 @@ Unfortunately, everybody forgets about it.
 
 Thus, although software maintenance and evolution research is not "cool", it's essential. Software maintenance and evolution is like plumbing: you only realize how important it is when it breaks.
 
-We need more research in software plumbing. 
+We need to pay more attetion and dedicate more research and teaching to software plumbing. 
