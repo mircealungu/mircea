@@ -1,6 +1,6 @@
 # Notes on ChatGPT and CoPilot
 
-#draft 
+#*notes*
 
 Generative AI models are all the hype at the moment. Tools like ChatGPT and Copilot that integrate large language models (LLM) into the IDE or into a fancy chat web interface get a lot of positive attention. And for good reason: they are surprisingly good compared to the status-quo before them. 
 

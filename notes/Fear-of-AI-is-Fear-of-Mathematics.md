@@ -1,14 +1,16 @@
-*a draft*
+#*draft*
 
 AGI stands for Artificial General Intelligence. 
 
 It is theoretized to be the level of AI at which an "algorithm" is as intelligent as a human. It is the "phylosopher's stone" of the modern techno-alchemist.
 
-The Sillycon Valley hackers are afraid (and Elon Musk reportedly can't sleep at night because of worries) that once we invent AGI there is only one small step to inventing something that is "even more intelligent than humans". At that point, that more-intelligent-than-humans-algorith will start improving itself. And soon after that, the techno-apocalypse comes because the super-AGI is now so much more intelligent than humans and it might just as well decide to dispose with our species. 
+Many modern people are afraid that once we invent an advanced enough AI, there is only one small step to inventing an AGI - an AI that is as "intelligent" (whatever that may mean) than humans. At that point, there is only one more step to a more-intelligent-than-humans-algorith. This "algorithm" will then start improving itself. And soon after that, the techno-apocalypse comes because the super-AGI is now so much more intelligent than humans and it might just as well decide to dispose with our species. 
+
+Reportedly, Elon Musk can't sleep at night because of his worries about AI. 
 
 Some less excited people, like Gary Marcus and Grady Booch debate whether AGI will happen in our lifetime or maybe not even in the lifetime of our children's children. It does not matter, sooner or later there will be something that 
 
-In this essay I will try to explain that if it happens, those who are afraid of AGI as the next step in the progress of current AI techniques are *literally afraid of mathematics*. And it was mostly the not very smart kids who were afraid of mathematics in school; so you should not be like them :) 
+In this essay I will try to explain that if it happens, those who are afraid of AGI as the next step in the progress of current AI techniques are *literally afraid of mathematics*. 
 
 // so let's start
 
@@ -45,7 +47,9 @@ And even if their functional form is not easy to write, indeed these highly para
 
 So being afraid that a mathematical function that predicts the next word based on the statistical probability will suddently become more intelligent than humans and eventually will take over the world and subjugate humanity is silly. It's just mathematical functions. Don't be afraid of them. Rather, try to understand them, and see in which way can you use them. 
 
-So don't be like Elon Musk, don't lose sleep over mathematical functions. Rather, learn about them, they're another tool in your toolbox. 
+
+
+So, next time you can't fall alseep because you're afraid of AI, remember that all that current AI is is advanced mathematics. And it was mostly the not very smart kids who were afraid of mathematics in school. Don't be like them :) 
 
 
 References
