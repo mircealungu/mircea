@@ -14,7 +14,7 @@ In this essay I will try to explain that if it happens, those who are afraid of 
 
 // so let's start
 
-The AI that makes the news today and that scares everybody whether it's "sentient" or not is dominantly Deep Learning. It is the latest in a series of mathematical function approximations. Skipping over the details, I'll try to show how even the more complex models are just incredibly complex mathematical functions. 
+The AI that makes the news today and that scares everybody because it seems  *sentient* or just impressive in what it can do (e.g. DALLe, coPilot) is dominantly Deep Learning -- the latest in a series of mathematical function approximations. Skipping over the details, I'll try to suggest how even the more complex models are just (incredibly complex) mathematical functions. 
 
 
 So let's start with **linear regression**. It's a basic statistical technique for approximating a series of values with a linear function. Used  to be statistics. Now it's AI. You can find it in the famous course of Andrew NG at Stanford. And it's mathematics. It looks like below, and you might not like it, you might not understand it, but you should not be *afraid* of it. 
