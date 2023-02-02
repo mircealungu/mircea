@@ -8,7 +8,7 @@ This kind of "good old" programming makes up probably more than 99% of all the s
 
 All this source code needs to be maintained and evolved.
 
-Moreover, even the systems that include AI and blockchains (and quantym algorithms whenever they might be ready to be integrated in bigger systems) are mostly made up of the good old programming. The whole AI part can be easily hidden behind one "function" in the system. A function that we don't always understand how it works, but a function still. Returning a boolean and sometimes even a floating point number.
+Moreover, even the systems that include AI and blockchains (and quantym algorithms whenever they might be ready to be integrated in actual systems) are mostly made up of the good old programming. The whole AI part can be easily hidden behind one "function" in the system. A function that we don't always understand how it works, but a function still. Returning a boolean and sometimes even a floating point number.
 
 The craddle of all these promising new technologies is still the traditional software written by software engineers. 
 
