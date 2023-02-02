@@ -6,8 +6,14 @@ This kind of "good old" programming makes up probably more than 99% of all the s
 
 All this source code needs to be maintained and evolved.
 
-Moreover, even the systems that include AI and blockchains (and quantym algorithms whenever they might be ready to be integrated in bigger systems) are mostly made up of the good old programming. The whole AI part can be easily hidden behind one "function" in the system. A function that we don't always understand how it works, but a function still. It sometimes returns a boolean and sometimes even a floating point number. But a function still. The craddle of all these promising new technologies is still the traditional software written by software engineers. 
+Moreover, even the systems that include AI and blockchains (and quantym algorithms whenever they might be ready to be integrated in bigger systems) are mostly made up of the good old programming. The whole AI part can be easily hidden behind one "function" in the system. A function that we don't always understand how it works, but a function still. Returning a boolean and sometimes even a floating point number.
 
-And this traditional software is more and more complex, and requires more and more maintenance. Unfortunately, everybody forgets about it. And although software maintenance and evolution research is not "cool", it's essential. Software maintenance and evolution is like plumbing: you only realize how important it is when it breaks
+The craddle of all these promising new technologies is still the traditional software written by software engineers. 
+
+And as this traditional software is trying to keep up with the changes in society it becomes more and more complex (see the software for the Danish tax system), and requires more and more maintenance. 
+
+Unfortunately, everybody forgets about it. 
+
+Although software maintenance and evolution research is not "cool", it's essential. Software maintenance and evolution is like plumbing: you only realize how important it is when it breaks.
 
 We need more research in software plumbing. 
