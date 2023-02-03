@@ -1,4 +1,6 @@
 <h1><img src="/docs/assets/icons/zeeguu.svg" style="width:40px; margin-right: 0.5em"/>Zeeguu</h1>
+Almost 20,000 people [were enrolled](https://cphpost.dk/2021-12-15/news/huge-spike-in-people-learning-danish/) in Danish classes in 2021. At the global level more than 1.2 billion are learning a new language at any given moment.
+
 
 Zeeguu is a project that aims to support learners of foreign languages accelerate the acquisition of their vocabulary by a three-pronged approach:
 1. Automatically finding relevant materials on the Internet for them
