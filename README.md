@@ -32,7 +32,7 @@ I always loved and I still love coding. However, nowadays I'm more of a product 
 
 
 # Student Projects
-If you're interested in a student project, please look at the [list of projects available on GitHub](https://github.com/mircealungu/student-projects/). Alternatively, look at the prototypes and directions listed above. At the end of each, there are several ideas of possible future directions. Also, when contacting me for a project please send me a recent CV and a transcript of your grades. This helps me understand what are your strengths and weaknesses and advise you towards more appropriate projects. 
+If you're interested in a student project, please look at the [list of projects available on GitHub](https://github.com/mircealungu/student-projects/). Alternatively, look at the prototypes and directions listed above. At the end of each, there are several ideas of possible future directions. Also, when contacting me for a project please **send me a recent CV and a transcript of your grades**. This helps me understand what are your strengths and weaknesses and advise you towards more appropriate projects. 
 
 
 # Teaching
