@@ -1,4 +1,4 @@
-# Who is Afraid of AGI?
+# Who Is Afraid of AGI?
 *draft*
 
 AGI stands for Artificial General Intelligence. 
