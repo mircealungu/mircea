@@ -8,7 +8,7 @@
 
 Aiki is also a browser extension that considers social media (and other time-wasting websites) as the oponent that needs to be fought back against.
 
-In the *aiki*-way, the project proposes that an internet user can take advantage of their habits of visiting time-wasting web sites as a reminder for doing something that they themselves percieve as being useful, e.g. learning Danish or getting better at programming in Python. 
+This project helps an internet user take advantage of their habits of visiting time-wasting web sites and consider the (often involuntary) impulses of visiting the said websites as a reminder for doing something useful, e.g. learning Danish or getting better at programming in Python. What is useful for each user, it is up to them to decide.
 
 [Nanna Inie](https://pure.itu.dk/en/persons/nanna-inie) directed an amazing video showcasing Aiki for our CHI'21 presentation. 
 
@@ -48,7 +48,7 @@ CHI'21: [**Aiki: Turning Procrastination into Microlearning**](../docs/assets/pa
 	- publish the extesion 
 		- publish also for Firefox besides Chrome
 		- make the backend ready for publication
-- design a large scale in-the-wild expertiment 
+- Design a large scale in-the-wild expertiment 
 - Longer Term
 	- implement interceptions also on mobile devices 
 
