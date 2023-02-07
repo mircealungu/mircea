@@ -5,7 +5,7 @@
 
 # Aiki
 
-**Aiki-do** is a martial art principle that allows a practitioner to redirect an opponent's power against themselves. 
+**Aiki** is a martial arts principle that allows a practitioner to redirect an opponent's power against themselves. 
 
 Aiki is also a browser extension that considers social media and the habits we form when we visit these websites too often to be the oponent. 
 
