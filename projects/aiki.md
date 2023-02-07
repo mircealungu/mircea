@@ -6,6 +6,13 @@
 
 This project considers the social media websites as **the enemy that aims to waste our time**. In the *aiki*-way, the project proposes that we can make use of our tendency to go to these time-wasting web sites. Indeed, if we intercept our attempts to go to such a website and use it as reminder for doing something useful, e.g. learning we can using th enemy's force against themselves. 
 
+
+## Video
+
+[Nanna Inie](https://pure.itu.dk/en/persons/nanna-inie) directed an amazing video showcasing Aiki. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4o2DFV7VS9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Papers
 
 [**Challenges and Opportunities of Using Redirection of Activity for  
