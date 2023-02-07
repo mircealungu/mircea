@@ -4,11 +4,11 @@
 
 <h1><img src="/docs/assets/icons/aiki-logo.png" style="width:40px; margin-right: 0.5em"/>Aiki</h1>
 
-**Aiki** is a martial arts principle that allows a practitioner to redirect an opponent's power against themselves. 
+**Aiki** is a martial arts principle that allows a practitioner to redirect an opponent's power back against themselves. 
 
 Aiki is also a browser extension that considers social media (and other time-wasting websites) as the oponent that needs to be fought back against.
 
-In the *aiki*-way, the project proposes that an *internaut* can make use of their habit of visiting time-wasting web sites as a reminder for doing something that they themselves percieve more useful, e.g. learning Danish or getting better at programming in Python. 
+In the *aiki*-way, the project proposes that an internet user can take advantage of their habits of visiting time-wasting web sites as a reminder for doing something that they themselves percieve as being useful, e.g. learning Danish or getting better at programming in Python. 
 
 [Nanna Inie](https://pure.itu.dk/en/persons/nanna-inie) directed an amazing video showcasing Aiki for our CHI'21 presentation. 
 
