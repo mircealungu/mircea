@@ -1,9 +1,8 @@
 
 
 "Social media companies aim to [colonize](https://twitter.com/JoshuaPHilll/status/1587857229054705666) every minute of our lives". (Bo Burnham)
-"We have to fight back" (Aiki)
 
-# Aiki
+<h1><img src="/docs/assets/icons/aiki-logo.png" style="width:40px; margin-right: 0.5em"/>Aiki</h1>
 
 **Aiki** is a martial arts principle that allows a practitioner to redirect an opponent's power against themselves. 
 
@@ -35,10 +34,8 @@ CHI'21: [**Aiki: Turning Procrastination into Microlearning**](../docs/assets/pa
  - Our participants learned quite a bit of Danish and some of them actually found the learning a better use of their time than the 'mindless' scrolling on Facebook
 
 
-<h2><img src="/docs/assets/icons/aiki-logo.png" style="width:40px; margin-right: 0.5em"/>Prototype</h2>
-A Chrome extension that helps one save time by redirecting them to a useful site when they try to go to a time-wasting site. Useful and time-wasting are user defined. 
-
-- Source Code: [github.com/aiki-extension](https://github.com/Aiki-Extension/Aiki)
+## Source Code
+- Code: [github.com/aiki-extension](https://github.com/Aiki-Extension/Aiki)
 - License: MIT
 
 
