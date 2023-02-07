@@ -6,10 +6,15 @@
 
 This project considers the social media websites as **the enemy that aims to waste our time**. In the *aiki*-way, the project proposes that we can make use of our tendency to go to these time-wasting web sites. Indeed, if we intercept our attempts to go to such a website and use it as reminder for doing something useful, e.g. learning we can using th enemy's force against themselves. 
 
+## Current Team
+- Nanna Inie
+- Bjørn Hjorth Westh
+- John Muller
+- Mircea Lungu
 
 ## Video
 
-[Nanna Inie](https://pure.itu.dk/en/persons/nanna-inie) directed an amazing video showcasing Aiki. 
+[Nanna Inie](https://pure.itu.dk/en/persons/nanna-inie) directed an amazing video showcasing Aiki for CHI'21. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4o2DFV7VS9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -37,7 +42,7 @@ A Chrome extension that helps one save time by redirecting them to a useful site
 
 
 ## Future Work
-- prepare the extension for a large scale case study
+- prepare the extension for a large scale case study and for generalizing it (remove the hardcoded redirections to either language websites or programmig; let people redirect to whatever they like)
 	- allow user-definition of any time-saving websites
 	- make the backend ready for publication
 	- design the expertiment 
