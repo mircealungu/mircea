@@ -1,10 +1,19 @@
 
-# Aiki
+
 "Social media companies aim to [colonize](https://twitter.com/JoshuaPHilll/status/1587857229054705666) every minute of our lives". (Bo Burnham )
 
 **Aiki-do** is a martial art that is based on the precept of using an enemy's force against themselves. 
 
+# Aiki
+
+Aiki is a browser extension. 
+
 This project considers the social media websites as **the enemy that aims to waste our time**. In the *aiki*-way, the project proposes that we can make use of our tendency to go to these time-wasting web sites. Indeed, if we intercept our attempts to go to such a website and use it as reminder for doing something useful, e.g. learning we can using th enemy's force against themselves. 
+
+[Nanna Inie](https://pure.itu.dk/en/persons/nanna-inie) directed an amazing video showcasing Aiki for our CHI'21 presentation. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4o2DFV7VS9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Current Team
 - Nanna Inie
@@ -15,11 +24,6 @@ This project considers the social media websites as **the enemy that aims to was
 ## Past Contributors
 - Gabriel Frejberg Agger-Nielsen
 
-## Video
-
-[Nanna Inie](https://pure.itu.dk/en/persons/nanna-inie) directed an amazing video showcasing Aiki for CHI'21. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4o2DFV7VS9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Papers
 
@@ -42,9 +46,13 @@ A Chrome extension that helps one save time by redirecting them to a useful site
 
 
 ## Future Work
-- prepare the extension for a large scale case study and for generalizing it (remove the hardcoded redirections to either language websites or programmig; let people redirect to whatever they like)
-	- allow user-definition of any time-saving websites
-	- make the backend ready for publication
-	- design the expertiment 
-- implement interceptions also on mobile devices 
+- Short Term
+	- generalize the extension
+		- remove the hardcoded redirections to either language websites or programmig; let people redirect to whatever they like
+	- publish the extesion 
+		- publish also for Firefox besides Chrome
+		- make the backend ready for publication
+- design a large scale in-the-wild expertiment 
+- Longer Term
+	- implement interceptions also on mobile devices 
 
