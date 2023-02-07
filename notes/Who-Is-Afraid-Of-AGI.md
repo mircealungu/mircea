@@ -1,6 +1,5 @@
-#*draft*
-
 # Who is Afraid of AGI?
+*a draft*
 
 AGI stands for Artificial General Intelligence. 
 
