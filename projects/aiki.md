@@ -1,14 +1,15 @@
 
 
-"Social media companies aim to [colonize](https://twitter.com/JoshuaPHilll/status/1587857229054705666) every minute of our lives". (Bo Burnham )
-
-**Aiki-do** is a martial art that is based on the precept of using an enemy's force against themselves. 
+"Social media companies aim to [colonize](https://twitter.com/JoshuaPHilll/status/1587857229054705666) every minute of our lives". (Bo Burnham)
+"We have to fight back" (Aiki)
 
 # Aiki
 
-Aiki is a browser extension. 
+**Aiki-do** is a martial art principle that allows a practitioner to redirect an opponent's power against themselves. 
 
-This project considers the social media websites as **the enemy that aims to waste our time**. In the *aiki*-way, the project proposes that we can make use of our tendency to go to these time-wasting web sites. Indeed, if we intercept our attempts to go to such a website and use it as reminder for doing something useful, e.g. learning we can using th enemy's force against themselves. 
+Aiki is also a browser extension that considers social media and the habits we form when we visit these websites too often to be the oponent. 
+
+In the *aiki*-way, the project proposes that the internet user (that is you who reads this) can make use of their tendency to go to these time-wasting web sites by using that habit as a reminder for doing something useful, e.g. learning Danish or Python. 
 
 [Nanna Inie](https://pure.itu.dk/en/persons/nanna-inie) directed an amazing video showcasing Aiki for our CHI'21 presentation. 
 
@@ -21,8 +22,6 @@ This project considers the social media websites as **the enemy that aims to was
 - John Muller
 - Mircea Lungu
 
-## Past Contributors
-- Gabriel Frejberg Agger-Nielsen
 
 
 ## Papers
@@ -56,3 +55,5 @@ A Chrome extension that helps one save time by redirecting them to a useful site
 - Longer Term
 	- implement interceptions also on mobile devices 
 
+## Past Contributors
+- Gabriel Frejberg Agger-Nielsen
