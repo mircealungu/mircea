@@ -1,3 +1,5 @@
+# How to Read a Research Paper
+
 Do it in three passes: 
 
 1.  **50'000 feet read.** Get the big picture: read the abstract, section headings, conclusions, glance at related work.
