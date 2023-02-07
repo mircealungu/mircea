@@ -12,6 +12,9 @@ This project considers the social media websites as **the enemy that aims to was
 - John Muller
 - Mircea Lungu
 
+## Past Contributors
+- Gabriel Frejberg Agger-Nielsen
+
 ## Video
 
 [Nanna Inie](https://pure.itu.dk/en/persons/nanna-inie) directed an amazing video showcasing Aiki for CHI'21. 
@@ -34,9 +37,6 @@ A Chrome extension that helps one save time by redirecting them to a useful site
 
 - Source Code: [github.com/aiki-extension](https://github.com/Aiki-Extension/Aiki)
 - License: MIT
-- Students: Gabriel Frejberg Agger-Nielsen, Bjørn Hjorth Westh, John Muller
-- Collaborators: Nanna Innie
-
 
 
 
