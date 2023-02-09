@@ -9,7 +9,7 @@ Mircea Lungu is associate professor in computer science at the [IT University o
 
 
 # Notes
-[ChatGPT-and-CoPilot](notes/ChatGPT-and-CoPilot.md) | [Who-Is-Afraid-of-AGI](notes/Who-Is-Afraid-of-AGI.md) | [Importance-of-Maintenance](notes/Importance-of-Maintenance.md) | [How-to-Read-a-Research-Paper](notes/How-to-Read-a-Research-Paper.md) | [Good-Code-Is-Readable](notes/Good-Code-Is-Readable.md)  | [Book-Reviews](notes/Book-Reviews.md) 
+[ChatGPT-and-CoPilot](notes/ChatGPT-and-CoPilot.md) | [Who-Is-Afraid-of-AGI](notes/Who-Is-Afraid-of-AGI.md) | [Importance-of-Maintenance](notes/Importance-of-Maintenance.md) | [How-to-Read-a-Research-Paper](notes/How-to-Read-a-Research-Paper.md) | [Good-Code-Is-Readable](notes/Good-Code-Is-Readable.md)  | [The-Obsession-with-Science](notes/The-Obsession-with-Science.md) | [Book-Reviews](notes/Book-Reviews.md) 
 
 # Research Interests
 - [Software Visualization](directions/visualization.md)
