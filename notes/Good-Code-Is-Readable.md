@@ -2,7 +2,7 @@
 
 April 1st, 2015
 
-Code Quality is the Holy Graal of software analysis. And developers seem to agree that good code is readable code. Or at least, this seems to be the [overwhelming opinion](http://engineering.intenthq.com/2015/03/what-is-good-code-a-scientific-definition](https://href.li/?http://engineering.intenthq.com/2015/03/what-is-good-code-a-scientific-definition/) of several dozen developers interviewed by the people at IntentHQ.
+Code Quality is the Holy Graal of software analysis. And developers seem to agree that good code is readable code. Or at least, this seems to be the [overwhelming opinion](http://engineering.intenthq.com/2015/03/what-is-good-code-a-scientific-definition) of several dozen developers interviewed by the people at IntentHQ.
 
 At the beginning, I thought: wonderful! I like readability. It is an beautiful concept and it will be easier to define, and maybe automatically detect, than quality, which is a very abstract concept after all. 
 
