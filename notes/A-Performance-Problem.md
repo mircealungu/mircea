@@ -87,4 +87,4 @@ I now have a nice example to show to my sister about the huge impact indexes hav
 
 **For the Intermediate:** An internal monitor for your API can be a wonderful and much faster way of getting insight into the workings of your service. Sure, you can also deploy a profiler from your development environment, but having the profiler available to be deployed in production with a single click has the huge advantage of you getting information about the **real** data.
 
-**For the Advanced:** FMD can be deployed with [one line of Python code](https://github.com/flask-dashboard/Flask-MonitoringDashboard/). And being a research project, is also free. So try it out. In exchange we might ask you for feedback at some point. But hey, that’s nothing for the easy obtained valuable insights you get with it.
+**For the Flask Developer:** FMD can be deployed with [one line of Python code](https://github.com/flask-dashboard/Flask-MonitoringDashboard/). And being a research project, is also free. So try it out. In exchange we might ask you for feedback at some point. But hey, that’s nothing for the easy obtained valuable insights you get with it.
