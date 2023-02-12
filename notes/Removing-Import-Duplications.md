@@ -7,9 +7,7 @@ However, in the languages that I have used until now, there is one glaring repet
 
 Take for example React projects. In my experience, in every component one has to import the `useState` and `useEffect` functions from the `react` package. In the UI of [zeeguu](../projects/zeeguu.md), one of my research projects, `useState` is imported in 75 different React components...
 
-![](../docs/assets/many_import_use_states.png)
-
-![](../docs/assets/useStateInZeeguu.png)
+![](../docs/assets/user_state_imports.png)
 
 Yes, it's important to differentiate the `useState` function from the `react` packckage from another possibyl elsewhere defined `useState` function. However, when in hundreds of files in a project one finds themselves always, importing the same old `useState` from `react` it becomes a stupid...
 
