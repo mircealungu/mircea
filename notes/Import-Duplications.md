@@ -12,7 +12,7 @@ Take for example React projects. In my experience, in every non-trivial componen
 
 Yes, it's important to differentiate the `useState` function from the `react` packckage from another possibly elsewhere defined `useState` function. However, when in hundreds of files in a project one finds themselves always, importing the same old `useState` from `react` it becomes a bit silly.
 
-So I wonder, if a possible solution would be some kind of import visibility inheritance: an import at the top level of a module being visible in the submodules, unless overloaded. From a user's POV, this would save quite a bit of duplicated silly work.
+So I wonder, if a possible solution would be some kind of import visibility inheritance: an import at the top level of a module being visible in the submodules, unless overloaded. From a user's POV, this would save quite a bit of duplication and tedious overspecification. (*Yes, it's the same useState as in all the other 74 components that we're importing here too*) 
 
 I know that there's IDE support for adding the imports automatically. In my experience that works sometimes and some other times does not work. And it's still a bit ugly.
 
