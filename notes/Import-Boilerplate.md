@@ -7,7 +7,7 @@ When a programmer, because the language does not help him, has to write the same
 
 In all the modern languages that I have used until now, there is one kind of boilerplate code that is related to import statements, that as far as I can tell, nobody has found a good solution for removing. It's very minor. But it can be anoying. It has to do with the import statements. 
 
-Take for example React projects. In my experience, in every non-trivial component in React, one has to import the `useState` and `useEffect` functions from the `react` package. In the UI of [zeeguu](../projects/zeeguu.md), one of my research projects, `useState` is imported in 75 different React components. The result of running the corresponding grep command as of 2023 February is presented below:
+Take for example React projects. In my experience, in every non-trivial component in React, one has to import the `useState` and `useEffect` functions from the `react` package. In the UI of [zeeguu](../projects/zeeguu.md), one of my research projects, `useState` is imported in 75 different React components. The result of running the corresponding grep command, as of February 2023, is presented below:
 
 ![](../docs/assets/use_state_imports.png)
 
