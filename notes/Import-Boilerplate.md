@@ -11,7 +11,7 @@ Take for example React projects. In my experience, in every non-trivial componen
 
 ![](../docs/assets/use_state_imports.png)
 
-Yes, it's important to differentiate the `useState` function from the `react` packckage from another possibly elsewhere defined `useState` function. However, in this project, the only `useState` function used in all the 75 different components is the one defined in the `react` package. When in dozens of files in a project one finds themselves always, importing the same function or class over and over again, it becomes a bit silly.
+Yes, it's important to differentiate the `useState` function from the `react` packckage from another possibly elsewhere defined `useState` function. However, in this project, the only `useState` function used in all the 75 different components is the one defined in the `react` package. When in dozens of files in a project one finds themselves always importing the same function or class over and over again, it becomes a bit silly. And it's against the ethos of programming, that of automating the repetitive tasks. 
 
 So I wonder, if a possible solution would be some kind of import visibility inheritance: an import at the top level of a module being visible in the submodules, unless overloaded. From a user's POV, this would save quite a bit of duplication and tedious overspecification. 
 
