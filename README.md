@@ -9,7 +9,7 @@ Mircea Lungu is associate professor in computer science at the [IT University o
 
 
 # Notes
-[ChatGPT-and-CoPilot](notes/ChatGPT-and-CoPilot.md) | [Who-Is-Afraid-of-AGI](notes/Who-Is-Afraid-of-AGI.md) | [Importance-of-Maintenance](notes/Importance-of-Maintenance.md) | [How-to-Read-a-Research-Paper](notes/How-to-Read-a-Research-Paper.md) | [Good-Code-Is-Readable](notes/Good-Code-Is-Readable.md)  | [The-Obsession-with-Science](notes/The-Obsession-with-Science.md) | [A-Performance-Problem](notes/A-Performance-Problem.md) | [Mapping-the-Information-Economy](notes/Mapping-the-Information-Economy.md) | [Removing-Import-Duplications](notes/Removing-Import-Duplications.md) | [Book-Reviews](notes/Book-Reviews.md) 
+[ChatGPT-and-CoPilot](notes/ChatGPT-and-CoPilot.md) | [Who-Is-Afraid-of-AGI](notes/Who-Is-Afraid-of-AGI.md) | [Importance-of-Maintenance](notes/Importance-of-Maintenance.md) | [How-to-Read-a-Research-Paper](notes/How-to-Read-a-Research-Paper.md) | [Good-Code-Is-Readable](notes/Good-Code-Is-Readable.md)  | [The-Obsession-with-Science](notes/The-Obsession-with-Science.md) | [A-Performance-Problem](notes/A-Performance-Problem.md) | [Mapping-the-Information-Economy](notes/Mapping-the-Information-Economy.md) | [Removing-Import-Duplications](notes/Removing-Import-Duplications.md) | [The-Badly-Design-of-Everyday-Things](notes/The-Badly-Design-of-Everyday-Things.md) | [Book-Reviews](notes/Book-Reviews.md) 
 
 # Research Interests
 - [Software Visualization](directions/visualization.md)
@@ -32,7 +32,7 @@ I always loved and I still love coding. However, nowadays I'm more of a product 
 
 
 # Student Projects
-If you're interested in a student project, please look at the [list of projects available on GitHub](https://github.com/mircealungu/student-projects/). Alternatively, look at the prototypes and directions listed above. At the end of each, there are several ideas of possible future directions. Also, when contacting me for a project please **send me 1) a recent CV, 2) a transcript of your grades, and 3) a link to your GitHub repository**. This helps me understand what are your strengths and weaknesses and advise you towards more appropriate projects.
+If you're interested in a student project, please look at the [list of projects available on GitHub](https://github.com/mircealungu/student-projects/). Alternatively, look at the prototypes and directions listed above. At the end of each, there are several ideas of possible future directions. Also, when contacting me for a project please **send me 1) a recent CV, 2) a transcript of your grades, and 3) a link to your GitHub repository**. This helps me understand what are your strengths and weaknesses and guide you towards more appropriate projects.
 
 
 # Teaching

@@ -1,4 +1,4 @@
-[< essays](./all)
+[< essays](TODO.md)
 
 # Bitcoin - a Reminder of the Importance of Trust
 
