@@ -1,4 +1,5 @@
 # Who Is Afraid of AGI?
+
 *draft*
 
 AGI stands for Artificial General Intelligence. 
@@ -61,11 +62,11 @@ So, next time you can't fall alseep because you're afraid of AI, remember that a
 
 ## References
 
-- Unlikely to have AGI w/o a sense of self [eliot miranda on linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7022617377229983744/) . And a sense of self does not easily come without a body. 
+- Unlikely to have AGI w/o a sense of self [eliot miranda on linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7022617377229983744/) . And a sense of self does not easily come without a body is my conjecture. 
 - Elon musk [can't sleep at night](https://www.geospatialworld.net/blogs/scares-elon-musk-artificial-intelligence/) because he's afraid of AI; Bostrom also wrote [about his fears in a book](https://www.vox.com/future-perfect/2018/11/2/18053418/elon-musk-artificial-intelligence-google-deepmind-openai) - (at least he's capitalizing on his fears)
 - What Software Engineering teaches us about AGI - The customer does not know what they want; everybody thinks they know what they talk about at the high-level; when they are faced with details, they realize that it wasn't exactly it; in the context of AGI - nobody thinks much too deeply about the consequences of creating an actual human-like-AI; for a good example is the [short story about MMAcevedo](https://qntm.org/mmacevedo) - a fantastic little gem of SF where SF does what it does best; takes an idea and explores it's implications; in this case it's the idea of uploading one's mind in a computer; sounds nice, right? (see also the [discussion](https://www.reddit.com/r/slatestarcodex/comments/lqr8hu/fiction_mmacevedo_the_brain_image_of_the_first/) about the story on r/slatestarcodex)
 
-## Half-baked related ideas
+## Related Ideas
 - we "fly" but not like birds; computers solve problems, but not like humans; 
 - you can be afraid of AI, but in a different context: if people who are in "awe" of the technology connect it to dangerous systems. but then, the fear is not of the AI per se, but of the connecting of the dangerous system (car, application evaluation, etc.) to a statistical model that nobody understands exactly the workings of
 - Some less excited people, like Gary Marcus and Grady Booch debate whether AGI will happen in our lifetime or maybe not even in the lifetime of our children's children. 
