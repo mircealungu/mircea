@@ -1,11 +1,12 @@
 # Removing Import Duplications
 
 Programmers, par excellence have to automate repetitive tasks. 
-Programming languages are supposed to be good at this.
+Programming languages are good at supporting this. 
+When a programmer, because the language does not help him, has to write the same code over and over again, we call that *boilerplate code*, and we don't appreciate it. 
 
-However, in the languages that I have used until now, there is one boring task that one has to do over and over again. At the top of every file she has to import often the same elements over and over again. 
+In all the languages that I have used until now, there is one kind of boilerplate code that happens at the top of every file in the import statements, that nobody has found a good solution, as far as I can tell. It has to do with the import statements. 
 
-Take for example React projects. In my experience, in every component one has to import the `useState` and `useEffect` functions from the `react` package. In the UI of [zeeguu](../projects/zeeguu.md), one of my research projects, `useState` is imported in 75 different React components as of 2023 February: 
+Take for example React projects. In my experience, in every non-trivial component in React, one has to import the `useState` and `useEffect` functions from the `react` package. In the UI of [zeeguu](../projects/zeeguu.md), one of my research projects, `useState` is imported in 75 different React components as of 2023 February, as the result of running the corresponding grep command shows: 
 
 ![](../docs/assets/use_state_imports.png)
 
