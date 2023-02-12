@@ -14,7 +14,7 @@ I've decided that I must write short notes about the books I read. I'll try to k
 - started Feb
 - re-reading this after I've read it last year in audio form and didn't remain with much; trying to see whether reading on paper is better
 
-## The Dark Forest
+## The Dark Forest, Cixin Liu
 - Jan, audio
 - the book is in a sense better than the previous one; galaxy-scale and centuries-scale science fiction, that still succeeds in following a "reluctant" protagonist (Luo Ji)
 - the book has a huge suspense arc if one knows the dark forest theory.  indeed, the solution of Luo Ji is in some sense quite obvious, and once it is set in motion, one can only be eager to see whether it works. (although now I start to wonder whether in a dark forrest, one ever starts an expedition like the one of the trisolarians...)
@@ -24,7 +24,7 @@ I've decided that I must write short notes about the books I read. I'll try to k
 
 ## 2022 
 
-## The Three Body Problem 
+## The Three Body Problem , Cixin Liu
 - October, audio
 - Learning about the "struggle sessions" during the Chinese cultural revolution; scary how much harm and misery can be brought about by people with good intentions; impressive to see the madness of the crowds; interesting to see glimpses of that on social media; social media really is the 'wild west'
 - In parts the book seems too longwinded; some of the motivations of the characters are not convincing; some of the plot feels a bit cartoonish rather than science-fiction
