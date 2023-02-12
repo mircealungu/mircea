@@ -12,7 +12,7 @@ I've decided that I must write short notes about the books I read. I'll try to k
 
 ## The History of Western Philosophy, by Bertrand Russel
 - started Feb
-- re-reading this after I've read it last year in audio form and didn't remain with much; trying to see whether reading on paper is better
+- re-reading this after I've read it last year in audio form and didn't remain with much; trying to see whether reading on paper results in better retention
 
 ## The Dark Forest, Cixin Liu
 - Jan, audio
