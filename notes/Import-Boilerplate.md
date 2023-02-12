@@ -19,5 +19,4 @@ So I wonder, if a possible solution would be some kind of import visibility inhe
 
 I know that there's IDE support for adding the imports automatically. In my experience that works sometimes and some other times does not work. And it's still a bit ugly.
 
-I wonder if there are languages that do this, or whether there are arguments on why this would not be a good idea. 
-
+I wonder if there are languages that do this, or whether there are arguments on why this would not be a good idea. And obviously, I'm aware that Smalltalk being so far ahead of it's time, does not suffer from this problem, although last time I played with it, namespaces were a bit awkward, and at least in the Cincom VisualWorks version avoiding conflicts in class names was done by using unique prefixes for every package.
