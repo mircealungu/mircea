@@ -9,7 +9,7 @@ Mircea Lungu is associate professor in computer science at the [IT University o
 
 
 # Notes
-Pulling back here, blogs and little notes from elsewhere, and adding new ones. 
+Starting to collect here, assorted blogs and little notes from elsewhere, and maybe adding new ones every now and then:  
 [ChatGPT-and-CoPilot](notes/ChatGPT-and-CoPilot.md) | [Do-Not-Fear-the-AGI](notes/Do-Not-Fear-the-AGI.md) | [Importance-of-Maintenance](notes/Importance-of-Maintenance.md) | [How-to-Read-a-Research-Paper](notes/How-to-Read-a-Research-Paper.md) | [Good-Code-Is-Readable](notes/Good-Code-Is-Readable.md)  | [The-Obsession-with-Science](notes/The-Obsession-with-Science.md) | [A-Performance-Problem](notes/A-Performance-Problem.md) | [Mapping-the-Information-Economy](notes/Mapping-the-Information-Economy.md) | [Import-Boilerplate](notes/Import-Boilerplate.md) | [The-Badly-Design-of-Everyday-Things](notes/The-Badly-Design-of-Everyday-Things.md) | [Book-Reviews](notes/Book-Reviews.md) 
 
 # Research Interests
