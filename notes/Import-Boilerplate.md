@@ -1,4 +1,4 @@
-# Import Duplications
+# Import Boilerplate
 
 Programmers, par excellence have to automate repetitive tasks. 
 Programming languages are good at supporting this. 
