@@ -52,7 +52,7 @@ So being afraid that a mathematical function that predicts the next word based o
 
 So, next time you can't fall alseep because you're afraid of AI, remember that all that current AI is is advanced mathematics. And it is the not very smart kids who are afraid of mathematics. Don't be like them :) 
 
-![](../docs/assets/jim_is_not_afraid_of_AGI.png)
+![](../docs/assets/jan_is_not_afraid.png)
 
 ## References
 
