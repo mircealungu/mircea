@@ -8,7 +8,7 @@ I've decided that I must write short notes about the books I read. I'll try to k
 - startd Feb
 - audiobook
 - i read this when i was in highschool, and all i remember from it was the principle of "you should never eat alone"; recently spurred by a review from one of my friends i decided to see how does it feel 20 years late
-- chapter 1: nobody thinks about themselves of being wrong (not even al capone, and not even death-row criminals)
+- chapter 1: nobody thinks about themselves of being wrong (not even al capone, and not even death-row criminals); so think twice before trying to convince that they are wrong
 
 ## The History of Western Philosophy, by Bertrand Russel
 - started Feb
