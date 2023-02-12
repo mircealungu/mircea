@@ -3,7 +3,7 @@
 Programmers, par excellence have to automate repetitive tasks. 
 Programming languages are supposed to be good at this.
 
-However, in the languages that I have used until now, there is one glaring repetitive task that a progammer has to do over and over again. At the top of every file she has to import often the same elements. 
+However, in the languages that I have used until now, there is one glaring repetitive task that one has to do over and over again. At the top of every file she has to import often the same elements. 
 
 Take for example React projects. In my experience, in every component one has to import the `useState` and `useEffect` functions from the `react` package. In the UI of [zeeguu](../projects/zeeguu.md), one of my research projects, `useState` is imported in 75 different React components...
 
