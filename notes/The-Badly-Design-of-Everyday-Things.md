@@ -9,7 +9,7 @@ There is no good reason for the toggle button in the WiFi menu in OS X Ventura. 
 
 ![](../docs/assets/wifi-on-off.png)
 
-And for what? Because it represents an on/off state? What about all the other menu items in all the other apps in the OS that also represent on/off states? E.g. Show/Hide Sidebar/Favorites/Status/etc.
+And for what? Because it represents an on/off state? What about all the other menu items in all the other apps that come with Mac OS that also represent on/off states? E.g. Show/Hide Sidebar/Favorites/Status/etc.
 
 In my opinion, Apple UX folks are being pedantic and achieving nothing but decreasing the usability with a minute.
 
