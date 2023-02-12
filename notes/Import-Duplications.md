@@ -1,4 +1,4 @@
-# Removing Import Duplications
+# Import Duplications
 
 Programmers, par excellence have to automate repetitive tasks. 
 Programming languages are good at supporting this. 
