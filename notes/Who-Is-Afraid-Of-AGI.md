@@ -9,9 +9,7 @@ Many people and sometimes smart ones are afraid that once we invent an advanced 
 
 Reportedly, Elon Musk can't sleep at night because of his worries about AI. 
 
-Some less excited people, like Gary Marcus and Grady Booch debate whether AGI will happen in our lifetime or maybe not even in the lifetime of our children's children. It does not matter, sooner or later there will be something that 
-
-My claim is that those who are afraid of AGI as the next step in the progress of current AI techniques are *literally afraid of mathematics*. 
+My claim is that those who are afraid of AGI as the next step in the progress of current AI techniques, and of it taking over the world, are *literally afraid of mathematics*. 
 
 This is the visual summary of this idea: 
 
@@ -70,3 +68,4 @@ So, next time you can't fall alseep because you're afraid of AI, remember that a
 ## Half-baked related ideas
 - we "fly" but not like birds; computers solve problems, but not like humans; 
 - you can be afraid of AI, but in a different context: if people who are in "awe" of the technology connect it to dangerous systems. but then, the fear is not of the AI per se, but of the connecting of the dangerous system (car, application evaluation, etc.) to a statistical model that nobody understands exactly the workings of
+- Some less excited people, like Gary Marcus and Grady Booch debate whether AGI will happen in our lifetime or maybe not even in the lifetime of our children's children. 
