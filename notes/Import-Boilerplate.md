@@ -7,7 +7,7 @@ Programming languages are good at supporting this.
 
 When a programmer has to write the same or very similar code over and over again, we call that *boilerplate code*, and we don't appreciate it. It can be either the fault of the system design, or it might be the fault of the language design. 
 
-In all the modern languages that I have used until now, there is one kind of boilerplate code that is related to import statements, that as far as I can tell, nobody has found a good solution for removing. It's very minor. But it can be anoying. It has to do with the import statements. 
+In all the modern languages that I have used until now, there is one kind of boilerplate code that is related to import statements, that as far as I can tell, nobody has found a good solution or bothered to try to prevent. It's very minor. But it can be anoying. It has to do with the import statements. 
 
 Take for example React projects. In my experience, in every non-trivial component in React, one has to import the `useState` and `useEffect` functions from the `react` package. In the UI of [Zeeguu](../projects/zeeguu.md), one of my research projects, `useState` is imported 75 times in 75 different React components. This is shown in the figure below which highlights the result of running the corresponding grep command, as of February 2023:
 
