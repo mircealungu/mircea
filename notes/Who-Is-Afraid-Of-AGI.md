@@ -13,13 +13,15 @@ Some less excited people, like Gary Marcus and Grady Booch debate whether AGI wi
 
 My claim is that those who are afraid of AGI as the next step in the progress of current AI techniques are *literally afraid of mathematics*. 
 
-This is the visual summary of this note: 
+This is the visual summary of this idea: 
 
-![](../docs/assets/Jim-is-not-afraid.png)
+![](../docs/assets/jim_is_not_afraid.png)
 
 And below is the text version, although it's quite superfluous, I think the image says it all, and better.
 
 *Text version...*
+
+**
 
 The AI that makes the news today and that scares everybody because it seems  *sentient* or just impressive in what it can do (e.g. DALLe, coPilot) is dominantly Deep Learning -- the latest in a series of mathematical function approximations. Skipping over the details, I'll try to suggest how even the more complex models are just (incredibly complex) mathematical functions. 
 
