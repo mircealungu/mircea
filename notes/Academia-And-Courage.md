@@ -19,6 +19,6 @@ Now it is true, this might be considered a bit of a naive approach. There are co
 
 And maybe, when one is a PhD student he can’t have too many projects on which he would be working. In fact, that is the great thing about being a PhD students: working on one project, and having the chance to focus.
 
-On the other hand, when one is a bit more senior, it would be good that he [distributes his efforts](https://href.li/?http://mir.lu/post/38308351945/) in in some safe projects but also invests time in some more courageous projects, some projects that might fail, but which when they succeed, would have a really great impact. 
+On the other hand, when one is a bit more senior, it would be good that he distributes his efforts in some safe projects but also invests time in some more courageous projects, some projects that might fail, but which when they succeed, would have a really great impact. 
 
 So ask yourself, what’s your brave, courageous, innovative project. And next time you see me, ask me the same question :)
