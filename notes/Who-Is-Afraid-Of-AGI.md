@@ -14,7 +14,7 @@ My claim is that those who are afraid of AGI as the next step in the progress of
 
 This is the visual summary of this idea: 
 
-![](../docs/assets/jim_is_not_afraid_of_agi.png)
+![](../docs/assets/jim_is_not_afraid.png)
 
 Below is the text version, although it's quite superfluous, I think the image says it all, and better.
 
