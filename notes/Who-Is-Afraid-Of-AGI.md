@@ -10,7 +10,7 @@ Many people and sometimes smart ones are afraid that once we invent an advanced 
 
 Reportedly, Elon Musk can't sleep at night because of his worries about AI. 
 
-My claim is that those who are afraid of AGI as the next step in the progress of current AI techniques, and of it taking over the world, are *literally afraid of mathematics*. Because the current AI techniques are just advanced mathematics. There is a certain increase in complexity starting from linear regression, to logistic regression, to neural networks, to deep neural networks, and large language models, but after all it's still a admittedly, very complicated mathematical function that we're talking about. 
+My claim is that those who are afraid of AGI as the next step in the progress of current AI techniques, and of it taking over the world, are *literally afraid of mathematics*. This because the current AI techniques are just advanced statistics which is nothing more than advanced mathematics. There is a certain increase in complexity starting from linear regression, to logistic regression, to neural networks, to deep neural networks, and large language models, but after all it's still a admittedly, very complicated mathematical function that we're talking about. 
 
 So being afraid that a mathematical function or a set of functions that represent statistical approximations based on a lot of data will suddently become more intelligent than humans is silly. Being afraid that these functions will eventually take over the world and drive humanity extict is even more silly. 
 
@@ -20,7 +20,7 @@ I've made a visual summary of this idea:
 
 ![](../docs/assets/this_is_jim.png)
 
-
+P.S. Sure, if we put statstical functions that we don't understand in situations in which they can harm humans, than we should be afraid of it. But that's stupid and we should not do that. My rule of thumb is this: if you can "undo" it (spam classification) or if you don't care that much about mistakes (image search) then use AI into it as much as you can. However, don't let your AI drive your car or shoot weapons. These are situations in which you can't undo mistakes, and you do care about mistsakes in such situations. 
 
 ## References
 
