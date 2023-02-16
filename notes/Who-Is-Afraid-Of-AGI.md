@@ -1,6 +1,6 @@
 # Who Is Afraid of AGI?
 
-*draft*
+*February, 2023*
 
 AGI stands for Artificial General Intelligence. 
 
