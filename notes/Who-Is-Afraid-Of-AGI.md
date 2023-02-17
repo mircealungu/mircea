@@ -10,9 +10,9 @@ Many people and sometimes smart ones are afraid that once we invent an advanced 
 
 Reportedly, Elon Musk can't sleep at night because of his worries about AI and AGI. 
 
-My advice those who are afraid of AI & AGI  is to realize that they are *literally, afraid of mathematics*.  Indeed, current AI techniques are just advanced mathematics. There is a certain increase in complexity starting from linear regression, to logistic regression, to neural networks, to deep neural networks, and large language models, but after all it's still a admittedly, very complicated mathematical function that we're talking about. 
+My advice those who are afraid of AI & AGI  is to realize that they are *literally, afraid of mathematics*.  Indeed, current AI techniques are just advanced mathematics. There is a clear increase in complexity when one goes from linear regression, to logistic regression, to neural networks, to deep neural networks, and to large language models, but in the end, each one of these models is, admittedly, a very complicated mathematical function representing a statistical approximation driven on a lot of data. 
 
-So being afraid that a mathematical function or a set of functions that represent statistical approximations based on a lot of data will suddently become more intelligent than humans is silly. Being afraid that these functions will eventually take over the world and drive humanity extict is even more silly. 
+So being afraid that a mathematical function or a set of functions will suddently become more intelligent than humans is silly. Being afraid that these functions will eventually take over the world and drive humanity extict is even more silly. 
 
 By being afraid of AI you're being afraid of matehmatics. And remember that it was the not very smart kids who were afraid of mathematics in school. Don't be like them :) 
 
