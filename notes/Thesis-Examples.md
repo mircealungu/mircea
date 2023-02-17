@@ -26,10 +26,10 @@ Finally, if we write a shorter report, there's a higher chance that we can do a 
 
 There is one more reason actually. The software engineering students and the software design students often write theses where one builds a software artifact that they have to evaluate. So a good part of their work is in engineering. But they also have to evaluate. And they also have to write. Thus, something has got to give, and the extent of the report is a very good candidate of something that is not that important. The other one that one has to reduce is usually evaluation. It's unlikely that they will have time to do a quantitative evaluation, so students will often do a qualitative evaluation of the artifact that they have created. 
 
-2. Casper - very good
-	- we expanded it into a vissoft paper together
-3. Stefan - very good
-	- we expanded the thesis into a vissoft paper together
-5. GitTruck: Visualizing Git Repositories
-	- for such a thesis a student can spend more attention to detail in writing; something along the lines of "less is more, but with higher quality"
-	- 
+2. Casper Weiss Bang - [Codoc: Code-driven Architectural View Specification Framework in Python](https://pure.itu.dk/ws/files/86386665/21_CoDoc_VISSOFT.pdf)
+	- the original of the thesis was a bit less good, the uploaded it's the polished version that we submitted together as a paper to Vissoft 
+3. Stephan Boersm - [React-bratus: Visualising React Component Hierarchies](https://pure.itu.dk/ws/files/86386642/21_React_bratus_VISSOFT.pdf)
+	- the original of the thesis was a bit less good, the linked version is the polished version that we submitted together as a paper to Vissoft 
+5. Kristopher, Thomas, Jonas, Emil - [GitTruck: Visualizing Git Repositories](docs/assets/papers/22-Git-Truck.pdf)
+	- the original of the thesis was a bit less good, the linked version is the polished version that we submitted together as a paper to Vissoft 
+
