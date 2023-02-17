@@ -6,11 +6,11 @@ AGI stands for Artificial General Intelligence.
 
 It is theoretized to be the level of AI at which an "algorithm" is as intelligent as a human. It is the "phylosopher's stone" of the modern techno-alchemist.
 
-Many people and sometimes smart ones are afraid that once we invent an advanced enough AI, there is only one small step to inventing an AGI - an AI that is as "intelligent" (whatever that may mean) than humans. At that point, there is only one more step to a more-intelligent-than-humans-algorithm. And then, this new "algorithm" will start improving itself... And next thing you know, the techno-apocalypse is upon us because the super-AGI is now so much more intelligent than humans and will just decide to dispose with our species or make it into it's pets. 
+Many people and sometimes smart ones are afraid that once we invent an advanced enough AI, there is only one small step to inventing an AGI - an AI that is as "intelligent" (whatever that may mean) than humans. At that point, there is only one more step to a more-intelligent-than-humans-algorithm. And then, this new machine algorithm will start improving itself... And next thing you know, the techno-apocalypse is upon us because the super-AGI is now so much more intelligent than humans and will just decide to dispose with our species or make it into it's pets. 
 
-Reportedly, Elon Musk can't sleep at night because of his worries about AI. 
+Reportedly, Elon Musk can't sleep at night because of his worries about AI and AGI. 
 
-My advice those who are afraid of AGI as the next step in the progress of current AI techniques and the last step in humanity's evolution is to realize that they are *afraid of mathematics*.  Literally afraid of mathematics. Indeed, current AI techniques are just advanced mathematics. There is a certain increase in complexity starting from linear regression, to logistic regression, to neural networks, to deep neural networks, and large language models, but after all it's still a admittedly, very complicated mathematical function that we're talking about. 
+My advice those who are afraid of AI & AGI  is to realize that they are *literally, afraid of mathematics*.  Indeed, current AI techniques are just advanced mathematics. There is a certain increase in complexity starting from linear regression, to logistic regression, to neural networks, to deep neural networks, and large language models, but after all it's still a admittedly, very complicated mathematical function that we're talking about. 
 
 So being afraid that a mathematical function or a set of functions that represent statistical approximations based on a lot of data will suddently become more intelligent than humans is silly. Being afraid that these functions will eventually take over the world and drive humanity extict is even more silly. 
 
