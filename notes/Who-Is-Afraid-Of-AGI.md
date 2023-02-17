@@ -12,15 +12,13 @@ Reportedly, Elon Musk can't sleep at night because of his worries about AI and A
 
 My advice those who are afraid of AI & AGI  is to realize that they are *literally, afraid of mathematics*.  Indeed, current AI techniques are just advanced mathematics. There is a clear increase in complexity when one goes from linear regression, to logistic regression, to neural networks, to deep neural networks, and to large language models, but in the end, each one of these models is, admittedly, a very complicated mathematical function representing a statistical approximation derived from very large quantities of example data. 
 
-So being afraid that a mathematical function or a set of functions will suddently become more intelligent than humans is silly. Being afraid that these functions will eventually take over the world and drive humanity extict is even more silly. 
-
-By being afraid of AI you're being afraid of matehmatics. And remember that it was the not very smart kids who were afraid of mathematics in school. Don't be like them :) 
+So being afraid that a mathematical function (or a set of functions) will suddently become more intelligent than humans is silly. Being afraid that these functions will take over the planet and drive humanity extict is even more silly. Remember, by being afraid of AI you're being afraid of matehmatics. Yes, we're all a bit afraid of complicated mathematics, but we should not exagerate, and definitely we should not lose sleep over  it. 
 
 I've made a visual summary of this idea: 
 
 ![](../docs/assets/this_is_jim.png)
 
-P.S. Sure, if we put statstical functions that we don't understand in situations in which they can harm humans, than we should be afraid of it. But that's stupid and we should not do that. My rule of thumb is this: if you can "undo" it (spam classification) or if you don't care that much about mistakes (image search) then use AI into it as much as you can. However, don't let your AI drive your car or shoot weapons. These are situations in which you can't undo mistakes, and you do care about mistsakes in such situations. 
+P.S. Sure, if we put statstical functions that we don't fully understand inside systems that can harm humans, than we should be afraid. But that's stupid and we should not do that. My rule of thumb is this: if you can "undo" it (spam classification, code completion) or if you don't care that much about mistakes (image search) then use AI as much as you can. However, don't let an AI algorithm drive your car or shoot weapons. Driving over a child can't be undone. And you do care about mistsakes in weapon-related situations too. 
 
 ## References
 
