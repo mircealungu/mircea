@@ -30,6 +30,6 @@ There is one more reason actually. The software engineering students and the sof
 	- the original of the thesis was a bit less good, the uploaded it's the polished version that we submitted together as a paper to Vissoft 
 3. Stephan Boersm - [React-bratus: Visualising React Component Hierarchies](https://pure.itu.dk/ws/files/86386642/21_React_bratus_VISSOFT.pdf)
 	- the original of the thesis was a bit less good, the linked version is the polished version that we submitted together as a paper to Vissoft 
-5. Kristopher, Thomas, Jonas, Emil - [GitTruck: Visualizing Git Repositories](docs/assets/papers/22-Git-Truck.pdf)
+5. Kristopher, Thomas, Jonas, Emil - [GitTruck: Visualizing Git Repositories](/docs/assets/papers/22-Git-Truck.pdf)
 	- the original of the thesis was a bit less good, the linked version is the polished version that we submitted together as a paper to Vissoft 
 
