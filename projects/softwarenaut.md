@@ -5,7 +5,7 @@ Softwarenaut supports architecture recovery through interactive exploration and 
 - Source Code & Documentation: [github.com/mircealungu/Softwarenaut](https://github.com/mircealungu/Softwarenaut)
 - License: MIT 
 
-## A Screencast of Softwarenaut in Action
+## A Screencast 
 
 In 2012 I prepared a screencast of the way the tool looked at the time. I think screencasts are very important for research tools since they may give ideas to new toolmakers long after they tool does not compile anymore :)
 
