@@ -5,13 +5,20 @@ Softwarenaut supports architecture recovery through interactive exploration and 
 - Source Code & Documentation: [github.com/mircealungu/Softwarenaut](https://github.com/mircealungu/Softwarenaut)
 - License: MIT 
 
-## Introduction
+## A Screencast of Softwarenaut in Action
 
-This page contains a very high level description of the tool. For details and case studies, see
+In 2012 I prepared a screencast of the way the tool looked at the time. I think screencasts are very important for research tools since they may give ideas to new toolmakers long after they tool does not compile anymore :)
+
+<iframe src="https://player.vimeo.com/video/62767181?h=050cd80795" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/62767181">Screencast: Softwarenaut for Architecture Recovery</a> from <a href="https://vimeo.com/mircealungu">mircea lungu</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+## Overview
+
+This page contains a very high level overview of the tool. For details and case studies, see
 
 1.  the journal article that describes the tool ([Evolutionary and Collaborative Software Architecture Recovery with Softwarenaut](http://scg.unibe.ch/archive/papers/Lung14a.pdf), [bibtex](http://scg.unibe.ch/scgbib?_k=mhZxW1Pf&query=Lung14a&display=bibtex))
     
-2.  the conference paper that describes the way we visualized hierarchical clusterings of software systems ([preprint pdf](http://scg.unibe.ch/archive/papers/Lung05aExploreSemanticClusters.pdf), [bibtex](http://scg.unibe.ch/scgbib?_k=v0zYApEK&query=Lung05a&display=bibtex))
+2.  the conference paper that describes the way we visualized hierarchical clusterings of software systems ([Interactive Exploration of Semantic Clusters](http://scg.unibe.ch/archive/papers/Lung05aExploreSemanticClusters.pdf), [bibtex](http://scg.unibe.ch/scgbib?_k=v0zYApEK&query=Lung05a&display=bibtex))
 
 ### Aggregating low-level relations along a hierarchical decomposition of a system
 
@@ -48,9 +55,3 @@ Two categories of **relationship filters** are:
 -   Evolutionary: they filter relationships based on the evolution of the relationships during the lifetime of the system. Examples are: lifetime, newborn, old, new. They are available only when multiple versions of a system are loaded. They are useful for either limiting the amount of information at the first encounter with a system (e.g. lifetime) or trying to find problems (e.g. newborn combined with bidirectional).
 
 
-### A Screencast of Softwarenaut in Action
-
-In 2012 I prepared a screencast of the way the tool looked at the time. I think screencasts are very important for research tools since they may give ideas to new toolmakers long after they tool does not compile anymore :)
-
-<iframe src="https://player.vimeo.com/video/62767181?h=050cd80795" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/62767181">Screencast: Softwarenaut for Architecture Recovery</a> from <a href="https://vimeo.com/mircealungu">mircea lungu</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
