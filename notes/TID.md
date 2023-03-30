@@ -8,7 +8,7 @@ However, usabilty is more general than just UI design. It's in everything that s
 
 Then there is the details and design that are specific for UI design. And then there are those who are specific for Web applications. 
 
-And when you think it's over, there's comes the implementation part. We'll introduce you to a popular component-based framework called React that allows you to create front-ends  applications by decoupling a problem in sub-components. And for the backend we'll show you a very powerful backend technology called Parse -- that allows you to quickly prototype a backend that supports your application. 
+And when you think it's over, there's comes the implementation part. We'll introduce you to a popular component-based framework called React that allows you to create front-ends  applications by decomposing a problem in sub-components. And for the backend we'll show you a very powerful backend technology called Parse -- that allows you to quickly prototype a backend that supports your application. 
 
 Finally, you'll get the chance to practice all these new concepts in a group project that combines everything. 
 
