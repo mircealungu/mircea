@@ -1,5 +1,7 @@
 # Who Is Afraid of AGI?
 
+or, *Why you shouldn't be afraid of mathematics*
+
 *February, 2023*
 
 
