@@ -8,9 +8,9 @@ It is theoretized to be the level of AI at which an "algorithm" exposes general 
 
 Many people, and sometimes even smart ones, are afraid that we are on the verge of inventing an AGI that will be more "intelligent" (whatever that may mean) than humans. 
 
-At that point, there is only one more step to the apocalypse. The AGI will start improving itself... And next thing you know, the techno-apocalypse is upon us because the, by now, super-AGI is so much more intelligent than humans that he is like a God that might just decide to dispose with our species. Or make us into its pets. The techno-apocalypse. Just one more apocalypse in a long series. Do you bet on it? I don't. 
+At that point, there is only one more step to the apocalypse. The AGI will start improving itself... And next thing you know, the end is here because the, by now, super-AGI is so much more intelligent than humans that he is like a God that might just decide to dispose with our species. Or make us into its pets. The techno-apocalypse. Also called the "singularity", was an idea proposed by Ray Kurzweil, who is these days floated around a lot, because of the popularity of the recent advances in AI and the forecasted hopes (i.e., if it can generate text that looks like thinking, maybe it can think...). But the singularity through the AGI is just the latest in a long series of apocalypses. I wouldn't bet much on it. 
 
-Anyway, reportedly, Elon Musk can't sleep at night because of his worries about AI and AGI. 
+However, reportedly, Elon Musk can't sleep at night because of his worries about AI and AGI. 
 
 My advice those who are afraid of AI turning into AGI  is to realize that AI is just advanced mathematics. It's a mathematical function. You give it some input. It provides some output.  Surely, there is a clear increase in complexity when one goes from linear regression, to logistic regression, to neural networks, to deep neural networks, and to large language models (e.g. ChatGPT), but in the end, each one of these models is, nothing more than a very complicated mathematical function representing a statistical approximation derived from very large quantities of example data. 
 
