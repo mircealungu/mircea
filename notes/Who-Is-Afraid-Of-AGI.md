@@ -24,7 +24,8 @@ P.S. Sure, if we put statstical functions that we don't fully understand inside 
 
 
 
-## References
+## Further Notes
 
 - Unlikely to have AGI w/o a sense of self [eliot miranda on linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7022617377229983744/) . And a sense of self does not easily come without a body is my conjecture. 
 - Elon musk [can't sleep at night](https://www.geospatialworld.net/blogs/scares-elon-musk-artificial-intelligence/) because he's afraid of AI; Bostrom also wrote [about his fears in a book](https://www.vox.com/future-perfect/2018/11/2/18053418/elon-musk-artificial-intelligence-google-deepmind-openai) - at least he's capitalizing on his fears
+- The whole discussion about LLMs and the fear thereof, reminds of of the Arthur C. Clarke saying "Any sufficiently advanced technology is indistinguishable from magic". A lot of the fearful don't understand how these models work. I think there's another cohort of the fearful, probably a smaller cohort, the behavior of which can be explained by another dictum, that I don't remember where I read: "You can not make somebody understand something, if their job depends on not understanding it". These are the pundits, the journalists, the researchers who by hyping up the "potential" of the technology benefit themselves in one way or another. 
