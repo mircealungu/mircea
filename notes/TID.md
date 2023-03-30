@@ -1,4 +1,4 @@
-# TID 
+# Techical Interaction Design (TID) - A Brief Course Overview
 
 The course is a high-intensity interface design traning (HIIDT) course in which we have you learn bout both the design and the implementation of interactive web applications.
 
@@ -12,7 +12,7 @@ And when you think it's over, there's comes the implementation part. We'll intro
 - a popular component-based framework called React that allows you to create front-ends  applications by decomposing a problem in sub-components. 
 - a very powerful backend technology called Parse Server -- that allows you to quickly prototype a backend that supports your application. 
 
-Finally, you'll get the chance to practice all these new concepts in a group project that combines everything. 
+Finally, you'll get the chance to practice all these new concepts in a group project that combines everything: you start from a brief project description, you decide what is the particular class of users that you want to support, you design it and you 
 
 It's a lot of work and a lot of fun. Given that the course covers a broad set of topics, we can't go too much into detail into every one. But you will definitely have a fundament for doing it all over again in a thesis project later. I had students who after taking TID went on to implement 
 -  a browser extension that helps people procrastinate less
