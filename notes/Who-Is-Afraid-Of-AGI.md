@@ -28,7 +28,7 @@ So, to wrap it up, it is my argument here that by being afraid of AI, one is lit
 
 In fact, until recently, those who were afraid of mathematics would rather not mention it. It is really a new activity to express your fears about it, and it is definitely a silly idea to [try to stop everybody else from doing mathematics for six months](https://www.npr.org/2023/03/29/1166891536/an-open-letter-signed-by-tech-leaders-researchers-proposes-delaying-ai-developme) because of your fears.
 
-Anyway, to make a long story short, my advice is that you don't lose sleep over fears of AGI-apocalypse: God is not a mathematical function.
+Anyway, to make a long story short, my advice is that you don't lose sleep over fears of AGI-apocalypse: God is not a mathematical function computed in the Sillicon Valley.
 
 ## Further Notes
 
