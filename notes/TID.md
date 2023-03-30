@@ -1,3 +1,5 @@
+# TID 
+
 The course is a high-intensity interface design traning (HIIDT) course in which we have you learn bout both the design and the implementation of interactive web applications.
 
 When designing an interactive app, you have to think about your user, understand their needs, and you have to be able to use visual design principles and usabilty principles in order to create a useful and usable application. 
