@@ -22,7 +22,7 @@ My advice those who are afraid of AI turning into AGI  is to realize that AI is 
 
 It is my argument here that by being afraid of AI, one is literally afraid of mathematics. Yes, it's true, we're all a bit afraid of mathematics, but that's because we're too lazy to put the time and understand it, not for any objective reason. 
 
-And also, until recently, those who were afraid of maths, usually didn't [want to stop everybody else from doing it for six months](https://www.npr.org/2023/03/29/1166891536/an-open-letter-signed-by-tech-leaders-researchers-proposes-delaying-ai-developme); it's only in recent times that we're proudly advertising our fears...  
+And also, until recently, those who were afraid of mathematics, didn't [try to stop everybody else from doing mathematics for six months](https://www.npr.org/2023/03/29/1166891536/an-open-letter-signed-by-tech-leaders-researchers-proposes-delaying-ai-developme); it's only in recent times that we're proudly advertising this particular fear. 
 
 Anyway, to make a long story short, my advice is that we don't lose sleep over fears of AGI-apocalypse, don't keep your girlfriend awake because of this, because she might just leave you eventually. 
 
