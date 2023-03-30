@@ -4,7 +4,7 @@ A good thesis in Software Design or Software Engineering builds an innovative ar
 
 When it comes to writing, I ask students to choose one of the two forms: 
 
-## Traditional Thesis - A Longer Monograph
+## 1. Traditional Thesis - A Longer Monograph
 
 1. [Supporting Foreign Language Learning with a Browser Extension](../docs/assets/reports/22-thesis-browser-extension.pdf), by Emma and Frida
 	- strong methodology 
@@ -15,7 +15,7 @@ When it comes to writing, I ask students to choose one of the two forms:
 	- but we also expanded the thesis into a CHI paper (CHI is the top conferece in human-computer interaction; this is very unusual)
 
 
-## Short Thesis in a Scientific-Article Format
+## 2. Scientific-Article Format
 
 It is in recent years that I started offering students the chance to write shorter theses, but with more attention to detail. 
 
