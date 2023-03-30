@@ -4,7 +4,7 @@ A good thesis in Software Design or Software Engineering builds an innovative ar
 
 When it comes to writing, I ask students to choose one of the two forms: 
 
-## 1. Traditional Thesis - A Longer Monograph
+## 1. Traditional Monograph
 
 1. [Supporting Foreign Language Learning with a Browser Extension](../docs/assets/reports/22-thesis-browser-extension.pdf), by Emma and Frida
 	- strong methodology 
