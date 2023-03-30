@@ -10,21 +10,21 @@ TL;DR; version:
 
 AGI stands for Artificial General Intelligence. 
 
-It is theoretized to be the level of AI at which an "algorithm" exposes general inteligence on par with a human. It is the "phylosopher's stone" of the modern techno-alchemist. Note that the field of AI is nowhere near to any such level, most of the algorithms are narrowly focused on a single domain. And it should be like that. Algorithms are tools, and tools are there to enhance our capabilities, not to replace us. 
+It is theoretized to be the level of AI at which an "algorithm" exposes general inteligence on par with a human. It is the "phylosopher's stone" of the modern techno-alchemist. 
 
-Many people, and sometimes even smart ones, are afraid that we are on the verge of inventing an AGI that will be more "intelligent" (whatever that may mean) than humans. 
+Many people, and sometimes even smart ones, are afraid that we are on the verge of inventing an AGI that will be more "intelligent" (whatever that may mean) than humans. Reportedly, Elon Musk can't sleep at night because of his worries about AI and AGI. 
 
-At that point, there is only one more step to the apocalypse. The AGI will start improving itself... And next thing you know, the end is here because the, by now, super-AGI is so much more intelligent than humans that he is like a God that might just decide to dispose with our species. Or make us into its pets. The techno-apocalypse. Also called the "singularity", was an idea proposed by Ray Kurzweil, who is these days floated around a lot, because of the popularity of the recent advances in AI and the associated hopes, i.e., if it can generate text that looks like thinking, maybe it can think...  
+But why be afraid of the AGI? 
 
-Reportedly, Elon Musk can't sleep at night because of his worries about AI and AGI.
+Well, because at some point the AGI will start improving itself and will turn itself into a super-AGI which will be so much more intelligent than humans that it will be like a God compared to us. And then, it might just decide to dispose with our species. Or make us into its pets. The techno-apocalypse, also called the "singularity", was an idea proposed by Ray Kurzweil, is these days floated around a lot, because of the popularity of the recent advances in AI and the associated hopes (i.e., if it can generate text that looks like thinking, maybe it can think...).  
 
-My advice those who are afraid of AI turning into AGI  is to realize that AI is just advanced mathematics. It's a mathematical function. You give it some input. It provides some output.  Surely, there is a clear increase in complexity when one goes from linear regression, to logistic regression, to neural networks, to deep neural networks, and to large language models (e.g. ChatGPT), but in the end, each one of these models is, nothing more than a very complicated mathematical function representing a statistical approximation derived from very large quantities of example data. 
+Note that the field of AI is nowhere near to any such level of generality: most of the algorithms are narrowly focused on a single domain (playing chess, playing go, generating text, etc.). And it should be like that. Algorithms are tools, and tools are there to enhance our capabilities, not to replace us. 
 
-It is my argument here that by being afraid of AI, one is literally afraid of mathematics. Yes, it's true, we're all a bit afraid of mathematics, but that's because we're too lazy to put the time and understand it, not for any objective reason. 
+Moreover, my advice those who are afraid of AI turning into AGI  is to realize that AI is just advanced mathematics. It's a mathematical function. You give it some input. It provides some output.  Surely, there is a clear increase in complexity when one goes from linear regression, to logistic regression, to neural networks, to deep neural networks, and to large language models (e.g. ChatGPT), but in the end, each one of these models is, nothing more than a very complicated mathematical function representing a statistical approximation derived from very large quantities of example data. A mathematic function that you don't understand is still a ... mathematical function. 
 
-And also, until recently, those who were afraid of mathematics, didn't [try to stop everybody else from doing mathematics for six months](https://www.npr.org/2023/03/29/1166891536/an-open-letter-signed-by-tech-leaders-researchers-proposes-delaying-ai-developme); it's only in recent times that we're proudly advertising this particular fear. 
+So, to wrap it up, it is my argument here that by being afraid of AI, one is literally afraid of mathematics. Yes, it's true, we're all a bit afraid of mathematics, but that's because we're too lazy to put the time and understand it. In fact, until recently, those of us who were afraid of mathematics would just not mention it, but by no means did anybody try [try to stop everybody else from doing mathematics for six months](https://www.npr.org/2023/03/29/1166891536/an-open-letter-signed-by-tech-leaders-researchers-proposes-delaying-ai-developme). 
 
-Anyway, to make a long story short, my advice is that we don't lose sleep over fears of AGI-apocalypse, don't keep your girlfriend awake because of this, because she might just leave you eventually. 
+Anyway, to make a long story short, my advice is that you don't lose sleep over fears of AGI-apocalypse, and definitely don't keep your partner awake because of this: they might just leave you and then you'll be sad. 
 
 
 ## Further Notes
