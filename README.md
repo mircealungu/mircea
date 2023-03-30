@@ -39,7 +39,7 @@ If you're interested in a student project, please look at the [list of projects 
 I am currently teaching or co-teaching the following courses at ITU:
 
 - [DevOps and Software Evolution](https://github.com/itu-devops/lecture_notes), with H. Pfeiffer, Spring (2020 - ...) 
-- Technical Interaction Design, Fall (2019 - ...)
+- [Technical Interaction Design](notes/TID.md), Fall (2019 - ...)
 - Software Architecture, with K. Manikas, Fall 2018, Spring (2019 - ...)
 - Advanced Software Engineering, with Y. Dittrich, E.Paja, P. Tell, H. Pfeiffer, Fall (2019 - ...)
 
