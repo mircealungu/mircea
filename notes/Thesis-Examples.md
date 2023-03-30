@@ -1,9 +1,10 @@
 # Positive Thesis Examples from Past Students
 
+A good thesis in Software Design or Software Engineering builds an innovative artifact, evalutes it with users and reports on the lessons learned. The main scientific contribution are the lessons learned, and answering an important research question with the help of the artifact. Not the artifact itself. However, if you don't build a sufficiently powerful artifact, then your study might be endandered. 
 
-## Traditional Thesis - Building Artifact and Evaluating It
+When it comes to writing, I ask students to choose one of the two forms: 
 
-A good thesis in Software Design and Software Engineering builds an innovative artifact, evalutes it with users and reports on it. A few good examples here are: 
+## Traditional Thesis - A Longer Monograph
 
 1. [Supporting Foreign Language Learning with a Browser Extension](../docs/assets/reports/22-thesis-browser-extension.pdf), by Emma and Frida
 	- strong methodology 
@@ -16,7 +17,7 @@ A good thesis in Software Design and Software Engineering builds an innovative a
 
 ## Short Thesis in a Scientific-Article Format
 
-In recent years I started offering students the chance to write shorter theses, but with more attention to detail. 
+It is in recent years that I started offering students the chance to write shorter theses, but with more attention to detail. 
 
 This is because many of the students I see have no experience with scientific writing and allowing them to write a 60 pages thesis will very likely result in a document that has too many weaknesses. And because writing shorter forces you to think about what's essential. Nobody needs to read filler text that can be written by ChatGPT. 
 
