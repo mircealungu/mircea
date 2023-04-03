@@ -1,4 +1,4 @@
-# Who Is Afraid of AGI?
+# Who Is Afraid of AI?
 
 or, *Why you shouldn't be afraid of mathematics*
 
