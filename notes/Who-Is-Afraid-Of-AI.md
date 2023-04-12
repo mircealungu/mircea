@@ -12,7 +12,7 @@ TL;DR; version:
 
 AGI stands for Artificial General Intelligence. 
 
-It is theoretized to be the level of AI at which an "algorithm" exposes general inteligence on par with a human. It is the "phylosopher's stone" of the modern techno-alchemist. 
+It is theoretized to be the level of AI at which an "algorithm" exposes general inteligence on par with a human. It is the "phylosopher's stone" of the modern techno-alchemist*.  
 
 Many people, and sometimes even smart ones, are afraid that we are on the verge of inventing an AGI that will be more "intelligent" (whatever that may mean) than humans. Reportedly, Elon Musk can't sleep at night because of his worries about AI and AGI. 
 
@@ -33,6 +33,11 @@ In fact, until recently, those who were afraid of mathematics would rather not m
 Thus, don't lose sleep over fears of AGI-apocalypse: God is not a mathematical function computed in the Sillicon Valley.
 
 And instead of proposing that people stop doing research in AI, I think we'd all be better served by a ban on people who do not work in AI (e.g. journalists, marketing, pundits, Elon Musk): for six months they should not be allowed to worry in public about the techno-apocalypse. It'd be a better, quieter, more rational world. 
+
+
+\* I'm not the only one who sees the parallel with alchemy: Rodney Brooks, the robotics pioneer, says in a tweet: *"My take on LLM/CHATters. We're going to transmute lead to gold! Why now? We just pumped massive energy in and got Pb to turn to liquid. First time ever. It logically follows that soon we will have AgI(silver incalculable) and even AuI. We (my in group) are going to be RIIICCCHHH!"* ([source](https://twitter.com/rodneyabrooks/status/1631367032666210304?s=20))
+
+
 
 ## Further Notes
 
