@@ -38,6 +38,10 @@ And instead of proposing that people stop doing research in AI, I think we'd all
 \* I'm not the only one who sees the parallel with alchemy: Rodney Brooks, the robotics pioneer, says in a tweet: *"My take on LLM/CHATters. We're going to transmute lead to gold! Why now? We just pumped massive energy in and got Pb to turn to liquid. First time ever. It logically follows that soon we will have AgI(silver incalculable) and even AuI. We (my in group) are going to be RIIICCCHHH!"* ([source](https://twitter.com/rodneyabrooks/status/1631367032666210304?s=20))
 
 
+## Further Reading
+- Rodney Brooks: [What will Transformers Transform](https://rodneybrooks.com/what-will-transformers-transform/)
+
+
 
 ## Further Notes
 
@@ -47,3 +51,4 @@ And instead of proposing that people stop doing research in AI, I think we'd all
 - The whole discussion about LLMs and the fear thereof, reminds of of the Arthur C. Clarke saying "*Any sufficiently advanced technology is indistinguishable from magic*". And if something is magic, you have all the rights to be afraid of it, I guess.
 - Unlikely to have AGI w/o a sense of self [eliot miranda on linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7022617377229983744/) . And a sense of self is not well-defined without a body is my conjecture. 
 - Elon musk [can't sleep at night](https://www.geospatialworld.net/blogs/scares-elon-musk-artificial-intelligence/) because he's afraid of AI; Bostrom is at least capitalizing on his fears by [writing a book on the topic](https://www.vox.com/future-perfect/2018/11/2/18053418/elon-musk-artificial-intelligence-google-deepmind-openai)
+
