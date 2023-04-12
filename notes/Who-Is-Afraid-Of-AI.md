@@ -18,7 +18,7 @@ Many people, and sometimes even smart ones, are afraid that we are on the verge 
 
 But why be afraid of the AGI? 
 
-Well, because that "more intelligent" than humans AGI will start improving itself and will turn itself into a super-AGI which will be so much more intelligent than all of us that it will be like a God compared to us. And then, it might just decide to dispose with our species. Or make us into its pets. The techno-apocalypse, also called the "singularity", was an idea originally proposed by Ray Kurzweil, and it seems to not let some people sleep at night. The fear of AI has flared these days, probably because of the popularity of the recent advances in AI and the associated hopes and journalistic and marketing amplifications.  
+Well, because that "more intelligent" than humans AGI will start improving itself and will turn itself into a super-AGI which will be so much more intelligent than all of us that it will be like a God compared to us. And then, it might just decide to dispose with our species. Or make us into its pets. The techno-apocalypse, also called the "singularity", is an idea originally proposed by Ray Kurzweil, which seems to not let some people sleep at night. The fear of AI has flared these days, probably because of the popularity of the recent advances in AI and the associated hopes and journalistic and marketing amplifications.  
 
 Note that the field of AI is nowhere near to any such level of generality: most of the algorithms are narrowly focused on a single domain: playing chess, playing go, generating images, generating text, classifying images, etc. (And it should be like that. Algorithms are tools, and tools are there to enhance our capabilities, not to replace us). 
 
