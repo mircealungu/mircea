@@ -47,7 +47,8 @@ CHI'23: Nanna Inie, Bjørn Hjorth Westh, John Muller, Mircea F. Lungu: [**Challe
 CHI'21: Nanna Inie and Mircea F. Lungu. 2021. [**Aiki: Turning Procrastination into Microlearning**](../docs/assets/papers/Aiki-CHI21.pdf). In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21). Association for Computing Machinery, New York, NY, USA, Article 369, 1–13. https://doi.org/10.1145/3411764.3445202
 
 
-
+# Download
+- [Aiki-CHI'23 Version](Aiki-CHI23.zip)
 
 ## Source Code
 - Code: [github.com/aiki-extension](https://github.com/Aiki-Extension/Aiki)
