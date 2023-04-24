@@ -26,11 +26,16 @@ Another awesome video directed by Nanna that presents the highlights of the pape
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4o2DFV7VS9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+The corresponding paper with Nanna Inie, [**Aiki: Turning Procrastination into Microlearning**](../docs/assets/papers/Aiki-CHI21.pdf) shows that: 
+- People who want to learn Danish can use redirection from time-wasting-websites as a strategy and cue to remember that they should learn
+ - Participants learned quite a bit of Danish and some of them actually found the learning a better use of their time than the 'mindless' scrolling on Facebook
 
-## Current Team
+
+## Team
 - Nanna Inie
 - Bjørn Hjorth Westh
 - John Muller
+- Gabriel Frejberg Agger-Nielsen
 - Mircea Lungu
 
 
@@ -38,19 +43,13 @@ Another awesome video directed by Nanna that presents the highlights of the pape
 ## Papers
 
 CHI'23: [**Challenges and Opportunities of Using Redirection of Activity for Self-Regulation Online**](../docs/assets/papers/Aiki-CHI23.pdf)
-- A paper that investigates how Aiki 2.0 -- an improved version of Aiki in terms of usability -- fares to help people drop procrastination and instead learn programming with the help of micro-learning activities
 
 CHI'21: [**Aiki: Turning Procrastination into Microlearning**](../docs/assets/papers/Aiki-CHI21.pdf) 
-- A study with Nanna Inie 
-- Shows that people who want to learn Danish can use redirection from time-wasting-websites as a strategy and cue to remember that they should learn
- - Our participants learned quite a bit of Danish and some of them actually found the learning a better use of their time than the 'mindless' scrolling on Facebook
 
 
 ## Source Code
 - Code: [github.com/aiki-extension](https://github.com/Aiki-Extension/Aiki)
 - License: MIT
-
-
 
 
 ## Future Work
@@ -64,5 +63,4 @@ CHI'21: [**Aiki: Turning Procrastination into Microlearning**](../docs/assets/pa
 - Longer Term
 	- implement interceptions also on mobile devices 
 
-## Past Contributors
-- Gabriel Frejberg Agger-Nielsen
+
