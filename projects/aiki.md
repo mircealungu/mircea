@@ -1,4 +1,4 @@
-title: Aiki - The Research Project
+
 
 
 "Social media companies aim to [colonize](https://twitter.com/JoshuaPHilll/status/1587857229054705666) every minute of our lives". (Bo Burnham)
