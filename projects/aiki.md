@@ -49,10 +49,10 @@ CHI'21: Nanna Inie and Mircea F. Lungu. 2021. [**Aiki: Turning Procrastination i
 
 
 # Download
-- [Aiki-CHI'23 Version](Aiki-CHI23.zip)
+- [Aiki-CHI'23 Version](Aiki-CHI23.zip) - zipped archive; You must install manually in your Browser
 
 ## Source Code
-- Code: [github.com/aiki-extension](https://github.com/Aiki-Extension/Aiki)
+- Aiki-CHI'21 Version Code: [github.com/aiki-extension](https://github.com/Aiki-Extension/Aiki)
 - License: MIT
 
 
@@ -66,5 +66,14 @@ CHI'21: Nanna Inie and Mircea F. Lungu. 2021. [**Aiki: Turning Procrastination i
 - Design a large scale in-the-wild expertiment 
 - Longer Term
 	- implement interceptions also on mobile devices 
+
+
+# Relevant News
+
+A think tank has [recommended a time limit](https://substack.com/redirect/3f85e91d-10e2-4ee2-afb5-3cbe9e45b8f1?j=eyJ1IjoiMWZrZzVjIn0.Fa_XmdYtdc15xoYJP6e1l7sHUPzT_gPyKZ61VI7dhe4) on **children’s social media access**. The recommendation is based on research showing that excessive social media use can lead to unhappiness. The think tank also pointed out that children can be exposed to violent content on social media and made 11 recommendations to tackle the problem. In Denmark the Minister of Culture has supported the proposals, and will discuss them with his Nordic counterparts on May 3rd. He also argues that effective age verification should be introduced at the EU level.
+
+
+### Social Media Is a Problem for Many
+- "Personally, I have tried to increase the time I spend reading books or longer-form journalism, for example, and cutting back on Twitter (*I fail often, but at least I’m failing consciously*)". (Richard Fisher, [Time-warped: how modern life shortens our perspectives](https://www.theguardian.com/lifeandstyle/2023/jun/18/self-and-wellbeing-polycrisis-time-anxiety), from theguardian.com)
 
 
