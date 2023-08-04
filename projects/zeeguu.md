@@ -54,4 +54,8 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 - research questions that should be answereed
 	- how important is the difficulty estimator given that Zeeguu supports the reader also with translations - so they can read texts that are harder than their level; how much harder than their level can they read now? 
 	- how to evaluate the efficiency of the exercise scheduling algorithm?
-	- 
+
+
+# Inspiration
+
+[Marc Andreesen](https://www.thefp.com/p/why-ai-will-save-the-world?utm_source=substack&utm_medium=email): "Every child will have an AI tutor that is infinitely patient, infinitely compassionate, infinitely knowledgeable, infinitely helpful. The AI tutor will be by each child’s side every step of their development, helping them maximize their potential with the machine version of infinite love.""
