@@ -5,7 +5,7 @@
 
 *Dansk in town* is a research project in which we aim to understand whether we can augment the experience of foreigners in Denmark in such a way as to make every trip in town a learning experience. It's an app, and a concept. 
 
-A prototype of the system has been implemented by Mircea in React, and then Patrycja, as part of her master thesis, has ported it to React Native and evaluated it with users for several weeks. Based on the discussions with the users, we learned that: 
+A prototype of the system was implemented by Mircea in React, and then Patrycja Zawrotniak, as part of her master thesis, has ported it to React Native and evaluated it with users for several weeks. Based on the discussions with the users, we learned that: 
 - many people love the idea
 - many learners do like to practice on images uploaded by other users, not only by themselves
 
