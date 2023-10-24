@@ -26,6 +26,7 @@ I always loved and I still love coding. However, nowadays I'm more of a product 
 - [Zeeguu](projects/zeeguu.md) - personalized adaptive reading and vocabulary practice online
 - [MathsCamp](projects/maths-camp.md) - personalized maths for kids
 - [Aiki](projects/aiki.md) - a browser extension that uses procrastination for good
+- [Dansk-in-Town](projects/dansk-in-town.md) - an app for learning vocabulary around town. What if instead of hunting tamagotchis, we'd hunt words around town? 
 
 
 [> past projects](/projects/history.md)
