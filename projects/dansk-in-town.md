@@ -9,7 +9,7 @@ A prototype of the system was implemented by Mircea in React, and then Patrycja 
 - many people love the idea
 - many learners do like to practice on images uploaded by other users, not only by themselves
 
-## Student Project Ideas and Future Directions
+## Ideas for Student Projects
 
 To bring the project to the next level, several directions should be investigated:
 - How to use state of the art image analysis techniques to automatically extract the relevant text from an image; the technical challenge is in UX and AI: how to integrate text extraction APIs with  an interactive app such that the user does not have to type the words they don't know. Then evaluate the impact on user satisfaction of the new feature. 
