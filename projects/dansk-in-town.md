@@ -27,5 +27,6 @@ Code is available as open source [on GitHub](https://github.com/zawropati/dansk_
 
 ## Reading
 
-The [thesis of Patrycja](../docs/assets/Patrycja-Thesis.pdf) has much more information about the project. 
+The thesis of Patrycja, has much more information about the project:
+- Patrycja Zawrotniak, [Evaluating mobile application for microlearning vocabulary through self-captured images in real-world contexts](../docs/assets/Patrycja-Thesis.pdf) 
 
