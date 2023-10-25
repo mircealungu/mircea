@@ -57,12 +57,13 @@ Sounds attractive. However, the originality might be in the details.
 ## To think about
 - page limits might become important
 - there is a small risk of a "writing winter" - everything that's easily obtainable has low value and as such, if we can easily generate paragraphs of text effortlessly, we will suddenly stop appreciating thos kinds of essays that can be generated (a bit like in architecture, where after the industrial age, none of the baroque decorations make sense anymore because they are easy to obtain) 
-- Will CoPilot mking easier to write code result in an even more frantic pace of innovation and code churning? Will it accentuate the maintenance problem?  As soon as sufficient examples are available, everybody can quickly start porting their systems to the library *du jour*... 
+- Will CoPilot making easier to write code result in an even more frantic pace of innovation and code churning? Will it accentuate the maintenance problem?  As soon as sufficient examples are available, everybody can quickly start porting their systems to the library *du jour*... 
 
 
 Further notes
 - Copenhagen Business School has formally and officially [prohibited students](https://www.linkedin.com/posts/tomasvemola_is-copenhagen-business-school-banning-word-activity-7022278634199478273-rXDk?utm_source=share&utm_medium=member_desktop) from using ChatGPT in an exam
 - [StackOverflow contributor tweets about how he'll stop contributing and that will affect the future "GPT"s](https://twitter.com/peternixey/status/1640002493630369792?cxt=HHwWgMC--YXlusItAAAA)
+- The boy who cried wolf... 
 
 
 

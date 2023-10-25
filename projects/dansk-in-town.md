@@ -26,7 +26,6 @@ Try out the current app on your phone:
 Code is available as open source [on GitHub](https://github.com/zawropati/dansk_in_town_mobile)
 
 ## Reading
-The thesis of Patrycja is below. 
 
-![](../docs/assets/Patrycja-Thesis.pdf)
+The [thesis of Patrycja](../docs/assets/Patrycja-Thesis.pdf) has much more information about the project. 
 
