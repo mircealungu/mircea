@@ -18,9 +18,15 @@ The current generation of such models is based on several conditions:
 - **very large amounts of data** -- on which they are trained, e.g. [45TB](https://arxiv.org/pdf/2005.14165.pdf) of compressed plaintext for GPT3
 - **very large resulting models** -- trillions of parameters, which have the capability of [compressing the input](https://arxiv.org/pdf/2309.10668.pdf)
 
+### The DRO Principle
+If trained on the whole Internet, an LLM can extract patterns from other developers and help the individual be faster in *churning out code that was written before*. Indeed, developers are proud and aware of the DRY principle (Don't repeat yourself). However, the forays into the **DRO** principle (don't repeat others) are only now done at scale. 
+
+As a community, Software Engineering has already done the work on extracting information from the ecosystem and mining the version repositories to help the individual developer, but the new models are more powerful.  In a way, we've always assumed that our models must parse correct code. The big-data approach seems to have invalidate this: if you throw enough information to the magic-box, even if some of it is broken. But remember that is fine because what you're asking the magic-box later is the most likely continuation which is probably the correct code not the syntactically incorrect one. 
+
 These things are ever changing, so I'll try to keep this presentation and discourse at the level where things are not changing. 
 
-## One Underlying Architecture - Two User Interfaces
+
+### One Underlying Architecture - Two User Interfaces
 
 LLMs are trained to predict the next token. Or to predict the missing token. 
 
@@ -32,9 +38,6 @@ In any case, their strength is generating text and, for the programmer, code. Th
 	- stack overflow searches -- which were normally piggybacked on Google searchers, however, 
 
 Some IDEs such as VSCode integrate the two modes of interaction. 
-
-##### Beyond General Queries and Completion
-There is one extra hope: that the general LLM model, trained on the whole internet, will be able to adapt to a given's codebase, such that it can answer individual questions about that codebase.
 
 ## The Good
 
@@ -49,10 +52,7 @@ The homepage of GitHub Copilot reports a [study](https://github.blog/2022-09-07-
 - "more in the flow" (73%)
 
 
-##### The DRO Principle
-If trained on the whole set of code out there, an LLM can extract patterns from other developers and help the individual be faster in *churning out code that was written before*. Indeed, developers are proud and aware of the DRY principle (Don't repeat yourself). However, the forays into the **DRO** principle (don't repeat others) are only now done at scale. 
 
-As a community we've done some of the work on extracting information from the ecosystem and mining the version repositories to help the individual developer, but the new models are more powerful.  In a way, we've always assumed that our models must parse correct code. The big-data approach seems to have invalidate this: if you throw enough information to the magic-box, even if some of it is broken. But remember that is fine because what you're asking the magic-box later is the most likely continuation which is probably the correct code not the syntactically incorrect one. 
 
 ## The Bad
 
@@ -73,27 +73,27 @@ As a community we've done some of the work on extracting information from the ec
 
 There are still many open questions: 
 - **Will reading code become more important than writing code**? State of the art coding tools allow a part of the development flow to be switched from typing to inspecting generated code. 
-- What is the **impact of this kind of generated code on the maintainability of systems**? 
-	- we have no idea whether this patchwork of generated cobbled together will result in reliable and usable systems
-	- the role of the senior who does code review becomes even more important -- there has to be a grown-up in the house 
-	- how to ensure that you understand the system sufficiently well to change it
-- How are companies going to ensure the **legality of the generated code**? See the NY Times articles parroted back in full by ChatGPT. 
-- Can we have open models, the way that we have open source -- models that are not black boxes that belong to a corporation, but rather, that are created and maintained in the open? Moreover, can we take an open model, and modify train it to become our own personalized assistant? Would such an assistant become 
-
-In which other areas can we use generative AI?
-- **Maintenance** - the longest phase (called software evolution exactly because it's such a significant part)
-- **Code understanding** - still the hardest part of maintenance -- developer spend 80% of their time reading code rather than writing; why? because this is hard. If we can use LLMs to make code more understandable, this would be a very good thing!
-
-
-
-
-## The Future 
-These are several directions that I think are worth investigating: 
+- What is the **impact of this kind of generated code on the maintainability of systems**? Indeed, **maintenance** is the longest phase in the life of a system. These days we call it  software evolution exactly to acknowledge its importance and extent. 
+	- We have no idea whether this patchwork of generated cobbled together will result in reliable and usable systems
+	- The role of the senior who does code review becomes even more important -- there has to be a grown-up in the house 
+	- How to ensure that you understand the system sufficiently well to change it
+	- How do we trace the generated code? 
+- How are companies going to ensure the **legality of the generated code**? See the NY Times articles parroted back in full by ChatGPT. What about licensing? The current solution seems to be often to ban the technology alltogetehr.
+- **Can we have open models, the way that we have open source** -- models that are not black boxes that belong to a corporation, but rather, that are created and maintained in the open? After all, they are built on the open internet.
 - **Localized LLM agents** instead of the basic search that websites are using nowadays. E.g., StackOverflow search is currently abysmal. Maybe this is why they have announced that they are working on a LLM powered interface. (Still open: how could such a system solve the attribution problem?)
-- **Beyond chat and auto-complete** -- better UIs -- some of these companies push towards replacing all the UI with chats. I think we have to go the other way around. We have developed rich user interactions over the recent years; how can we integrate the LLM inside them?
-- **Personalized LLM agents**. That learn from the individual, small apprentices that with time learn to write code in the style of their user. 
+- **Personalized LLM agents**. That learn from the individual, small apprentices that with time learn to write code in the style of their user.
+- **Better UIs - Beyond chat and auto-complete** -- some of these companies push towards replacing all the UI with chats. I think we have to go the other way around. We have developed rich user interactions over the recent years; how can we integrate the LLM inside them?
+- In which other areas can we use generative AI?
+	- **Code understanding** - still the hardest part of maintenance -- developer spend 80% of their time reading code rather than writing; why? because this is hard. If we can use LLMs to make code more understandable, this would be a very good thing (TM)!
+	- Requirements ? 
+	- Architecture ? 
 
 
+
+
+
+# ------ 
+# Beyond here lay dragons - Work in Progress
 
 
 ## Our Role as Researchers
@@ -114,6 +114,8 @@ Can be very useful sometimes. But even then, it might have downsides, see the ab
 
 
 ## Outside of the Scope? 
+
+These are just notes taht 
 
 - Integration with CI/CD ... can they help with integration -- could use Chat interfaces to run ops? 
 
@@ -141,3 +143,5 @@ For the purpose of this talk, we will assume that the golden fish
 
 
 
+##### Beyond General Queries and Completion
+There is one extra hope: that the general LLM model, trained on the whole internet, will be able to adapt to a given's codebase, such that it can answer individual questions about that codebase.
