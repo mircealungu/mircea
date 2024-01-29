@@ -1,0 +1,4 @@
+
+What Software Engineering teaches us is that over and over again, the customer does not know what they want. 
+
+Everybody thinks they know what they talk about at the high-level; when they are faced with details, they realize that it wasn't exactly it; in the context of AGI - nobody thinks much too deeply about the consequences of creating an actual human-like-AI; a fascinating example is the [short story about MMAcevedo](https://qntm.org/mmacevedo) - a fantastic little gem of SF where SF does what it does best: takes an idea and explores it's implications; in this case it's the idea of uploading one's mind in a computer; sounds nice, right? Maybe read the story first before volunteering to upload your intelligence in the net :) See also the [discussion](https://www.reddit.com/r/slatestarcodex/comments/lqr8hu/fiction_mmacevedo_the_brain_image_of_the_first/) about the story on r/slatestarcodex. 

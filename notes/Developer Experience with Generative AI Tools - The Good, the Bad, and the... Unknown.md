@@ -1,0 +1,142 @@
+
+**Code Generation is not new to Software Engineering.** And neither are the announcements of dismissal of programming that come together with it. We've seen it in Cobol many years ago. And we've seen it with  model-driven engineering and with low-code platforms. And now we're seeing it with AI. 
+
+**However, there is a difference between the old and the new code generation**. Then, old code generation was generating code in a lower-level *formal* language from a formal higher-level *formal* language. Notice the emphasize on *formal* language. 
+
+This is different with the AI generation that everybody is talking about today. ChatGPT and Copilot. 
+
+The new code generation can take as input either natural language or code (in the case of automatic code completion) and generates either natural language or code. 
+
+The most successful generative AI of the moment is based on large language models (LLMs). These are *statistical* models of language, which originally designed for natural language. 
+
+However, it turns out that when one "feeds the whole internet"* into such a model, somewhere in the weights of their billions of parameters, correct code can also be generated. 
+
+The current generation of such models is based on several conditions: 
+- **transformer architecture** -- highly generalizable way of detecting patters in data at increasing abstraction levels
+- **an attention mechanism** - the fact that they don't only take as input the previous few tokens, but they can take into account pertinent tokens that came much earlier 
+- **very large amounts of data** -- on which they are trained, e.g. [45TB](https://arxiv.org/pdf/2005.14165.pdf) of compressed plaintext for GPT3
+- **very large resulting models** -- trillions of parameters, which have the capability of [compressing the input](https://arxiv.org/pdf/2309.10668.pdf)
+
+These things are ever changing, so I'll try to keep this presentation and discourse at the level where things are not changing. 
+
+## One Underlying Architecture - Two User Interfaces
+
+LLMs are trained to predict the next token. Or to predict the missing token. 
+
+In any case, their strength is generating text and, for the programmer, code. This is why, there are two main ways in which they are integrated in the development process in two variants of user interfaces: 
+
+1. **Auto-complete-like agents.** The developer writes a function definition, and the LLM gets to auto-complete it. If the problem is general enough, and function name is likely clear enough, the most common likely continuation might be exactly what the developer needs. This works especially well and is very useful for boilerplate code, or generic queries.  
+2. **Conversational agents**. With extra training, a LLM can be conditioned to work in the fashion of a chat-like system. In this context, the model acts as a **question and answer system**. Before this existed, we solved our programming problems with the help of
+	- google searches -- the quality of which is very low these days (if google did their job better, we'd be less impressed by ChatGPT)
+	- stack overflow searches -- which were normally piggybacked on Google searchers, however, 
+
+Some IDEs such as VSCode integrate the two modes of interaction. 
+
+##### Beyond General Queries and Completion
+There is one extra hope: that the general LLM model, trained on the whole internet, will be able to adapt to a given's codebase, such that it can answer individual questions about that codebase.
+
+## The Good
+
+There are ways in which these tools are **improving the lives of the developers**. 
+- Chat-like systems might **help them avoid googling** - which these days is a pain - but it's a necessity - the complexity of the tech world is so large that one can not keep everything in their mind. Google and StackOverflow are not going away, but will be replaced for some tasks by LLMs.  
+	- Chat-like systems encourage better definition of the problem - which in itself is often halfway to the solution; Google has taught all of us to throw a bag of keywords to it
+- Autocomplete-like interfaces might be **able to avoid writing boilerplate code** (although it's still written, only that much faster). I'm collecting my own examples of both successes and failures; sometimes it feels like magic; sometimes it feels like the second coming of Clippy from MS Word.
+
+The homepage of GitHub Copilot reports a [study](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) that suggests that when using Copilot, developers are
+- "faster with repetitive tasks" (96%)
+- spending "less time searching" (77%)
+- "more in the flow" (73%)
+
+
+##### The DRO Principle
+If trained on the whole set of code out there, an LLM can extract patterns from other developers and help the individual be faster in *churning out code that was written before*. Indeed, developers are proud and aware of the DRY principle (Don't repeat yourself). However, the forays into the **DRO** principle (don't repeat others) are only now done at scale. 
+
+As a community we've done some of the work on extracting information from the ecosystem and mining the version repositories to help the individual developer, but the new models are more powerful.  In a way, we've always assumed that our models must parse correct code. The big-data approach seems to have invalidate this: if you throw enough information to the magic-box, even if some of it is broken. But remember that is fine because what you're asking the magic-box later is the most likely continuation which is probably the correct code not the syntactically incorrect one. 
+
+## The Bad
+
+1. The **internet will end up being filled with generated junk**. 
+	- StackOverfow had a problem with this already in December 2022 - users generating answers and pasting them in. Decreases the quality of the platform. The [discussion thread](https://meta.stackoverflow.com/questions/421831/temporary-policy-generative-ai-e-g-chatgpt-is-banned) illustrates the limitations of ChatGPT... and the fact that "junk" is in there. 
+
+2. The "most likely continuation of a query" that an LLM generates
+	- **might not be the best** (e.g. the way biases exist in other kinds of datasets, there will be biases in the programming related data)
+	- **will not exist for the most recent versions** of libraries - and thus, if you as a customer or employer get yourself a lazy programmer, you might end up with the patterns of yesterday. (Paolo Tell: "there was a delay of several years required for the community to realize that Singleton, although a design pattern was a bad idea")
+
+3. **Companies pushing LLM-based systems might be killing the golden goose**.  Given that these systems are trained on existing human generated content, they can not exist without it. **At the same time, they represent a strong disincentive for further content generation.** 
+	- When StackOverflow came first developers and researchers, we were all enthusiastic. What it did was put order into a messy web. Remember how forums looked before StackOverflow? SO had a clean design, and a clever social incentive system with the help of which, people who wanted to be good citizens could contribute and recognized for their contributions. The key was probably the recognition. 
+	- The new system is exactly the opposite. It does not give credit and unfortunately, it couldn't even if it wanted to. It thus, does not encourage people to contribute. 
+	- It also encourages a lack of understanding of the bigger context. It  lacks the rich conversations around the questions that are present on SO. These conversations around a question are sometimes even more informative than the actual answer. And the value of the conversations is that they identify and solve also the corner cases. The main answer solves the general problem, the comments often solve the rare exception. 
+
+
+## The Unknown
+
+There are still many open questions: 
+- **Will reading code become more important than writing code**? State of the art coding tools allow a part of the development flow to be switched from typing to inspecting generated code. 
+- What is the **impact of this kind of generated code on the maintainability of systems**? 
+	- we have no idea whether this patchwork of generated cobbled together will result in reliable and usable systems
+	- the role of the senior who does code review becomes even more important -- there has to be a grown-up in the house 
+	- how to ensure that you understand the system sufficiently well to change it
+- How are companies going to ensure the **legality of the generated code**? See the NY Times articles parroted back in full by ChatGPT. 
+- Can we have open models, the way that we have open source -- models that are not black boxes that belong to a corporation, but rather, that are created and maintained in the open? Moreover, can we take an open model, and modify train it to become our own personalized assistant? Would such an assistant become 
+
+In which other areas can we use generative AI?
+- **Maintenance** - the longest phase (called software evolution exactly because it's such a significant part)
+- **Code understanding** - still the hardest part of maintenance -- developer spend 80% of their time reading code rather than writing; why? because this is hard. If we can use LLMs to make code more understandable, this would be a very good thing!
+
+
+
+
+## The Future 
+These are several directions that I think are worth investigating: 
+- **Localized LLM agents** instead of the basic search that websites are using nowadays. E.g., StackOverflow search is currently abysmal. Maybe this is why they have announced that they are working on a LLM powered interface. (Still open: how could such a system solve the attribution problem?)
+- **Beyond chat and auto-complete** -- better UIs -- some of these companies push towards replacing all the UI with chats. I think we have to go the other way around. We have developed rich user interactions over the recent years; how can we integrate the LLM inside them?
+- **Personalized LLM agents**. That learn from the individual, small apprentices that with time learn to write code in the style of their user. 
+
+
+
+
+## Our Role as Researchers
+- disentangling the truth from the marketing and the noise
+- working at the abstract level of the concept; not running after every new version of every new model of every new company; we'd be doing their work; for free; in fact, we might have to pay them to use it sometimes; and that's stupid.
+- ...
+
+
+## Closing Words 
+
+The most likely continuation... is just that. The most likely continuation. 
+
+A chat system that gives you the most likely continuation of a conversation... is the most boring thing. For me, exactly that a conversation went somewhere where I would have not expected was the value of it. 
+
+Can be very useful sometimes. But even then, it might have downsides, see the above discussion about maintainability. 
+
+
+
+
+## Outside of the Scope? 
+
+- Integration with CI/CD ... can they help with integration -- could use Chat interfaces to run ops? 
+
+What about all the other challenges, besides writing code
+- - Architecture - if you need the average architecture, it can help you -- but Amdahl's Law means that this will not make a difference - the effort of architecting is not that large; it's upfront; and can not be replaced with experience
+
+
+The more boring the code you write, the more likely you will 
+
+The maintainability of these things is going to be dismal 
+
+
+
+What are the biggest challenges 
+
+The beautiful thing is that they can generate code that takes information from the context. 
+
+If the code one wants to write is in some case, not original, they 
+
+I've already argued long time ago that ecosystem analysis 
+
+For the purpose of this talk, we will assume that the golden fish 
+
+
+
+
+

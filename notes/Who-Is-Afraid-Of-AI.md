@@ -40,7 +40,7 @@ And instead of proposing that people stop doing research in AI, I think we'd all
 
 ## Further Reading
 - Rodney Brooks: [What will Transformers Transform](https://rodneybrooks.com/what-will-transformers-transform/)
-- Andrew NG in a [Letter to The Batch](https://www.deeplearning.ai/the-batch/issue-220/) from Oct 25, 2023 covers very similar points to mine, including the kinds of people who might benefit from stirring fear around AI
+- Andrew NG in a [Letter to The Batch](https://www.deeplearning.ai/the-batch/issue-220/) from Oct 25, 2023 covers very similar points to mine, including the kinds of people who might benefit from stirring fear around AI. Also he says: *"My greatest fear for the future of AI is if overhyped risks (such as human extinction) lets tech lobbyists get enacted stifling regulations that suppress open-source and crush innovation."* [link to tweet](https://twitter.com/AndrewYNg/status/1719378661475017211)
 
 
 
