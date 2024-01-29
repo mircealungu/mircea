@@ -56,6 +56,8 @@ In the past I have been involved in teaching a wide variety of computer science 
 
 
 # Essays
+Pieces of text that aim to have a beginning and an end... 
+
 - Feb '24 - [devx-and-ai](essays/devx-and-ai.md)
 - Feb '23 - [Who-Is-Afraid-Of-AI](notes/Who-Is-Afraid-Of-AI.md)
 # Notes
