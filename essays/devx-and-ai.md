@@ -85,6 +85,7 @@ There are still many open questions:
 - **Localized LLM agents** instead of the basic search that websites are using nowadays. E.g., StackOverflow search is currently abysmal. Maybe this is why they have announced that they are working on a LLM powered interface. (Still open: how could such a system solve the attribution problem?)
 - **Personalized LLM agents**. That learn from the individual, small apprentices that with time learn to write code in the style of their user.
 - **Better UIs - Beyond chat and auto-complete** -- some of these companies push towards replacing all the UI with chats. I think we have to go the other way around. We have developed rich user interactions over the recent years; how can we integrate the LLM inside them?
+- How do you study these things? How do you compare? Running after every new version of every new model of every new company is useless. New versions might decrease in quality as the company needs to cut on operations. From this POV, running one owns' model is more sustainable. 
 - In which other areas can we use generative AI?
 	- **Code understanding** - still the hardest part of maintenance -- developer spend 80% of their time reading code rather than writing; why? because this is hard. If we can use LLMs to make code more understandable, this would be a very good thing (TM)!
 	- Requirements ? but these models are imprecise - how can they help? Embrace the imprecision? 
@@ -100,7 +101,7 @@ There are still many open questions:
 
 ### Our Role as Researchers
 - disentangling the truth from the marketing and the noise
-- working at the abstract level of the concept; not running after every new version of every new model of every new company; we'd be doing their work; for free; in fact, we might have to pay them to use it sometimes; and that's stupid.
+
 - ...
 
 
