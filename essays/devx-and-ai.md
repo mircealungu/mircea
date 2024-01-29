@@ -85,18 +85,18 @@ There are still many open questions:
 - **Better UIs - Beyond chat and auto-complete** -- some of these companies push towards replacing all the UI with chats. I think we have to go the other way around. We have developed rich user interactions over the recent years; how can we integrate the LLM inside them?
 - In which other areas can we use generative AI?
 	- **Code understanding** - still the hardest part of maintenance -- developer spend 80% of their time reading code rather than writing; why? because this is hard. If we can use LLMs to make code more understandable, this would be a very good thing (TM)!
-	- Requirements ? 
+	- Requirements ? but these models are imprecise - how can they help? Embrace the imprecision? 
 	- Architecture ? 
 
 
 
 
 
-# ------ 
-# Beyond here lay dragons - Work in Progress
+# ------ ------ ------ ------ ------ ------ 
+### Beyond here lay dragons - Work in Progress
 
 
-## Our Role as Researchers
+### Our Role as Researchers
 - disentangling the truth from the marketing and the noise
 - working at the abstract level of the concept; not running after every new version of every new model of every new company; we'd be doing their work; for free; in fact, we might have to pay them to use it sometimes; and that's stupid.
 - ...
@@ -113,9 +113,7 @@ Can be very useful sometimes. But even then, it might have downsides, see the ab
 
 
 
-## Outside of the Scope? 
-
-These are just notes taht 
+## Outside of the Scope
 
 - Integration with CI/CD ... can they help with integration -- could use Chat interfaces to run ops? 
 
