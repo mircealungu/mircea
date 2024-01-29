@@ -6,11 +6,6 @@
 
 Mircea Lungu is associate professor in computer science at the [IT University of Copenhagen](https://en.itu.dk/research). Before coming to Denmark he was assistant professor at the [Faculty of Science and Engineering](http://www.rug.nl/research/fmns/?lang=en) of [University of Groningen](http://www.rug.nl/) where he was a member of the [SEARCH](http://www.cs.rug.nl/search/) research group and the [Data Science Pioneers](http://www.rug.nl/research/fmns/themes/dssc/) group. He was also part time visiting researcher in the [SWAT](https://www.cwi.nl/research-groups/software-analysis-and-transformation) group at [CWI in Amsterdam](https://www.cwi.nl/). Before that he was postdoc at the [University of Bern](http://scg.unibe.ch/) in Switzerland, and for six months, visiting researcher at [IBM TJ Watson Research Center](http://www.watson.ibm.com/index.shtml) in New York. He got his PhD working with [Michele Lanza](http://www.inf.usi.ch/lanza/) and the REVEAL research group at the [University of Lugano](http://www.inf.usi.ch/), in Switzerland. His interests are in software visualization, tools for software evolution, human computer interaction, and personalized learning environments.
 
-
-
-# Notes
-Starting to slowly port here assorted writings from old blogs and previous websites and also slowly adding new notes every now and then: [Developer Experience with Generative AI Tools - The Good, the Bad, and the... Unknown](notes/Developer%20Experience%20with%20Generative%20AI%20Tools%20-%20The%20Good,%20the%20Bad,%20and%20the...%20Unknown.md)|  [Academia-And-Courage](notes/Academia-And-Courage.md) | [ChatGPT-and-CoPilot](notes/ChatGPT-and-CoPilot.md) | [Who-Is-Afraid-Of-AI](notes/Who-Is-Afraid-Of-AI.md) | [Importance-of-Maintenance](notes/Importance-of-Maintenance.md) | [How-to-Read-a-Research-Paper](notes/How-to-Read-a-Research-Paper.md) | [Good-Code-Is-Readable](notes/Good-Code-Is-Readable.md)  | [The-Obsession-with-Science](notes/The-Obsession-with-Science.md) | [A-Performance-Problem](notes/A-Performance-Problem.md) | [Mapping-the-Information-Economy](notes/Mapping-the-Information-Economy.md) | [Import-Boilerplate](notes/Import-Boilerplate.md) | [The-Badly-Design-of-Everyday-Things](notes/The-Badly-Design-of-Everyday-Things.md) | [Book-Reviews](notes/Book-Reviews.md) | 
-
 # Research Interests
 - [Software Visualization](directions/visualization.md)
 - [Empirical Studies in Software Engineering](directions/empirical-studies.md) 
@@ -58,6 +53,17 @@ In the past I have been involved in teaching a wide variety of computer science 
 - Sept, 2022 - Accepted to become the General Chair for the Vissoft 2023 which will happen in Bogota, Colombia
 
 [more news](news/history.md)
+
+
+# Essays
+- Feb '24 - [devx-and-ai](essays/devx-and-ai.md)
+- Feb '23 - [Who-Is-Afraid-Of-AI](notes/Who-Is-Afraid-Of-AI.md)
+# Notes
+- [ChatGPT-and-CoPilot](notes/ChatGPT-and-CoPilot.md)
+
+Starting to slowly port here assorted writings from old blogs and previous websites and also slowly adding new notes every now and then: 
+[Academia-And-Courage](notes/Academia-And-Courage.md) |  |  | [Importance-of-Maintenance](notes/Importance-of-Maintenance.md) | [How-to-Read-a-Research-Paper](notes/How-to-Read-a-Research-Paper.md) | [Good-Code-Is-Readable](notes/Good-Code-Is-Readable.md)  | [The-Obsession-with-Science](notes/The-Obsession-with-Science.md) | [A-Performance-Problem](notes/A-Performance-Problem.md) | [Mapping-the-Information-Economy](notes/Mapping-the-Information-Economy.md) | [Import-Boilerplate](notes/Import-Boilerplate.md) | [The-Badly-Design-of-Everyday-Things](notes/The-Badly-Design-of-Everyday-Things.md) | [Book-Reviews](notes/Book-Reviews.md) | 
+
 
 
 # Further Web Coordinates
