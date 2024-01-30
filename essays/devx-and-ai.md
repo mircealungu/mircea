@@ -1,5 +1,7 @@
 # Developer Experience and AI - The Good, the Bad, and the Unknown
 
+draft of an upcoming talk
+
 ### Code Generation and the Dismissal of the Programmer 
 
 **Code Generation is not new to Software Engineering.** And neither are the announcements of dismissal of programming that come together with it. We've seen it in Cobol many years ago. And we've seen it with  model-driven engineering and with low-code platforms. And now we're seeing it with AI. 
