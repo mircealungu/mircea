@@ -22,10 +22,12 @@ The current generation of such models is based on several conditions:
 - **very large amounts of data** -- on which they are trained, e.g. [45TB](https://arxiv.org/pdf/2005.14165.pdf) of compressed plaintext for GPT3
 - **very large resulting models** -- trillions of parameters, which have the capability of [compressing the input](https://arxiv.org/pdf/2309.10668.pdf)
 
-### The DRO Principle
-If trained on the whole Internet, an LLM can extract patterns from other developers and help the individual be faster in *churning out code that was written before*. Indeed, developers are proud and aware of the DRY principle (Don't repeat yourself). However, the forays into the **DRO** principle (don't repeat others) are only now done at scale. 
+### The DRO Principle?
+If trained on the whole Internet, an LLM can extract patterns from other developers and help the individual be faster in *churning out code that was written before*. 
 
-As a community, Software Engineering has already done the work on extracting information from the ecosystem and mining the version repositories to help the individual developer, but the new models are more powerful.  In a way, we've always assumed that our models must parse correct code. The big-data approach seems to have invalidate this: if you throw enough information to the magic-box, even if some of it is broken. But remember that is fine because what you're asking the magic-box later is the most likely continuation which is probably the correct code not the syntactically incorrect one. 
+Indeed, developers are proud and aware of the DRY principle (Don't repeat yourself). However, the forays into the **DRO** principle (don't repeat others) are only now done at scale. 
+
+As a community, Software Engineering has already done the work on extracting information from the ecosystem and mining the version repositories to help the individual developer, but the new models are more powerful.  In a way, we've always assumed that our models must parse correct code. The big-data approach seems to suggest that one can go very far without actual parsing. If you throw enough information to the magic-box, even if some of it is broken. That being said, it is very likely that Copilot and similar tools do also parse the code.
 
 These things are ever changing, so I'll try to keep this presentation and discourse at the level where things are not changing. 
 
