@@ -8,13 +8,11 @@ draft of an upcoming talk
 
 **However, there is a difference between the old and the new code generation**. Then, old code generation was generating code in a lower-level *formal* language from a formal higher-level *formal* language. Notice the emphasize on *formal* language. 
 
-This is different with the AI generation that everybody is talking about today. ChatGPT and Copilot. 
+This is different with the AI-based generation that fills the news in 2024: ChatGPT and Copilot. This new kind of code generation can take as input a mix of natural language or code (in the case of automatic code completion) and can generate a mix of natural language and code. 
 
-The new code generation can take as input either natural language or code (in the case of automatic code completion) and generates either natural language or code. 
+The most successful generative AI of the moment is based on large language models (LLMs). These are *statistical* models of language, which originally designed for natural language. The [extensive introduction to ChatGPT by Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/comment-page-1/#comments) is a fantastic introduction to LLMs. 
 
-The most successful generative AI of the moment is based on large language models (LLMs). These are *statistical* models of language, which originally designed for natural language. 
-
-However, it turns out that when one "feeds the whole internet"* into such a model, somewhere in the weights of their billions of parameters, correct code can also be generated. 
+Indeed, it turns out that when one feeds *"the whole internet"* into such a model, somewhere in the weights of their billions of parameters, correct code can also be generated without ever having specified a parser or a lexer. 
 
 The current generation of such models is based on several conditions: 
 - **transformer architecture** -- highly generalizable way of detecting patters in data at increasing abstraction levels
@@ -22,15 +20,7 @@ The current generation of such models is based on several conditions:
 - **very large amounts of data** -- on which they are trained, e.g. [45TB](https://arxiv.org/pdf/2005.14165.pdf) of compressed plaintext for GPT3
 - **very large resulting models** -- trillions of parameters, which have the capability of [compressing the input](https://arxiv.org/pdf/2309.10668.pdf)
 
-### The DRO Principle?
-If trained on the whole Internet, an LLM can extract patterns from other developers and help the individual be faster in *churning out code that was written before*. 
-
-Indeed, developers are proud and aware of the DRY principle (Don't repeat yourself). However, the forays into the **DRO** principle (don't repeat others) are only now done at scale. 
-
-As a community, Software Engineering has already done the work on extracting information from the ecosystem and mining the version repositories to help the individual developer, but the new models are more powerful.  In a way, we've always assumed that our models must parse correct code. The big-data approach seems to suggest that one can go very far without actual parsing. If you throw enough information to the magic-box, even if some of it is broken. That being said, it is very likely that Copilot and similar tools do also parse the code.
-
-These things are ever changing, so I'll try to keep this presentation and discourse at the level where things are not changing. 
-
+These things are ever changing, new architectures appear every year, new models and variants appear every more frequently, so I'll try to keep this presentation and discourse at the level where things are not changing. 
 
 ### One Underlying Architecture - Two User Interfaces
 
@@ -56,6 +46,14 @@ The homepage of GitHub Copilot reports a [study](https://github.blog/2022-09-07-
 - "faster with repetitive tasks" (96%)
 - spending "less time searching" (77%)
 - "more in the flow" (73%)
+
+
+#### The DRO Principle?
+If trained on the whole Internet, an LLM can extract patterns from other developers and help the individual be faster in *churning out code that was written before*. 
+
+Indeed, developers are proud and aware of the DRY principle (Don't repeat yourself). However, the forays into the **DRO** principle (don't repeat others) are only now done at scale. 
+
+As a community, Software Engineering has already done the work on extracting information from the ecosystem and mining the version repositories to help the individual developer, but the new models are more powerful.  In a way, we've always assumed that our models must parse correct code. The big-data approach seems to suggest that one can go very far without actual parsing. If you throw enough information to the magic-box, even if some of it is broken. That being said, it is very likely that Copilot and similar tools do also parse the code.
 
 
 
