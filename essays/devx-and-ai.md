@@ -1,8 +1,8 @@
-# Developer Experience and AI - The Good, the Bad, and the Unknown
+# Developer Experience and AI - The Good, the Bad, and the ... Unknown
 
 draft of an upcoming talk
 
-### Code Generation and the Dismissal of the Programmer 
+## Code Generation and the Dismissal of the Programmer 
 
 **Code Generation is not new to Software Engineering.** And neither are the announcements of dismissal of programming that come together with it. We've seen it in Cobol many years ago. And we've seen it with  model-driven engineering and with low-code platforms. And now we're seeing it with AI. 
 
@@ -22,7 +22,7 @@ The current generation of such models is based on several conditions:
 
 These things are ever changing, new architectures appear every year, new models and variants appear every more frequently, so I'll try to keep this presentation and discourse at the level where things are not changing. 
 
-### One Underlying Architecture - Two User Interfaces
+## One Architecture, Two User Interfaces
 
 LLMs are trained to predict the next token (e.g. GPT) or to predict the missing token (e.g. BERT). In both cases, their strength is generating text and, for the programmer, code. This is why, there are two main ways in which they are integrated in the development process in two variants of user interfaces: 
 
@@ -33,7 +33,7 @@ LLMs are trained to predict the next token (e.g. GPT) or to predict the missing 
 
 Some IDEs such as VSCode integrate the two modes of interaction. 
 
-## The Good
+# The Good
 
 The homepage of GitHub Copilot reports a [study](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) that suggests that when using Copilot, developers are "faster with repetitive tasks" (96%), spending "less time searching" (77%),  "more in the flow" (73%). 
 
@@ -43,7 +43,7 @@ These very precise numbers have to be taken with a bit of salt. But it is true t
 3. Autocomplete-like interfaces might be **able to avoid writing boilerplate code** (although it's still written, only that much faster). I'm collecting my own examples of both successes and failures; sometimes it feels like magic; sometimes it feels like the second coming of Clippy from MS Word.
 4. If trained on the whole Internet, an LLM can extract patterns from other developers and help the individual be faster in ***churning out code that was written before*** by many others. Indeed, developers are proud and aware of the DRY principle (Don't repeat yourself). However, the forays into the **DRO** principle (don't repeat others) are only now done at scale. (Note: As a community, Software Engineering has already done the work on extracting information from the ecosystem and mining the version repositories to help the individual developer, but the new models are more powerful.  In a way, we've always assumed that our models must parse correct code. The big-data approach seems to suggest that one can go very far without actual parsing. If you throw enough information to the magic-box, even if some of it is broken. That being said, it is very likely that Copilot and similar tools do also parse the code.)
 
-## The Bad
+# The Bad
 
 1. The **internet will end up being filled with generated junk**. StackOverfow observed that this was a problem already in December 2022. Users started generating answers and pasting them in although they were low-quality. Decreases the quality of the platform. The [discussion thread](https://meta.stackoverflow.com/questions/421831/temporary-policy-generative-ai-e-g-chatgpt-is-banned) illustrates the limitations of ChatGPT... It also acknowledges the problem: detection is not easy.
 
@@ -57,7 +57,7 @@ These very precise numbers have to be taken with a bit of salt. But it is true t
 	- It also encourages a lack of understanding of the bigger context. It  lacks the rich conversations around the questions that are present on SO. These conversations around a question are sometimes even more informative than the actual answer. And the value of the conversations is that they identify and solve also the corner cases. The main answer solves the general problem, the comments often solve the rare exception. 
 
 
-## The Unknown
+# The ... Unknown
 
 There are still many open questions: 
 - **Will reading code become more important than writing code**? State of the art coding tools allow a part of the development flow to be switched from typing to inspecting generated code. 
