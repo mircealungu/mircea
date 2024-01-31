@@ -10,7 +10,7 @@ draft of an upcoming talk
 
 This is different with the AI-based generation that fills the news in 2024: ChatGPT and Copilot. This new kind of code generation can take as input a mix of natural language or code (in the case of automatic code completion) and can generate a mix of natural language and code. 
 
-The most successful generative AI of the moment is based on large language models (LLMs). These are *statistical* models of language, which originally designed for natural language. The [extensive introduction to ChatGPT by Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/comment-page-1/#comments) is a fantastic introduction to LLMs. 
+The most successful generative AI of the moment is based on large language models (LLMs). These are *statistical* models of language, which originally designed for natural language. The [extensive introduction to ChatGPT by Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/comment-page-1/#comments) is a fantastic introduction to LLMs. It's a blog post, it will take you more than one hour, and IIRC, he also turned it into a book. But it's worth all the time.
 
 Indeed, it turns out that when one feeds *"the whole internet"* into such a model, somewhere in the weights of their billions of parameters, correct code can also be generated without ever having specified a parser or a lexer. 
 

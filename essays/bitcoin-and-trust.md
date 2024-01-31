@@ -1,4 +1,5 @@
-[< essays](TODO.md)
+
+The Danes tell about themselves that they do not have natural resources, but they have trust. And that they consider this an important resource. 
 
 # Bitcoin - a Reminder of the Importance of Trust
 
