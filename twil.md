@@ -1,3 +1,13 @@
+# Notable Stuff I Read Online
+
+Currently Reading
+- Dominion, by Tom Holland
+
+# 5 / 2024
+- Collin Wright - A [lecture](https://www.realityslaststand.com/p/the-sex-binary-what-it-is-and-why?utm_source=substack&utm_medium=email&utm_campaign=email-half-post&r=lbgxq) on the sex binary is, as he says, sanity affirmation therapy. It is so strange how satisfying to so hear somebody who makes sense. Who makes sense for you that is. I am sure that there's an equivalent talk about the fact that sex is a continuum. 
+- Stephen Wolfram - [What is ChatGPT Actually Doing](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/comment-page-1/#comments) - extensive and clear introduction to neural nets, classification, and large language models
+
+
 ## 4
 - the difference in code between GPT2, 3, and 3.5(4?) is not much in the architecture; it's much more in the amount of data that these models have been trained with. 
 - the difference between ChatGPT and GPT is the extra >40man years of effort spent in training a model that can filter out outrageous answers
