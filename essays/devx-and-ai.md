@@ -82,14 +82,10 @@ There are still many open questions:
 
 
 # ------ ------ ------ ------ ------ ------ 
-### Beyond here lay dragons - Work in Progress
-
+### Beyond here lay dragons - Notes
 
 ### Our Role as Researchers
 - disentangling the truth from the marketing and the noise
-
-- ...
-
 
 ## Closing Words 
 
