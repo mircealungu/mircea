@@ -24,9 +24,7 @@ These things are ever changing, new architectures appear every year, new models 
 
 ### One Underlying Architecture - Two User Interfaces
 
-LLMs are trained to predict the next token. Or to predict the missing token. 
-
-In any case, their strength is generating text and, for the programmer, code. This is why, there are two main ways in which they are integrated in the development process in two variants of user interfaces: 
+LLMs are trained to predict the next token (e.g. GPT) or to predict the missing token (e.g. BERT). In both cases, their strength is generating text and, for the programmer, code. This is why, there are two main ways in which they are integrated in the development process in two variants of user interfaces: 
 
 1. **Auto-complete-like agents.** The developer writes a function definition, and the LLM gets to auto-complete it. If the problem is general enough, and function name is likely clear enough, the most common likely continuation might be exactly what the developer needs. This works especially well and is very useful for boilerplate code, or generic queries.  
 2. **Conversational agents**. With extra training, a LLM can be conditioned to work in the fashion of a chat-like system. In this context, the model acts as a **question and answer system**. Before this existed, we solved our programming problems with the help of
