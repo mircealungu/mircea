@@ -1,7 +1,7 @@
-
-The Danes tell about themselves that they do not have natural resources, but they have trust. And that they consider this an important resource. 
-
 # Bitcoin - a Reminder of the Importance of Trust
+
+The Danes tell about themselves that they do not have natural resources, but they have trust. And that they consider this an important resource. I remember renting a car in Greece in 2018. It took more than one hour of waiting and filling forms. 
+
 
 Bitcoin and the blockchain-based algorithm that it is built on is a fascinatingly smart consensus algorithm. A beautiful piece of engineering. But it is also a fantastic reminder of the importance of trust. 
 
