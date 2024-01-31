@@ -35,10 +35,7 @@ Some IDEs such as VSCode integrate the two modes of interaction.
 
 ## The Good
 
-The homepage of GitHub Copilot reports a [study](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) that suggests that when using Copilot, developers are
-- "faster with repetitive tasks" (96%)
-- spending "less time searching" (77%)
-- "more in the flow" (73%)
+The homepage of GitHub Copilot reports a [study](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) that suggests that when using Copilot, developers are "faster with repetitive tasks" (96%), spending "less time searching" (77%),  "more in the flow" (73%). 
 
 These very precise numbers have to be taken with a bit of salt. But it is true that there are ways in which these tools are **improving the lives of the developers**. 
 - Chat-like systems might **help them avoid interruptions and googling** - which these days is a pain - but it's a necessity - the complexity of the tech world is so large that one can not keep everything in their mind. Google and StackOverflow are not going away, but will be replaced for some tasks by LLMs.  
