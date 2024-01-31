@@ -41,7 +41,8 @@ These very precise numbers have to be taken with a bit of salt. But it is true t
 1. Chat-like systems might **help them avoid interruptions and googling** - which these days is a pain - but it's a necessity - the complexity of the tech world is so large that one can not keep everything in their mind. Google and StackOverflow are not going away, but will be replaced for some tasks by LLMs.  
 2. Chat-like systems **encourage better definition of the problem query** - which in itself is often halfway to the solution. Google has taught all of us to throw a bag of keywords to it and sift through pages filled with ads and junk to collect the valuable snippet. Not unlike developers used to sift through horrible forums before StackOverflow. 
 3. Autocomplete-like interfaces might be **able to avoid writing boilerplate code** (although it's still written, only that much faster). I'm collecting my own examples of both successes and failures; sometimes it feels like magic; sometimes it feels like the second coming of Clippy from MS Word.
-4. If trained on the whole Internet, an LLM can extract patterns from other developers and help the individual be faster in **writing code that was written before** *by (many) others*. Indeed, developers are proud and aware of the DRY principle (Don't repeat yourself). However, the forays into the **DRO** principle (don't repeat others) are only now done at scale. (Note: As a community, Software Engineering has already done the work on extracting information from the ecosystem and mining the version repositories to help the individual developer, but the new models are more powerful.  In a way, we've always assumed that our models must parse correct code. The big-data approach seems to suggest that one can go very far without actual parsing. If you throw enough information to the magic-box, even if some of it is broken. That being said, it is very likely that Copilot and similar tools do also parse the code.)
+4. If trained on the whole Internet, an LLM can extract patterns from other developers and help the individual be faster in **writing code that was written before** *by (many) others*. Indeed, developers are proud and aware of the DRY principle (Don't repeat yourself). However, they can not always respect the *don't repeat others* principle (DRO?) since they don't know what others are doing. As a community, Software Engineering has already done the work on extracting patterns from the ecosystem and mining the version repositories to help the individual developer, but the new models are more general and we still have to learn at what are they good and at what not.
+
 
 # The Bad
 
@@ -60,6 +61,7 @@ These very precise numbers have to be taken with a bit of salt. But it is true t
 # The ... Unknown
 
 There are still many open questions: 
+- How can these things be used by data scientists? They might stand to benefit more? In fact, I think people who code rarely, or have less experience, are exactly those who benefit most from a system that has seen all the code out there and derived patterns from it. Still when to use it, and when not to, needs to be studied. 
 - **Will reading code become more important than writing code**? State of the art coding tools allow a part of the development flow to be switched from typing to inspecting generated code. 
 - What is the **impact of this kind of generated code on the maintainability of systems**? Indeed, **maintenance** is the longest phase in the life of a system. These days we call it  software evolution exactly to acknowledge its importance and extent. 
 	- We have no idea whether this patchwork of generated cobbled together will result in reliable and usable systems
@@ -75,7 +77,7 @@ There are still many open questions:
 - In which other areas can we use generative AI?
 	- **Code understanding** - still the hardest part of maintenance -- developer spend 80% of their time reading code rather than writing; why? because this is hard. If we can use LLMs to make code more understandable, this would be a very good thing (TM)!
 	- Requirements ? but these models are imprecise - how can they help? Embrace the imprecision? 
-	- Architecture ? 
+	- Architecture - if you need the average architecture, it can help you -- but Amdahl's Law means that this will not make a difference - the effort of architecting is not that large; it's upfront; and can not be replaced with experience
 
 
 
@@ -84,29 +86,18 @@ There are still many open questions:
 # ------ ------ ------ ------ ------ ------ 
 ### Beyond here lay dragons - Notes
 
-### Our Role as Researchers
+**Our Role as Researchers**
 - disentangling the truth from the marketing and the noise
 
-## Closing Words 
+*Limitations**
+- The most likely continuation... is just that. The most likely continuation. 
+- A chat system that gives you the most likely continuation of a conversation... is the most boring thing. For me, exactly that a conversation went somewhere where I would have not expected was the value of it. 
 
-The most likely continuation... is just that. The most likely continuation. 
-
-A chat system that gives you the most likely continuation of a conversation... is the most boring thing. For me, exactly that a conversation went somewhere where I would have not expected was the value of it. 
-
-Can be very useful sometimes. But even then, it might have downsides, see the above discussion about maintainability. 
-
+**Outside of the Scope**
+- Integration with CI/CD ... can they help with integration -- could use Chat interfaces to run ops? too far fetched... 
 
 
-
-## Outside of the Scope
-
-- Integration with CI/CD ... can they help with integration -- could use Chat interfaces to run ops? 
-
-What about all the other challenges, besides writing code
-- - Architecture - if you need the average architecture, it can help you -- but Amdahl's Law means that this will not make a difference - the effort of architecting is not that large; it's upfront; and can not be replaced with experience
-
-
-The more boring the code you write, the more likely you will 
+The more boring the code you write, the more likely you will benefit from this
 
 The maintainability of these things is going to be dismal 
 
