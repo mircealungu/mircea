@@ -45,8 +45,7 @@ These very precise numbers have to be taken with a bit of salt. But it is true t
 
 ## The Bad
 
-1. The **internet will end up being filled with generated junk**. 
-	- StackOverfow had a problem with this already in December 2022 - users generating answers and pasting them in. Decreases the quality of the platform. The [discussion thread](https://meta.stackoverflow.com/questions/421831/temporary-policy-generative-ai-e-g-chatgpt-is-banned) illustrates the limitations of ChatGPT... It also acknowledges the problem: detection is not easy.
+1. The **internet will end up being filled with generated junk**. StackOverfow observed that this was a problem already in December 2022. Users started generating answers and pasting them in although they were low-quality. Decreases the quality of the platform. The [discussion thread](https://meta.stackoverflow.com/questions/421831/temporary-policy-generative-ai-e-g-chatgpt-is-banned) illustrates the limitations of ChatGPT... It also acknowledges the problem: detection is not easy.
 
 2. The "most likely continuation of a query" that an LLM generates
 	- **might not be the best** (e.g. the way biases exist in other kinds of datasets, there will be biases in the programming related data)
