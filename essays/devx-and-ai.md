@@ -37,26 +37,15 @@ Some IDEs such as VSCode integrate the two modes of interaction.
 
 ## The Good
 
-There are ways in which these tools are **improving the lives of the developers**. 
-- Chat-like systems might **help them avoid googling** - which these days is a pain - but it's a necessity - the complexity of the tech world is so large that one can not keep everything in their mind. Google and StackOverflow are not going away, but will be replaced for some tasks by LLMs.  
-	- Chat-like systems encourage better definition of the problem - which in itself is often halfway to the solution; Google has taught all of us to throw a bag of keywords to it
-- Autocomplete-like interfaces might be **able to avoid writing boilerplate code** (although it's still written, only that much faster). I'm collecting my own examples of both successes and failures; sometimes it feels like magic; sometimes it feels like the second coming of Clippy from MS Word.
-
 The homepage of GitHub Copilot reports a [study](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) that suggests that when using Copilot, developers are
 - "faster with repetitive tasks" (96%)
 - spending "less time searching" (77%)
 - "more in the flow" (73%)
-
-
-#### The DRO Principle?
-If trained on the whole Internet, an LLM can extract patterns from other developers and help the individual be faster in *churning out code that was written before*. 
-
-Indeed, developers are proud and aware of the DRY principle (Don't repeat yourself). However, the forays into the **DRO** principle (don't repeat others) are only now done at scale. 
-
-As a community, Software Engineering has already done the work on extracting information from the ecosystem and mining the version repositories to help the individual developer, but the new models are more powerful.  In a way, we've always assumed that our models must parse correct code. The big-data approach seems to suggest that one can go very far without actual parsing. If you throw enough information to the magic-box, even if some of it is broken. That being said, it is very likely that Copilot and similar tools do also parse the code.
-
-
-
+These very precise numbers have to be taken with a bit of salt. But it is true that there are ways in which these tools are **improving the lives of the developers**. 
+- Chat-like systems might **help them avoid googling** - which these days is a pain - but it's a necessity - the complexity of the tech world is so large that one can not keep everything in their mind. Google and StackOverflow are not going away, but will be replaced for some tasks by LLMs.  
+	- Chat-like systems encourage better definition of the problem - which in itself is often halfway to the solution; Google has taught all of us to throw a bag of keywords to it
+- Autocomplete-like interfaces might be **able to avoid writing boilerplate code** (although it's still written, only that much faster). I'm collecting my own examples of both successes and failures; sometimes it feels like magic; sometimes it feels like the second coming of Clippy from MS Word.
+- If trained on the whole Internet, an LLM can extract patterns from other developers and help the individual be faster in ***churning out code that was written before***. By others. Indeed, developers are proud and aware of the DRY principle (Don't repeat yourself). However, the forays into the **DRO** principle (don't repeat others) are only now done at scale. (Note: As a community, Software Engineering has already done the work on extracting information from the ecosystem and mining the version repositories to help the individual developer, but the new models are more powerful.  In a way, we've always assumed that our models must parse correct code. The big-data approach seems to suggest that one can go very far without actual parsing. If you throw enough information to the magic-box, even if some of it is broken. That being said, it is very likely that Copilot and similar tools do also parse the code.)
 
 ## The Bad
 
