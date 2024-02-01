@@ -11,6 +11,8 @@
 
 **However, there is a difference between the old and the new code generation**. Then, old code generation was generating code in a lower-level *formal* language from a formal higher-level *formal* language. Notice the emphasize on *formal* language. 
 
+## The Architecture
+
 This is different with the AI-based generation that fills the news in 2024: ChatGPT and Copilot. This new kind of code generation can take as input a mix of natural language or code (in the case of automatic code completion) and can generate a mix of natural language and code. 
 
 The most successful generative AI of the moment is based on large language models (LLMs). These are *statistical* models of language, which originally designed for natural language. The [extensive introduction to ChatGPT by Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/comment-page-1/#comments) is a fantastic introduction to LLMs. It's a blog post but it that will take you several hours. But it's worth all that time.
@@ -25,7 +27,7 @@ The current generation of such models is based on several conditions:
 
 These things are ever changing, new architectures appear every year, new models and variants appear every more frequently, so I'll try to keep this presentation and discourse at the level where things are not changing. 
 
-## One Architecture, Two User Interfaces
+## Two User Interfaces
 
 LLMs are trained to predict the next token (e.g. GPT) or to predict the missing token (e.g. BERT). In both cases, their strength is generating text and, for the programmer, code. This is why, there are two main ways in which they are integrated in the development process in two variants of user interfaces: 
 
