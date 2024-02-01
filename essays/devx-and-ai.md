@@ -105,7 +105,8 @@ Can **help writing boilerplate code** much faster. Although it's still written. 
 
 Chat-like systems also **help developers avoid interruptions and searching the web** - which these days is a pain. Google and StackOverflow are not going away, but for some kinds of queries, will likely be replaced by LLMs-based systems. 
 
-Side effect of previous point: chat-like systems **encourage better definition of the problem query** - which in itself is often halfway to the solution. Google has taught all of us to throw a bag of keywords to it and sift through pages filled with ads and junk to collect the valuable snippet. Not unlike developers used to sift through horrible forums before StackOverflow. 
+### 3. Chat-like systems **encourage better definition of the problem**
+This in itself is often halfway to the solution. Google has taught all of us to throw a bag of keywords to it and sift through pages filled with ads and junk to collect the valuable snippet. Not unlike developers used to sift through horrible forums before StackOverflow. 
  
 
 
@@ -113,6 +114,7 @@ Side effect of previous point: chat-like systems **encourage better definition o
 There are also things that are rotten in the state of Denmark... 
 ### 1. Generated code is likely not the best 
 The *most likely continuation of a string*  is likely not the best in terms of: 
+
 1. **Quality**. The way biases exist in other kinds of datasets, there will be biases in the programming related data. A recent study attempting to evaluate the quality of the generated code seems to suggest that it's quality is  [**more akin to a passing contributor to a codebase**](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx)  rather than a senior developer on the team. 
 
 2. **Timeliness** of patterns and libraries - and thus, if you as a customer or employer get yourself a lazy programmer, who relies too much on generated code, you might end up with the patterns of yesterday. Paolo Tell: "*there was a delay of several years required for the community to realize that Singleton, although a design pattern was a bad idea*". Indeed, if generating code in the way it used to be done in the past is easy, why should one learn a new way?
@@ -133,6 +135,14 @@ For long-lived systems, where maintainability is important, using code generated
 Code generation risks encouraging **ignorance** -- a lack of understanding of the bigger context. 
 
 It  lacks the rich conversations around the questions that are present on StackOverflow for example. These conversations around a question are sometimes even more informative than the actual answer. And the value of the conversations is that they identify and solve also the corner cases. The main answer solves the general problem, the comments often solve the rare exception. 
+
+
+
+
+
+
+
+
 
 
 
