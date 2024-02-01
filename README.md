@@ -35,7 +35,7 @@ Pieces of text that aim to have a beginning and an end... slowly porting them he
 - Aug '13 - [academia-and-courage](essays/Academia-And-Courage.md)
 # Notes and writings in progress
 Assorted notes
-[Importance-of-Maintenance](notes/Importance-of-Maintenance.md) // [How-to-Read-a-Research-Paper](notes/How-to-Read-a-Research-Paper.md) // [Good-Code-Is-Readable](notes/Good-Code-Is-Readable.md)   //  [A-Performance-Problem](notes/A-Performance-Problem.md)  // [The-Badly-Designed-Everyday-Things](notes/The-Badly-Design-of-Everyday-Things.md) | [Book-Reviews](notes/Book-Reviews.md) | // [ChatGPT-and-CoPilot](notes/ChatGPT-and-CoPilot.md) //  [import-boilerplate-in-react](essays/import-boilerplate.md) 
+[Importance-of-Maintenance](notes/Importance-of-Maintenance.md) // [How-to-Read-a-Research-Paper](notes/How-to-Read-a-Research-Paper.md) // [Good-Code-Is-Readable](notes/Good-Code-Is-Readable.md)   //  [A-Performance-Problem](notes/A-Performance-Problem.md)  // [The-Badly-Designed-Everyday-Things](notes/The-Badly-Design-of-Everyday-Things.md) | [Book-Reviews](notes/Book-Reviews.md) | // [ChatGPT-and-CoPilot](notes/ChatGPT-and-CoPilot.md) //  [Import-boilerplate-in-react](essays/import-boilerplate.md) 
 
 
 # Student Projects
@@ -60,8 +60,9 @@ In the past I have been involved in teaching a wide variety of computer science 
 
 
 # News
-- Nov, 2022 - Visiting the lab of Gregorio Robles and Jesus Gonzales-Barahonja at U. Rey-Juan Carlos in Madrid
-- Oct, 2022 - Attending Vissoft 2022 where we're presenting two papers about [Git-Truck](projects/git-truck.md). 
+- Nov '23 - Awarded a 2M DKK Villum Experiment grant to study the impact of hyper-personalized reading recommendations on the motivation of foreign languages. Work will be done in the context of the [zeeguu](projects/zeeguu.md) project.
+ - Nov, 2022 - Visiting the lab of Gregorio Robles and Jesus Gonzales-Barahonja at U. Rey-Juan Carlos in Madrid
+- Oct, 2022 - Attending Vissoft 2022 where we're presenting two papers about [Git-Truck](projects/git-truck.md)
 - Sept, 2022 - Accepted to become the General Chair for the Vissoft 2023 which will happen in Bogota, Colombia
 
 [more news](news/history.md)
