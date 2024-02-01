@@ -7,15 +7,15 @@
 
 > The reports of my death are greatly exaggerated (Mark Twain)
 
-#### **Code Generation is not new to Software Engineering** 
+#### **Code generation is not new to programming** 
 And neither are the announcements of dismissal of programming that come together with it. We've seen such announcements with Cobol many years ago. And we've seen them with 4GLs ([cover of App Development w/o Programmers, James Martin, 1982](https://m.media-amazon.com/images/I/71eNJfBFeWL._SX679_.jpg)), model-driven engineering and with low-code platforms. And now we're seeing it with AI. 
 
 #### There is an essential difference between the old and the new code generation 
 The traditional code generation was generating code in a lower-level *formal* language from a formal higher-level *formal* language. Notice the emphasize on *formal* language. 
 
-## The Architecture
-
 This is different with the AI-based generation that fills the news in 2024: ChatGPT, Copilot, llama2, etc. This new kind of code generation can take as input a mix of natural language or code (in the case of automatic code completion) and can generate a mix of natural language and code. 
+
+## The Architecture
 
 The most successful generative AI of the moment is based on large language models (LLMs). These are *statistical* models of language, which originally designed for natural language. The [extensive introduction to ChatGPT by Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/comment-page-1/#comments) is a fantastic introduction to LLMs. It's a blog post but it that will take you several hours. But it's worth all that time.
 
