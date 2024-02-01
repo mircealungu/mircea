@@ -26,7 +26,7 @@ I always loved and I still love coding. However, nowadays I'm more of a product 
 [> past projects](/projects/history.md)
 
 # Essays
-Pieces of text that aim to have a beginning and an end... slowly porting some of the older writings from my past blogs here: 
+Pieces of text that aim to have a beginning and an end... slowly porting them here from other platforms:
 
 - Feb '24 - [devx-and-ai](essays/devx-and-ai.md)
 - Feb '23 - [who-is-afraid-of-agi](essays/whos-afraid-of-agi.md)
