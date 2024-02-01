@@ -20,7 +20,7 @@ Indeed, it turns out that when one feeds *"the whole internet"* into such a mode
 The current generation of such models is based on several conditions: 
 - **Transformer architecture** -- highly generalizable way of detecting patters in data at increasing abstraction levels
 - **The attention mechanism** - the fact that they don't only take as input the previous few tokens, but they can take into account pertinent tokens that came much earlier 
-- **Training on very large amounts of data** -- e.g. [45TB](https://arxiv.org/pdf/2005.14165.pdf) of compressed plaintext for GPT3
+- **Training on huge amounts of data for very long amounts of time**, e.g. [45TB](https://arxiv.org/pdf/2005.14165.pdf) of compressed plaintext fed to the system for more than one month for GPT3 
 - **Very large resulting models** -- trillions of parameters, which have the capability of [compressing the input](https://arxiv.org/pdf/2309.10668.pdf)
 
 These things are ever changing, new architectures appear every year, new models and variants appear every more frequently, so I'll try to keep this presentation and discourse at the level where things are not changing. 
