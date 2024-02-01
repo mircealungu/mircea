@@ -98,7 +98,7 @@ There are ways in which these tools are **improving the lives of the developers*
 ### 1. Enabling learning from the Ecosystem
 LLM extract patterns from other developers and bring this knowledge to the individual Indeed, developers are aware of the DRY principle (don't repeat yourself). However, they can not respect the *don't repeat others* principle (DRO?) since they don't know what others are doing. As a community, Software Engineering has already done work on extracting patterns from the ecosystem and mining the version repositories to help the individual developer, but the new models are more general. 
 
-### 2. Speeding up coding & reducing interruptions
+### 2. Speeding up code creation & reducing interruptions
 The homepage of GitHub Copilot reports a [study](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) that suggests that when using Copilot, developers are "faster with repetitive tasks" (96%), spending "less time searching" (77%),  "more in the flow" (73%). These very precise numbers have to be taken with a bit of salt but they do suggest a speedup of code generation. 
 
 Can **help writing boilerplate code** much faster. Although it's still written. I'm collecting my own examples of both successes and failures. Sometimes it feels like magic; sometimes it feels like the second coming of Clippy from MS Word. 
@@ -136,26 +136,27 @@ It  lacks the rich conversations around the questions that are present on StackO
 
 
 
+
+
+
+
+
+
+
 # The ... Unknown
-
-There are still many open questions: 
+As of today, there remain many open questions: 
 ### 1. What is the impact of this kind of generated code on  systems maintainability? 
-
 Indeed, **maintenance** is the longest phase in the life of a system. These days we call it  software evolution exactly to acknowledge its importance and extent.  We have no idea **whether a patchwork of generated code, cobbled together will result in reliable and maintainable** systems.
 
 ### 2. *For whom* and *when* are these tools good? 
 For what kind of tasks, it is still not clear.  For what kind of developers it is also not clear. Maybe more for juniors. Maybe more for data scientists who are not necessarily that experienced in coding? 
 
 ### 3. **Can we use LLMs to improve code understanding?** 
-Code understanding is still the hardest part of maintenance is at the moment not benefiting from these tools. Indeed, developers spend an overwhelming majority of their time reading code rather than writing; why? Because this activity is hard. Can use LLMs to make code more understandable? This would be an impressively impactful thing. The other question is whether we can write more understandable code by using LLMs... but what are LLMs... each one is different. 
+**Developers spend an overwhelming majority of their time reading code rather than writing**; why? Because code understanding is still the hardest part of maintenance. Can we use LLMs to make code more understandable? This would be hugely impactful. 
 
 ### 4. **How to do research on this topic**? 
-
-Disentangling the truth from the marketing and the noise would be our role as researchers. 
-
-**How do we study these things?** How do you compare? Running after every new version of every new model of every new company is *chasing after wind*. New versions might be much better or decrease in quality as the company needs to cut on operations. From this POV, running one owns' model is more sustainable. But they are not as good as the commercial ones. 
-
-What can we write about it that will still be relevant in 2 years; but 5 years; it can't be dependent on the current version; but how can you not depend on it? 
+**How do we study these things?** Running after every new version of every new model of every new company is *chasing after wind*. New versions might be much better or decrease in quality as the company needs to cut on operations. From this POV, running one owns' model is more sustainable. But they are not as good as the commercial ones. 
+What can we write about it that will still be relevant in 5 years? It can't be dependent on the current version; but how can you not depend on it? 
 
 
 ## Acknowledgements
@@ -178,3 +179,4 @@ Thanks to Iulian, Tiago, Adam for feedback on earlier drafts of this.
 - **Better UIs - Beyond chat and auto-complete** -- some of these companies push towards replacing all the UI with chats. I think we have to go the other way around. We have developed rich user interactions over the recent years; how can we integrate the LLM inside them?
 - **Will we have personalized LLM agents**. That learn from the individual, small apprentices that with time learn to write code in the style of their user. Stephen Wolfram writes about training a model with all his past writings. He did write quite a bit, so that model will likely have what to latch on... (Science fiction scenario: Imagine every student training individual LLMs, and having them write their essays. And the final grade would be on the duo's work :)
 - **Will reading code become more important than writing code**? State of the art coding tools allow a part of the development flow to be switched from typing to inspecting generated code. 
+- Disentangling the truth from the marketing and the noise would be an opportunity for us as researchers. 
