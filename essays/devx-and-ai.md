@@ -109,6 +109,8 @@ The homepage of GitHub Copilot reports a [study](https://github.blog/2022-09-07-
 
 # The Bad
 
+There are also things that are rotten in the state of Denmark: 
+
 1. The *most likely continuation of a string* that an LLM generates ... 
 	- ... **might not be the best** (e.g. the way biases exist in other kinds of datasets, there will be biases in the programming related data); also, a recent study attempting to evaluate the quality of the generated code seems to suggest that it's quality is more akin to a [passing contributor](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx) to a codebase rather than a senior developer on the team. 
 	- ... **will not exist for the most recent versions** of libraries - and thus, if you as a customer or employer get yourself a lazy programmer, you might end up with the patterns of yesterday. 
@@ -148,35 +150,25 @@ There are still many open questions:
 
 
 
-
-
-
-
-# ------ ------ ------ ------ ------ ------ 
-## Beyond here lay dragons: Further Notes
-
 **Our Role as Researchers**? 
 - disentangling the truth from the marketing and the noise
-- having any impact in a domain where creating your own domain is prohibitive, and even evaluating existing ones is not easy - nothing is repeatable, there is no transparency on what goes in the 
+- having any impact in a domain where the state of the art is commercial and ever evolving
+	- should we even study ChatGPT 
+	- what can we write about it that will still be relevant in 2 years; but 5 years; it can't be dependent on the current version; but how can you not depend on it? 
 
-**Limitations**
-- The most likely continuation... is just that. The most likely continuation. There is no creativity in it. 
+
+## Acknowledgements
+
+Thanks to Iulian, Tiago, Adam for feedback on earlier drafts of this. 
+
+
+## Beyond here lay dragons: Further Notes
+
+- Do we even  have the right to use these things for anything else than ... modeling languages? Why would a language model give you an answer to a question, and why should you believe it?
+- The most likely continuation... is just that. The most likely continuation. There is no creativity in it. There's the 
 - A chat system that gives you the most likely continuation of a conversation... is the most boring thing. For me, exactly that a conversation went somewhere where I would have not expected was the value of it. The more boring the code you write, the more likely you will benefit from this
-
-I've already argued long time ago that ecosystem analysis should enrich the developer experience.
-
-**Beyond General Queries and Completion**
-There is one extra hope: that the general LLM model, trained on the whole internet, will be able to adapt to a given's codebase, such that it can answer individual questions about that codebase.
-
-
-
-- In which other areas can we use generative AI?
-
+- In which other areas besides code writing can we use generative AI?
 	- Requirements ? but these models are imprecise - how can they help? Embrace the imprecision? 
 	- Architecture - if you need the average architecture, it can help you -- but Amdahl's Law means that this will not make a difference - the effort of architecting is not that large; it's upfront; and can not be replaced with experience
-- 
-
-Other Open Questions
-- **Can we have open models, the way that we have open source** -- models that are not black boxes that belong to a corporation, but rather, that are created and maintained in the open? After all, they are built on the open internet.
-- Integration with CI/CD ... can they help with integration -- could use Chat interfaces to run ops? too far fetched... 
-- **Localized LLM agents** instead of the basic search that websites are using nowadays. E.g., StackOverflow search is currently abysmal. Maybe this is why they have announced that they are working on a LLM powered interface. (Still open: how could such a system solve the attribution problem?)
+- Can we have open models, the way that we have open source -- models that are not black boxes that belong to a corporation, but rather, that are created and maintained in the open? After all, they are built on the data in the open internet.
+- Localized LLM agents instead of the basic search that websites are using nowadays. E.g., StackOverflow search is currently abysmal. Maybe this is why they have announced that they are working on a LLM powered interface. (Still open: how could such a system solve the attribution problem?)
