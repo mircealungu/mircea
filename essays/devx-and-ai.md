@@ -50,7 +50,7 @@ These very precise numbers have to be taken with a bit of salt. But it is true t
 1. The **internet will end up being filled with generated junk**. StackOverfow observed that this was a problem already in December 2022. Users started generating answers and pasting them in although they were low-quality. Decreases the quality of the platform. The [discussion thread](https://meta.stackoverflow.com/questions/421831/temporary-policy-generative-ai-e-g-chatgpt-is-banned) illustrates the limitations of ChatGPT... It also acknowledges the problem: detection is not easy.
 
 2. The "most likely continuation of a query" that an LLM generates
-	- **might not be the best** (e.g. the way biases exist in other kinds of datasets, there will be biases in the programming related data); also, a recent study attempting to evaluate the quality of the generated code seems to suggest that it's quality is more akin to a [passing contributor](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx) to a codebase rather than a senior developer on the team.
+	- **might not be the best** (e.g. the way biases exist in other kinds of datasets, there will be biases in the programming related data); also, a recent study attempting to evaluate the quality of the generated code seems to suggest that it's quality is more akin to a [passing contributor](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx) to a codebase rather than a senior developer on the team. 
 	- **will not exist for the most recent versions** of libraries - and thus, if you as a customer or employer get yourself a lazy programmer, you might end up with the patterns of yesterday. (Paolo Tell: "there was a delay of several years required for the community to realize that Singleton, although a design pattern was a bad idea")
 
 3. **Companies pushing LLM-based systems might be killing the golden goose**.  Given that these systems are trained on existing human generated content, they can not exist without it. **At the same time, they represent a strong disincentive for further content generation.** 
@@ -62,7 +62,7 @@ These very precise numbers have to be taken with a bit of salt. But it is true t
 # The ... Unknown
 
 There are still many open questions: 
-- How can these things be used by data scientists? They might stand to benefit more? In fact, I think people who code rarely, or have less experience, are exactly those who benefit most from a system that has seen all the code out there and derived patterns from it. Still when to use it, and when not to, needs to be studied. 
+- **How can these things be used by data scientists?** They might stand to benefit more? In fact, I think people who code rarely, or have less experience, are exactly those who benefit most from a system that has seen all the code out there and derived patterns from it. Still when to use it, and when not to, needs to be studied. 
 - **Will reading code become more important than writing code**? State of the art coding tools allow a part of the development flow to be switched from typing to inspecting generated code. 
 - What is the **impact of this kind of generated code on the maintainability of systems**? Indeed, **maintenance** is the longest phase in the life of a system. These days we call it  software evolution exactly to acknowledge its importance and extent. 
 	- We have no idea whether this patchwork of generated cobbled together will result in reliable and usable systems
