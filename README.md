@@ -61,7 +61,7 @@ In the past I have been involved in teaching a wide variety of computer science 
 
 
 # News
-- Nov '23 - Awarded a 2M DKK Villum Experiment grant to study the impact of hyper-personalized reading recommendations on the motivation of foreign languages. Work will be done in the context of the [zeeguu](projects/zeeguu.md) project.
+- Nov '23 - Awarded a 2M DKK Villum Experiment grant (🎉) to study the impact of hyper-personalized reading recommendations on the motivation of foreign languages. Work will be done in the context of the [zeeguu](projects/zeeguu.md) project.
  - Nov, 2022 - Visiting the lab of Gregorio Robles and Jesus Gonzales-Barahonja at U. Rey-Juan Carlos in Madrid
 - Oct, 2022 - Attending Vissoft 2022 where we're presenting two papers about [Git-Truck](projects/git-truck.md)
 - Sept, 2022 - Accepted to become the General Chair for the Vissoft 2023 which will happen in Bogota, Colombia
