@@ -1,5 +1,5 @@
 
-# npm vs. SO vs. ChatGPT - How to decide which code to trust? 
+# Copilot, ChatGPT, StackOverflow, npm - How to decide whose code to use?
 
 A.D. 2024 a front-end developer will often want to write code to detect whether his application runs on a mobile, or not. There are multiple solutions available to them: 
 
