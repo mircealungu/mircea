@@ -7,9 +7,11 @@
 
 > The reports of my death are greatly exaggerated (Mark Twain)
 
-**Code Generation is not new to Software Engineering.** And neither are the announcements of dismissal of programming that come together with it. We've seen such announcements with Cobol many years ago. And we've seen them with 4GLs ([cover of App Development w/o Programmers, James Martin, 1982](https://m.media-amazon.com/images/I/71eNJfBFeWL._SX679_.jpg)), model-driven engineering and with low-code platforms. And now we're seeing it with AI. 
+#### **Code Generation is not new to Software Engineering** 
+And neither are the announcements of dismissal of programming that come together with it. We've seen such announcements with Cobol many years ago. And we've seen them with 4GLs ([cover of App Development w/o Programmers, James Martin, 1982](https://m.media-amazon.com/images/I/71eNJfBFeWL._SX679_.jpg)), model-driven engineering and with low-code platforms. And now we're seeing it with AI. 
 
-**However, there is a difference between the old and the new code generation**. Then, old code generation was generating code in a lower-level *formal* language from a formal higher-level *formal* language. Notice the emphasize on *formal* language. 
+#### There is an essential difference between the old and the new code generation 
+The traditional code generation was generating code in a lower-level *formal* language from a formal higher-level *formal* language. Notice the emphasize on *formal* language. 
 
 ## The Architecture
 
@@ -70,7 +72,7 @@ These very precise numbers have to be taken with a bit of salt. But it is true t
 
 There are still many open questions: 
 
-- **Code understanding** - still the hardest part of maintenance is at the moment not benefiting from these tools. Indeed, developers spend 80% of their time reading code rather than writing; why? because this activity is hard. If we can use LLMs to make code more understandable, this would be a very good thing (TM) much more important than the code generation capabilities they have now.
+- **Code understanding** - still the hardest part of maintenance is at the moment not benefiting from these tools. Indeed, developers spend 80% of their time reading code rather than writing; why? Because this activity is hard. Can use LLMs to make code more understandable? This would be an impressively impactful thing. The other question is whether we can write more understandable code by using LLMs... but what are LLMs... each one is different. 
 
 - **How can these things be used by data scientists?** They might stand to benefit more? In fact, I think people who code rarely, or have less experience, are exactly those who benefit most from a system that has seen all the code out there and derived patterns from it. Still when to use it, and when not to, needs to be studied. 
 
@@ -84,7 +86,7 @@ There are still many open questions:
 
 - How are companies going to ensure the **legality of the generated code**? See the NY Times articles parroted back in full by ChatGPT. What about licensing? The current solution seems to be often to ban the technology alltogetehr.
 
-- **Can we have open models, the way that we have open source** -- models that are not black boxes that belong to a corporation, but rather, that are created and maintained in the open? After all, they are built on the open internet.
+
 
 - **Localized LLM agents** instead of the basic search that websites are using nowadays. E.g., StackOverflow search is currently abysmal. Maybe this is why they have announced that they are working on a LLM powered interface. (Still open: how could such a system solve the attribution problem?)
 
@@ -106,8 +108,9 @@ There are still many open questions:
 # ------ ------ ------ ------ ------ ------ 
 ### Beyond here lay dragons - Notes
 
-**Our Role as Researchers**
+**Our Role as Researchers**? 
 - disentangling the truth from the marketing and the noise
+- having any impact in a domain where creating your own domain is prohibitive, and even evaluating existing ones is not easy - nothing is repeatable, there is no transparency on what goes in the 
 
 **Limitations**
 - The most likely continuation... is just that. The most likely continuation. There is no creativity in it. 
@@ -119,5 +122,9 @@ I've already argued long time ago that ecosystem analysis should enrich the deve
 There is one extra hope: that the general LLM model, trained on the whole internet, will be able to adapt to a given's codebase, such that it can answer individual questions about that codebase.
 
 
-Integration with CI/CD ... can they help with integration -- could use Chat interfaces to run ops? too far fetched... 
 
+
+Other Open Questions
+- **Can we have open models, the way that we have open source** -- models that are not black boxes that belong to a corporation, but rather, that are created and maintained in the open? After all, they are built on the open internet.
+- Integration with CI/CD ... can they help with integration -- could use Chat interfaces to run ops? too far fetched... 
+- 
