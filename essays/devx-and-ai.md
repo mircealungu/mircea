@@ -95,10 +95,8 @@ Some IDEs such as VSCode integrate the two modes of interaction.
 # The Good
 
 There are ways in which these tools are **improving the lives of the developers**:
-
 ### 1. Enabling learning from the Ecosystem
 LLM extract patterns from other developers and bring this knowledge to the individual Indeed, developers are aware of the DRY principle (don't repeat yourself). However, they can not respect the *don't repeat others* principle (DRO?) since they don't know what others are doing. As a community, Software Engineering has already done work on extracting patterns from the ecosystem and mining the version repositories to help the individual developer, but the new models are more general. 
-
 
 ### 2. Speeding up coding & reducing interruptions
 The homepage of GitHub Copilot reports a [study](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) that suggests that when using Copilot, developers are "faster with repetitive tasks" (96%), spending "less time searching" (77%),  "more in the flow" (73%). These very precise numbers have to be taken with a bit of salt but they do suggest a speedup of code generation. 
@@ -113,17 +111,13 @@ Side effect of previous point: chat-like systems **encourage better definition o
 
 # The Bad
 There are also things that are rotten in the state of Denmark... 
-
 ### 1. Generated code is likely not the best 
-
 The *most likely continuation of a string*  is likely not the best in terms of: 
-
 1. **Quality**. The way biases exist in other kinds of datasets, there will be biases in the programming related data. A recent study attempting to evaluate the quality of the generated code seems to suggest that it's quality is  [**more akin to a passing contributor to a codebase**](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx)  rather than a senior developer on the team. 
 
 2. **Timeliness** of patterns and libraries - and thus, if you as a customer or employer get yourself a lazy programmer, who relies too much on generated code, you might end up with the patterns of yesterday. Paolo Tell: "*there was a delay of several years required for the community to realize that Singleton, although a design pattern was a bad idea*". Indeed, if generating code in the way it used to be done in the past is easy, why should one learn a new way?
 
 ### 2. Training on open knowledge without giving back will backfire
-
 Given that these systems are trained on existing human generated content, they can not exist without it. **At the same time, they represent a strong disincentive for further content generation.** 
 	- **When StackOverflow came first developers were enthusiastic.** It put order into a messy web. Remember how forums looked before StackOverflow? SO had a **clean and simple design, and a clever social incentive system** with the help of which, people who wanted to be good citizens could contribute and recognized for their contributions. The key was probably the recognition. 
 	- Systems like ChatGPT and Copilot are exactly the opposite. They **do not give credit**. And unfortunately, even even **if it wanted to, they couldn't** because of their architecture. This will **discourage people to contribute** their knowledge freely. 
@@ -134,7 +128,7 @@ For long-lived systems, where maintainability is important, using code generated
 
 
 
-### 4. Risks encouraging ignorance
+### 4. Code generation encourages ignorance
 
 Code generation risks encouraging **ignorance** -- a lack of understanding of the bigger context. 
 
@@ -152,7 +146,7 @@ Indeed, **maintenance** is the longest phase in the life of a system. These days
 ### 2. *For whom* and *when* are these tools good? 
 For what kind of tasks, it is still not clear.  For what kind of developers it is also not clear. Maybe more for juniors. Maybe more for data scientists who are not necessarily that experienced in coding? 
 
-### 3. **Can we LLMs to improve code understanding?** 
+### 3. **Can we use LLMs to improve code understanding?** 
 Code understanding is still the hardest part of maintenance is at the moment not benefiting from these tools. Indeed, developers spend an overwhelming majority of their time reading code rather than writing; why? Because this activity is hard. Can use LLMs to make code more understandable? This would be an impressively impactful thing. The other question is whether we can write more understandable code by using LLMs... but what are LLMs... each one is different. 
 
 ### 4. **How to do research on this topic**? 
