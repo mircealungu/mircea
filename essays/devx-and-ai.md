@@ -6,7 +6,7 @@
 Feb 1, 2024
 
 ![](../docs/assets/good-bad-unknown-attempts.png)
-*Three distinct attempts by Gencraft.com at generating an image from the prompt "The Good, the Bad, and the Unknown". I'm not sure which one I like best.* 
+*Three distinct attempts by gencraft.com to generate an image for "the Good, the Bad, and the Unknown". I'm not sure which is best.* 
 
 
 
