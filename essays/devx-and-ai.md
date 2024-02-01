@@ -140,8 +140,6 @@ There are still many open questions:
 
 - How are companies going to ensure the **legality of the generated code**? See the NY Times articles parroted back in full by ChatGPT. What about licensing? The current solution seems to be often to ban the technology all together.
 
-
-
 - **Personalized LLM agents**. That learn from the individual, small apprentices that with time learn to write code in the style of their user. Stephen Wolfram writes about training a model with all his past writings. (SF: Imagine every student training individual LLMs, and having them write their essays. And the final grade would be on the duo's work :)
 
 - **Better UIs - Beyond chat and auto-complete** -- some of these companies push towards replacing all the UI with chats. I think we have to go the other way around. We have developed rich user interactions over the recent years; how can we integrate the LLM inside them?
