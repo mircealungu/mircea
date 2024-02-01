@@ -5,12 +5,11 @@ A.D. 2024 a front-end developer will often want to write code to detect whether 
 
 1. Asking ChatGPT how to [detect if a web page runs on mobile](https://chat.openai.com/c/7305bbcc-a0a6-4c64-b263-e6133c69c5d0) will result in a solution that one can copy-paste. It's a short regular expression. 
 
-2. Asking Copilot to write it by defining the function name, and letting it auto-complete, results in what seems an exhaustive regular expression. When I've had to do this a while ago, I was left with a feeling of: "I have no clue how, why, and if this works". 
-
+2. Asking Copilot to write it by defining the function name, and letting it auto-complete, results in what seems an exhaustive regular expression. When I've asked for this completion myself a while ago in one of my research projects, I was left with a feeling of deep puzzlement: *"I have no clue how, why, and if this works"*. I tried it on my phone, my tablet, my laptop, and it seemed to work. But I had no confidence that it would work on other devices.
 
 3. Finding an [answer on StackOverflow](https://stackoverflow.com/questions/11381673/detecting-a-mobile-browser) with the help of Google Search
-4. Finding a library to do this on [npm](https://www.npmjs.com/package/ismobilejs) - 260K downloads / week
-5. Searching on SO itself is [horrible](https://stackoverflow.com/search?q=javascript+function+to+detect+if+code+runs+on+mobile%3F&s=2b6050df-922e-4754-a94c-aaca6d996c51) 
+4. Searching on SO itself is [horrible](https://stackoverflow.com/search?q=javascript+function+to+detect+if+code+runs+on+mobile%3F&s=2b6050df-922e-4754-a94c-aaca6d996c51) 
+5. Finding a library to do this on [npm](https://www.npmjs.com/package/ismobilejs) - 260K downloads / week. The metrics are inflated by the way the npm ecosystem downloads is counted. But the metric still makes sense in context as a way of comparing this package with others.
 
 Which of these is easier? Which of them is more future proof? Which of them is more trustworthy? 
 
