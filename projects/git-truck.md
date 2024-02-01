@@ -7,6 +7,8 @@ Git-Truck is a project that aims to ease the understanding of the evolution of a
 - To try it out run: `npm install git-truck && npm run git-truck`
 - Contributors: Jonas, Thomas, Emil, Kristopher, Dawid
 
+## Examples of Usage
+- [git-truck-to-compare-complexity](../notes/git-truck-to-compare-complexity.md)
 
 ## Papers
 
