@@ -33,6 +33,7 @@ Pieces of text that aim to have a beginning and an end... slowly porting them he
 - Jan '16 - [the-obsession-with-science](essays/The-Obsession-with-Science.md)
 - Nov '13 - [mapping-the-information-economy](essays/mapping-the-information-economy.md)
 - Aug '13 - [academia-and-courage](essays/Academia-And-Courage.md)
+
 # Notes and writings in progress
 Assorted notes
 [Importance-of-Maintenance](notes/Importance-of-Maintenance.md) // [How-to-Read-a-Research-Paper](notes/How-to-Read-a-Research-Paper.md) // [Good-Code-Is-Readable](notes/Good-Code-Is-Readable.md)   //  [A-Performance-Problem](notes/A-Performance-Problem.md)  // [The-Badly-Designed-Everyday-Things](notes/The-Badly-Design-of-Everyday-Things.md) | [Book-Reviews](notes/Book-Reviews.md) | // [ChatGPT-and-CoPilot](notes/ChatGPT-and-CoPilot.md) //  [Import-boilerplate-in-react](essays/import-boilerplate.md) 
