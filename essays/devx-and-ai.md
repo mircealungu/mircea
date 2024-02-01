@@ -37,7 +37,7 @@ LLMs are trained to predict the next token (i.e., decoder-transformers, e.g. GPT
 
 2. **Chat-like agents**. With extra training in the form of reinforcement learning with human feedback (RLHF) a large language model (e.g. GPT) can be conditioned to work in the fashion of a chat-like system (e.g. ChatGPT, llama2). In this context, the model completes the next token in such a way as to obtain the most likely continuation of a conversation not a general text. 
 
-Some IDEs such as VSCode integrate the two modes of interaction. 
+Some IDEs such as VSCode integrate the two modes of interaction.
 
 # The Good
 
@@ -85,9 +85,7 @@ There are still many open questions:
 	- How to ensure that you understand the system sufficiently well to change it
 	- How do we trace the generated code? 
 
-- How are companies going to ensure the **legality of the generated code**? See the NY Times articles parroted back in full by ChatGPT. What about licensing? The current solution seems to be often to ban the technology alltogetehr.
-
-
+- How are companies going to ensure the **legality of the generated code**? See the NY Times articles parroted back in full by ChatGPT. What about licensing? The current solution seems to be often to ban the technology all together.
 
 - **Localized LLM agents** instead of the basic search that websites are using nowadays. E.g., StackOverflow search is currently abysmal. Maybe this is why they have announced that they are working on a LLM powered interface. (Still open: how could such a system solve the attribution problem?)
 
