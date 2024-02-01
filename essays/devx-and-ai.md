@@ -34,6 +34,7 @@ These things are ever changing, new architectures appear every year, new models 
 LLMs are trained to predict the next token (i.e., decoder-transformers, e.g. GPT) or to predict the missing token (i.e., encoder-transformer, e.g. BERT). In both cases, their strength is generating text and, for the programmer, code. This is why, there are two main ways in which they are integrated in the development process in two variants of user interfaces: 
 
 1. **Auto-complete-like agents.** The developer writes a function definition, and the LLM gets to auto-complete it. If the problem is general enough, and function name is likely clear enough, the most common likely continuation might be exactly what the developer needs. This works especially well and is very useful for boilerplate code, or generic queries.  
+
 2. **Chat-like agents**. With extra training in the form of reinforcement learning with human feedback (RLHF) a large language model (e.g. GPT) can be conditioned to work in the fashion of a chat-like system (e.g. ChatGPT, llama2). In this context, the model completes the next token in such a way as to obtain the most likely continuation of a conversation not a general text. 
 
 Some IDEs such as VSCode integrate the two modes of interaction. 
