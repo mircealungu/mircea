@@ -66,21 +66,33 @@ These very precise numbers have to be taken with a bit of salt. But it is true t
 # The ... Unknown
 
 There are still many open questions: 
+
+- **Code understanding** - still the hardest part of maintenance is at the moment not benefiting from these tools. Indeed, developers spend 80% of their time reading code rather than writing; why? because this activity is hard. If we can use LLMs to make code more understandable, this would be a very good thing (TM) much more important than the code generation capabilities they have now.
+
 - **How can these things be used by data scientists?** They might stand to benefit more? In fact, I think people who code rarely, or have less experience, are exactly those who benefit most from a system that has seen all the code out there and derived patterns from it. Still when to use it, and when not to, needs to be studied. 
+
 - **Will reading code become more important than writing code**? State of the art coding tools allow a part of the development flow to be switched from typing to inspecting generated code. 
+
 - What is the **impact of this kind of generated code on the maintainability of systems**? Indeed, **maintenance** is the longest phase in the life of a system. These days we call it  software evolution exactly to acknowledge its importance and extent. 
 	- We have no idea whether this patchwork of generated cobbled together will result in reliable and usable systems
 	- The role of the senior who does code review becomes even more important -- there has to be a grown-up in the house 
 	- How to ensure that you understand the system sufficiently well to change it
 	- How do we trace the generated code? 
+
 - How are companies going to ensure the **legality of the generated code**? See the NY Times articles parroted back in full by ChatGPT. What about licensing? The current solution seems to be often to ban the technology alltogetehr.
+
 - **Can we have open models, the way that we have open source** -- models that are not black boxes that belong to a corporation, but rather, that are created and maintained in the open? After all, they are built on the open internet.
+
 - **Localized LLM agents** instead of the basic search that websites are using nowadays. E.g., StackOverflow search is currently abysmal. Maybe this is why they have announced that they are working on a LLM powered interface. (Still open: how could such a system solve the attribution problem?)
+
 - **Personalized LLM agents**. That learn from the individual, small apprentices that with time learn to write code in the style of their user. Stephen Wolfram writes about training a model with all his past writings. (SF: Imagine every student training individual LLMs, and having them write their essays. And the final grade would be on the duo's work :)
+
 - **Better UIs - Beyond chat and auto-complete** -- some of these companies push towards replacing all the UI with chats. I think we have to go the other way around. We have developed rich user interactions over the recent years; how can we integrate the LLM inside them?
+
 - How do you study these things? How do you compare? Running after every new version of every new model of every new company is useless. New versions might decrease in quality as the company needs to cut on operations. From this POV, running one owns' model is more sustainable. 
+
 - In which other areas can we use generative AI?
-	- **Code understanding** - still the hardest part of maintenance -- developer spend 80% of their time reading code rather than writing; why? because this is hard. If we can use LLMs to make code more understandable, this would be a very good thing (TM)!
+
 	- Requirements ? but these models are imprecise - how can they help? Embrace the imprecision? 
 	- Architecture - if you need the average architecture, it can help you -- but Amdahl's Law means that this will not make a difference - the effort of architecting is not that large; it's upfront; and can not be replaced with experience
 
