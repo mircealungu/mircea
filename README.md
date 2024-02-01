@@ -30,9 +30,9 @@ Pieces of text that aim to have a beginning and an end... slowly porting them he
 
 - Feb '24 - [devx-and-ai](essays/devx-and-ai.md)
 - Feb '23 - [who-is-afraid-of-agi](essays/whos-afraid-of-agi.md)
-- Jan '16 - [the-obsession-with-science](essays/The-Obsession-with-Science.md)
+- Jan '16 - [the-obsession-with-science](essays/our-obsession-with-science.md)
 - Nov '13 - [mapping-the-information-economy](essays/mapping-the-information-economy.md)
-- Aug '13 - [academia-and-courage](essays/Academia-And-Courage.md)
+- Aug '13 - [academia-courage-innovation](essays/academia-courage-innovation.md)
 
 # Notes and writings in progress
 Assorted notes

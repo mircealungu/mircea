@@ -1,4 +1,4 @@
-# The Obsession with Science
+# Our Obsession with Science
 
 *Jan 20, 2016*
 
