@@ -7,7 +7,7 @@
 
 > The reports of my death are greatly exaggerated (Mark Twain)
 
-**Code Generation is not new to Software Engineering.** And neither are the announcements of dismissal of programming that come together with it. We've seen it in Cobol many years ago. And we've seen it with  model-driven engineering and with low-code platforms. And now we're seeing it with AI. 
+**Code Generation is not new to Software Engineering.** And neither are the announcements of dismissal of programming that come together with it. We've seen such announcements with Cobol many years ago. And we've seen them with 4GLs ([cover of App Development w/o Programmers, James Martin, 1982](https://m.media-amazon.com/images/I/71eNJfBFeWL._SX679_.jpg)), model-driven engineering and with low-code platforms. And now we're seeing it with AI. 
 
 **However, there is a difference between the old and the new code generation**. Then, old code generation was generating code in a lower-level *formal* language from a formal higher-level *formal* language. Notice the emphasize on *formal* language. 
 
