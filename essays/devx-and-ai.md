@@ -94,66 +94,65 @@ Some IDEs such as VSCode integrate the two modes of interaction.
 
 # The Good
 
-The homepage of GitHub Copilot reports a [study](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) that suggests that when using Copilot, developers are "faster with repetitive tasks" (96%), spending "less time searching" (77%),  "more in the flow" (73%). These very precise numbers have to be taken with a bit of salt. But it is true that there are ways in which these tools are **improving the lives of the developers**:
+But it is true that there are ways in which these tools are **improving the lives of the developers**:
 
-1. LLM extract patterns from other developers and bring this knowledge to the individual Indeed, developers are aware of the DRY principle (don't repeat yourself). However, they can not respect the *don't repeat others* principle (DRO?) since they don't know what others are doing. As a community, Software Engineering has already done work on extracting patterns from the ecosystem and mining the version repositories to help the individual developer, but the new models are more general. 
+### 1. Enabling learning from the Ecosystem
+LLM extract patterns from other developers and bring this knowledge to the individual Indeed, developers are aware of the DRY principle (don't repeat yourself). However, they can not respect the *don't repeat others* principle (DRO?) since they don't know what others are doing. As a community, Software Engineering has already done work on extracting patterns from the ecosystem and mining the version repositories to help the individual developer, but the new models are more general. 
 
-2. Sometimes the individual ends up being faster to **write code that was written before or similar** code. 
+### 2. Speeding up coding  
+The homepage of GitHub Copilot reports a [study](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) that suggests that when using Copilot, developers are "faster with repetitive tasks" (96%), spending "less time searching" (77%),  "more in the flow" (73%). These very precise numbers have to be taken with a bit of salt but they do suggest a speedup of code generation. 
 
-3. Chat-like systems might **help developers avoid interruptions and searching the web** - which these days is a pain - but it's a necessity - the complexity of the tech world is so large that one can not keep everything in their mind. Google and StackOverflow are not going away, but will likely be replaced for some tasks by LLMs. 
+Chat-like systems also **help developers avoid interruptions and searching the web** - which these days is a pain - but it's a necessity - the complexity of the tech world is so large that one can not keep everything in their mind. Google and StackOverflow are not going away, but will likely be replaced for some tasks by LLMs. 
 
- 4. Side effect of previous point: chat-like systems **encourage better definition of the problem query** - which in itself is often halfway to the solution. Google has taught all of us to throw a bag of keywords to it and sift through pages filled with ads and junk to collect the valuable snippet. Not unlike developers used to sift through horrible forums before StackOverflow. 
+Side effect of previous point: chat-like systems **encourage better definition of the problem query** - which in itself is often halfway to the solution. Google has taught all of us to throw a bag of keywords to it and sift through pages filled with ads and junk to collect the valuable snippet. Not unlike developers used to sift through horrible forums before StackOverflow. 
  
-5. Can **help writing boilerplate code** much faster. Although it's still written. I'm collecting my own examples of both successes and failures. Sometimes it feels like magic; sometimes it feels like the second coming of Clippy from MS Word. 
+Can **help writing boilerplate code** much faster. Although it's still written. I'm collecting my own examples of both successes and failures. Sometimes it feels like magic; sometimes it feels like the second coming of Clippy from MS Word. 
 
 # The Bad
+There are also things that are rotten in the state of Denmark... 
 
-There are also things that are rotten in the state of Denmark: 
+### 1. Generated code is likely not the best 
 
-1. The *most likely continuation of a string* that an LLM generates ... 
-	- ... **might not be the best** (e.g. the way biases exist in other kinds of datasets, there will be biases in the programming related data); also, a recent study attempting to evaluate the quality of the generated code seems to suggest that it's quality is more akin to a [passing contributor](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx) to a codebase rather than a senior developer on the team. 
-	- ... **will not exist for the most recent versions** of libraries - and thus, if you as a customer or employer get yourself a lazy programmer, you might end up with the patterns of yesterday. 
-	- ... **might not follow new insights into how to do things right** (Paolo Tell: "there was a delay of several years required for the community to realize that Singleton, although a design pattern was a bad idea")
+The *most likely continuation of a string* that an LLM generates is very likely not the best in terms of 
+	- **Quality**. The way biases exist in other kinds of datasets, there will be biases in the programming related data. A recent study attempting to evaluate the quality of the generated code seems to suggest that it's quality is more akin to a [passing contributor](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx) to a codebase rather than a senior developer on the team. 
+	- **Recency** of libraries - and thus, if you as a customer or employer get yourself a lazy programmer, you might end up with the patterns of yesterday. 
+	- **Actuality**. Paolo Tell: "there was a delay of several years required for the community to realize that Singleton, although a design pattern was a bad idea". Indeed, if generating code in the way it used to be done in the past is easy, why should wone learn a new way? 
 
+### 2. Killing the "golden goose" of good citizenship
 
-2. **Companies pushing LLM-based systems might be killing the golden goose**.  Given that these systems are trained on existing human generated content, they can not exist without it. **At the same time, they represent a strong disincentive for further content generation.** 
+Given that these systems are trained on existing human generated content, they can not exist without it. **At the same time, they represent a strong disincentive for further content generation.** 
 	- When StackOverflow came first developers and researchers, we were all enthusiastic. What it did was put order into a messy web. Remember how forums looked before StackOverflow? SO had a clean design, and a clever social incentive system with the help of which, people who wanted to be good citizens could contribute and recognized for their contributions. The key was probably the recognition. 
 	- The new system is exactly the opposite. It does not give credit and unfortunately, it couldn't even if it wanted to. It thus, does not encourage people to contribute. 
-	- It also encourages a lack of understanding of the bigger context. It  lacks the rich conversations around the questions that are present on SO. These conversations around a question are sometimes even more informative than the actual answer. And the value of the conversations is that they identify and solve also the corner cases. The main answer solves the general problem, the comments often solve the rare exception. 
 
-3. The **internet will end up being filled with (even more) generated junk**. StackOverfow observed that this was a problem already in December 2022. Users started generating answers and pasting them in although they were low-quality. Decreases the quality of the platform. The [discussion thread](https://meta.stackoverflow.com/questions/421831/temporary-policy-generative-ai-e-g-chatgpt-is-banned) illustrates the limitations of ChatGPT... It also acknowledges the problem: detection is not easy.
+### 3. Risks making programmers more ignorant
+Code generation risks encourages a lack of understanding of the bigger context. It  lacks the rich conversations around the questions that are present on SO. These conversations around a question are sometimes even more informative than the actual answer. And the value of the conversations is that they identify and solve also the corner cases. The main answer solves the general problem, the comments often solve the rare exception. 
+
+
+
 
 # The ... Unknown
 
 There are still many open questions: 
 
-- What is the **impact of this kind of generated code on the maintainability of systems**? Indeed, **maintenance** is the longest phase in the life of a system. These days we call it  software evolution exactly to acknowledge its importance and extent. 
+- **What is the impact of this kind of generated code on  systems maintainability**? Indeed, **maintenance** is the longest phase in the life of a system. These days we call it  software evolution exactly to acknowledge its importance and extent.  
 	- We have no idea whether a patchwork of generated code, cobbled together will result in reliable and usable systems
-	- The role of the senior who does code review becomes even more important -- there has to be a grown-up in the house 
-	- How to ensure that you understand the system sufficiently well to change it
-	- How do we trace the generated code? 
+	- For long-lived systems, where maintainability is important, using code generated by these systems is **[very likely worse than the alternatives](../notes/Npm-vs-StackOverflow-vs-ChatGPT.md)**.
 
-- **For whom and when are these tools good?** For what kind of tasks, it is still not clear. For long-lived systems, where maintainability is important, using code generated by these systems is [very likely worse than the alternatives](../notes/Npm-vs-StackOverflow-vs-ChatGPT.md). For what kind of developers it is also not clear. Maybe more for juniors. Maybe more for data scientists who are not necessarily that experienced in coding?
+- **For whom and when are these tools good?** For what kind of tasks, it is still not clear.  For what kind of developers it is also not clear. Maybe more for juniors. Maybe more for data scientists who are not necessarily that experienced in coding? 
 
 - **Code understanding** - still the hardest part of maintenance is at the moment not benefiting from these tools. Indeed, developers spend an overwhelming majority of their time reading code rather than writing; why? Because this activity is hard. Can use LLMs to make code more understandable? This would be an impressively impactful thing. The other question is whether we can write more understandable code by using LLMs... but what are LLMs... each one is different. 
 
 - **Will reading code become more important than writing code**? State of the art coding tools allow a part of the development flow to be switched from typing to inspecting generated code. 
 
-- How are companies going to ensure the **legality of the generated code**? See the NY Times articles parroted back in full by ChatGPT. What about licensing? The current solution seems to be often to ban the technology all together.
-
-- **Personalized LLM agents**. That learn from the individual, small apprentices that with time learn to write code in the style of their user. Stephen Wolfram writes about training a model with all his past writings. (SF: Imagine every student training individual LLMs, and having them write their essays. And the final grade would be on the duo's work :)
-
-- **Better UIs - Beyond chat and auto-complete** -- some of these companies push towards replacing all the UI with chats. I think we have to go the other way around. We have developed rich user interactions over the recent years; how can we integrate the LLM inside them?
-
-- **How do you study these things?** How do you compare? Running after every new version of every new model of every new company is useless. New versions might decrease in quality as the company needs to cut on operations. From this POV, running one owns' model is more sustainable. 
-
+- **Will we have personalized LLM agents**. That learn from the individual, small apprentices that with time learn to write code in the style of their user. Stephen Wolfram writes about training a model with all his past writings. He did write quite a bit, so that model will likely have what to latch on... (Science fiction scenario: Imagine every student training individual LLMs, and having them write their essays. And the final grade would be on the duo's work :)
 
 
 **Our Role as Researchers**? 
-- disentangling the truth from the marketing and the noise
-- having any impact in a domain where the state of the art is commercial and ever evolving
+- Disentangling the truth from the marketing and the noise
+- Having any impact in a domain where the state of the art is commercial and ever evolving
 	- should we even study ChatGPT 
 	- what can we write about it that will still be relevant in 2 years; but 5 years; it can't be dependent on the current version; but how can you not depend on it? 
+- **How do we study these things?** How do you compare? Running after every new version of every new model of every new company is useless. New versions might decrease in quality as the company needs to cut on operations. From this POV, running one owns' model is more sustainable. 
 
 
 ## Acknowledgements
@@ -171,3 +170,6 @@ Thanks to Iulian, Tiago, Adam for feedback on earlier drafts of this.
 	- Architecture - if you need the average architecture, it can help you -- but Amdahl's Law means that this will not make a difference - the effort of architecting is not that large; it's upfront; and can not be replaced with experience
 - Can we have open models, the way that we have open source -- models that are not black boxes that belong to a corporation, but rather, that are created and maintained in the open? After all, they are built on the data in the open internet.
 - Localized LLM agents instead of the basic search that websites are using nowadays. E.g., StackOverflow search is currently abysmal. Maybe this is why they have announced that they are working on a LLM powered interface. (Still open: how could such a system solve the attribution problem?)
+- Is the internet going to be filled with more generated junk? StackOverfow observed that this was a problem already in December 2022. Users started generating answers and pasting them in although they were low-quality. Decreases the quality of the platform. The [discussion thread](https://meta.stackoverflow.com/questions/421831/temporary-policy-generative-ai-e-g-chatgpt-is-banned) illustrates the limitations of ChatGPT... It also acknowledges the problem: detection is not easy.
+- How are companies going to ensure the **legality of the generated code**? See the NY Times articles parroted back in full by ChatGPT. What about licensing? The current solution seems to be often to ban the technology all together.
+- **Better UIs - Beyond chat and auto-complete** -- some of these companies push towards replacing all the UI with chats. I think we have to go the other way around. We have developed rich user interactions over the recent years; how can we integrate the LLM inside them?
