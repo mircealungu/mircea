@@ -25,7 +25,7 @@ Source on GH: [https://github.com/mircealungu/mircea/blob/main/essays/devx-and-a
 
 ## Code Generation and the Dismissal of the Programmer 
 
-> The reports of my death are greatly exaggerated (Mark Twain)
+> "*The reports of my death have been greatly exaggerated*". (Mark Twain)
 
 
 
@@ -49,7 +49,7 @@ This is different with the AI-based generation that fills the news in 2024: Chat
 
 
 
-## The Architecture
+## The Architecture Of the New Code Generators
 
 The most successful generative AI of the moment is based on large language models (LLMs). These are *statistical* models of language, which originally designed for natural language. The [extensive introduction to ChatGPT by Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/comment-page-1/#comments) is a fantastic introduction to LLMs. It's a blog post but it that will take you several hours. But it's worth all that time.
 
@@ -96,12 +96,11 @@ Some IDEs such as VSCode integrate the two modes of interaction.
 
 There are ways in which these tools are **improving the lives of the developers**:
 
-
 ### 1. Enabling learning from the Ecosystem
 LLM extract patterns from other developers and bring this knowledge to the individual Indeed, developers are aware of the DRY principle (don't repeat yourself). However, they can not respect the *don't repeat others* principle (DRO?) since they don't know what others are doing. As a community, Software Engineering has already done work on extracting patterns from the ecosystem and mining the version repositories to help the individual developer, but the new models are more general. 
 
 
-### 2. Speeding up coding, reducing interruptions
+### 2. Speeding up coding & reducing interruptions
 The homepage of GitHub Copilot reports a [study](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) that suggests that when using Copilot, developers are "faster with repetitive tasks" (96%), spending "less time searching" (77%),  "more in the flow" (73%). These very precise numbers have to be taken with a bit of salt but they do suggest a speedup of code generation. 
 
 Can **help writing boilerplate code** much faster. Although it's still written. I'm collecting my own examples of both successes and failures. Sometimes it feels like magic; sometimes it feels like the second coming of Clippy from MS Word. 
