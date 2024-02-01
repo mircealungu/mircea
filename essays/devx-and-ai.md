@@ -96,7 +96,7 @@ Some IDEs such as VSCode integrate the two modes of interaction.
 
 There are ways in which these tools are **improving the lives of the developers**:
 ### 1. Enabling learning from the Ecosystem
-LLM extract patterns from other developers and bring this knowledge to the individual Indeed, developers are aware of the DRY principle (don't repeat yourself). However, they can not respect the *don't repeat others* principle (DRO?) since they don't know what others are doing. As a community, Software Engineering has already done work on extracting patterns from the ecosystem and mining the version repositories to help the individual developer, but the new models are more general. 
+LLM extract patterns from other developers and bring this knowledge to the individual Indeed, developers are aware of the DRY principle (don't repeat yourself). However, they can not respect **the *don't repeat others* principle** since they don't know what others are doing. As a community, **Software Engineering has already done work on extracting patterns from the ecosystem** and **mining the version repositories** to help the individual developer, but the new models bring this knowledge to a completely new level.
 
 ### 2. Speeding up code creation & reducing interruptions
 The homepage of GitHub Copilot reports a [study](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) that suggests that when using Copilot, developers are "faster with repetitive tasks" (96%), spending "less time searching" (77%),  "more in the flow" (73%). These very precise numbers have to be taken with a bit of salt but they do suggest a speedup of code generation. 
