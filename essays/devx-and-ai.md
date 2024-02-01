@@ -10,8 +10,7 @@ Feb 1, 2024
 
 
 
-Online: https://mircealungu.com/essays/devx-and-ai.html
-Source: https://github.com/mircealungu/mircea/blob/main/essays/devx-and-ai.md
+Source on GH: [https://github.com/mircealungu/mircea/blob/main/essays/devx-and-ai.md](https://github.com/mircealungu/mircea/blob/main/essays/devx-and-ai.md)
 
 
 
