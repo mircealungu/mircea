@@ -1,4 +1,4 @@
-# The Badly Design of Everyday Things
+# The Badly Designed  Everyday Things
 
 Title is inspired by the seminal **TDoET** book. 
 

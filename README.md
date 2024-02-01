@@ -26,14 +26,16 @@ I always loved and I still love coding. However, nowadays I'm more of a product 
 [> past projects](/projects/history.md)
 
 # Essays
-Pieces of text that aim to have a beginning and an end... 
+Pieces of text that aim to have a beginning and an end... slowly porting some of the older writings from my past blogs here: 
 
 - Feb '24 - [devx-and-ai](essays/devx-and-ai.md)
-- Nov '23 - [mapping-the-information-economy](essays/mapping-the-information-economy.md)
 - Feb '23 - [who-is-afraid-of-agi](essays/whos-afraid-of-agi.md)
-# Notes
-Starting to slowly port here assorted writings from old blogs and previous websites and also slowly adding new notes every now and then: 
-[Academia-And-Courage](notes/Academia-And-Courage.md)  // [Importance-of-Maintenance](notes/Importance-of-Maintenance.md) // [How-to-Read-a-Research-Paper](notes/How-to-Read-a-Research-Paper.md) | [Good-Code-Is-Readable](notes/Good-Code-Is-Readable.md)  // [The-Obsession-with-Science](notes/The-Obsession-with-Science.md)  //  [A-Performance-Problem](notes/A-Performance-Problem.md) |  // [The-Badly-Design-of-Everyday-Things](notes/The-Badly-Design-of-Everyday-Things.md) | [Book-Reviews](notes/Book-Reviews.md) | // [ChatGPT-and-CoPilot](notes/ChatGPT-and-CoPilot.md) // ,  [import-boilerplate-in-react](essays/import-boilerplate.md) 
+- Jan '16 - [the-obsession-with-science](essays/The-Obsession-with-Science.md)
+- Nov '13 - [mapping-the-information-economy](essays/mapping-the-information-economy.md)
+- Aug '13 - [academia-and-courage](essays/Academia-And-Courage.md)
+# Notes and writings in progress
+Assorted notes
+[Importance-of-Maintenance](notes/Importance-of-Maintenance.md) // [How-to-Read-a-Research-Paper](notes/How-to-Read-a-Research-Paper.md) // [Good-Code-Is-Readable](notes/Good-Code-Is-Readable.md)   //  [A-Performance-Problem](notes/A-Performance-Problem.md)  // [The-Badly-Designed-Everyday-Things](notes/The-Badly-Design-of-Everyday-Things.md) | [Book-Reviews](notes/Book-Reviews.md) | // [ChatGPT-and-CoPilot](notes/ChatGPT-and-CoPilot.md) //  [import-boilerplate-in-react](essays/import-boilerplate.md) 
 
 
 # Student Projects
