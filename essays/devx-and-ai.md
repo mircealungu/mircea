@@ -192,8 +192,7 @@ Thanks to Iulian, Tiago, Adam for feedback on earlier drafts of this.
 - We should train generative models ethically, or not at all [Brian Merchant on Twitter](https://twitter.com/bcmerchant/status/1750666810633183497)
 - Article referring to paywalled article that suggests [downward pressure on code quality](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx) by generative AI?
 - Do we even  have the right to use these things for anything else than ... modeling languages? Why would a language model give you an answer to a question, and why should you believe it?
-- The most likely continuation... is just that. The most likely continuation. There is no creativity in it. There's the 
-- A chat system that gives you the most likely continuation of a conversation... is the most boring thing. For me, exactly that a conversation went somewhere where I would have not expected was the value of it. The more boring the code you write, the more likely you will benefit from this
+- A chat system that gives you the most likely continuation of a conversation... is the most boring thing. For me, exactly that a conversation went somewhere where I would have not expected was the value of it. OTOH, the more boring the code one writes, the more likely they will benefit from LLMs. But if they were writing boring code, maybe it's for the best?
 - In which other areas besides code writing can we use generative AI?
 	- Requirements ? but these models are imprecise - how can they help? Embrace the imprecision? 
 	- Architecture - if you need the average architecture, it can help you -- but Amdahl's Law means that this will not make a difference - the effort of architecting is not that large; it's upfront; and can not be replaced with experience
