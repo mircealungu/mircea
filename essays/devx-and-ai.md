@@ -188,6 +188,9 @@ Thanks to Iulian, Tiago, Adam for feedback on earlier drafts of this.
 
 ## Beyond here lay dragons: Further Notes
 
+- Dave Thomas on [not trusting CoPilot beyond repetitive tasks](https://twitter.com/pragdave/status/1755366157253476707?s=20)
+- We should train generative models ethically, or not at all [Brian Merchant on Twitter](https://twitter.com/bcmerchant/status/1750666810633183497)
+- Article referring to paywalled article that suggests [downward pressure on code quality](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx) by generative AI?
 - Do we even  have the right to use these things for anything else than ... modeling languages? Why would a language model give you an answer to a question, and why should you believe it?
 - The most likely continuation... is just that. The most likely continuation. There is no creativity in it. There's the 
 - A chat system that gives you the most likely continuation of a conversation... is the most boring thing. For me, exactly that a conversation went somewhere where I would have not expected was the value of it. The more boring the code you write, the more likely you will benefit from this
