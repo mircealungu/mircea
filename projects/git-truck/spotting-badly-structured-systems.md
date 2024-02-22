@@ -1,3 +1,5 @@
+### [Git-Truck](../git-truck.md) / [Examples](../git-truck.md#examples-of-usage)
+
 # Using Git-Truck for Spotting Badly Structured Systems
 
 Your students have implemented a beautiful interactive application in React that provides school kids with the opportunity to practice mathematics exercises. It all looks beautiful from a UI POV. You don't have much time to look into the details of the codebase, so you fire up Git-Truck and look at the files that have the most commits. You get the image below. What do you investigate first? 

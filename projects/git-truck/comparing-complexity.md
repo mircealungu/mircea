@@ -1,3 +1,5 @@
+### [Git-Truck](../git-truck.md) / [Examples](../git-truck.md#examples-of-usage)
+
 # Using Git-Truck to Copare System Complexity
 
 I was in a research research project defense in which two students were proposing to compare two open source systems for their upcoming thesis: VLC -- the well-known video player -- and A32NX -- a fly-by-wire simulator. 
