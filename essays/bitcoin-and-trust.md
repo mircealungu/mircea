@@ -1,8 +1,10 @@
 # Bitcoin - a Reminder of the Importance of Trust
 
-The Danes tell about themselves that they do not have natural resources, but they have another resource that is very valuable and which explains part of their success: trust. I never understood this until i had to rent a car in Greece
+The Danes tell about themselves that they do not have natural resources, but they have another resource that is very valuable and which explains part of their success: *trust*. I never understood this until i had to rent a car in Greece.
 
-, sometimes in 2018 I think. We went in the rental place where a very friendly man welcomed us, and quickly asked us whether we wanted coffee. We accepted to some milk-based coffee and he quickly summoned a colleague and asked him to bring us coffee. However, it was quite surprising to see that the employee, instead of going in the kitchen for the coffee, went out in the street, and bought coffee from a cafe down the street. Came back with large lattes for everybody. Little did we know that large lattes were important: indeed, the process of renting that car was absolutely kafkaesque and took probably more than one hour filling and signing a dozen forms but me and the render himself. I think then I realized a little bit the importance of trust: in a culture where you can trust people, you can rent a car in 15 minutes; in a culture where trust is low, you have to spend hours and fill a hundred forms to do the same thing.
+Sometimes in 2018 I think, with friends we went to a rental place. A very friendly man welcomed us, and quickly asked us whether we wanted coffee. We accepted to some espresso-based drinks and he quickly summoned a colleague and sent him for coffee. To our surprise, however, the colleague, instead of going in the kitchen for the coffee, went out in the street. After about 5 minutes he came back with large coffees that he had bought from a cafe down the street. Little did we know that large drinks were important: indeed, the process of renting that car was absolutely *kafka-esque*: it took probably more than one hour  and required filling and signing a dozen forms, both by me and the lender himself. 
+
+I think then I realized a little bit the importance of trust: in a culture where you can trust people, you can rent a car in 10 minutes; in a culture where trust is low, you have to spend hours and fill a dozen forms to do the same thing.
 
 But this little anecdote is nothing compared to living reminder of the importance of trust that Bitcoin represents. 
 
