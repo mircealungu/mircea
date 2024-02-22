@@ -27,8 +27,14 @@ In fact, the repository contains as much effort in the docs and tests as it has 
 
 ![](img/flask-zoom-in-on-src-folder.png)
 
-It becomes now evident why the project is considered a lightweight project in comparison with the main web app alternative: Django, the source code folder of which is presented below: 
+It becomes now evident why the project is considered a lightweight project in comparison with the main web app alternative: Django, the source code folder of which is presented below.
 
 ![](img/django-source-folder.png)
 
+
+To get the interactive view of Django run: 
+```
+git https://github.com/django/django.git
+npx git-truck@latest
+```
 
