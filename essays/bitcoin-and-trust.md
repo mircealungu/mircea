@@ -1,8 +1,10 @@
 # Bitcoin - a Reminder of the Importance of Trust
 
+*(draft; work in progress)*
+
 The Danes tell about themselves that they do not have natural resources, but they have another resource that is very valuable and which explains part of their success: *trust*. I never understood this until i had to rent a car in Greece.
 
-Sometimes in 2018 I think, with friends we went to a rental place. A very friendly man welcomed us, and quickly asked us whether we wanted coffee. We accepted to some espresso-based drinks and he quickly summoned a colleague and sent him for coffee. To our surprise, however, the colleague, instead of going in the kitchen for the coffee, went out in the street. After about 5 minutes he came back with large coffees that he had bought from a cafe down the street. Little did we know that large drinks were important: indeed, the process of renting that car was absolutely *kafka-esque*: it took probably more than one hour  and required filling and signing a dozen forms, both by me and the lender himself. 
+Sometimes in 2018 I think, with friends we went to a rental place. A very friendly man welcomed us, and quickly asked us whether we wanted coffee. We accepted to some espresso-based drinks and he quickly summoned a colleague and sent him for coffee. To our surprise, however, the colleague, instead of going in the kitchen for the coffee, went out in the street. After about 5 minutes he came back with large coffees that he had bought from a cafe down the street. Little did we know that large drinks were important: indeed, the process of renting that car was absolutely *kafka-esque*: it took probably more than one hour and required filling and signing a dozen forms, both by me and the lender himself. 
 
 I think then I realized a little bit the importance of trust: in a culture where you can trust people, you can rent a car in 10 minutes; in a culture where trust is low, you have to spend hours and fill a dozen forms to do the same thing.
 
@@ -12,7 +14,7 @@ Bitcoin and the blockchain-based algorithm that underpins it are a beautiful con
 
 However, there are two "little" problems with the protocol: 
 
-1. **The system does not scale**. Some year ago, in average the Bitcoin network can process about 5 transactions per second. This would not be sufficient to handle all the transactions in a little town after work hours. And for sure it's not sufficient to handle all the transactions in the world. It can never scale to be a global payment system, one of it's goals. 
+1. **The system does not scale**. Some year ago, in average the Bitcoin network can process about 5 transactions per second. This would not be sufficient to handle all the transactions in my grandmother's village at the fair on Sunday morning. And for sure it's not sufficient to handle all the transactions in the world. It can never scale to be a global payment system, one of it's goals. 
 2. **The system wastes a lot of energy**. Some year ago estimations put the whole energy consumption of the network was comparable with the energy consumption of whole Ireland.
 
 This is the price we have to pay for lack of trust*. 
@@ -38,4 +40,3 @@ So we there it is: sometimes* the difference between a system built on trust and
 # Further Notes
 - Shawn of the Dead: *"Trust is the most important thing in a relation"*.
 - Not to mention that you never have zero trust - the apps that keep your cryptowallets ... my story with the lithuanian app
-- 
