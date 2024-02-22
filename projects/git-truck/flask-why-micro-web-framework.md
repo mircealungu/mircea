@@ -1,4 +1,7 @@
+## [Git-Truck](../git-truck.md) / [Examples](../git-truck.md#examples-of-usage)
 # Flask - Why Is it Called a Micro-Web-Framework?
+
+
 
 
 In programming, we are all standing on the shoulders of giants. Our code always depends on other people's code. 
