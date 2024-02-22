@@ -14,7 +14,7 @@ Mapping the number of commits on both the file size and the color intensity resu
 
 Two things are salient: 
 1. `checker.ts` is by far the most changed file in the project with 7K commits. This should not necessarily be surprising though; the type system of Typescript is one of the most complex ones I've seen.  
-2. A large battery of tests is essential. Compare the number of files in the tests folder with the files in the compiler folder :)
+2. The number of files in the tests folder is so large that they can't even be all rendered. This again, should not be a surprise, but a reminder that tests are essential especially for a compiler. 
 
 **Highlighting the files that have a single author**... shows that there are almost no such files :) This is a heavily collaborative project. 
 
