@@ -10,6 +10,7 @@ Git-Truck is a project that aims to ease the understanding of the evolution of a
 ## Examples of Usage
 - [comparing-complexity](git-truck/comparing-complexity.md)
 - [spotting-badly-structured-systems](git-truck/spotting-badly-structured-systems.md)
+- [understanding-code-organization](git-truck/understanding-code-organization.md)
 
 ## Papers
 
