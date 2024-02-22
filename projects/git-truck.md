@@ -8,11 +8,16 @@ Git-Truck is a project that aims to ease the understanding of the evolution of a
 - Contributors: Jonas, Thomas, Emil, Kristopher, Dawid
 
 ## Examples of Usage
+
+Looking at student projects: 
 - [Spotting Badly Structured Systems](git-truck/spotting-badly-structured-systems.md) 
 - [Understanding Code Organization](git-truck/understanding-code-organization.md)
+- [Quickly Comparing Complexity of Two Systems](git-truck/comparing-complexity.md)
+
+Learning from open source: 
 - [Typescript: Investigating a Compiler](git-truck/typescript-investigating-a-compiler.md)
 - [Flask: Why call it a micro-web-framework?](git-truck/flask-why-micro-web-framework.md)
-- [Quickly Comparing Complexity of Two Systems](git-truck/comparing-complexity.md)
+
 
 ## Papers
 
