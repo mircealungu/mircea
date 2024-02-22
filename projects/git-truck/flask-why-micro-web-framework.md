@@ -11,7 +11,7 @@ In programming, we are all standing on the shoulders of giants. Our code always 
 One such *giant* for Python web applications is Flask -- which calls itself a *micro web framework*. I always knew it was supposed to be a lightweight alternative to Django, but how much more lightweight was never clear. To analyze it we run: 
 
 ```
-git https://github.com/pallets/flask.git
+git clone https://github.com/pallets/flask.git
 npx git-truck@latest
 ```
 
@@ -39,7 +39,7 @@ It becomes now evident why the project is considered a lightweight project in co
 
 To get the interactive view of Django run: 
 ```
-git https://github.com/django/django.git
+git clone https://github.com/django/django.git
 npx git-truck@latest
 ```
 

@@ -11,6 +11,6 @@ Indeed, the `MultipleChoice.js` has by far the largest number of commits. You lo
 
 ## How to replicate this case study?
 ```
-git https://github.com/MathsCamp/MathsCamp.git
+git clone https://github.com/MathsCamp/MathsCamp.git
 npx git-truck@latest
 ```

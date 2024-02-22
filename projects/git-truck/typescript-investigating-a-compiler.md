@@ -6,7 +6,7 @@
 Let's clone the Typescript compiler and analyze it with Git-Truck: 
 
 ```
-git https://github.com/microsoft/TypeScript.git
+git clone https://github.com/microsoft/TypeScript.git
 npx git-truck@latest
 ```
 
