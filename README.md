@@ -28,6 +28,7 @@ I always loved and I still love coding. However, nowadays I'm more of a product 
 # Essays
 Pieces of text that aim to have a beginning and an end... slowly porting them here from other platforms:
 
+- Feb '24 - [bitcoin-and-trust](essays/bitcoin-and-trust.md)
 - Feb '24 - [devx-and-ai](essays/devx-and-ai.md)
 - Feb '23 - [who-is-afraid-of-agi](essays/whos-afraid-of-agi.md)
 - Jan '16 - [the-obsession-with-science](essays/our-obsession-with-science.md)

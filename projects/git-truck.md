@@ -8,7 +8,8 @@ Git-Truck is a project that aims to ease the understanding of the evolution of a
 - Contributors: Jonas, Thomas, Emil, Kristopher, Dawid
 
 ## Examples of Usage
-- [git-truck-to-compare-complexity](../notes/git-truck-to-compare-complexity.md)
+- [comparing-complexity](git-truck/comparing-complexity.md)
+- [spotting-badly-structured-systems](git-truck/spotting-badly-structured-systems.md)
 
 ## Papers
 

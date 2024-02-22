@@ -167,7 +167,7 @@ It  lacks the rich conversations around the questions that are present on StackO
 
 # The ... Unknown
 As of today, there remain many open questions: 
-### 1. What is the impact of this kind of generated code on  systems maintainability? 
+### 1. What is the impact of this kind of generated code on  system maintainability? 
 Indeed, **maintenance** is the longest phase in the life of a system. These days we call it  software evolution exactly to acknowledge its importance and extent.  We have no idea **whether a patchwork of generated code, cobbled together will result in reliable and maintainable** systems.
 
 ### 2. *For whom* and *when* are these tools good? 
