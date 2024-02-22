@@ -4,7 +4,7 @@ Your students have implemented a beautiful interactive application in React that
 
 ![](img/maths-camp.png)
 
-Indeed, the `MultipleChoice.js` has by far the largest number of commits. You look into it and discover almost 1K LOC and 109 commits. It is a God Class if ever was one. It does so much more than model a multiple-choice component. It should have been refactored. You use this class to start discussing the codebase with the students. 
+Indeed, the `MultipleChoice.js` has by far the largest number of commits. You look into it and discover almost 1K LOC and 109 commits. It is a God Class if ever was one. It does so much more than model a multiple-choice component should do. It should have been refactored into dozen subcomponents and functions. You use this class to start discussing the codebase with the students. 
 
 
 ## How to replicate this case study?
