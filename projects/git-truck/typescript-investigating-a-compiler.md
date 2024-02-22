@@ -1,21 +1,23 @@
-# Typescript: Type-checking Is Difficult
-
-![](img/typescript.png)
-
-The Typescript compiler teaches us a few things about the architecture of a language compiler. Image 
-- Type-checking can be complicated: `checker.ts` is the most changed file in the project with 7K commits; then again, the type system of Typescript is complicated!
-- A large battery of tests is essential - compare the number of files in the tests folder with the files in the compiler folder :)
-
-Highlighting the single author files... shows that there are almost no such files :) This is a heavily collaborative project. 
-
-![](../../docs/assets/Pasted%20image%2020240222134648.png)
+# Typescript: Investigating a Compiler
 
 
-## How to replicate this case study?
+Let's clone the Typescript compiler and analyze it with Git-Truck: 
 
 ```
 git https://github.com/microsoft/TypeScript.git
 npx git-truck@latest
 ```
 
-Note that cloning the Typescript repository can be slow. It's a big project!
+Mapping the number of commits on both the file size and the color intensity results in the view below: 
+
+![](img/typescript.png)
+
+Two things are salient: 
+1. `checker.ts` is by far the most changed file in the project with 7K commits. This should not necessarily be surprising though; the type system of Typescript is one of the most complex ones I've seen.  
+2. A large battery of tests is essential. Compare the number of files in the tests folder with the files in the compiler folder :)
+
+**Highlighting the files that have a single author**... shows that there are almost no such files :) This is a heavily collaborative project. 
+
+![](../../docs/assets/Pasted%20image%2020240222134648.png)
+
+
