@@ -10,7 +10,7 @@ Zeeguu is a project that aims to support learners of foreign languages accelerat
 The architecture of Zeeguu includes both a browser extension and a web application that communicate with each other. 
 
 - Source code: [github.com/zeeguu](https://github.com/zeeguu)
-- Online: [zeeguu.org](https://zeeguu.org)
+- Online: [zeeguu.org](https://zeeguu.org) (try it with the `zeeguu-beta` invite code)
 - Contributors: many students over the years
 
 
@@ -58,4 +58,3 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 
 # Inspiration
 
-[Marc Andreesen](https://www.thefp.com/p/why-ai-will-save-the-world?utm_source=substack&utm_medium=email): "Every child will have an AI tutor that is infinitely patient, infinitely compassionate, infinitely knowledgeable, infinitely helpful. The AI tutor will be by each child’s side every step of their development, helping them maximize their potential with the machine version of infinite love.""
