@@ -1,4 +1,6 @@
 
+Mar 1 2024
+- [chrome extension to change the new tab](https://chromewebstore.google.com/detail/mmjbdbjnoablegbkcklggeknkfcjkjia)
 
 ## Automatically loading the python environment when changing to the `api` folder
 

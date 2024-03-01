@@ -1,3 +1,4 @@
+# My Links
 
 Admin
 - [ibistic](https://wayf.itu.dk/module.php/core/loginuserpass.php?AuthState=_0b031e5c0cbb05b6c9980b0f6c183a70f69f7d887a%3Ahttps%3A%2F%2Fwayf.itu.dk%2Fsaml2%2Fidp%2FSSOService.php%3Fspentityid%3Dhttps%253A%252F%252Fwayf.wayf.dk%26RelayState%3DRxZGUkvDCKzr8NS4bTMPaDr_%26cookieTime%3D1709297351)
@@ -27,3 +28,6 @@ Students
 6. MSc CS - [GitTruck Performance & Scalability](https://learnit.itu.dk/grade/report/grader/index.php?id=3024202) Thomas 
 7. MSc KSD - [Browsing in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024025) Klara Krag 
 
+Ops
+- [Cloud Console](https://console.cloud.google.com/compute/instances)
+- 
