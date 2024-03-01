@@ -5,7 +5,11 @@ Admin
 - [administrative abc](https://intranet.itu.dk/Administrative-ABC)
 
 GitHub
-- Zeeguu [Web](https://github.com/zeeguu/web/) [API](https://github.com/zeeguu/api)
+- [Zeeguu](https://github.com/zeeguu)
+	- [**Web**](https://github.com/zeeguu/web/) 
+	- [**API**](https://github.com/zeeguu/api)
+	- [Browser Extension](https://github.com/zeeguu/browser-extension)
+- [Homepage](https://github.com/mircealungu/mircea)
 
 
 Courses
