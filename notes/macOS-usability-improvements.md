@@ -12,6 +12,7 @@
 
 Stremio  + the [torrentio](https://torrentio.strem.fun/lite/configure) plugin = good combination
 
+[USB Overdrive](https://www.usboverdrive.com/index.php/download/) - overwriting right-click
 
 
 
