@@ -21,7 +21,7 @@
  - Klara - [Browsing in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024025) (SD)
 
 **Ops**
-- [Cloud Console](https://console.cloud.google.com/compute/instances)
+- [GC Compute Instances](https://console.cloud.google.com/compute/instances)
 
 
 **ITU Admin**
