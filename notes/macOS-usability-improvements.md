@@ -1,4 +1,13 @@
 
+Mar 4
+- opening every tab with my favorite links is too much
+- also does not work for Safari which does not automatically focus in the address bar if you open a page
+- solution: 
+	- open a blank page in both Safari and Chrome
+	- set the links page as "Home"
+	- create a shortcut that works for both of them in Systems Settings > Keyboard that goes to the Home; in my case: Shift+Command+R 
+
+
 Mar 1 2024
 - [chrome extension to change the new tab](https://chromewebstore.google.com/detail/mmjbdbjnoablegbkcklggeknkfcjkjia)
 
