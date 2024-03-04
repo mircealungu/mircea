@@ -14,13 +14,11 @@
 - Maria - [Bayesian Inference](https://learnit.itu.dk/course/view.php?id=3023893) (DS)
 
 **Master Theses**
-CS 
-  - Johannes - [OSS Telemetry](https://learnit.itu.dk/grade/report/grader/index.php?id=3024163) 
-  - Thomas - [GitTruck Performance & Scalability](https://learnit.itu.dk/grade/report/grader/index.php?id=3024202) 
-SD 
- - Merle - [Exercise Progression in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024079) 
- - Iga - [Easing Onboarding](https://learnit.itu.dk/grade/report/grader/index.php?id=3024152)
- - Klara Krag - [Browsing in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024025) 
+  - Johannes - [OSS Telemetry](https://learnit.itu.dk/grade/report/grader/index.php?id=3024163) (CS)
+  - Thomas - [GitTruck Performance & Scalability](https://learnit.itu.dk/grade/report/grader/index.php?id=3024202) (CS)
+ - Merle - [Exercise Progression in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024079) (SD)
+ - Iga - [Easing Onboarding](https://learnit.itu.dk/grade/report/grader/index.php?id=3024152)(SD)
+ - Klara Krag - [Browsing in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024025) (SD)
 
 **Ops**
 - [Cloud Console](https://console.cloud.google.com/compute/instances)
