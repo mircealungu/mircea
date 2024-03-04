@@ -10,7 +10,7 @@
 - [DataVisualization](https://learnit.itu.dk/course/view.php?id=3022800#section-6)
 
 **Bachelor Theses** 
-- Oscar, Nicolai, Mads  [Recommender System](https://learnit.itu.dk/course/view.php?id=3023893) (CS)
+- Oscar, Nicolai, Mads - [Recommender System](https://learnit.itu.dk/course/view.php?id=3023893) (CS)
 - Maria - [Bayesian Inference](https://learnit.itu.dk/course/view.php?id=3023893) (DS)
 
 **Master Theses**
