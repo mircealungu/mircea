@@ -6,8 +6,9 @@
 
 **Courses**
 - [Software Architecture](https://learnit.itu.dk/course/view.php?id=3022830#section-0) 
-- DevOps, Maintenance, Evolution: - [**GitHub**](https://github.com/itu-devops/lecture_notes) - [**LearnIt**](https://learnit.itu.dk/course/view.php?id=3022842) 
+- DevOps... - [**GitHub**](https://github.com/itu-devops/lecture_notes) - [**LearnIt**](https://learnit.itu.dk/course/view.php?id=3022842) 
 - [DataVisualization](https://learnit.itu.dk/course/view.php?id=3022800#section-6)
+- [TID'23](https://learnit.itu.dk/course/view.php?id=3022263)
 
 **Bachelor Theses** 
 - Oscar, Nicolai, Mads - [Recommender System](https://learnit.itu.dk/course/view.php?id=3023893) (CS)
@@ -29,3 +30,7 @@
 - [Time-edit](https://timeedit.itu.dk/) ([schedule'24](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X860Q90YQ59x5YZ61ZY1Q6y5695Y05X58207QX01483Yg56092gX64Y09Q5.html))
 - [Administrative abc](https://intranet.itu.dk/Administrative-ABC)
 - [WebPrint](https://ituwebprint.itu.dk/RicohmyPrint/Main.aspx)
+
+**Copenhagen**
+- [Amager Volley](https://www.amagervolley.dk/dl/hjem) - [FB](https://www.facebook.com/groups/6035564066)- [H3](https://www.facebook.com/groups/929115003800969) 
+- 
