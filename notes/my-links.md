@@ -6,7 +6,7 @@
 
 **Courses**
 - [Software Architecture](https://learnit.itu.dk/course/view.php?id=3022830#section-0) 
-- [DevOps, Maintenance, Evolution](https://learnit.itu.dk/course/view.php?id=3022842)
+- DevOps, Maintenance, Evolution: [GitHub](https://github.com/itu-devops/lecture_notes) [LearnIt](https://learnit.itu.dk/course/view.php?id=3022842) 
 - [DataVisualization](https://learnit.itu.dk/course/view.php?id=3022800#section-6)
 
 **Bachelor Theses** 
