@@ -2,6 +2,14 @@ I've decided that I must write short notes about the books I read. I'll try to k
 
 # Books 
 
+## 2024
+## Dominion, Tom Holland
+Notes
+- In the story of Job, "the court of God" seems to be inspired by the court of Cyrus the Great - an emperror that the jews admired because he freed them from their babilonian captivity; even Satan is modeled by the approach Cyrus would have of sending messengers across the empire
+- Satan literally means "the adversary" in Hebrew
+- The tower of Babbel story was probably inspired by the Babilonian ziggurat of Marduk that the Jewis saw in their exile
+- 
+
 ## 2023
 
 ## How to Win Friends and Influence People, D. Carnegie
@@ -18,8 +26,8 @@ I've decided that I must write short notes about the books I read. I'll try to k
 - Jan, audio
 - the book is in a sense better than the previous one; galaxy-scale and centuries-scale science fiction, that still succeeds in following a "reluctant" protagonist (Luo Ji)
 - the book has a huge suspense arc if one knows the dark forest theory.  indeed, the solution of Luo Ji is in some sense quite obvious, and once it is set in motion, one can only be eager to see whether it works. (although now I start to wonder whether in a dark forrest, one ever starts an expedition like the one of the trisolarians...)
-- the alien attack is awe-inspiring - one of the most memorable descriptions of a first encounter with a superior technology that I remember reading
-- towards the end there was a certain feeling of deus-ex-machina
+- the alien attack is awe-inspiring - one of the most vivid descriptions of a first encounter with a superior technology that I ever read
+- towards the end there is a bit of a disappointing deus-ex-machina
 
 
 ## 2022 
