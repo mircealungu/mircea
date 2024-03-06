@@ -1,7 +1,7 @@
 #### Links
 
 **GitHub**
-- [Zeeguu](https://github.com/zeeguu): - [**Web**](https://github.com/zeeguu/web/)  ([pulls](https://github.com/zeeguu/web/pulls))	- [**API**](https://github.com/zeeguu/api)	- [**Browser Extension**](https://github.com/zeeguu/browser-extension)
+- [Zeeguu](https://github.com/zeeguu): - [**Web**](https://github.com/zeeguu/web/)  ([pulls](https://github.com/zeeguu/web/pulls))	- [**API**](https://github.com/zeeguu/api)	- [**Browser Extension**](https://github.com/zeeguu/browser-extension)([pulls](https://github.com/zeeguu/browser-extension/pulls))
 - [Homepage](https://github.com/mircealungu/mircea)
 
 **Courses**
