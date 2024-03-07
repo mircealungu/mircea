@@ -7,7 +7,7 @@
 **Courses**
 - [Software Architecture](https://learnit.itu.dk/course/view.php?id=3022830#section-0) 
 - [**DevOps GitHub**](https://github.com/itu-devops/lecture_notes) - [LearnIt](https://learnit.itu.dk/course/view.php?id=3022842) 
-- [Data Visualization](https://learnit.itu.dk/course/view.php?id=3022800#section-6)
+- [Data Vis](https://learnit.itu.dk/course/view.php?id=3022800#section-6)
 - [TID'23](https://learnit.itu.dk/course/view.php?id=3022263)
 
 **Bachelor Theses** 
