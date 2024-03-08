@@ -1,7 +1,9 @@
 #### Links
 
+[perplexity](https://www.perplexity.ai/)
+
 **GitHub**
-- [Zeeguu](https://github.com/zeeguu): - [**Web**](https://github.com/zeeguu/web/)  ([pulls](https://github.com/zeeguu/web/pulls))	- [**API**](https://github.com/zeeguu/api)	- [**Browser Extension**](https://github.com/zeeguu/browser-extension) ([pulls](https://github.com/zeeguu/browser-extension/pulls))
+- [Zeeguu](https://github.com/zeeguu): - [**Web**](https://github.com/zeeguu/web/)  ([pulls](https://github.com/zeeguu/web/pulls))	- [**API**](https://github.com/zeeguu/api)	- [**Browser Extension**](https://github.com/zeeguu/browser-extension) ([pulls](https://github.com/zeeguu/browser-extension/pulls)) - [**FMD**](https://github.com/flask-dashboard/Flask-MonitoringDashboard)
 - [Homepage](https://github.com/mircealungu/mircea)
 
 **Courses**
@@ -16,6 +18,7 @@
 
 **Master Theses**
  - Johannes - [OSS Telemetry](https://learnit.itu.dk/grade/report/grader/index.php?id=3024163) (CS) (censor proposal sent)
+	 - todo: deploy fmd on api.zeeguu.org 
  - Thomas - [GitTruck Performance & Scalability](https://learnit.itu.dk/grade/report/grader/index.php?id=3024202) (CS) (censor proposal sent)
  - Merle - [Exercise Progression in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024079) (SD) (censor proposal sent)
  - Iga - [Easing Onboarding](https://learnit.itu.dk/grade/report/grader/index.php?id=3024152)(SD) (censor proposal sent)
