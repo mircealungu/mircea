@@ -46,7 +46,7 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 
 ## In Progress
 
-- Better and more precise time-measurement on the platform (include exercises, include reviewing words, etc.)
+- Better and more precise time-measurement on the platform (include exercises, include reviewing words, show the timer in real time, pause when inactive, etc.)
 - More diverse exercises: e.g. reorder parts of sentence into whole with drag and drop
 - Better personalized recommendations
 
