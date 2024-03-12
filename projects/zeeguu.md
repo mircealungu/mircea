@@ -44,14 +44,25 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 
 [**Supporting Foreign Language Learning With a Browser Extension**](../docs/assets/reports/22-thesis-browser-extension.pdf) - thesis introducing an architecture for a browser extension for Zeeguu - half of 32 participants **prefer the browser extension which cleans up an article page to the original page**; the extension also adds interactive translation and pronunciation for reading  - the thesis also discusses **challenges with maintaining such a browser extension**
 
-## Future Work
-- better and more meaningful progress feedback 
-- alternative UI inspired from "swiping apps" - show one article at a time; allow the user to mark it as not interesting; save for later; read more... what is the impact of this on engagement
-- better and more precise time-measurement on the platform (include exercises, include reviewing words, etc.)
-- more diverse exercises: e.g. reorder parts of sentence into whole with drag and drop
-- add a social component: allow the learners in a class see each other's activity; allow seeing social feedback on existing articles
-- create mobile applications for the various platforms; probably with a cross-platform tech, e.g. Flutter
-- research questions that should be answereed
+## In Progress
+
+- Better and more precise time-measurement on the platform (include exercises, include reviewing words, etc.)
+- More diverse exercises: e.g. reorder parts of sentence into whole with drag and drop
+- Better personalized recommendations
+
+## Roadmap
+*(prioritized)*
+- Unifying the reader between the extension and the web application
+- Better and more meaningful progress feedback 
+- Creating mobile applications for the various platforms; probably with a cross-platform tech, e.g. Flutter
+- Adding **support for video** 
+
+
+## Open Research Questions 
+- The **integration of a chat systems and role-playing in language learning**
+- Alternative UI inspired from "swiping apps" - show one article at a time; allow the user to mark it as not interesting; save for later; read more... what is the impact of this on engagement
+- A social component: allow the learners in a class see each other's activity; allow seeing social feedback on existing articles
+- Research questions that should be answereed
 	- how important is the difficulty estimator given that Zeeguu supports the reader also with translations - so they can read texts that are harder than their level; how much harder than their level can they read now? 
 	- how to evaluate the efficiency of the exercise scheduling algorithm?
 
