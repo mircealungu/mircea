@@ -38,4 +38,7 @@
 
 **Copenhagen**
 - [Amager Volley](https://www.amagervolley.dk/dl/hjem) - [FB](https://www.facebook.com/groups/6035564066)- [H3](https://www.facebook.com/groups/929115003800969) 
-- 
+
+
+**Censoring**
+- [aau digitaleksam](https://digitaleksamen.aau.dk/)
