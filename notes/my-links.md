@@ -35,6 +35,7 @@
 - [WebPrint](https://ituwebprint.itu.dk/RicohmyPrint/Main.aspx)
 - [censor list](https://services2.brics.dk/censor/)
 - [faq](https://docs.google.com/document/d/18x3zhD_KzfnsvPvJN5wATnjb287UBi5kzIAXTGv1I9Y/edit)
+- [Outlook](https://outlook.office.com/owa/?exsvurl=1&path=/calendar/view/WorkWeek)
 
 **Copenhagen**
 - [Amager Volley](https://www.amagervolley.dk/dl/hjem) - [FB](https://www.facebook.com/groups/6035564066)- [H3](https://www.facebook.com/groups/929115003800969) 
