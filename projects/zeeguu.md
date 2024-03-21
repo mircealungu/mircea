@@ -17,7 +17,7 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 ## Presentations 
 
 2022: [**Can we make learning foreign languages more personalized?**]()
-- Invited talk at University of Lausanne about Zeeguu 
+- Invited talk at University of Lausanne 
 
 2021: [**Lessons Learned Developing a Personalized Language Learning System**]()
 - Keynote at EASEAI: International Workshop on Education, Software Engineering, and AI 
@@ -49,6 +49,8 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 - Better and more precise time-measurement on the platform (include exercises, include reviewing words, show the timer in real time, pause when inactive, etc.)
 - More diverse exercises: e.g. reorder parts of sentence into whole with drag and drop
 - Better personalized recommendations
+- Improved difficulty recommendation
+- Better topic assignment to articles
 
 ## Roadmap
 *(prioritized)*
@@ -56,6 +58,7 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 - Better and more meaningful progress feedback 
 - Creating mobile applications for the various platforms; probably with a cross-platform tech, e.g. Flutter
 - Adding **support for video** 
+- Improve the ElasticSearch  
 
 
 ## Open Research Questions 
@@ -69,3 +72,4 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 
 # Inspiration
 
+- For polyglots, the native language is still [more special than all the others](https://news.mit.edu/2024/mit-study-polyglots-brain-processing-native-language-0310) in that 
