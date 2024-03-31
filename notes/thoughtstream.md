@@ -21,7 +21,7 @@ Why do religions imagine gods as persons?
 
 Because we're a social species and thinking in terms of other persons comes naturally to us. And things, but I guess things are out of the question for this one. 
 
-Thinking about God as a person enables us to have a object for our feelings of "thankfulness" and "anger". It would be meaningless to be thankful to the universe. Or the multiverse. Also, one can not be angry with the universe when, say, their child dies (see Decalog by Kieslovski, Ep.1). In a sense, believing in a personal God allows one to be more expressive with their feelings than than otherwise. 
+Thinking about God as a person enables us to have a object for our feelings of "thankfulness" and "anger". It would be meaningless to be thankful to the universe. Or the multiverse. Also, one can not be angry with the universe when, say, their child dies (see Decalog by Kieslovski, Ep.1). In a sense, believing in a personal God allows one to be more expressive with their feelings than otherwise. 
 
 #### Does *mostly* empty space have free will? 
 
