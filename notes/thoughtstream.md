@@ -3,7 +3,7 @@
 31 mar '24
 #### Maybe we should throw our phones into a lake of fire
 
-Our relationship with the phones in our pocket is very similar to the one of Frodo and the ring. The ring would always call for him, and he would always feel the compulsion to take it out and try it on. When he would put it on, he would see crazy stuff. 
+Our relationship with the phones in our pocket is very similar to the one of Frodo and the ring. The ring would always call for him, and he would always feel the compulsion to take it out and try it on. Also, when he would put it on, he would see crazy stuff (if I remember correctly scenes from the movie).
 
 Our relationship with the social media is also the same. It also calls to us from our pocket, and we also see crazy stuff when we connect to it. 
 
@@ -16,6 +16,7 @@ P.S. The ring made a monster out of Gollum.
 
 
 #### Why a personal God? 
+
 Why do religions imagine gods as persons? Because we're a social species and thinking in terms of other persons comes naturally to us. Also, because this enables us to have a object for our feelings of "thankfulness" and "anger". It would be meaningless to be thankful to the universe. Or the multiverse. And one can not be angry with the universe when, say, their child dies (see Decalog Ep.1). In a sense, believing in a personal God allows one to be more expressive with their feelings than than otherwise. 
 
 #### Does mostly empty space have free will? 
