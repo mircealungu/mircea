@@ -30,4 +30,4 @@ I really wish that as a society we would prioritize much more working on artific
 
 #### My own short text and idea timeline
 
-Why not maintain my own timeline of silly little thoughts. I used to try to contribute my thoughts to Twitter. But that's a cacophony of everybody's thoughts. Where Elon holds the button that turns craziness up and down. If somebody, why would they, would want to follow my own thought development over the years, why should they go to Twitter, to see my ideas interleaved with Bitcoin advertising. I'm too proud for that. My ideas deserve to stand apart from the twitter madness. 
+Why not maintain my own timeline of silly little thoughts. I used to try to contribute my thoughts to Twitter. But that's a cacophony of everybody's thoughts. And Elon holds the button that turns craziness up and down. If somebody (why would they?) would want to read my thoughts, why should they go to Twitter, to see them interleaved with Bitcoin advertising and dancing cats? I'm too proud for that. My ideas deserve to stand apart from the twitter madness. 
