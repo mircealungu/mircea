@@ -35,8 +35,9 @@ Also, there's quantum uncertainty at the atomic level, so it's very unlikely tha
 
 
 #### Artificial Wisdom
+I recently developed a love for volleyball. My role requires a lot of jumping, and my knee is starting to hurt a bit sometimes after a long match. I really wish that as a society we would prioritize much more working on artificial knees than artificial intelligence. But there’s not enough wisdom in Sillicon valley to realize that. 
 
-I really wish that as a society we would prioritize much more working on artificial knees than artificial intelligence. But there’s not enough wisdom in Sillicon valley to realize that. And unfortunately nobody is working on artificial wisdom either. 
+And unfortunately nobody is working on artificial wisdom either. 
 
 
 #### My own short text and idea timeline
