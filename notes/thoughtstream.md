@@ -5,7 +5,9 @@
 
 Our relationship with the phones in our pocket is very similar to the one of Frodo and the ring. The ring would always call for him, and he would always feel the compulsion to take it out and try it on. When he would put it on, he would see crazy stuff. 
 
-Our relationship with the social media is also the same. It also calls to us from our pocket, and we also see crazy stuff when we connect to it. So the combination of having in our pocket both the phone and social media on it, makes the combo twice more addictive. 
+Our relationship with the social media is also the same. It also calls to us from our pocket, and we also see crazy stuff when we connect to it. 
+
+The combination of having in our pocket both the phone and social media on it, makes the combo twice more addictive. 
 
 Frodo was right to destroy the ring by throwing it in the fire. The ring in our pocket OTOH, our precious, seems to be here to stay. 
 
