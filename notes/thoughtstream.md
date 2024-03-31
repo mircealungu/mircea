@@ -11,19 +11,25 @@ The combination of having in our pocket both the phone and social media on it, m
 
 Frodo was right to destroy the ring by throwing it in the fire. The ring in our pocket OTOH, our precious, seems to be here to stay. 
 
-P.S. The ring made a monster out of Gollum.
+Ah, and too much exposure to the ring made a monster out of Gollum.
 
 
 
 #### Why a personal God? 
 
-Why do religions imagine gods as persons? Because we're a social species and thinking in terms of other persons comes naturally to us. Also, because this enables us to have a object for our feelings of "thankfulness" and "anger". It would be meaningless to be thankful to the universe. Or the multiverse. And one can not be angry with the universe when, say, their child dies (see Decalog Ep.1). In a sense, believing in a personal God allows one to be more expressive with their feelings than than otherwise. 
+Why do religions imagine gods as persons? 
 
-#### Does mostly empty space have free will? 
+Because we're a social species and thinking in terms of other persons comes naturally to us. And things, but I guess things are out of the question for this one. 
 
-We have no free will is the same as saying: humans are mostly made out of empty space. 
+Thinking about God as a person enables us to have a object for our feelings of "thankfulness" and "anger". It would be meaningless to be thankful to the universe. Or the multiverse. Also, one can not be angry with the universe when, say, their child dies (see Decalog by Kieslovski, Ep.1). In a sense, believing in a personal God allows one to be more expressive with their feelings than than otherwise. 
 
-Indeed, both might be true at the microscopic level. Indeed, every atom is mostly empty, because the electrons and the neutrons are so small, that most of the space in them is actually empty space. But at the societal level, that level of granularity is meaningless. At the societal level when individual punches another in the nose, we don't go saying: it does not matter, it's mostly empty space pushing on other mostly empty space. The same about free will. Even if the universe were deterministic (and this is opposed by our understanding of quantum physics), but even if it were all pure mechanics, talking about atoms at the level of the individual in society, is meaningless. So yes, humans have free will, atoms don't. 
+#### Does *mostly* empty space have free will? 
+
+We have no free will is the same as saying: humans are mostly made out of empty space. Indeed, both might be true at the microscopic level, but it's the wrong abstraction level when you talk about humans. 
+
+Indeed, every atom is mostly empty, because the electrons and the neutrons are so small, that most of the space in them is actually empty space. And thus, every human is mostly empty because they are made out of atoms. But at the societal level, that level of granularity is meaningless. 
+
+The same about free will. Even if the universe were deterministic (and this is opposed by our understanding of quantum physics), but even if it were all pure mechanics, talking about atoms at the level of the individual in society, is meaningless. It would be like when an individual punches another in the nose, we would say: it does not matter, it's mostly empty space pushing on other mostly empty space. No, it's not empty space hitting empty space. It's a person, who *decided* to punch the other one. And there are normally consequences.
 
 
 #### Artificial Wisdom
