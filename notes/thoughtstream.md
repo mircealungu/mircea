@@ -31,9 +31,9 @@ We have no free will is the same as saying: humans are mostly made out of empty 
 
 Indeed, because the electrons and the nucleus are so smal and the forces between them so strong, most of the space in the atom is actually empty. And thus, every human is *mostly empty space*. But at the societal level, that level of analysis is meaningless. 
 
-The same with free will. Even if the universe were deterministic (and this is opposed by our understanding of quantum physics), but even if it were all pure mechanics, talking about atoms at the level of the individual in society, is meaningless. It would be like when an individual punches another in the nose, we would say: it does not matter, it's mostly empty space pushing on other mostly empty space. No, it's not empty space hitting empty space. It's a person, who *decided* to punch the other one. And at the level of society, we judge that act as it were the will of the puncher. Not the turning of some atomic gears. 
+The same with free will. Even if the universe were deterministic at the atomic level, talking about how humans are made of atoms when discussing ethics and society is meaningless. It would be like when an individual punches another in the nose, we would say: it does not matter, it's mostly empty space pushing on other mostly empty space. No, it's not empty space hitting empty space. It's a person, who *decided* to punch the other one. And at the level of ethics, we judge that act as it were the will of the puncher. Not the turning of some atomic clockwork. 
 
-Also, there's quantum uncertainty at the atomic level, so it's very unlikely that the universe is deterministic anyway. 
+Also, there's quantum uncertainty at the atomic level. 
 
 
 #### Artificial Wisdom
