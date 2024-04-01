@@ -23,11 +23,13 @@ Because we're a social species and thinking in terms of other persons comes natu
 
 Thinking about God as a person enables us to have a object for our feelings of "thankfulness" and "anger". It would be meaningless to be thankful to the universe. Or the multiverse. Also, one can not be angry with the universe when, say, their child dies (see Decalog by Kieslovski, Ep.1). In a sense, believing in a personal God allows one to be more expressive with their feelings than otherwise. 
 
+
+
 #### Does *mostly* empty space have free will? 
 
 We have no free will is the same as saying: humans are mostly made out of empty space. Indeed, both might be true at the microscopic level, but it's the wrong abstraction level when you talk about humans. 
 
-Indeed, because the electrons and the nucleus are so smal and the forces between them so strong, most of the space in the atom is actually empty. And thus, every human is "mostly empty". But at the societal level, that level of granularity is meaningless. 
+Indeed, because the electrons and the nucleus are so smal and the forces between them so strong, most of the space in the atom is actually empty. And thus, every human is *mostly empty space*. But at the societal level, that level of level of analysis is meaningless. 
 
 The same about free will. Even if the universe were deterministic (and this is opposed by our understanding of quantum physics), but even if it were all pure mechanics, talking about atoms at the level of the individual in society, is meaningless. It would be like when an individual punches another in the nose, we would say: it does not matter, it's mostly empty space pushing on other mostly empty space. No, it's not empty space hitting empty space. It's a person, who *decided* to punch the other one. And at the level of society, we judge that act as it were the will of the puncher. Not the turning of some atomic gears. 
 
