@@ -5,9 +5,7 @@
 
 Our relationship with our phones is very similar to the one of Frodo and the ring. The ring in his pocket would always call for him, and he would always feel the compulsion to take it out and try it on. Also, when he would put it on, he would see crazy stuff (if I remember correctly scenes from the movie... I also read the book, but I don't remember that part from reading. Would the fact that you remember different things be an argument for both reading and watching the same novel?)
 
-Our relationship with the social media is of a very similar nature. It also calls to us from our pocket, and we also see crazy stuff when we connect to it. 
-
-The combination of having in our pocket both the phone and social media on it, makes the combo twice more addictive. Frodo was right to destroy the ring by throwing it in the fire. The device in our pockets, on the other hand, seems to be there to stay. 
+Our relationship with the social media is of a very similar nature. It also calls to us from our pocket, and we also see crazy stuff when we connect to it. The combination of having in our pocket both the phone and social media on it, makes the combo twice more addictive. Frodo was right to destroy the ring by throwing it in the fire. The device in our pockets, on the other hand, seems to be there to stay. 
 
 Ah, and too much exposure to the ring made a monster out of Gollum!
 
@@ -35,11 +33,9 @@ Also, there's quantum uncertainty at the atomic level.
 
 
 #### Artificial Wisdom
-I recently developed a love for volleyball and I play in the lowest men's danish league. My role in the team, middle blocker, requires a lot of jumping, and my knee is starting to hurt a bit sometimes after a long match. I really wish that as a society we would prioritize much more working on artificial knees than artificial intelligence. But there’s not enough wisdom in Sillicon valley to realize that. 
-
-And unfortunately nobody is working on artificial wisdom either. 
+I recently developed a love for volleyball and I play in the lowest men's danish league. My role in the team, middle blocker, requires a lot of jumping, and my knee is starting to hurt a bit sometimes after a long match. I really wish that as a society we would prioritize much more working on artificial knees than artificial intelligence. But there’s not enough wisdom in Sillicon Valley to realize that. And unfortunately nobody is working on artificial wisdom either. 
 
 
 #### My own short text and idea timeline
 
-Why not maintain my own timeline of silly little thoughts. I used to try to contribute my thoughts to Twitter. But that's a cacophony of everybody's thoughts. And Elon holds the button that turns craziness up and down. If somebody (why would they?) would want to read my thoughts, why should they go to Twitter, to see them interleaved with Bitcoin advertising and dancing cats? I'm too proud for that. My ideas deserve to stand apart from the twitter madness. 
+Why not maintain my own timeline of silly little thoughts? I used to try to contribute my thoughts to Twitter. But that's a cacophony of everything, thoughts, the most outrageous recent things, advertising in your face, and covert. And Elon holds the button that turns craziness up and down there too. 
