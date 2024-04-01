@@ -3,15 +3,13 @@
 31 mar '24
 #### Maybe we should throw our phones into a lake of fire
 
-Our relationship with our phones is very similar to the one of Frodo and the ring. The ring in his pocket would always call for him, and he would always feel the compulsion to take it out and try it on. Also, when he would put it on, he would see crazy stuff (if I remember correctly scenes from the movie... I also read the book, but I don't remember that part from reading. Would the fact that you remember different thingsbe an argument for both reading and watching the same novel?)
+Our relationship with our phones is very similar to the one of Frodo and the ring. The ring in his pocket would always call for him, and he would always feel the compulsion to take it out and try it on. Also, when he would put it on, he would see crazy stuff (if I remember correctly scenes from the movie... I also read the book, but I don't remember that part from reading. Would the fact that you remember different things be an argument for both reading and watching the same novel?)
 
 Our relationship with the social media is of a very similar nature. It also calls to us from our pocket, and we also see crazy stuff when we connect to it. 
 
-The combination of having in our pocket both the phone and social media on it, makes the combo twice more addictive. 
+The combination of having in our pocket both the phone and social media on it, makes the combo twice more addictive. Frodo was right to destroy the ring by throwing it in the fire. The device in our pockets, on the other hand, seems to be there to stay. 
 
-Frodo was right to destroy the ring by throwing it in the fire. The ring in our pocket OTOH, our precious, seems to be here to stay. 
-
-Ah, and too much exposure to the ring made a monster out of Gollum.
+Ah, and too much exposure to the ring made a monster out of Gollum!
 
 
 
