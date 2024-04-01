@@ -29,9 +29,9 @@ Thinking about God as a person enables us to have a object for our feelings of "
 
 We have no free will is the same as saying: humans are mostly made out of empty space. Indeed, both might be true at the microscopic level, but it's the wrong abstraction level when you talk about humans. 
 
-Indeed, because the electrons and the nucleus are so smal and the forces between them so strong, most of the space in the atom is actually empty. And thus, every human is *mostly empty space*. But at the societal level, that level of level of analysis is meaningless. 
+Indeed, because the electrons and the nucleus are so smal and the forces between them so strong, most of the space in the atom is actually empty. And thus, every human is *mostly empty space*. But at the societal level, that level of analysis is meaningless. 
 
-The same about free will. Even if the universe were deterministic (and this is opposed by our understanding of quantum physics), but even if it were all pure mechanics, talking about atoms at the level of the individual in society, is meaningless. It would be like when an individual punches another in the nose, we would say: it does not matter, it's mostly empty space pushing on other mostly empty space. No, it's not empty space hitting empty space. It's a person, who *decided* to punch the other one. And at the level of society, we judge that act as it were the will of the puncher. Not the turning of some atomic gears. 
+The same with free will. Even if the universe were deterministic (and this is opposed by our understanding of quantum physics), but even if it were all pure mechanics, talking about atoms at the level of the individual in society, is meaningless. It would be like when an individual punches another in the nose, we would say: it does not matter, it's mostly empty space pushing on other mostly empty space. No, it's not empty space hitting empty space. It's a person, who *decided* to punch the other one. And at the level of society, we judge that act as it were the will of the puncher. Not the turning of some atomic gears. 
 
 Also, there's quantum uncertainty at the atomic level, so it's very unlikely that the universe is deterministic anyway. 
 
