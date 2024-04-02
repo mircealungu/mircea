@@ -1,6 +1,6 @@
 
 2 April
-#### The *"In Software, It Depends"* Course
+#### The *"In Software It Depends"* Course
 
 I'd love to have a software engineering master's course where we look at modern technologies, maybe the hype-du-jour, and discover when do they make sense and when do they not make sense. And learn to disentangle hypes from useful techniques. 
 
@@ -22,11 +22,12 @@ I always thought that I should write a book about "the eternal return of compute
 
 However, I wonder if it would be more polite and more informative to phrase it as the eternal spiral. The benefit of the spiral metaphor is that it allows for learning, it allows for a progression. It's also more humble and less judgemental and less fatalistic: computer science progress is not an eternal groundhog day. It's more like the solar system where the planets rotate around the sun and together with the sun they travel around the universe. 
 
-#### Day #1 of No Sugar
+
+#### Day #1 of No Sugar Fasting
 
 Re-starting my no-artificial sugar challenge today. After having a cookie with my father this morning for coffee, I will try to not have any stuff that contains sugars or sweeteners for the next 40 days. 
 I've failed to keep the fastelavn with the danes. Maybe I'll be able to (mostly) align myself with the orthodox now, who already started and will fast for the next month.
-Rules of the engagement: no artificial sugars in food or drinks. Including no exaggeratedly sweetened home-made smoothies, e.g. two bananas in a smoothie is too much. However, II guess a single one could be fine per day. In general, it's the sugar taste that I feel cravings for and I must learn to let go of. Thus, even if it's made of fruits, if it's too sweet it's a no-no. E.g. fresh pressed fruit juice: I still drink it for the sweetness. That would be cheating. So that's excluded too. Also, sweeteners are also off the table. 
+Rules of the engagement: no artificial sugars in food or drinks. Including no exaggeratedly sweetened home-made smoothies, e.g. two bananas in a smoothie is too much. In general, it's the sugar taste that I feel cravings for and I must learn to let go of. Thus, even if it's made of fruits, if it's too sweet (e.g., fresh pressed fruit juice) it's still a no go. That would be cheating. So that's excluded too. Sweeteners are also off the table. 
 
 In case I fail, I restart counting. 
 
