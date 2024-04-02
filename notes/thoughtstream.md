@@ -38,7 +38,7 @@ P.S. Also, will try also no gluten to the best of my ability: there's the story 
 
 I don't understand the culture wars. 
 
-Equity, cf to the dictionary on my machine, is *the quality of being fair and impartial*. Now, given that we know that each human has their preferences and capabilities, will inevitably lead to different outcomes. 
+Equity, cf to the dictionary on my machine, is *the quality of being fair and impartial*. Now, given that we know that each human has their preferences and capabilities, will inevitably lead to different outcomes. However, as far as I can tell, people who claim they want equity,  refer to equality of outcomes. I guess it's a technique taken from advertising: claim that you deliver something that you absolutely do not do (e.g. airlines - comfort, detergents - family happiness, etc.)
 
 
 
