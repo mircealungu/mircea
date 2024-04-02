@@ -25,7 +25,9 @@ However, I wonder if it would be more polite and more optimistic to phrase it as
 
 #### Day #1 of No-Sugar Fasting
 
-Re-starting my no-artificial sugar challenge today. After having a cookie with my father this morning for coffee, I will try to not have any stuff that contains sugars or sweeteners for the next 40 days. 
+Re-starting my no-artificial sugar challenge today. I started together with my sister, she completed it and i failed in the middle.
+
+So today, after having a cookie with my father in the morning for coffee, I restarted. I will try to not have any stuff that contains sugars or sweeteners for the next 40 days. 
 I've failed to keep the fastelavn with the danes. Maybe I'll be able to (mostly) align myself with the orthodox now, who already started and will fast for the next month.
 Rules of the engagement: no artificial sugars in food or drinks. Including no exaggeratedly sweetened home-made smoothies, e.g. two bananas in a smoothie is too much. In general, it's the sugar taste that I feel cravings for and I must learn to let go of. Thus, even if it's made of fruits, if it's too sweet (e.g., fresh pressed fruit juice) it's still a no go. That would be cheating. So that's excluded too. Sweeteners are also off the table. 
 
