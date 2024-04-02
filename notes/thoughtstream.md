@@ -16,7 +16,7 @@ Project
 
 P.S. A special module of that course would be the "It is not new, anyway" module, in which we take one of the modern techniques, and show that very likely, there was a predecessor about 40 years ago, that everybody forgot about it (e.g. deep learning, server side rendering).
 
-#### The eternal spiral or the eternal circle of computer science? 
+#### Software engineering: forever reinventing of the wheel or an eternal ascending spiral? 
 
 I always thought that I should write a book about "the eternal return of computer science" in which I talk about how there's this eternal "reinvention of the wheel". Fat client - thin client - fat client - etc. No types - strong types - no types - strong types. 
 
