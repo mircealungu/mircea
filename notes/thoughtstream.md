@@ -42,10 +42,7 @@ I don't understand the culture wars.
 
 Equity, cf to the dictionary on my machine, is *the quality of being fair and impartial*. Now, given that we know that each human has their preferences and capabilities, will inevitably lead to different outcomes. However, as far as I can tell, people who claim they want equity,  refer to equality of outcomes. I guess it's a technique taken from advertising: claim that you deliver something that you absolutely do not do (e.g. airlines - comfort, detergents - family happiness, etc.)
 
-Turns out that I agree with Solzhenitsyn on this one: "Human beings are born with different capacities. If they are free, they are not equal. And if they are equal, they are not free". 
-
-But I guess what people want is fairness, and given that everybody starts from 
-
+Turns out that bigger names have thought three same. Solzhenitsyn: *"Human beings are born with different capacities. If they are free, they are not equal. And if they are equal, they are not free"*.
 
 
 31 March '24
