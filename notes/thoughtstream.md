@@ -2,10 +2,10 @@
 2 April
 #### The *"In Software It Depends"* Course
 
-I'd love to have a software engineering master's course where we look at modern technologies, maybe the hype-du-jour, and discover when do they make sense and when do they not make sense. And learn to disentangle hypes from useful techniques. 
+I'd love to have a software engineering master's course where we look at modern technologies, especially the *hype-du-jour*, and discuss when do they make sense and when do they do not. And teach the students to disentangle the exaggeration from the actually useful. 
 
-Motivational lecture
-- historical consensuses that everybody believed, where everybody was onboard that later turned out that were not like that (formal verification, scrum, object-orientation, supercomputers, Map-Reduce, ORM, MongoDB, etc.)
+Intro lecture
+- historical technologies that everybody believed in that later turned out that were not as useful as hoped (formal verification, scrum, object-orientation, supercomputers, Map-Reduce, ORM, MongoDB, the Blockchain, etc.)
 
 Project
 - choose one of the technologies du jour, explain it, show where it works well, and write a critique, with counter-examples; e.g., going to the cloud <- coming from the cloud, lambda functions, etc.
@@ -14,13 +14,13 @@ Project
 - optional: prototype / find realistic case study
 
 
-P.S. A special module of that course would be the "It is not new, anyway" module, in which we take one of the modern techniques, and show that very likely, there was a predecessor about 40 years ago, that everybody forgot about it (e.g. deep learning, server side rendering).
+P.S. A special module of that course would be the "It is not new, anyway" module, in which we take the modern techniques and see that there was (almost always) a predecessor that everybody forgot about it (e.g. deep learning, server side rendering, etc.).
 
 #### Software engineering: forever reinventing of the wheel or an eternal ascending spiral? 
 
-I always thought that I should write a book about "the eternal return of computer science" in which I talk about how there's this eternal "reinvention of the wheel". Fat client - thin client - fat client - etc. No types - strong types - no types - strong types. 
+I always thought that I should write a book about "the eternal return of computer science" in which I talk about how there's this eternal "reinvention of the wheel". Fat client - thin client - fat client - ... No types - strong types - no types - strong types... etc. 
 
-However, I wonder if it would be more polite and more informative to phrase it as the eternal spiral. The benefit of the spiral metaphor is that it allows for learning, it allows for a progression. It's also more humble and less judgemental and less fatalistic: computer science progress is not an eternal groundhog day. It's more like the solar system where the planets rotate around the sun and together with the sun they travel around the universe. 
+However, I wonder if it would be more polite and more optimistic to phrase it as the *eternal spiral*. The benefit of the spiral metaphor is that it allows for learning, it allows for a progression. It's also more humble and less judgemental and less fatalistic: computer science progress is not an eternal groundhog day. It's more like the solar system where the planets rotate around the sun and together with the sun they travel around the universe :)
 
 
 #### Day #1 of No Sugar Fasting
