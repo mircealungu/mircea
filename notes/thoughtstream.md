@@ -24,14 +24,13 @@ However, I wonder if it would be more polite and more informative to phrase it a
 
 #### Day #1 of No Sugar
 
-Re-starting my no-artificial sugar challenge today. After having a cookie with my father this morning for coffee. That's the last for the next 40 days. 
-I've failed to keep the fastelavn with the danes. 
-Maybe I'll be able to (mostly) align myself with the orthodox now, and do a 40day fast till the Orthodox Easter.
-Rules of the engagement: no artificial sugars in food or drinks. Including no exaggeratedly sweetened home-made smoothies, e.g. two bananas in a smoothie is too much. However, II guess a single one could be fine per day. In general, it's the sugar taste that I feel cravings for and I must learn to let go of. Thus, even if it's made of fruits, if it's too sweet it's a no-no. E.g. fresh pressed fruit juice: I still drink it for the sweetness. That would be cheating. So that's excluded too. 
+Re-starting my no-artificial sugar challenge today. After having a cookie with my father this morning for coffee, I will try to not have any stuff that contains sugars or sweeteners for the next 40 days. 
+I've failed to keep the fastelavn with the danes. Maybe I'll be able to (mostly) align myself with the orthodox now, who already started and will fast for the next month.
+Rules of the engagement: no artificial sugars in food or drinks. Including no exaggeratedly sweetened home-made smoothies, e.g. two bananas in a smoothie is too much. However, II guess a single one could be fine per day. In general, it's the sugar taste that I feel cravings for and I must learn to let go of. Thus, even if it's made of fruits, if it's too sweet it's a no-no. E.g. fresh pressed fruit juice: I still drink it for the sweetness. That would be cheating. So that's excluded too. Also, sweeteners are also off the table. 
 
 In case I fail, I restart counting. 
 
-P.S. Also, will try also no gluten to the best of my ability: there's the story with Djokovic improving his athletic performance when doing that. I would like to improve mine too. I guess this is a test of how much I want that performance. 
+P.S. Also, will try also no gluten to the best of my ability: there's the story with Djokovic improving his athletic performance when doing that. I would like to improve mine too. I guess this is a test of how much I want that improvement. 
 
 
 #### Equity = The Opposite of Equality of Outcomes 
@@ -41,6 +40,8 @@ I don't understand the culture wars.
 Equity, cf to the dictionary on my machine, is *the quality of being fair and impartial*. Now, given that we know that each human has their preferences and capabilities, will inevitably lead to different outcomes. However, as far as I can tell, people who claim they want equity,  refer to equality of outcomes. I guess it's a technique taken from advertising: claim that you deliver something that you absolutely do not do (e.g. airlines - comfort, detergents - family happiness, etc.)
 
 Turns out that I agree with Solzhenitsyn on this one: "Human beings are born with different capacities. If they are free, they are not equal. And if they are equal, they are not free". 
+
+But I guess what people want is fairness, and given that everybody starts from 
 
 
 
