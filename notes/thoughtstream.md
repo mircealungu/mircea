@@ -1,6 +1,48 @@
 
+2 April
+#### The *"In Software, It Depends"* Course
 
-31 mar '24
+I'd love to have a software engineering master's course where we look at modern technologies, maybe the hype-du-jour, and discover when do they make sense and when do they not make sense. And learn to disentangle hypes from useful techniques. 
+
+Motivational lecture
+- historical consensuses that everybody believed, where everybody was onboard that later turned out that were not like that (formal verification, scrum, object-orientation, supercomputers, Map-Reduce, ORM, MongoDB, etc.)
+
+Project
+- choose one of the technologies du jour, explain it, show where it works well, and write a critique, with counter-examples; e.g., going to the cloud <- coming from the cloud, lambda functions, etc.
+- possible topics at the moment, e.g.: generative AI, lambda functions, Elixir, statically typed Javascript (e.g. Typescript)
+- for the projects where there's a product that hypes it (e.g. Xamarin) - take the website, and be able to criticize it
+- optional: prototype / find realistic case study
+
+
+P.S. A special module of that course would be the "It is not new, anyway" module, in which we take one of the modern techniques, and show that very likely, there was a predecessor about 40 years ago, that everybody forgot about it (e.g. deep learning, server side rendering).
+
+#### The eternal spiral or the eternal circle of computer science? 
+
+I always thought that I should write a book about "the eternal return of computer science" in which I talk about how there's this eternal "reinvention of the wheel". Fat client - thin client - fat client - etc. No types - strong types - no types - strong types. 
+
+However, I wonder if it would be more polite and more informative to phrase it as the eternal spiral. The benefit of the spiral metaphor is that it allows for learning, it allows for a progression. It's also more humble and less judgemental and less fatalistic: computer science progress is not an eternal groundhog day. It's more like the solar system where the planets rotate around the sun and together with the sun they travel around the universe. 
+
+#### Day #1 of No Sugar
+
+Re-starting my no-artificial sugar challenge today. After having a cookie with my father this morning for coffee. That's the last for the next 40 days. 
+I've failed to keep the fastelavn with the danes. 
+Maybe I'll be able to (mostly) align myself with the orthodox now, and do a 40day fast till the Orthodox Easter.
+Rules of the engagement: no artificial sugars in food or drinks. Including no exaggeratedly sweetened home-made smoothies, e.g. two bananas in a smoothie is too much. However, II guess a single one could be fine per day. In general, it's the sugar taste that I feel cravings for and I must learn to let go of. Thus, even if it's made of fruits, if it's too sweet it's a no-no. E.g. fresh pressed fruit juice: I still drink it for the sweetness. That would be cheating. So that's excluded too. 
+
+In case I fail, I restart counting. 
+
+P.S. Also, will try also no gluten to the best of my ability: there's the story with Djokovic improving his athletic performance when doing that. I would like to improve mine too. I guess this is a test of how much I want that performance. 
+
+
+#### Equity = The Opposite of Equality of Outcomes 
+
+I don't understand the culture wars. 
+
+Equity, cf to the dictionary on my machine, is *the quality of being fair and impartial*. Now, given that we know that each human has their preferences and capabilities, will inevitably lead to different outcomes. 
+
+
+
+31 March '24
 #### Maybe we should throw our phones into a lake of fire
 
 Our relationship with our phones is very similar to the one of Frodo and the ring. The ring in his pocket would always call for him, and he would always feel the compulsion to take it out and try it on. Also, when he would put it on, he would see crazy stuff (if I remember correctly scenes from the movie... I also read the book, but I don't remember that part from reading. Would the fact that you remember different things be an argument for both reading and watching the same novel?)
@@ -30,6 +72,8 @@ Indeed, because the electrons and the nucleus are so smal and the forces between
 The same with free will. Even if the universe were deterministic at the atomic level, talking about how humans are made of atoms when discussing ethics and society is meaningless. It would be like when an individual punches another in the nose, we would say: it does not matter, it's mostly empty space pushing on other mostly empty space. No, it's not empty space hitting empty space. It's a person, who *decided* to punch the other one. And at the level of ethics, we judge that act as it were the will of the puncher. Not the turning of some atomic clockwork. 
 
 Also, there's quantum uncertainty at the atomic level. 
+
+P.S. (Apr 2) Or could I accept that both facts are true? The wisdom of the Rabbi who told everybody that they were right? 
 
 
 #### Artificial Wisdom
