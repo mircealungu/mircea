@@ -23,7 +23,7 @@ I always thought that I should write a book about "the eternal return of compute
 However, I wonder if it would be more polite and more optimistic to phrase it as the *eternal spiral*. The benefit of the spiral metaphor is that it allows for learning, it allows for a progression. It's also more humble and less judgemental and less fatalistic: computer science progress is not an eternal groundhog day. It's more like the solar system where the planets rotate around the sun and together with the sun they travel around the universe :)
 
 
-#### Day #1 of No Sugar Fasting
+#### Day #1 of No-Sugar Fasting
 
 Re-starting my no-artificial sugar challenge today. After having a cookie with my father this morning for coffee, I will try to not have any stuff that contains sugars or sweeteners for the next 40 days. 
 I've failed to keep the fastelavn with the danes. Maybe I'll be able to (mostly) align myself with the orthodox now, who already started and will fast for the next month.
