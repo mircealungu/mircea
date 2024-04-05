@@ -1,4 +1,16 @@
 
+5 April
+
+my iphone reminds me very often of beautiful memories.
+it takes away attention from my immediate life.
+but it gives a bit of attention to my past life.
+sure, most of the attention is still redirected to consuming digital entertainment.
+
+
+a book on "how would the Dalai Lama" program
+he would certainly not get angry with ugly code
+
+
 2 April
 #### The *"In Software It Depends"* Course
 
