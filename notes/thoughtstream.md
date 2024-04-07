@@ -1,7 +1,8 @@
-April, 4th
 
-Even before GenAI and for sure after, the web is becoming such a cespool of junk that we might actually be tempted by the imperfect but clean chatGPT-like answers to our questions. Alternatively, being able to have an authority to ask, e.g. WebMD will become much more important.
 
+April 7
+
+If we are serious about sustainability, we will have to encourage people to read more. It should not be necessary to create a series with 30 episodes, that costs a ton of money, and wastes a ton of resources to stream, just in order to re-tell the story from a book. What's wrong with imagination? Why do you need to see the story on screen, when you could read and see it in your mind's eye? 
 
 
 5 April
@@ -15,6 +16,10 @@ sure, most of the attention is still redirected to consuming digital entertainme
 a book on "how would the Dalai Lama" program
 he would certainly not get angry with ugly code
 
+
+April, 4th
+
+Even before GenAI and for sure after, the web is becoming such a cespool of junk that we might actually be tempted by the imperfect but clean chatGPT-like answers to our questions. Alternatively, being able to have an authority to ask, e.g. WebMD will become much more important.
 
 2 April
 #### The *"In Software It Depends"* Course
