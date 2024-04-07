@@ -1,3 +1,8 @@
+April, 4th
+
+Even before GenAI and for sure after, the web is becoming such a cespool of junk that we might actually be tempted by the imperfect but clean chatGPT-like answers to our questions. Alternatively, being able to have an authority to ask, e.g. WebMD will become much more important.
+
+
 
 5 April
 
@@ -17,11 +22,11 @@ he would certainly not get angry with ugly code
 I'd love to have a software engineering master's course where we look at modern technologies, especially the *hype-du-jour*, and discuss when do they make sense and when do they do not. And teach the students to disentangle the exaggeration from the actually useful. 
 
 Intro lecture
-- historical technologies that everybody believed in that later turned out that were not as useful as hoped (formal verification, scrum, object-orientation, supercomputers, Map-Reduce, ORM, MongoDB, the Blockchain, etc.)
+- historical technologies that everybody believed in that later turned out that were not as useful as hoped (formal verification, scrum, object-orientation, supercomputers, Map-Reduce, ORM, MongoDB, the Blockchain for everything, etc.)
 
 Project
-- choose one of the technologies du jour, explain it, show where it works well, and write a critique, with counter-examples; e.g., going to the cloud <- coming from the cloud, lambda functions, etc.
-- possible topics at the moment, e.g.: generative AI, lambda functions, Elixir, statically typed Javascript (e.g. Typescript)
+- choose one of the technologies du jour, explain it, show where it works well, and write a critique, with counter-examples; e.g., going to the cloud <- coming from the cloud, lambda functions, etc. DB as files. relational, document databases, etc.
+- possible topics at the moment, e.g.: generative AI, lambda functions, Elixir, statically typed Javascript, data mesh, 
 - for the projects where there's a product that hypes it (e.g. Xamarin) - take the website, and be able to criticize it
 - optional: prototype / find realistic case study
 
