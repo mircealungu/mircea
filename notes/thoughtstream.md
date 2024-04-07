@@ -2,7 +2,7 @@
 
 April 7
 
-If we are serious about sustainability, we will have to encourage people to read more. It should not be necessary to create a series with 30 episodes, that costs a ton of money, and wastes a ton of resources to stream, just in order to re-tell the story from a book. What's wrong with imagination? Why do you need to see the story on screen, when you could read and see it in your mind's eye? 
+If we are serious about sustainability, we will have to encourage people to read more. It should not be necessary to create a series with 30 episodes, that costs more 150 million dollars just in order to re-tell the story from one book. Why do you need to see the story on screen, when you could read and see it in your mind's eye? What's wrong with imagination? 
 
 
 5 April
