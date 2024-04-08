@@ -15,7 +15,7 @@ Sometimes you do the stupid thing, and it still turns out right. What if Google 
 
 ** 
 
-I'm thankful for Obsidian and GH Pages. Makes editing and publishing my homepage so easy. Still the GH Pages part I have to move away from. Why do I depend on their infra to host my text? Why do I need to have a build interrupted message when I push a correction, and why do I have to have a new commit for every little typo fix. No wonder that one of our students found out I'm one of the "top committers" on GitHub from Denmark :))
+I'm thankful for Obsidian and GH Pages. Obsidian makes editing and GHP makes publishing my homepage so easy. Still the GH Pages part I have to move away from. Why do I depend on their infra to host my text? And why do I have to wait for a few minutes for the text to be updated? Why do I need to have a build interrupted email message when I push a correction, and why do I have to have a new commit for every little typo fix. No wonder that one of our students found out I'm one of the "top committers" on GitHub from Denmark :))
 
 April 7
 
