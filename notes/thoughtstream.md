@@ -5,7 +5,7 @@ Yesterday, at lunch with M, I remember that I have promised more than one year a
 
 - 10% invest in stocks
 - 10% put in the savings account
-- 10% donate to somebody in need, or put aside for a future possible donation
+- 10% donate to somebody in need, or put aside for a future donation
 
 Then, one year, five years, ten years down the line, look back and figure out: which of the three tithes will have represented the best use of my money. As M says: think of yourself as an administrator of your money. Shared this commitment also with my friend A. Now there's more people to hold me accountable :)
 
