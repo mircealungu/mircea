@@ -11,7 +11,8 @@ Then, one year, five years, ten years down the line, look back and figure out: w
 
 **
 
-Sometimes you do the stupid thing, and it still turns out right. What if Google super-botched 
+Sometimes you do the stupid thing, and it still turns out right. What if Google super-botched release of their super-woke conversational AI has shown the world how bad these things are actually, and will have indirectly hit also into their main competitor: microsoft and chatgpt. 
+
 
 April 7
 
