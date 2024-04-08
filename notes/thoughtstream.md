@@ -13,6 +13,9 @@ Then, one year, five years, ten years down the line, look back and figure out: w
 
 Sometimes you do the stupid thing, and it still turns out right. What if Google super-botched release of their super-woke conversational AI has shown the world how bad these things are actually, and will have indirectly hit also into their main competitor: microsoft and chatgpt. 
 
+** 
+
+I'm thankful for Obsidian and GH Pages. Makes editing and publishing my homepage so easy. Still the GH Pages part I have to move away from. Why do I depend on their infra to host my text? Why do I need to have a build interrupted message when I push a correction, and why do I have to have a new commit for every little typo fix. No wonder that one of our students found out I'm one of the "top committers" on GitHub from Denmark :))
 
 April 7
 
