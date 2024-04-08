@@ -1,20 +1,40 @@
 
+April 4th
+
+> “The fact is you cannot be intelligent merely by choosing your opinions. The intelligent man is not the man who holds such-and-such views but the man who has sound reasons for what he believes and yet does not believe it dogmatically. And opinions held for sound reasons have less emotional unity than the opinions of dogmatists because reason is non-party, favoring now one side and now another. That is what people find so unpleasant about it.”
+— [Bertrand Russell](https://www.facebook.com/russellbertie?__cft__%5B0%5D=AZWPHBh2JNkxU8dDYFwzT9bO5zRaRftQVH7FNrm04UXur0t6nqGX-CrkSQ6Pu0nHFhMBmMLnW0YzFuxbgfFC8Hh1NqnFLy-csil_OL8t4B7lBJUem4tOsiWcPNFdzO6IkxxcpDPX6xu7TSMqTxqGB2js-eDRH7Fpz-kAMbgcy96-FKaoBuuTQgDMU0SqiI8h9QRrCTpB65N5cOYRemiuifq9&__tn__=-%5DK-R), Mortals and Others, Volume II: American Essays 1931-1935, On Orthodoxies (23 August 1933), p. 58
+
+
+
+
+
 2 April
 #### The *"In Software, It Depends"* Course
 
 I'd love to have a software engineering master's course where we look at modern technologies, maybe the hype-du-jour, and discover when do they make sense and when do they not make sense. And learn to disentangle hypes from useful techniques. 
 
 Motivational lecture
-- historical consensuses that everybody believed, where everybody was onboard that later turned out that were not like that (formal verification, scrum, object-orientation, supercomputers, Map-Reduce, ORM, MongoDB, etc.)
+- historical consensuses that everybody believed, where everybody was onboard that later turned out that were not like that (formal verification, scrum, object-orientation, supercomputers, Map-Reduce, ORM, no sql,  etc.)
+- my own excitement about UML when I was a student. believe you me, it was exciting at that time!
+
+
+Topics
+- microservices, generative AI, lambda functions, Elixir, statically typed Javascript (e.g. Typescript)
+
 
 Project
 - choose one of the technologies du jour, explain it, show where it works well, and write a critique, with counter-examples; e.g., going to the cloud <- coming from the cloud, lambda functions, etc.
-- possible topics at the moment, e.g.: generative AI, lambda functions, Elixir, statically typed Javascript (e.g. Typescript)
-- for the projects where there's a product that hypes it (e.g. Xamarin) - take the website, and be able to criticize it
+- critically analyze an over-hyped technology's website or presentation...
 - optional: prototype / find realistic case study
 
 
+Readings
+- Amazon [switches to monolith from microservices](https://thenewstack.io/return-of-the-monolith-amazon-dumps-microservices-for-video-monitoring/) for Amazon Prime
+
+
 P.S. A special module of that course would be the "It is not new, anyway" module, in which we take one of the modern techniques, and show that very likely, there was a predecessor about 40 years ago, that everybody forgot about it (e.g. deep learning, server side rendering).
+
+
 
 #### Software engineering: forever reinventing of the wheel or an eternal ascending spiral? 
 
