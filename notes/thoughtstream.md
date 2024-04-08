@@ -1,11 +1,21 @@
 
+April 8
+
+Yesterday, at lunch with M, I remember that I have promised more than one year ago to try an experiment, that I never really started. Experiment is simple. At every salary, I take three times 10% and I use them in three different ways:
+
+- 10% invest in stocks
+- 10% put in the savings account
+- 10% donate to somebody in need, or put aside for a future possible donation
+
+Then, one year, five years, ten years down the line, look back and figure out: which of the three tithes will have represented the best use of my money. As M says: think of yourself as an administrator of your money. Shared this commitment also with my friend A. Now there's more people to hold me accountable :)
+
 
 April 7
 
 If we are serious about sustainability, we will have to encourage people to read more. It should not be necessary to create a series with 30 episodes, that costs more 150 million dollars just in order to re-tell the story from one book. Why do you need to see the story on screen, when you could read and see it in your mind's eye? What's wrong with imagination? 
 
 
-5 April
+April 5
 
 my iphone reminds me very often of beautiful memories.
 it takes away attention from my immediate life.
