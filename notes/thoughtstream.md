@@ -14,7 +14,7 @@ Sometimes you do the stupid thing, and it still turns out right. What if Google 
 
 **
 
-With microsoft betting it all on AI they might actually lose quite a bit when everybody realizes that it's still a solution looking for a problem. I see a few months to years of slow decline for microsoft. However, for the long term I would still bet on them: they are a fair company, in the sense that they make their business by selling software. As opposed to selling ads, which I think is less ethical a business. 
+With microsoft betting it all on AI they might actually lose quite a bit when everybody realizes that it's still a solution looking for a problem. I see a few months to years of slow growth if not even decline for microsoft. However, for the long term I would still bet on them: they are a fair company, in the sense that they make their business by selling software. As opposed to selling ads, which I think is less ethical a business. 
 
 **
 
