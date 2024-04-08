@@ -10,7 +10,11 @@ Then, one year, five years, ten years down the line, look back and figure out: w
 
 **
 
-Sometimes you do the stupid thing, and it still turns out right. What if Google super-botched release of their super-woke conversational AI has shown the world how bad these things are actually, and will have indirectly hit also into their main competitor: microsoft and chatgpt.
+Sometimes you do the stupid thing, and it still turns out right. What if Google super-botched release of their hyper-woke conversational AI has shown the world how bad these things actually are, and will indirectly hit their main competitor: microsoft with chatgpt. 
+
+**
+
+With microsoft betting it all on AI they might actually lose quite a bit when everybody realizes that it's still a solution looking for a problem. I see a few months to years of slow decline for microsoft. However, for the long term I would still bet on them: they are a fair company, in the sense that they make their business by selling software. As opposed to selling ads, which I think is less ethical a business. 
 
 **
 
