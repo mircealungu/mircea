@@ -26,6 +26,10 @@ April 7
 
 If we are serious about sustainability, we will have to encourage people to read more. It should not be necessary to create a series with 30 episodes, that costs more 150 million dollars just in order to re-tell the story from one book. Why do you need to see the story on screen, when you could read and see it in your mind's eye? What's wrong with imagination?
 
+**
+
+One more argument for reading? It separates us humans from animals. Reading, writing, and controlling our urges. Feelings, kindness, playfulness, desires: most of the mammals have them too. A dog can watch TV and cats can play tablet games. Chimps can scroll through pictures and movies. But reading, and writing this, only humans do. And also, controlling our instincts.
+
 April 5
 
 my iphone reminds me very often of beautiful memories.
