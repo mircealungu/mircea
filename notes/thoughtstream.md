@@ -9,6 +9,9 @@ Yesterday, at lunch with M, I remember that I have promised more than one year a
 
 Then, one year, five years, ten years down the line, look back and figure out: which of the three tithes will have represented the best use of my money. As M says: think of yourself as an administrator of your money. Shared this commitment also with my friend A. Now there's more people to hold me accountable :)
 
+**
+
+Sometimes you do the stupid thing, and it still turns out right. What if Google super-botched 
 
 April 7
 
@@ -23,8 +26,7 @@ but it gives a bit of attention to my past life.
 sure, most of the attention is still redirected to consuming digital entertainment.
 
 
-a book on "how would the Dalai Lama" program
-he would certainly not get angry with ugly code
+a book on "how would famous people" program. Dalai Lama: he would certainly not get angry with ugly code. Jesus Christ: would spend 50% of the time thinking about the reader of his code (love the other as you would love yourself). LR is interested in becoming a co-author :)
 
 
 April, 4th
