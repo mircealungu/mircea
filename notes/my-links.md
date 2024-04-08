@@ -14,8 +14,8 @@
 
 **Bachelor Theses** 
 - Oscar, Nicolai, Mads - [Recommender System](https://learnit.itu.dk/course/view.php?id=3023893) (CS)
-- Maria - [Bayesian Inference](https://learnit.itu.dk/course/view.php?id=3023893) (DS) (censor proposal sent)
-
+- Maria - [Bayesian Inference](https://learnit.itu.dk/course/view.php?id=3023893) ([gh](https://github.com/mariamomanu/BachelorProject))(DS) (censor proposal sent)
+ 
 **Master Theses**
  - Johannes - [OSS Telemetry](https://learnit.itu.dk/grade/report/grader/index.php?id=3024163) (CS) (censor proposal sent)
 	 - todo: deploy fmd on api.zeeguu.org 
