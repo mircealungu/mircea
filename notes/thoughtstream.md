@@ -29,13 +29,14 @@ it takes away attention from my immediate life.
 but it gives a bit of attention to my past life.
 sure, most of the attention is still redirected to consuming digital entertainment.
 
+**
 
 a book on "how would famous people" program. Dalai Lama: he would certainly not get angry with ugly code. Jesus Christ: would spend 50% of the time thinking about the reader of his code (love the other as you would love yourself). LR is interested in becoming a co-author :)
 
 
 April, 4th
 
-Even before GenAI and for sure after, the web is becoming such a cespool of junk that we might actually be tempted by the imperfect but clean chatGPT-like answers to our questions. Alternatively, being able to have an authority to ask, e.g. WebMD will become much more important.
+Even before GenAI and for sure after, the web is becoming such a cespool of junk that we might actually be tempted by the imperfect but clean chatGPT-like answers to our questions. Alternatively, being able to have an authority to ask, e.g. WebMD will become much more important. Or maybe a SV startup will reinvent the equivalent of Yahoo Directories soon :) 
 
 2 April
 #### The *"In Software It Depends"* Course
