@@ -1,3 +1,8 @@
+April 9
+
+Trolling technical debt people: introducing the concept of technical depth :)
+
+
 April 8
 
 Yesterday, at lunch with M, I remember that I have promised more than one year ago to try an experiment, that I never really started. Experiment is simple: at every salary, I take three times 10% and I use them in three different ways:
