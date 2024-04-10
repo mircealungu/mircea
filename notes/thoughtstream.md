@@ -1,6 +1,6 @@
 April 10
 
-To value so much your own life that you find movies and silly online videos uninteresting. 
+To value so much your own life that you prefer it to scrolling the internet. 
 
 **
 
