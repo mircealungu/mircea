@@ -2,6 +2,11 @@ April 10
 
 To value so much your own life that you find movies and silly online videos uninteresting. 
 
+**
+
+To live up to the exigence of your own conscience. Not even God would ask more.
+
+
 April 8
 
 Yesterday, at lunch with M, I remember that I have promised more than one year ago to try an experiment, that I never really started. Experiment is simple: at every salary, I take three times 10% and I use them in three different ways:
