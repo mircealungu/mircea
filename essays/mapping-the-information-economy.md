@@ -52,4 +52,5 @@ If you want to talk more about this topic [let me know](https://mircealungu.gith
 
 ### Possible Student Project
 
-There are a few very nice ways in which this work could be continued. A student interested in working on this topic for a thesis should [contact me](https://mircealungu.github.io/#contact).
+There are a few very nice ways in which this work could be continued. A student interested in working on this topic for a thesis should [contact me](https://mircealungu.github.io/#contact). Database dumps for many of the StackExchange websites are available at [archive.org](https://archive.org/details/stackexchange)
+
