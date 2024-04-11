@@ -1,9 +1,30 @@
-April 9
 
-Trolling technical debt people: introducing the concept of technical depth :)
+**April 11**
+
+Achievement unlocked: ironing shirts without music. Just me and my thoughts. Productive meditation.  
+
+**
+
+There should be a word for that moment when the first meandering molecule of smoke reaches your olfactory receptors and instantly conjures in your mind the image of the food that is now burnt on the stove because you left it there only for two minutes while quickly doing this other thing in this other room. 
+
+** 
+
+**April 10**
+
+To value so much your own life that you prefer it to scrolling the internet. 
+
+**
+
+To live up to the exigence of your own conscience. Not even God would ask more.
 
 
-April 8
+**April 9**
+
+Trolling technical debt people: introducing the concept of technical *depth* :)
+
+
+
+**April 8**
 
 Yesterday, at lunch with M, I remember that I have promised more than one year ago to try an experiment, that I never really started. Experiment is simple: at every salary, I take three times 10% and I use them in three different ways:
 
