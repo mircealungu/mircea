@@ -9,6 +9,8 @@ There should be a word for that moment when the first meandering molecule of smo
 
 ** 
 
+Following up on yesterday's idea on following one's conscience, I realized today as I was biking to the university that Alexis Zorba and Atticus Finch are both following their own conscience as far as I can tell. With very different results.
+
 
 
 **April 10**
@@ -18,8 +20,6 @@ To value so much your own life that you prefer it to scrolling the internet.
 **
 
 To live up to the exigence of your own conscience. Not even God would ask more. 
-
-Although you would get very different results: Alexis Zorba and Atticus Finch are both following their own conscience as far as I can tell. 
 
 
 **April 9**
