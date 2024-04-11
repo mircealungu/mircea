@@ -2,6 +2,10 @@ April 11
 
 Achievement unlocked: ironing shirts without music. Just me and my thoughts. It's quite the meditative practice actually. 
 
+**
+
+There should be a word for that moment when the first meandering molecule of smoke reaches your nose and instantly conjures in your mind the image of the burnt food that is now on the stove because you left it there only for 2 minutes while quickly doing this other thing in this other room. 
+
 April 10
 
 To value so much your own life that you prefer it to scrolling the internet. 
