@@ -1,6 +1,6 @@
 April 11
 
-Achievement unlocked: ironing shirts without music. Just me and my thoughts. It's quite the meditative practice actually. 
+Achievement unlocked: ironing shirts without music. Just me and my thoughts. Productive meditation.  
 
 **
 
