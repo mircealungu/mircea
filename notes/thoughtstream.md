@@ -9,7 +9,7 @@ There should be a word for that moment when the first meandering molecule of smo
 
 ** 
 
-Following up on yesterday's idea on following one's conscience, I realized today as I was biking to the university that Alexis Zorba and Atticus Finch are both following their own conscience as far as I can tell. With very different results.
+Following up on one of yesterday's ideas: Alexis Zorba and Atticus Finch are both following their own conscience, as far as I can tell. With very different results.
 
 
 
