@@ -4,7 +4,7 @@ Achievement unlocked: ironing shirts without music. Just me and my thoughts. Pro
 
 **
 
-There should be a word for that moment when the first meandering molecule of smoke reaches your nose and instantly conjures in your mind the image of the burnt food that is now on the stove because you left it there only for 2 minutes while quickly doing this other thing in this other room. 
+There should be a word for that moment when the first meandering molecule of smoke reaches your olfactory receptors and instantly conjures in your mind the image of the food that is now burnt on the stove because you left it there only for two minutes while quickly doing this other thing in this other room. 
 
 ** 
 
