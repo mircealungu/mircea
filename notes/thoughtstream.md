@@ -1,3 +1,7 @@
+April 11
+
+Achievement unlocked: ironing shirts without music. Just me and my thoughts. It's quite the meditative practice actually. 
+
 April 10
 
 To value so much your own life that you prefer it to scrolling the internet. 
