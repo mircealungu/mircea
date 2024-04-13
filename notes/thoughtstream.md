@@ -1,7 +1,7 @@
 
 **April 13**
 
-little pockets of meaning in a cold world.
+little pockets of meaning in a cold universe
 
 
 
