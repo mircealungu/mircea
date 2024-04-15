@@ -1,3 +1,7 @@
+**April 15** 
+
+Obsidian. This application feels like a labor of love. What if we all worked to create the same kind of usability and user-friendliness? #interactiondesign
+
 
 **April 13**
 
