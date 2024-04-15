@@ -11,7 +11,7 @@ little pockets of meaning in a cold universe
 
 **April 11**
 
-Achievement unlocked: ironing shirts without music, podcasts, or audiobooks. Just me and my thoughts. Productive meditation.  
+Achievement unlocked: ironing shirts without music, podcasts, or audiobooks. Just me and my thoughts. Meditation. Doubly useful.
 
 **
 
