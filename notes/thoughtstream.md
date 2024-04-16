@@ -6,6 +6,9 @@ Obsidian. This application feels like a labor of love. What if we all worked to 
 
 I pulled a muscle in my calf probably because I didn't warm up sufficiently. It's got better and I think I can play already but it still feels a bit tender, so I'm thinking: maybe I should still wait a bit more. Is this some kind of general life lesson: if you really love something you have to distance yourself from it sometimes?
 
+**
+
+The instinct of getting the phone out when somebody else does it. This is addiction.
 
 **April 13**
 
