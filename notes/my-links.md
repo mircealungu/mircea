@@ -19,7 +19,7 @@
 **Master Theses**
  - Johannes - [OSS Telemetry](https://learnit.itu.dk/grade/report/grader/index.php?id=3024163) (CS) (censor proposal sent)
 	 - todo: deploy fmd on api.zeeguu.org 
- - Thomas - [GitTruck Performance & Scalability](https://learnit.itu.dk/grade/report/grader/index.php?id=3024202) (CS) (censor proposal sent)
+ - Thomas - [GitTruck Performance & Scalability](https://learnit.itu.dk/grade/report/grader/index.php?id=3024202) (CS) ([overleaf](https://www.overleaf.com/project/66100b3af013c1984f472f28))
  - Merle - [Exercise Progression in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024079) (SD) (censor proposal sent)
  - Iga - [Easing Onboarding](https://learnit.itu.dk/grade/report/grader/index.php?id=3024152)(SD) (censor proposal sent)
  - Klara - [Browsing in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024025) (SD)
