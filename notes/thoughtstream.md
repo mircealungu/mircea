@@ -3,7 +3,7 @@
 
 No interesting system has only one "AI" inside it. In a complex system, you might need some AI, ML, or other statistical sub-components, each one specific to its task. It’s many little stochastic components, not one big AI. And because all these sub-components, by their nature, are sometimes going to fail, you need to build carefully the system around their imprecision.
 
-In fact, those models are the liabilities of those systems, the weak links. Why do I say this? Think about it, we value software systems for their predictability and the comfort that their automation give to our lives. I type git push and this text is updated on the server. How would it feel if your mail client would be advertised as having an F1 score of 90%, meaning that most of the emails will be sent to mostly the right recipient? Not that great, would it?
+In fact, those models are the liabilities of those systems, the weak links. Why do I say this? Think about it, we value software systems for their predictability and the comfort that their automation give to our lives. I type git push and this text is updated on the server. How would it feel if your mail client would be advertised as having an F1 score of 90%, meaning that most of the emails will be sent to mostly the right recipient most of the time? You would not pay much for that, would you? 
 
 Adding AI models in a system is a last resort step that we do because we don't have a perfect solution. It will decrease the predictability and reliability of our systems. We add them though because in some situations there is no better alternative. But I think we should see these components, as an evil we have to live with, rather than the holy Graal.
 
