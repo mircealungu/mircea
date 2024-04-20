@@ -1,11 +1,18 @@
 
+**April 20**
+
+*Dark mode* is such a silly thing. One must be born after 2000 to enjoy it I think.
+
+
 **April 18**
 
-No interesting system has only one "AI" inside it. In a complex system, you need all kinds of AI, ML, and statistical models. Each one specific to its task. And you need to build carefully the system around the imprecision of those models. In fact, those models are the liabilities of those systems, the weak links. 
+No interesting system has only one "AI" inside it. In a complex system, you need all kinds of AI, ML, and statistical models. Each one specific to its task. And you need to build carefully the system around the imprecision of those models. In fact, those models are the liabilities of those systems, the weak links. If we could, we would not use them.  
 
 Think about it, we value software systems for their predictability and the comfort that their automation give to our lives. How would it feel if your mail client would have an *F1 score of 80%* of emails being sent to the right recipient? Adding AI models in a system is a last resort step that we do because we don't have a perfect solution. It will decrease the predictability and reliability of our systems. We add them though because in some situations there is no better alternative. But I think we should see these components, as an evil we have to live with, rather than the holy Graal. 
 
 In a few years, everybody will understand this. But by then there will be another holy Graal. At the *meta-level*, nothing's new under the sun. 
+
+
 
 
 **April 15** 
