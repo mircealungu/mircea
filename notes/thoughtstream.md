@@ -45,7 +45,7 @@ Little pockets of meaning in a cold universe
 
 **April 11**
 
-Achievement unlocked: ironing shirts without music, podcasts, or audiobooks. Just me and my thoughts. Meditation. Doubly useful.
+Achievement unlocked: ironing shirts without music, podcasts, or audiobooks. Just me and my thoughts. Clearer mind. Unwrinkled shirts.  Mircea - Entropy: 2 - 0, this morning. 
 
 **
 
