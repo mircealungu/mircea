@@ -15,7 +15,7 @@ A better view on these models is that they are the liabilities of those systems,
 
 Adding AI models in a system is a last resort step that we do because we don't have a perfect solution or because the problem is indeed too big (e.g. labeling all the images of muffins on the web, spying on all the phone conversations that are intercepted by the NSA). But these statistical components are always imprecise, and they are only useful in those situations where there is no better or cost-efficient alternative. But I think we should see these components, as an evil we have to live with, rather than unalloyed good. 
 
-In a few years, everybody will understand this, when the disappointment between the over-hyped expectations and reality with respect to AI settles in. Or when everybody becomes busy hyperventilating over the next big thing from which we will expect everything. *Nothing's new under the sun.*
+In a few years, everybody will understand this, when the disappointment between the over-hyped expectations and reality with respect to AI settles in. Although everybody will be busy hyperventilating over the next *big thing*. As a wise man said, *nothing's new under the sun.*
 
 
 
@@ -45,7 +45,7 @@ Little pockets of meaning in a cold universe
 
 **April 11**
 
-Achievement unlocked: ironing shirts without music, podcasts, or audiobooks. Just me and my thoughts. Meditation. Doubly useful.
+Achievement unlocked: ironing shirts without music, podcasts, or audiobooks. Just me and my thoughts. Clearer mind. Unwrinkled shirts.  Mircea - Entropy: 2 - 0, this morning. 
 
 **
 
