@@ -1,7 +1,7 @@
 
 **April 20**
 
-*Dark mode* is such a youthful preference. One must be born after 2000 to enjoy it.
+*Dark mode* is such a funny preference. One must be born after 2000 to enjoy it I think.
 
 
 **April 18**
