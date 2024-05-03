@@ -38,9 +38,11 @@
 - [faq](https://docs.google.com/document/d/18x3zhD_KzfnsvPvJN5wATnjb287UBi5kzIAXTGv1I9Y/edit)
 - [Outlook](https://outlook.office.com/owa/?exsvurl=1&path=/calendar/view/WorkWeek)
 
-**Copenhagen**
-- [Amager Volley](https://www.amagervolley.dk/dl/hjem) - [FB](https://www.facebook.com/groups/6035564066)- [H3](https://www.facebook.com/groups/929115003800969) 
-
 
 **Censoring**
 - [aau digitaleksam](https://digitaleksamen.aau.dk/)
+
+
+**Copenhagen**
+- [Amager Volley](https://www.amagervolley.dk/dl/hjem) - [FB](https://www.facebook.com/groups/6035564066)- [H3](https://www.facebook.com/groups/929115003800969) 
+- Reddit threads: [recycling stations](https://www.reddit.com/r/copenhagen/comments/1cf1h1r/does_copenhagen_have_a_recycling_center_where_i/)  [handyman-finding-apps](https://www.reddit.com/r/copenhagen/comments/13tcnlg/assembling_furniture_service/) 
