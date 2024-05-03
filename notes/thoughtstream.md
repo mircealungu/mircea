@@ -1,4 +1,18 @@
 
+**May 3**
+
+We teach scalability. We should teach downscaling. Otherwise we end up with everybody doing gigantic systems when they don't need to. Possible topic for SE - It Depends Course. Will fit the lichess case study. 
+
+Another topic there could be profiling. People talk about profilers as "given". No. Implement your own. So you don't look so impressed by X, Y, Z tool. 
+
+**
+
+If you use Kubernetes then, by definition, you can not be doing devops :)
+
+**May 2**
+
+I don't think people realize how complex UI development is. A complicated react app is more complicated than a balancing a red-black tree. I would like to be able to prove this empirically somehow. 
+
 **April 20**
 
 *Dark mode* is such a funny preference. One must be born after 2000 to enjoy it I think.
