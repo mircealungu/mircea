@@ -163,7 +163,8 @@ April 5
 my iphone reminds me very often of beautiful memories.
 it takes away attention from my immediate life.
 but it gives a bit of attention to my past life.
-sure, most of the attention is still redirected to consuming digital entertainment.
+sure, most of the attention is still redirected to consuming digital entertainment. 
+but for this little bit that's redirected to past memories, i'm thankful. 
 
 **
 
