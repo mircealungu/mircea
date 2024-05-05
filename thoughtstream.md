@@ -48,7 +48,7 @@ If you use Kubernetes then you can not be doing devops.
 
 **May 2**
 
-I don't think people realize how complex UI development is. A complicated react app is more complicated than a balancing a red-black tree. I would like to be able to prove this empirically somehow. 
+I don't think people realize how complex UI development is. A complicated react app is more complicated than a balancing a red-black tree. I would like to be able to prove this empirically. 
 
 **April 20**
 
