@@ -1,6 +1,8 @@
 **May 5**
 
-The joy of spring. The melancholy of knowing that your springs are limited. The realization that their limit is the necessary precondition for the joy.
+The joy of spring. The melancholy of knowing that your springs are limited. 
+
+The realization that their limit is the necessary precondition for the joy.
 
 ** 
 
