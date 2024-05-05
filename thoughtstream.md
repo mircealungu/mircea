@@ -168,7 +168,7 @@ but for this little bit that's redirected to past memories, i'm thankful.
 
 **
 
-a book on "how would famous people" program. Dalai Lama: he would certainly not get angry with ugly code. Jesus Christ: would spend 50% of the time thinking about the reader of his code (love the other as you would love yourself). LR is interested in becoming a co-author :)
+a book on "how would famous people" program. Dalai Lama: he would certainly not get angry with ugly code. Jesus: would spend 50% of the time thinking about the reader of his code (love the other as you would love yourself). LR is interested in becoming a co-author :)
 
 April, 4th
 
