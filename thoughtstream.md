@@ -44,7 +44,7 @@ Another topic that I'd like to teach would be profiling. People talk about profi
 
 **
 
-If you use Kubernetes then, you very likely can not be doing devops :)
+If you use Kubernetes then you can not be doing devops. 
 
 **May 2**
 
