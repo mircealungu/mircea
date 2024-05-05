@@ -25,14 +25,13 @@ And guess the two rivers :)
 
 ** 
 
-The only way to teach the principles of a culture is with stories. 
+Culture is the stories you tell. 
 
 Nobody reads the law to learn how to live.
-Nobody remembers 20 principles from Marcus Aurelius.
+Most will not remember twenty distinct principles from Marcus Aurelius. In fact many will probably not even finish the meditations. 
 
-Everybody can remember twenty essential stories from their culture. 
+But everybody can remember twenty essential stories from their culture. 
 And everybody remembers the morale of 20 good movies. 
-
 
 **May 3**
 
