@@ -156,7 +156,7 @@ If we are serious about sustainability, we will have to encourage people to read
 
 **
 
-One more argument for reading? It separates us humans from animals. Reading, writing, and controlling our urges. Feelings, kindness, playfulness, desires: most of the mammals have them too. A dog can watch TV and cats can play tablet games. Chimps can scroll through pictures and movies. But reading, and writing this, only humans do. And also, controlling our instincts.
+One more argument for reading? It separates us humans from animals. Reading, writing, and controlling our urges. Feelings, kindness, playfulness, desires: most of the mammals have them too. A dog can watch TV and cats can play tablet games. Chimps can scroll through pictures and movies. But reading and writing, this only humans do. And controlling our instincts. To the degree in which we succeed. 
 
 April 5
 
