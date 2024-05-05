@@ -34,8 +34,6 @@ Nobody remembers 20 principles from Marcus Aurelius.
 Everybody can remember twenty essential stories from their culture. 
 And everybody remembers the morale of 20 good movies. 
 
-I guess that's part of the problem: the fact that we've given up the stories of our culture for the Holywood stories... And now Hollywood has lost the plot. 
-
 
 
 **May 3**
