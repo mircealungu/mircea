@@ -10,9 +10,9 @@ Orthodox easter today.
 
 The story at the heart of christianity is one of hope. The story of Christ says that, not even after death, one should give up hope. 
 
-Hope is greater than death. 
+Hope is greater than even death. 
 
-And love is greater than even hope.
+And love is greater than hope.
 
 The arithmetic of christianity :)
 
