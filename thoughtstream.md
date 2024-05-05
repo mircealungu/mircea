@@ -18,8 +18,13 @@ Guess how does one say river in ancient greek.
 ** 
 
 The only way to teach the principles of a culture is with stories. 
+
 Nobody reads the law to learn how to live.
-Nobody remembers 20 principles from Marcus Aurelius
+Nobody remembers 20 principles from Marcus Aurelius.
+Everybody remember the morale of 20 good movies they saw. 
+Or twenty stories from their culture. 
+
+I guess that's part of the problem: the fact that we've given up the stories of our culture for the Holywood stories and the american culture. And as far as I can tell, Hollywood has kind of lost the plot. 
 
 
 
