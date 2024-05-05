@@ -38,9 +38,9 @@ And everybody remembers the morale of 20 good movies.
 
 **May 3**
 
-We teach scalability. We should teach downscaling. Otherwise we end up with everybody doing gigantic systems when they don't need to. Possible topic for SE - It Depends Course. Will fit the lichess case study. 
+We teach scalability. We should teach downscaling. Otherwise we end up with everybody doing gigantic systems when they don't need to. Possible topic for the *In Software It Depends* Course. Will fit the lichess case study. 
 
-Another topic there could be profiling. People talk about profilers as "given". No. Implement your own. So you don't look so impressed by X, Y, Z tool. 
+Another topic that I'd like to teach would be profiling. People talk about profilers as magic. Only after you implement your own you can be less impressed. A bit like that company that was paying a ton of money for an off-the-shelf *feature flag* infrastructure.  
 
 **
 
