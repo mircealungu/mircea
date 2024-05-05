@@ -19,7 +19,9 @@ Mesopotamia = the land between the rivers.
 
 Hippopotamus = river horse
 
-Now, guess how does one say river in ancient greek. And guess the two rivers :)
+Now, guess how does one say river in ancient greek. 
+
+And guess the two rivers :)
 
 ** 
 
