@@ -2,6 +2,12 @@
 
 The joy of spring. The melancholy of knowing that your springs are limited. The realization that their limit is the necessary precondition for the joy.
 
+** 
+
+Orthodox easter today. 
+
+The story at the heart of christianity is one of hope. It says, never give up hope. Not even after death you should give up hope. Hope is greater than death. 
+
 
 **May 4**
 
