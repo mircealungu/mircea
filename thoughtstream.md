@@ -31,9 +31,9 @@ The only way to teach the principles of a culture is with stories.
 
 Nobody reads the law to learn how to live.
 Nobody remembers 20 principles from Marcus Aurelius.
+
 Everybody can remember twenty essential stories from their culture. 
 And everybody remembers the morale of 20 good movies. 
-
 
 
 **May 3**
