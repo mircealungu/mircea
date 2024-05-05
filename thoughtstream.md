@@ -19,11 +19,11 @@ The arithmetic of christianity :)
 
 **May 4**
 
-Mesopotamia = the land between the rivers (Tigris and Euphrates)
+Mesopotamia = the land between the rivers.
 
 Hippopotamus = river horse
 
-Now, guess how does one say river in ancient greek. 
+Now, guess how does one say river in ancient greek. And guess the two rivers :)
 
 ** 
 
