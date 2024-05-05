@@ -1,3 +1,21 @@
+**May 5**
+
+The joy of spring. The melancholy of knowing that your springs are limited. The realization that their limit is the condition for the joy.
+
+
+**May 4**
+
+Mesopotamia = the land between the rivers.
+Hippopotamus = river horse. 
+Guess how does one say river in ancient greek. 
+
+** 
+
+The only way to teach the principles of a culture is with stories. 
+Nobody reads the law to learn how to live.
+Nobody remembers 20 principles from Marcus Aurelius
+
+
 
 **May 3**
 
