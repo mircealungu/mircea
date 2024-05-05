@@ -1,8 +1,8 @@
 **May 5**
 
-The joy of spring. The melancholy of knowing that your springs are limited. 
+The joy of spring. The melancholy of knowing that the number of springs in your life is limited. 
 
-The realization that their limit is the necessary precondition for the joy.
+The realization that their limit*ness* is the necessary precondition for the joy.
 
 ** 
 
