@@ -19,16 +19,11 @@ The arithmetic of christianity :)
 
 **May 4**
 
-Guess how does one say river in ancient greek. Two hints: 
+Mesopotamia = the land between the rivers (Tigris and Euphrates)
 
-Mesopotamia = the land between the rivers.
+Hippopotamus = river horse
 
-Hippopotamus = river horse. 
-
-Also, guess how to say *between* and *horse*. 
-
-Etymology is such a beautiful thing.
-
+Now, guess how does one say river in ancient greek. 
 
 ** 
 
