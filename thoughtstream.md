@@ -12,7 +12,7 @@ The story at the heart of christianity is one of hope. The story of Christ says 
 
 Hope is greater than death. 
 
-Although love is greater than even hope.
+And love is greater than even hope.
 
 The arithmetic of christianity :)
 
