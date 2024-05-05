@@ -8,7 +8,13 @@ The realization that their limit is the necessary precondition for the joy.
 
 Orthodox easter today. 
 
-The story at the heart of christianity is one of hope. It says, never give up hope. Not even after death you should give up hope. Hope is greater than death. 
+The story at the heart of christianity is one of hope. The story of Christ says that, not even after death, one should give up hope. 
+
+Hope is greater than death. 
+
+And love is greater than anything else.
+
+The arithmetic of christianity. 
 
 
 **May 4**
