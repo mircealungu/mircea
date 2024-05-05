@@ -6,7 +6,7 @@ The realization that their limit is the necessary precondition for the joy.
 
 ** 
 
-Orthodox easter today. 
+Orthodox Easter today. 
 
 The story at the heart of christianity is one of hope. The story of Christ says that, not even after death, one should give up hope. Hope is greater than even death. 
 
