@@ -44,7 +44,7 @@ Another topic there could be profiling. People talk about profilers as "given". 
 
 **
 
-If you use Kubernetes then, by definition, you can not be doing devops :)
+If you use Kubernetes then, you very likely can not be doing devops :)
 
 **May 2**
 
