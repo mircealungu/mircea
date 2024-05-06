@@ -30,6 +30,7 @@ And virtually nobody reads philosophy for this purpose either.
 Most will not remember twenty distinct principles from Marcus Aurelius. In fact many will probably not even finish the meditations. I know I tried multiple times.
 
 But everybody can remember twenty essential stories.
+And in between my first and last attempts at reading the meditations fully, i finished dozens of novels fiber times as large.
 This is why, culture is built on stories.
 
 **May 3**
