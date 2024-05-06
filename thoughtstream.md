@@ -30,8 +30,8 @@ Culture is the stories you tell.
 Nobody reads the law to learn how to live.
 Most will not remember twenty distinct principles from Marcus Aurelius. In fact many will probably not even finish the meditations. 
 
-But everybody can remember twenty essential stories from their culture. 
-And everybody remembers the morale of 20 good movies. 
+But everybody can remember twenty essential stories.
+This is why, culture is built on stories.
 
 **May 3**
 
