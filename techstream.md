@@ -1,4 +1,10 @@
 
+Apr 15, 24
+
+The [voice of reason](https://www.youtube.com/watch?v=NUb61YMu1_o&ab_channel=DLDConference) shouts on the streets, but nobody pays attention. How is it possible that such an important voice is not listened to?
+
+
+
 April 1, 24
 #### Where do you save the password for mysqldump such that it can be run non-interactively? 
 
