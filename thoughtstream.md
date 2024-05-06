@@ -15,9 +15,9 @@ And love is greater than hope. The arithmetic of christianity :)
 
 **May 4**
 
-Mesopotamia = the land between the rivers.
+Mesopotamia = ancient greek for "the land between the rivers"
 
-Hippopotamus = river horse
+Hippopotamus = ancient greek for "river horse"
 
 Now, guess how does one say river in ancient greek. 
 
