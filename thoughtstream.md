@@ -26,7 +26,8 @@ Now, guess how does one say river in ancient greek.
 Culture is the stories you tell. 
 
 Nobody reads the law to learn how to live.
-Most will not remember twenty distinct principles from Marcus Aurelius. In fact many will probably not even finish the meditations. 
+And virtually nobody reads philosophy for this purpose either.
+Most will not remember twenty distinct principles from Marcus Aurelius. In fact many will probably not even finish the meditations. I know I tried multiple times.
 
 But everybody can remember twenty essential stories.
 This is why, culture is built on stories.
