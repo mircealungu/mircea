@@ -8,7 +8,7 @@ The realization that their *limitness* is actually necessary for the joy.
 
 Orthodox Easter today. 
 
-The story at the heart of christianity is one of hope. The story of Christ says that, not even after death, one should give up hope. Hope is greater than even death. 
+The ultimate message of christianity is one of hope. The story of Christ says that, not even after death one should give up hope. Hope is greater than death. 
 
 And love is greater than hope. The arithmetic of christianity :)
 
