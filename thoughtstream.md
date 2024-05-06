@@ -10,7 +10,7 @@ Orthodox Easter today.
 
 The ultimate message of christianity is one of hope. The story of Christ says that, not even after death one should give up hope. Hope is greater than death. 
 
-And love is greater than hope. The arithmetic of christianity :)
+And *"love is greater than hope"*. The arithmetic of christianity :)
 
 
 **May 4**
