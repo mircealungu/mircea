@@ -13,7 +13,7 @@ The current state of the project is the result of three distinct theses.
 - **Tamara**, in her BSc project, [added personalized progress feedback](../docs/assets/theses/Thesis-Tamara-MathsCamp_Personal_Progress_Feedback.pdf) and studied it's impact on motivation. 
 - **Mia**, in her thesis, [added a social component](../docs/assets/theses/Mia_Ronnelund_Thesis_2022.pdf): the students in a classroom can now see how are they ranking in comparison with a few of the neighbourly ranked students. A lot of thinking went into figuring out a way to ensure that the social component is encouraging. 
 
-The following screenshot shows the home of MathsCamp as of May, 2024. 
+The following screenshot shows the homepage of MathsCamp as it can be seen at [mathscamp.org](https://mathscamp.org) as of May, 2024. 
 
 ![](../docs/assets/state-of-mathscamp-2024.png)
 
