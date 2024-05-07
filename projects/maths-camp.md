@@ -9,4 +9,5 @@ The current state of the project is the result of a student thesis and two resea
 
 The project is available at [mathscamp.org](mathscamp.org). 
 
+The code is open source and available on GitHub at [[https://github.com/MathsCamp/MathsCamp]]. 
 
