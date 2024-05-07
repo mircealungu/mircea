@@ -1,5 +1,6 @@
 # MathsCamp
 
+![](../docs/assets/mathscamp-logo.png)
 The project started as a collaboration with Simona Tudoran, a maths teacher from London. 
 
 The current state of the project is the result of a student thesis and two research projects: 
