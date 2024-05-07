@@ -5,7 +5,7 @@ The project started as a collaboration with [Simona Tudoran](https://www.linkedi
 
 The project is available at [mathscamp.org](mathscamp.org). 
 
-The **code** is **open source** and available on GitHub at [[https://github.com/MathsCamp/MathsCamp]]. 
+The **code** is **open source** and available on GitHub at [/MathsCamp/MathsCamp](https://github.com/MathsCamp/MathsCamp)
 
 The current state of the project is the result of three distinct theses. 
 
