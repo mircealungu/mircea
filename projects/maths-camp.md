@@ -3,7 +3,7 @@
 ![](../docs/assets/mathscamp-logo.png)
 ## History 
 
-The project started as a collaboration with **Anne & Frederikke**, two ITU MSc students and  [**Simona Tudoran**](https://www.linkedin.com/in/simona-tudoran-7a974a21/), a friend and maths teacher from London. She is really passionate about mathematics and teaching, and had many maths problems that she wanted to be able to share with students in an intelligent way. 
+The project started as a collaboration with **Anne & Frederikke**, two ITU MSc students, and  [**Simona Tudoran**](https://www.linkedin.com/in/simona-tudoran-7a974a21/), a friend and maths teacher from London. She is really passionate about mathematics and teaching, and had many maths problems that she wanted to be able to share with students in an intelligent way. 
 
 The current state of the project is the result of three distinct theses at ITU that built on the strengths of each other: 
 
@@ -20,7 +20,7 @@ The **code** is **open source** and available on GitHub at [/MathsCamp/MathsCamp
 
 ## Application 
 
-The following screenshot shows the homepage of MathsCamp as it can be seen at [mathscamp.org](https://mathscamp.org) as of May, 2024. 
+The following screenshot shows the user profile page of [mathscamp.org](https://mathscamp.org) as of May, 2024. 
 
 ![](../docs/assets/state-of-mathscamp-2024.png)
 
