@@ -25,7 +25,7 @@
  - Klara - [Browsing in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024025) (SD)
 
 **Ops**
-- [GC Compute Instances](https://console.cloud.google.com/compute/instances) - [Billing](https://console.cloud.google.com/billing/)
+- [Google Cloud Compute Instances](https://console.cloud.google.com/compute/instances) - [Billing](https://console.cloud.google.com/billing/)
 - [dockerhub/zeeguu](https://hub.docker.com/repositories/zeeguu)
 
 
