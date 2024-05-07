@@ -1,7 +1,7 @@
 # MathsCamp - Personalized, adaptive, and social maths learning 
 
 ![](../docs/assets/mathscamp-logo.png)
-The project started as a collaboration with Simona Tudoran, a maths teacher from London. 
+The project started as a collaboration with [Simona Tudoran](https://www.linkedin.com/in/simona-tudoran-7a974a21/), a friend and maths teacher from London. 
 
 The current state of the project is the result of a three theses. 
 
