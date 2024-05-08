@@ -1,7 +1,7 @@
 # MathsCamp - Personalized, adaptive, and social maths learning 
 
 ![](../docs/assets/mathscamp-logo.png)
-## History 
+## The Project 
 
 The project started as a collaboration with **Anne & Frederikke**, two ITU MSc students, and  [**Simona Tudoran**](https://www.linkedin.com/in/simona-tudoran-7a974a21/), a friend and maths teacher from London. She is really passionate about mathematics and teaching, and had many maths problems that she wanted to be able to share with students in an intelligent way. 
 
