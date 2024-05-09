@@ -4,8 +4,8 @@
 
 **GitHub**
 - [Zeeguu](https://github.com/zeeguu): 
-	- [**Web**](https://github.com/zeeguu/web/)  ([pulls](https://github.com/zeeguu/web/pulls), [issues](https://github.com/zeeguu/web/issues))	
-	- [**API**](https://github.com/zeeguu/api) ([pulls](https://github.com/zeeguu/api/pulls))	
+	- [**Web**](https://github.com/zeeguu/web/): [pulls](https://github.com/zeeguu/web/pulls), [issues](https://github.com/zeeguu/web/issues)	
+	- [**API**](https://github.com/zeeguu/api): [pulls](https://github.com/zeeguu/api/pulls), [issues](https://github.com/zeeguu/api/issues)
 	- [**Browser Extension**](https://github.com/zeeguu/browser-extension) ([pulls](https://github.com/zeeguu/browser-extension/pulls)) 
 	- [Readability Server](https://github.com/mircealungu/readability-server/) 
 - [**FMD**](https://github.com/flask-dashboard/Flask-MonitoringDashboard)
