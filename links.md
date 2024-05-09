@@ -3,7 +3,7 @@
 [perplexity](https://www.perplexity.ai/)
 
 **GitHub**
-- [Zeeguu](https://github.com/zeeguu): - [**Web**](https://github.com/zeeguu/web/)  ([pulls](https://github.com/zeeguu/web/pulls))	- [**API**](https://github.com/zeeguu/api) ([pulls](https://github.com/zeeguu/api/pulls))	- [**Browser Extension**](https://github.com/zeeguu/browser-extension) ([pulls](https://github.com/zeeguu/browser-extension/pulls)) - [**FMD**](https://github.com/flask-dashboard/Flask-MonitoringDashboard) - [Readability Server](https://github.com/mircealungu/readability-server/) 
+- [Zeeguu](https://github.com/zeeguu): - [**Web**](https://github.com/zeeguu/web/)  ([pulls](https://github.com/zeeguu/web/pulls), [issues](https://github.com/zeeguu/web/issues))	- [**API**](https://github.com/zeeguu/api) ([pulls](https://github.com/zeeguu/api/pulls))	- [**Browser Extension**](https://github.com/zeeguu/browser-extension) ([pulls](https://github.com/zeeguu/browser-extension/pulls)) - [**FMD**](https://github.com/flask-dashboard/Flask-MonitoringDashboard) - [Readability Server](https://github.com/mircealungu/readability-server/) 
 - [Homepage](https://github.com/mircealungu/mircea)
 
 **Courses**
