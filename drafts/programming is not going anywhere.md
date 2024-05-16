@@ -1,68 +1,106 @@
-Alternative subtitle: "what is missing for prompting-foundational models to replace programming". This would also be a positive spin on the paper. 
+Alternative subtitle: "What is missing for prompting-foundational models to replace programming?". This would also be a *positive* framing for the paper. 
 
 
 
-This paper is a thought experiment triggered by the general enthusiasm and high hopes related to generative AI. In particular, this is a critique of a particular claim related to Gen AI: that a tool like an LLM, or a foundational, model will at some point (usually "soon") replace programming completely. The reasoning is the simple: 
-- in the early days of computing, developers used to write assembly language
-- then compilers came and allowed the programmers to write high-level languages and the assembly language was *generated*, thus eliminating the need for programmers to write assembly
-- LLMs are going to take this generation to the next level, by automatically eliminating the need for programmers to write code in high-level languages
-
-The heavy lifting of the syllogism is done by the overloading of the term *generate* with two completely different meanings:
-- in the compiler case, it means code transformation
-- in the LLM case it means "statistically generation" of linguistic tokens
-
-
-## Software Evolution to the Rescue 
-
-The main arguments of this paper are those stemming from software maintenance and evolution. There are other people who have written about the inherent limitations of the LLMs when it comes to trutfulness, and etc. 
-
-We are software engineers, and are writing from a position of understanding the challenges that software evolution poses to programming. 
-
-
-
-
-
+Motivational Quote: 
 > Programming languages are the easiest way in which one can specify systems; if there was an easier way, we would have used it. (to find the author)
 
 
-The method we use in this paper is a principled critique. It is not an empirical study; there are many such studies, but the problem with them is that their replicability is difficult: a study that uses ChatGPT or CoPilot can't be replicated once new versions of these systems are released. The results would probably be different. 
 
-However, we need here and there to take into account knowledge from NLP to explain some of the characteristics of the LLM part. 
+This paper is a thought experiment triggered by the general enthusiasm and high hopes related to generative AI. 
+
+In particular, this is a critique of a particularly strong claim related to Gen AI: that an LLM, or a foundational model, will at some point (point that is usually expected to be "soon") replace programming completely. 
+
+The reasoning is often syllogistic in nature: 
+- in the early days of computing, developers used to write assembly language
+- then compilers came and allowed the programmers to write high-level languages and the assembly language was *generated*, thus eliminating the need for programmers to write assembly
+- LLMs are going to take this generation to the next level, by automatically eliminating the need for programmers to write code in high-level languages because all the programmer will need to do is to write in natural language what they wish done, and the AI will automatically *generate* the necessary code.
+
+The heavy lifting of the syllogism is done by the overloading of the term *generate* with two completely different meanings:
+- in the compiler case, it means code transformation -- a completely deterministic, repeatable, and well understood process
+- in the LLM case it means "statistically generation" of text -- a not very well understood \cite{} stochastic process
+
+Many a reader will probably not agree with the conclusion, and thus might not need to read this paper. However, for those who still believe that LLMs will replace programming as we know it, this paper tries to put the *programming* in the bigger context of software engineering, and follow to it's logical conclusion the assumption that *programmers will only have to write prompts and all the code will be written for them*. \cite{...}
+
+We are software engineers, and are writing from a position of understanding the challenges that software evolution poses to programming and in this paper we are going to analyze in which way changing programming with *prompting* will address these challenges. 
+
+The method we use in this paper is a principled analysis. Or *gedankenexperiment*. It is not an empirical study; there are many such studies, but the problem with them is that their replicability is difficult: a study that uses ChatGPT or CoPilot can't be replicated once new versions of these systems are released. The results would probably be different. 
+## Software Evolution To the Rescue
+
+The main arguments of this paper are those stemming from software maintenance and evolution. There are other people who have written about the inherent limitations of the LLMs when it comes to trutfulness, and etc. 
 
 
+## What do we mean by LLMs? 
 
-## But we are not writing assembly anymore ... 
+One of the difficulties of writing about LLMs is the fact that they represent an ever moving target. A critique of *ChattyLLM* 4.0 can always be countered with: *"You just wait to see how ChattyLLM 5.0 will solve this problem"*. 
 
-The first argument is that just as we stopped writing assembly because of the coming of the high-level languages, in the same way, LLMs will replace programming. 
+In order to be able to have a discussion that is not prone to the above *critique* we must discuss a *Very Powerful LLM*, more powerful than any of the known ones, and possibly more powerful than all the ones that are going to exist in the foreseeable future. 
 
-There is a big difference between the HL languages and LLMs: one is a language the other is a ... language model. This has impacts in evolution.
+There are multiple possible LLM limitation models
+1. for any programmer wish expressed as a prompt in natural language, they will eventually generate code to fulfill it, possibly after multiple "prompts" (or clicking the refresh button in the UI, as it can be done in ChatGPT)
+2. there are some wishes that will not be generated
 
-## Bricolage: constructing a system from "wishes"
+Although 2) is the reality at the moment, and it's likely to never be solved given that , we will work with an LLM model of 1). We assume an LLM that's better than everything that exists at the moment. 
 
-The strong argument of the most hopeful software engineers is the following: as the AI models are getting better, we will be able to write systems just by writing in natural language what we want. 
+Two more assumptions that we make are: 
 
-Let us assume that one can do this and that it works. 
-
-The main difference between natural language and a programming language is that one is precise and one is ambiguous. The ambiguity, be definition means the following: 
-
-### for any wish there can be many programs to satisfy it
+### C1. For any wish there can be many programs to satisfy it
 
 - this is also visible in the UI of LLMs these days, as one types a *prompt*, the system returns an answer, but together with the answer one can use a "give me more" button. 
 
 wish(i) => P{i}...P{j} 
 
-This is not surprising, since it is inherent in the architecture of the LLM - every word generated impacts the next words that follow it. Thus, generating a different word 
+This is not surprising, since it is inherent in the architecture of the LLM - every word generated impacts the next words that follow it. 
+
+Also, given the ambiguity of natural language, it follows that the LLM can not know what the user means, so it must be able to generate code for multiple languages. 
 
 
-### there is no guarantee that the program selected for implementing a wish is correct
+### C2. Different versions of an LLM will generate different programs for the same wish
 
-This might be the case for simple programs.
-And might be the case for the current version.
-But one can never be sure that 
+There is no guarantee that a different LLM or a different version of an LLM will generate the same programs in the same order. There is nothing in the architecture of LLMs that suggests that one can expect *backwards compatibility*. In fact, studies seem to suggest that some of the popular ones are clearly changing. 
 
-### There is no guarantee that a different LLM or a different version of an LLM will generate the same programs in the same order. This has significant implications for evolution
+Formally (do we need this?) this would be written as: 
 
 wish(i, v(LLM) = P{i,v(LLM)} ... P{n,v(LLM)}
+
+### C3. The higher the abstraction level of the "wish", the more possible programs will be generated for it
+
+For simple wishes, there are few possible programs that the LLM will generate. E.g. `provide a fibonacci implementation` . There are few implementations, and all of them have been written a billion times on the internet. 
+
+On the other hand, asking high-level wishes, is fraught with danger. If one asks "generate for me a todo app" there could be potentially thousands of such implementations. This assuming that the system would 
+
+
+It is hard to see how any future LLM can be generated that does not fall under the two constraints above. These are the only assumptions we will take forward in the analysis. 
+
+
+
+## Bricolage: constructing a system from "wishes"
+
+The challenges in Software Engineering are in creating complex systems. Thus, we will assume this for the rest of the discussion. A complex system is one that requires a team to work full time for more than one year. The early version of WhatsApp was such a system. And this should cover more than X0% of all the systems out there. And probably 100% of all the systems that are difficult to create. 
+
+### Challenge: Collaboration 
+
+Collaboration will become a big challenge.
+
+#### Code Review
+
+Assuming that for large systems, one would want to review the wishes, it will be fascinating to see discussions of the form:
+- your wish W1 is not clear to me, can you rephrase
+- with no guarantee that the rephrased wish still generates the same functionality
+
+By definition Refactoring is out of the window. 
+
+On the bright side, one would argue, this would require a much more solid suite of tests. Indeed, the only way to ensure that a *refactored wish* does the same as the original is to run the tests. However, what are the tests written in? Because we do not assume programming language will be necessary. If they are written in prompts themselves, we end up with an infinite regression of asking: "how do we know that the tests are doing what we want them to do" unless we have tests for them? 
+
+### Code Evolution
+
+Manny Lehman: The law of continuing change. 
+
+
+
+
+
+Let us think how could we construct programs in the idealized world of very powerful LLMs as described above. 
 
 Thus, if one would construct a bricolage of a system by composing together programs generated by wishes, when it comes the time for evolving them, they would have two choices: 
 
@@ -73,18 +111,8 @@ Thus, if one would construct a bricolage of a system by composing together progr
 
 
 
-### The higher the abstraction level of the "wish", the more possible programs will be generated for it
-
-For simple wishes, there are few possible programs that the LLM will generate. E.g. `provide a fibonacci implementation` . There are few implementations, and all of them have been written a billion times on the internet. 
-
-On the other hand, asking high-level wishes, is fraught with danger. If one asks "generate for me a todo app" there could be potentially thousands of such implementations. This assuming that the system would 
 
 
-
-### "Wish Review" will be challenging
-
-Assuming that for large systems, one would want to review the wishes, it will be fascinating to see discussions of the form:
-- your wish W1 
 
 
 ### This system is not sustainable
@@ -152,3 +180,20 @@ It is unlikely that
 
 - is there something to learn from model-driven engineering?
 - the limitations of code generated 
+
+
+
+# Topics to think about
+
+- some programmers are not even good at english
+
+
+# Other Topics Not Discussed
+
+### 2. there is no guarantee that the program selected for implementing a wish is correct
+
+This might be the case for simple programs.
+And might be the case for the current version.
+But one can never be sure that 
+
+
