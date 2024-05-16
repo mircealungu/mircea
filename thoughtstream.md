@@ -1,3 +1,19 @@
+May 16
+
+What makes us human? 
+
+Discussing with a sociologist who tells me that it's creating meta-tools. Indeed, she was not convinced of my argument that it's: not acting on our instincts and thinking about the future was met with: lions do not act on their instincts: whey they get upset by their cubs, they don't eat them. I guess that's arguable, but I didn't insist. 
+
+In fact, I think Peterson would say: sacrificing the present for the future consciously. 
+
+In any case, her view was that creating meta-tools is something that no animal has ever been observed to do. They use tools to do stuff, but that's it. 
+
+So then I proposed that one way to compare cultures would be based exactly on that. If 
+
+
+
+
+
 **May 5**
 
 The joy of spring. 
