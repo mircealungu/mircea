@@ -13,7 +13,7 @@ Lunch discussion. C. thinks that free will is a model from the point of view of 
 
 This aligns with my understanding. From the society's POV it's exactly the same. Society also does not know anybody's internal state. So for all practical purposes, everybody has free will. The benefit of this? It allows us to have a legal system and build a civilization. Not a bad deal, you must admit :)
 
-This also implies that an omniscient agent might not perceive us as having free will. I guess this is what Calvin was also trying to say? So Calving was writing from the POV of God (and Arminius from the POV of humanity... and when you're human, it's really stupid to write from the POV of God. Ergo, Arminius beats Calvin any day for breakfast). 
+This also implies that an omniscient agent might not perceive us as having free will. I guess this is what Calvin was also trying to say? So Calvin was writing from the POV of God (and Arminius from the POV of humanity... and when you're human, it's really stupid to write from the POV of God. Thus, Arminius beats Calvin any day for breakfast). 
 
 ** 
 
