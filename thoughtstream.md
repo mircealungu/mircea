@@ -2,10 +2,16 @@
 
 *Uncopenhagenly* sunny today.  
 
+**May 17**
+
+Watched The Cowboy and the Frenchman with friends tonight. David Lynch is a dork. 
+
 
 **May 16**
 
-Lunch discussion. C. thinks that free will is a model from the point of view of a limited agent. Basically, for all the practical purposes, from my point of view, C has free will because I can never predict his internal states and the way they will interact with the environment. This aligns with my understanding. From the societal POV it's the same. Society also does not know anybody's internal state. So for all practical purposes, everybody has free will. The benefit of this? It allows us to have a legal system and build a civilization. Not a bad deal, you must admit :)
+Lunch discussion. C. thinks that free will is a model from the point of view of a limited agent. Basically, from my point of view, C has free will because I can never predict his internal states and the way they will interact with the environment. Thus, for all the practical purposes, from the outside, for me, he has full control of his choices. 
+
+This aligns with my understanding. From the society's POV it's exactly the same. Society also does not know anybody's internal state. So for all practical purposes, everybody has free will. The benefit of this? It allows us to have a legal system and build a civilization. Not a bad deal, you must admit :)
 
 This also implies that an omniscient agent might not perceive us as having free will. I guess this is what Calvin was also trying to say? So Calving was writing from the POV of God (and Arminius from the POV of humanity... and when you're human, it's really stupid to write from the POV of God. Ergo, Arminius beats Calvin any day for breakfast). 
 
