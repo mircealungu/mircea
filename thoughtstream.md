@@ -1,16 +1,37 @@
-May 16
+**May 18**
+
+*Uncopenhagenly* sunny today.  
+
+
+**May 16**
+
+Lunch discussion. C. thinks that free will is a model from the point of view of a limited agent. Basically, for all the practical purposes, from my point of view, C has free will because I can never predict his internal states and the way they will interact with the environment. This aligns with my understanding. From the societal POV it's the same. Society also does not know anybody's internal state. So for all practical purposes, everybody has free will. The benefit of this? It allows us to have a legal system and build a civilization. Not a bad deal, you must admit :)
+
+This also implies that an omniscient agent might not perceive us as having free will. I guess this is what Calvin was also trying to say? So Calving was writing from the POV of God (and Arminius from the POV of humanity... and when you're human, it's really stupid to write from the POV of God. Ergo, Arminius beats Calvin any day for breakfast). 
+
+** 
+
+Could an omniscient agent that knows the internal state of everybody not feel what everybody feels? And then, if it felt simultaneously all the feelings of all living, could it make anything of it? All the joy and the pain in the world at the same time. Impossible to imagine.  
+
+**
+
+In the same way in which free will is an assumption, the fact that we can be construed as individuals, is also an assumption. 
+
+
+
+**May 15**
 
 What makes us human? 
 
-Discussing with a sociologist who tells me that it's creating meta-tools. Indeed, she was not convinced of my argument that it's: not acting on our instincts and thinking about the future was met with: lions do not act on their instincts: whey they get upset by their cubs, they don't eat them. I guess that's arguable, but I didn't insist. 
+Discussing with a sociologist whom I tried to convince of my definition: not acting on our instincts and thinking about the future. Indeed, she countered with: lions do not act on their instincts even when, e.g, whey they get upset by their cubs who bite their tail, they don't kill them. I guess that's arguable. And the difference is in doing the things consciously. 
 
-In fact, I think Peterson would say: sacrificing the present for the future consciously. 
+I think Peterson would say: sacrificing the present for the future consciously. 
 
-In any case, her view was that creating meta-tools is something that no animal has ever been observed to do. They use tools to do stuff, but that's it. 
+In any case, her view was that creating meta-tools is something that no animal has ever been observed to do. Some animals use tools to do stuff, but that's it, but we never recorded an animal creating tools to create tools.
 
-So then I proposed that one way to compare cultures would be based exactly on that. If 
+Then the discussion went to cultures and how different cultures 
 
-
+So then I proposed that we might be able to use this most human trait to compare cultures. Isn't a culture that creates more meta-tools more advanced, and more human than another one? 
 
 
 
