@@ -2,7 +2,7 @@
 
 Now Sam Altman is not cool. Yesterday he was the savior. Today Musk is not cool. Yesterday he was the savior. Elisabeth Holmes. Sam Bankman-Fried. At some point the whole media ecosystem sings to one of these praises. At the next point we realize: they're not supermen, superwomen, or the prophets. In fact, they're as flawed as everybody. Sometimes more.
 
-OO programming is all you need. Map-reduce is all you need. Bitcoin is all you need. Microservices is all you need. Generative AI... Each of these is going to save everybody from everything. 
+OO programming is all you need. Map-reduce is all you need. Bitcoin is all you need. Microservices is all you need. Generative AI is all you need. Literally, there are people who believe that we won't need programming languages anymore. Each new technological end of the world turns out to be just another phase in our quest for... the ultimate silver bullet. 
 
 The same pattern over and over again. How does the world not learn? I guess there's an eternal stream of naïve hopeful-hearted young people that are willing to believe. By the time they get older, and learn a thing or two, the new avalanche of youngsters fall into the same: personality cults, ponzi schemes, and techno-savior schemes. And the problem is that the *distributed society* has very little respect for experience. In the old days, there was respect for the elderly, so they might have not fallen so easily into the last hype. But that is not part of our societal fundamentals anymore. Still happens individually here and there, but I guess that's the patriarchy and matriarchy that we've done with. 
 
