@@ -2,7 +2,7 @@
 
 Now Sam Altman is not cool. Yesterday he was the savior. Today Musk is not cool. Yesterday he was the savior. Elisabeth Holmes. Sam Bankman-Fried. At some point the whole media ecosystem sings to one of these praises. At the next point we realize: they're not supermen, superwomen, or the prophets. In fact, they're as flawed as everybody. Sometimes more.
 
-OO programming is all you need. Map-reduce is all you need. Bitcoin is all you need. Microservices is all you need. Generative AI is all you need. Literally, there are people who believe that we won't need programming languages anymore. Each new technological end of the world turns out to be just another phase in our quest for... the ultimate silver bullet. 
+OO programming is all you need. Map-reduce is all you need. Bitcoin is all you need. Microservices is all you need. Generative AI is all you need. (Literally, there are people who believe that we won't need programming languages anymore. I must really get writing that paper about prompt engineering teams replacing of software engineering teams..). Each new technological end of the world turns out to be just another phase in our quest for the ultimate silver bullet. 
 
 The same pattern over and over again with both people and technologies. 
 
