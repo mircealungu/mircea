@@ -1,3 +1,7 @@
+**May 23** 
+
+beating addiction with addiction: went with the colleagues for ice cream but got coffee instead :)
+
 **May 22**
 
 Now Sam Altman is not cool. Yesterday he was the savior. Today Musk is not cool. Yesterday he was the savior. Elisabeth Holmes. Sam Bankman-Fried. At some point the whole media ecosystem sings to one of these praises. At the next point we realize: they're not supermen, superwomen, or the prophets. In fact, they're as flawed as everybody. Sometimes more.
