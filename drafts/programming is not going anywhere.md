@@ -67,7 +67,7 @@ wish(i, v(LLM) = P{i,v(LLM)} ... P{n,v(LLM)}
 
 For simple wishes, there are few possible programs that the LLM will generate. E.g. `provide a fibonacci implementation` . There are few implementations, and all of them have been written a billion times on the internet. 
 
-On the other hand, asking high-level wishes, is fraught with danger. If one asks "generate for me a todo app" there could be potentially thousands of such implementations. This assuming that the system would 
+On the other hand, asking high-level wishes, is fraught with danger. If one asks "generate for me a todo app" there could be potentially thousands of such implementations. And very likely, each one of the implementations, would not be exactly what the asker wants. A bit like the naïve young man from Bedazzled. -
 
 
 It is hard to see how any future LLM can be generated that does not fall under the two constraints above. These are the only assumptions we will take forward in the analysis. 
