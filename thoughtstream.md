@@ -318,6 +318,8 @@ Also, there's quantum uncertainty at the atomic level.
 
 P.S. (Apr 2) Or could I accept that both facts are true? The wisdom of the Rabbi who told everybody that they were right?
 
+P.P.S.  Writing does not exist. Just atoms of my hands kicking other atoms of a keyboard. There's a proper level of analysis for everything and a purpose for every level of analysis.
+
 #### Artificial Wisdom
 
 I recently developed a love for volleyball and I play in the lowest men's danish league. My role in the team, middle blocker, requires a lot of jumping, and my knee is starting to hurt a bit sometimes after a long match. I really wish that as a society we would prioritize much more working on artificial knees than artificial intelligence. But there’s not enough wisdom in Sillicon Valley to realize that. And unfortunately nobody is working on artificial wisdom either.
