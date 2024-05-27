@@ -1,3 +1,7 @@
+**May 27**
+
+You must accept reality. You have to dance with the reality. You have to improvise with it. Yes-and it. 
+
 **May 23** 
 
 beating addiction with addiction: went with the colleagues for ice cream but got coffee instead :)
