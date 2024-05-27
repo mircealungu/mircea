@@ -9,7 +9,7 @@ Motivational Quote:
 
 This paper is a thought experiment triggered by the general enthusiasm and high hopes related to generative AI. 
 
-In particular, this is a critique of a particularly strong claim related to Gen AI: that an LLM, or a foundational model, will at some point (point that is usually expected to be "soon") replace programming completely. 
+In particular, this is a critique of a particularly strong claim related to Generative AI, that: **an LLM will at some point (usually, very "soon") replace the need for developers to know programming languages**. 
 
 The reasoning is often syllogistic in nature: 
 - in the early days of computing, developers used to write assembly language
