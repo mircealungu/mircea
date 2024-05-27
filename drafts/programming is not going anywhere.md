@@ -37,7 +37,7 @@ The method we use in this paper is a principled analysis. Or *gedankenexperiment
 
 In fact, what this paper will have to do to resist the test of time is also address the objection that: **The fact that ChatXYZ 4.0 did not replace the need of PLs is not a proof that version 5.0 will not.**. 
 
-## Software Evolution To the Rescue
+# The Software Evolution Perspective
 
 The main arguments of this paper are those stemming from software maintenance and evolution. There are other people who have written about the inherent limitations of the LLMs when it comes to trutfulness, and etc. 
 
