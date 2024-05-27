@@ -1,14 +1,14 @@
 # Will Prompt-Engineering Replace Software Engineering? 
 
-Alternative subtitles: 
+
+> Programming languages are the easiest way in which one can specify systems; if there was an easier way, we would have used it. (to find the author)
+
+
+# Alternative subtitles
 
 - "Why prompting-LLMs will not render PLs obsolete?" -- This would also be a *positive* framing for the paper
+- Programming Languages Are Not Going Anywhere
 
-
-
-
-Motivational Quote: 
-> Programming languages are the easiest way in which one can specify systems; if there was an easier way, we would have used it. (to find the author)
 
 
 # Why this paper?
