@@ -13,9 +13,9 @@
 
 # Why this paper?
 
-This paper is a thought experiment triggered by the general enthusiasm and high hopes related to generative AI. 
+This paper is a thought experiment aimed at addressing the general enthusiasm and high hopes related to generative AI. 
 
-In particular, this is a critique of a particularly strong claim related to Generative AI, that: **an LLM will at some point (usually, "very soon") replace the need for developers to know programming languages**. 
+In particular, this is a critique of a particularly claim related to Generative AI, that: **an LLM will at some point (usually, "very soon") replace the need for developers to know programming languages**. [llms and the end of programming, matt walsh](https://www.youtube.com/watch?v=JhCl-GeT4jw&ab_channel=CS50), [nvidia ceo claims that ai will replace programming](https://techwireasia.com/03/2024/nvidias-ceo-jensen-huang-ai-will-take-over-coding-making-learning-optional).
 
 The reasoning of those who make this claim is often syllogistic in nature: 
 - in the early days of computing, developers used to write assembly language
