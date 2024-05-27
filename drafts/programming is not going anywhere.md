@@ -17,7 +17,7 @@ The reasoning of those who make this claim is often syllogistic in nature:
 - LLMs are going to take this generation to the next level, by automatically eliminating the need for programmers to write code in high-level languages because all the programmer will need to do is to write in natural language what they wish done, and the AI will automatically *generate* the necessary code.
 
 The heavy lifting of the syllogism is done by the overloading of the term *generate* with two completely different meanings:
-- in the compiler case, it means code transformation -- a completely deterministic, repeatable, and well understood process
+- in the compiler case, it means code transformation -- a completely deterministic, repeatable, unambiguous, and well understood process
 - in the LLM case it means "statistically generation" of text -- a not very well understood \cite{} stochastic process
 
 Many a reader will probably not agree with the conclusion, and thus might not need to read this paper. 
