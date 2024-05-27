@@ -1,4 +1,7 @@
-Alternative subtitle: "What is missing for prompting-foundational models to replace programming?". This would also be a *positive* framing for the paper. 
+Alternative subtitles: 
+
+- "Why prompting-LLMs will not render PLs obsolete?" -- This would also be a *positive* framing for the paper
+
 
 
 
@@ -6,6 +9,7 @@ Motivational Quote:
 > Programming languages are the easiest way in which one can specify systems; if there was an easier way, we would have used it. (to find the author)
 
 
+# Why this paper?
 
 This paper is a thought experiment triggered by the general enthusiasm and high hopes related to generative AI. 
 
@@ -22,8 +26,9 @@ The heavy lifting of the syllogism is done by the overloading of the term *gener
 
 Many a reader will probably not agree with the conclusion, and thus might not need to read this paper. 
 
-However, for those who still believe that LLMs will replace programming as we know it, this paper tries to put the *programming* in the bigger context of software engineering, and follow to it's logical conclusion the assumption that *programmers will only have to write prompts and all the code will be written for them*. \cite{...}
+However, for those who are not familiar enough with PL, SE, or LLMs such that they can still believe that LLMs will replace programming as we know it, this paper tries to put the *programming* in the bigger context of software engineering, and follow to it's logical conclusion the assumption that *programmers will only have to write prompts and all the code will be written for them*. \cite{...}
 
+# What methodology does this paper use? 
 We are software engineers, and are writing from a position of understanding the challenges that software evolution poses to programming and in this paper we are going to analyze in which way changing programming with *prompting* will address these challenges. 
 
 The method we use in this paper is a principled analysis. Or *gedankenexperiment*. It is not an empirical study; there are many such studies, but the problem with them is that their replicability is difficult: a study that uses ChatGPT or CoPilot can't be replicated once new versions of these systems are released. The results would probably be different. 
