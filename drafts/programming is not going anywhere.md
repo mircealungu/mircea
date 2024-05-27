@@ -11,7 +11,7 @@ This paper is a thought experiment triggered by the general enthusiasm and high 
 
 In particular, this is a critique of a particularly strong claim related to Generative AI, that: **an LLM will at some point (usually, very "soon") replace the need for developers to know programming languages**. 
 
-The reasoning is often syllogistic in nature: 
+The reasoning of those who make this claim is often syllogistic in nature: 
 - in the early days of computing, developers used to write assembly language
 - then compilers came and allowed the programmers to write high-level languages and the assembly language was *generated*, thus eliminating the need for programmers to write assembly
 - LLMs are going to take this generation to the next level, by automatically eliminating the need for programmers to write code in high-level languages because all the programmer will need to do is to write in natural language what they wish done, and the AI will automatically *generate* the necessary code.
@@ -20,11 +20,16 @@ The heavy lifting of the syllogism is done by the overloading of the term *gener
 - in the compiler case, it means code transformation -- a completely deterministic, repeatable, and well understood process
 - in the LLM case it means "statistically generation" of text -- a not very well understood \cite{} stochastic process
 
-Many a reader will probably not agree with the conclusion, and thus might not need to read this paper. However, for those who still believe that LLMs will replace programming as we know it, this paper tries to put the *programming* in the bigger context of software engineering, and follow to it's logical conclusion the assumption that *programmers will only have to write prompts and all the code will be written for them*. \cite{...}
+Many a reader will probably not agree with the conclusion, and thus might not need to read this paper. 
+
+However, for those who still believe that LLMs will replace programming as we know it, this paper tries to put the *programming* in the bigger context of software engineering, and follow to it's logical conclusion the assumption that *programmers will only have to write prompts and all the code will be written for them*. \cite{...}
 
 We are software engineers, and are writing from a position of understanding the challenges that software evolution poses to programming and in this paper we are going to analyze in which way changing programming with *prompting* will address these challenges. 
 
 The method we use in this paper is a principled analysis. Or *gedankenexperiment*. It is not an empirical study; there are many such studies, but the problem with them is that their replicability is difficult: a study that uses ChatGPT or CoPilot can't be replicated once new versions of these systems are released. The results would probably be different. 
+
+In fact, what this paper will have to do to resist the test of time is also address the objection that: **The fact that ChatXYZ 4.0 did not replace the need of PLs is not a proof that version 5.0 will not.**. 
+
 ## Software Evolution To the Rescue
 
 The main arguments of this paper are those stemming from software maintenance and evolution. There are other people who have written about the inherent limitations of the LLMs when it comes to trutfulness, and etc. 
