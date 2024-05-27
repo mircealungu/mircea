@@ -28,7 +28,7 @@ The heavy lifting of the syllogism is done by the overloading of the term *gener
 
 Many a reader will probably not agree with the conclusion, and thus might not need to read this paper. 
 
-However, for those who are not familiar enough with PL, SE, or LLMs such that they can still believe that LLMs will replace programming as we know it, this paper tries to put the *programming* in the bigger context of software engineering, and follow to it's logical conclusion the assumption that *programmers will only have to write prompts and all the code will be written for them*. \cite{...}
+However, for those who are not familiar enough with PL, SE, or LLMs such that they can still believe that LLMs will replace programming as we know it, this paper tries to put the activity of *programming* in the bigger context of software engineering, and follow to it's logical conclusion the assumption that *programmers will only have to write prompts and all the code will be written for them*. \cite{...}
 
 # What methodology does this paper use? 
 We are software engineers, and are writing from a position of understanding the challenges that software evolution poses to programming and in this paper we are going to analyze in which way changing programming with *prompting* will address these challenges. 
