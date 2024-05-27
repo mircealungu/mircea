@@ -9,7 +9,7 @@ Motivational Quote:
 
 This paper is a thought experiment triggered by the general enthusiasm and high hopes related to generative AI. 
 
-In particular, this is a critique of a particularly strong claim related to Generative AI, that: **an LLM will at some point (usually, very "soon") replace the need for developers to know programming languages**. 
+In particular, this is a critique of a particularly strong claim related to Generative AI, that: **an LLM will at some point (usually, "very soon") replace the need for developers to know programming languages**. 
 
 The reasoning of those who make this claim is often syllogistic in nature: 
 - in the early days of computing, developers used to write assembly language
