@@ -1,4 +1,4 @@
-# Will Prompt-Engineering Replace Software Engineering? Anytime soon? Or ever? 
+# Will Prompt-Engineering Replace Software Engineering? 
 
 Alternative subtitles: 
 
