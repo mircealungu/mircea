@@ -2,6 +2,11 @@
 
 Today's Soundtrack: Dream Theater.
 
+**
+
+if I could learn to live in such a way as to never look back.
+maybe even the decisions i would take would weigh different.
+
 
 **May 27**
 
