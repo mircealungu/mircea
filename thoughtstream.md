@@ -1,7 +1,9 @@
 **May 27**
 
 
-You must accept reality. You have to dance with the reality. You have to improvise with it. You have to *yes-and* reality. Otherwise, it will slap you in the face. And it's got a heavy hand. 
+You must accept reality. You have to dance with the reality. You have to improvise with it. 
+
+You have to *yes-and* reality. Otherwise, it will slap you in the face. And it's got a heavy hand. 
 
 **
 
