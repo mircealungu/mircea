@@ -5,7 +5,7 @@ Today's Soundtrack: Dream Theater.
 **
 
 so many stories and myths about how one must never look back. nor left and right. 
-but following ones way wherever it leads.
+but following their oen way, wherever it leads.
 
 if I could learn to live in such a way as to never look back.
 maybe even the decisions i would take would weigh different.
