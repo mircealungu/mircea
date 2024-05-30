@@ -1,3 +1,10 @@
+**May 30**
+
+how much i hate that my own files, written by myself, deeply personal, i can't open when i'm not on the internet because they have been moved in the cloud by apple? really a lot. 
+
+this is deeply disturbing. i never remember opt-ing in to anything like this. i think we have to get back down to earth and away from the clouds. 
+
+
 **May 29**
 
 Today's Soundtrack: Dream Theater.
