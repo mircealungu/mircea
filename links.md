@@ -29,6 +29,10 @@
  - Iga - [Easing Onboarding](https://learnit.itu.dk/grade/report/grader/index.php?id=3024152)(SD) (censor proposal sent)
  - Klara - [Browsing in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024025) (SD)
 
+**To share with students**
+- [Writing guidelines](https://github.com/mircealungu/student-projects/blob/master/writing_guidelines/README.md)
+-  ... 
+
 **Ops**
 - [Google Cloud Compute Instances](https://console.cloud.google.com/compute/instances) - [Billing](https://console.cloud.google.com/billing/)
 - [dockerhub/zeeguu](https://hub.docker.com/repositories/zeeguu)
@@ -43,6 +47,8 @@
 - [faq](https://docs.google.com/document/d/18x3zhD_KzfnsvPvJN5wATnjb287UBi5kzIAXTGv1I9Y/edit)
 - [Outlook](https://outlook.office.com/owa/?exsvurl=1&path=/calendar/view/WorkWeek)
 - [Talent Recruiter / hr-manager](https://recruiter.hr-manager.net/Sys/DesktopDefault.aspx?tabalias=clappterm&cid=119)
+
+
 
 
 
