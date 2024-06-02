@@ -3,6 +3,16 @@ I've decided that I must write short notes about the books I read. I'll try to k
 # Books 
 
 ## 2024
+
+gulag archipelago
+
+- the soviet paranthesis inthe history of russia
+
+- 
+
+
+
+
 ## Dominion, Tom Holland
 Notes
 - In the story of Job, "the court of God" seems to be inspired by the court of Cyrus the Great - an emperror that the jews admired because he freed them from their babilonian captivity; even Satan is modeled by the approach Cyrus would have of sending messengers across the empire
