@@ -7,6 +7,7 @@ i think i could see it in my heart, but every man? and evil, not merely weakness
 if it were about missing the mark of a good life, it could be interpreted the same way as "happy families are all alike, while unhappy families are all unhappy in their own way" of tolstoi. 
 perfect people are all alike, and each imperfect one is imperfect in their own way.
 
+but i know people that i have a hard time imagining doing evil.
 i guess it's time to read solzhenitsyn. 
 
 I saw yesterday a documentary about Mao and it sparked my interest in totalitarian regimes, and "class struggle" as a way of ordering a society. 
