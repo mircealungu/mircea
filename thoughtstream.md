@@ -2,8 +2,12 @@
 
 the line that divides good and evil cuts through the heart of every man.
 i always thought this was a remarcabile thing to say.
-i think i could see it in my heart, but every man? and evil, not merely weakness or imperfection or other ways of missing the mark?
+i think i could see it in my heart, but every man? and evil, not merely weakness, imperfection, or other ways of missing the mark?
 i can think of people that i can't imagine doing evil.
+
+if it were shot missing th er mark of a good life, it could be interpreted the same way as "happy families are all alike while unhappy families are all unhappy in their own way" of tolstoi. 
+all perfect people are all alike, and each imperfect one is imperfect in their own way.
+
 i guess it's time to read solzhenitsyn. 
 
 I saw yesterday a documentary about Mao and it sparked my interest in totalitarian regimes, and "class struggle" as a way of ordering a society. 
