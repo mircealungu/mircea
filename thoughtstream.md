@@ -6,8 +6,8 @@ i think i could see it in my heart, but every man? and evil, not merely weakness
 i can think of people that i can't imagine doing evil.
 i guess it's time to read solzhenitsyn. 
 
-not only for hope of better understanding the above quote in context, but qlso because I saw yesterday a documentary about Mao and it sparked my interest in totalitarian regimes and "class struggle" as a way of ordering a society. 
-sometimes it seems like our world is slowly inching that way.
+I saw yesterday a documentary about Mao and it sparked my interest in totalitarian regimes, and "class struggle" as a way of ordering a society. 
+Sometimes it seems like our world is slowly inching that way.
 
 
 **May 30**
