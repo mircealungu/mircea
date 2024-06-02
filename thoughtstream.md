@@ -22,7 +22,7 @@ i think i can feel my joints a bit more painful after a few weeks of exceptions 
 
 ** 
 
-schism by tool. quite dramatic piece.
+schism by tool. quite dramatic piece. and a bit primitive?
 
 
 **May 30**
