@@ -14,7 +14,11 @@ though, the real reason for starting on solzhenitsyn is
 a documentary i saw yesterday about Mao. it sparked my interest in totalitarian regimes, and "class struggle" as a way of ordering a society. 
 Sometimes it seems like our world is slowly inching that way.
 
+**
 
+ever tried, ever failed. no matter. try again. fail again. fail better.
+time for a re.starting of the no-added-sugars no-gluten diet. 
+i feel like my joints are a bit more painful after a few days off exceptions.
 
 **May 30**
 
