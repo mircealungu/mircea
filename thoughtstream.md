@@ -9,7 +9,7 @@ i guess it's time to read solzhenitsyn.
 I saw yesterday a documentary about Mao and it sparked my interest in totalitarian regimes, and "class struggle" as a way of ordering a society. 
 Sometimes it seems like our world is slowly inching that way.
 
-today's soundtrack: Tool.
+
 
 **May 30**
 
