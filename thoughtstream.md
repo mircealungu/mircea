@@ -2,7 +2,7 @@
 
 the line that divides good and evil cuts through the heart of every man.
 i always thought this was a remarcabile thing to say.
-i think i could see it in my heart, but every man? and evil, not merely weakness or imperfection?
+i think i could see it in my heart, but every man? and evil, not merely weakness or imperfection or other ways of missing the mark?
 i can think of people that i can't imagine doing evil.
 i guess it's time to read solzhenitsyn. 
 
