@@ -1,3 +1,11 @@
+**June 2**
+
+the line that divides good and evil cuts through the heart of every man.
+i think i could see it in my heart.
+but every one?
+
+time to read soljenitsn. I've delayed for too long.
+
 **May 30**
 
 how much i hate that my own files, written by myself, deeply personal, i can't open when i'm not on the internet because they have been moved in the cloud by apple? really a lot. 
