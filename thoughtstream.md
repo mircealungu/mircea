@@ -1,9 +1,7 @@
 **June 2**
 
 the line that divides good and evil cuts through the heart of every man.
-i think i could see it in my heart, but every one?
-
-time to read solzhenitsyn. 
+i think i could see it in my heart, but every man? time to read solzhenitsyn.
 
 
 **May 30**
