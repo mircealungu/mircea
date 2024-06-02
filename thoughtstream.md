@@ -20,6 +20,11 @@ Sometimes it seems like our world is slowly inching that way.
 it.s time for a re.committment to the no-added-sugars no-gluten diet. 
 i think i can feel my joints a bit more painful after a few weeks of exceptions that culminated with an anti-diet day.
 
+** 
+
+schism by tool. quite dramatic piece.
+
+
 **May 30**
 
 how much i hate that my own files, written by myself, deeply personal, i can't open when i'm not online because they have been moved in the cloud by apple? a lot. 
