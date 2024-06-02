@@ -18,7 +18,7 @@ Sometimes it seems like our world is slowly inching that way.
 
 ever tried, ever failed. no matter...
 time for a re.starting of the no-added-sugars no-gluten diet. 
-i think i feel my joints a bit painful after a few weeks of exceptions culminating in a day of anti-diet :)
+i think i feel my joints a bit painful after a few weeks of exceptions culminating in a day of anti-diet.
 
 **May 30**
 
