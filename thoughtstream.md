@@ -3,10 +3,9 @@
 the line that divides good and evil cuts through the heart of every man.
 i always thought this was a remarcabile thing to say.
 i think i could see it in my heart, but every man? and evil, not merely weakness, imperfection, or other ways of missing the mark?
-i can think of people that i can't imagine doing evil.
 
-if it were about missing the mark of a good life, it could be interpreted the same way as "happy families are all alike while unhappy families are all unhappy in their own way" of tolstoi. 
-all perfect people are all alike, and each imperfect one is imperfect in their own way.
+if it were about missing the mark of a good life, it could be interpreted the same way as "happy families are all alike, while unhappy families are all unhappy in their own way" of tolstoi. 
+perfect people are all alike, and each imperfect one is imperfect in their own way.
 
 i guess it's time to read solzhenitsyn. 
 
