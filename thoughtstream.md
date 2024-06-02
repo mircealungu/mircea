@@ -16,7 +16,7 @@ Sometimes it seems like our world is slowly inching that way.
 
 **
 
-ever tried, ever failed. no matter. try again. fail again. fail better.
+ever tried, ever failed. no matter...
 time for a re.starting of the no-added-sugars no-gluten diet. 
 i feel like my joints are a bit more painful after a few days off exceptions.
 
