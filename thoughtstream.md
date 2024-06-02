@@ -2,8 +2,11 @@
 
 the line that divides good and evil cuts through the heart of every man.
 i always thought this was a remarcabile thing to say.
-i think i could see it in my heart, but every man? and evil? not merely weakness or imperfection. i can think of people that genuinely i don't think have much trace of evil in them.
-time to read solzhenitsyn.
+i think i could see it in my heart, but every man? and evil, not merely weakness or imperfection?
+i can think of people that genuinely i don't think have much trace of evil in them.
+
+time to read solzhenitsyn. not necessarily because i want to unstandardized this, but because I'd like to better understand totalitarian regimes and class struggle as a way of ordering the society. 
+sometimes it seems like we're slowly inching that way.
 
 
 **May 30**
