@@ -10,7 +10,8 @@ perfect people are all alike, and each imperfect one is imperfect in their own w
 but i know people that i have a hard time imagining doing evil.
 i guess it's time to read solzhenitsyn. 
 
-I saw yesterday a documentary about Mao and it sparked my interest in totalitarian regimes, and "class struggle" as a way of ordering a society. 
+though, the real reason for starting on solzhenitsyn is 
+a documentary i saw yesterday about Mao. it sparked my interest in totalitarian regimes, and "class struggle" as a way of ordering a society. 
 Sometimes it seems like our world is slowly inching that way.
 
 
