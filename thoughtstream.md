@@ -17,8 +17,8 @@ Sometimes it seems like our world is slowly inching that way.
 **
 
 "ever tried, ever failed. no matter... try again, fail again...".
-time for a re.starting of the no-added-sugars no-gluten diet. 
-i think i feel my joints a bit painful after a few weeks of exceptions culminating in a day of anti-diet.
+it.s time for a re.committment to the no-added-sugars no-gluten diet. 
+i think i can feel my joints a bit more painful after a few weeks of exceptions that culminated with an anti-diet day.
 
 **May 30**
 
