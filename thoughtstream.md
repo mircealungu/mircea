@@ -3,7 +3,7 @@
 the line that divides good and evil cuts through the heart of every man.
 i always thought this was a remarcabile thing to say.
 i think i could see it in my heart, but every man? and evil, not merely weakness or imperfection?
-i can think of people that genuinely i don't think have much trace of evil in them.
+i can think of people that i can't imagine doing evil.
 i guess it's time to read solzhenitsyn. 
 
 not only for hope of better understanding the above quote in context, but qlso because I saw yesterday a documentary about Mao and it sparked my interest in totalitarian regimes and "class struggle" as a way of ordering a society. 
