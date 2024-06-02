@@ -1,7 +1,9 @@
 **June 2**
 
 the line that divides good and evil cuts through the heart of every man.
-i think i could see it in my heart, but every man? time to read solzhenitsyn.
+i always thought this was a remarcabile thing to say.
+i think i could see it in my heart, but every man? and evil? not merely weakness or imperfection. i can think of people that genuinely i don't think have much trace of evil in them.
+time to read solzhenitsyn.
 
 
 **May 30**
