@@ -1,6 +1,7 @@
 **June 5**
 Archipelago and Dogville: both reminders of human capacity for evil.
 
+evil needs ideology. 
 
 **June 2**
 
