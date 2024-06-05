@@ -1,3 +1,7 @@
+**June 5**
+Archipelago and Dogville: both reminders of human capacity for evil.
+
+
 **June 2**
 
 the line that divides good and evil cuts through the heart of every man.
