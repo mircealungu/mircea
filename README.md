@@ -21,6 +21,7 @@ As of Mar 31, I just had a new idea I'm trying a new experiment:
 I always loved and I still love coding. However, nowadays I'm more of a product owner that guides and advises talented groups of students that create and evaluate innovative prototypes. Some of these projects are: 
 - [Git-Truck](projects/git-truck.md) - visualizing git repositories for fun and profit
 - [Flask Monitoring Dashboard](projects/flask-monitoring-dashboard.md) - a lightweight API monitor for Flask/Python systems 
+- [ArchLens](projects/ArchLens.md) -  helps developers track the evolution of the structure of their systems 
 - [Zeeguu](projects/zeeguu.md) - personalized adaptive reading and vocabulary practice online
 - [Aiki](projects/aiki.md) - a browser extension that uses procrastination for good
 - [Dansk-in-Town](projects/dansk-in-town.md) - an app for gamifying vocabulary learning in town
