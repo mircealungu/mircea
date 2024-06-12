@@ -3,6 +3,7 @@ archipelago: you could be sentenced for 5 years for "negative attitude towards t
 what makes us believe that what was possible 80years ago is not possible anymore.
 what changed in the human soul to prevent this?
 
+denounciations were useful tools for the speeding up of the sentencing and easing the job of the bureaucrats who did the sentencing.
 
 **June 5**
 Archipelago and Dogville: both reminders of human capacity for evil.
