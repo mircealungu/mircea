@@ -1,7 +1,13 @@
+**June 12**
+archipelago: you could be sentenced for 5 years for "negative attitude towards the party or one of its plans".
+what makes us believe that what was possible 80years ago is not possible anymore.
+what changed in the human soul to prevent this?
+
+
 **June 5**
 Archipelago and Dogville: both reminders of human capacity for evil.
 
-evil needs ideology. 
+mcbeth was so weak. felt bad for one crime. to scale, evil needs ideology. 
 
 **June 2**
 
