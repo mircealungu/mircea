@@ -178,13 +178,14 @@ Indeed, the LLMs will eventually, very likely converge into being the next thing
 
 ## So What Are these systems good for then?
 
-Let us remember what they are. 
-They are models of language. 
-They predict the most likely next token.
-So in the measure in which one tries to write the "average" program that has been written before many times, they might be able to use the LLM. 
-It is unlikely that 
+Let us remember what they are: they are models of language, thus:
+- They predict the most likely next token.
+- So in the measure in which one tries to write the "average" program that has been written before many times, they might be able to use the LLM. 
+- Idioms and patterns that have been written enough will be generated.
 
+The only way to make these things maintainable is a clear separation of the meta-information of what has been *generated-and-copy-pasted* and what has been written by the developer. That way one could continuously observe whether the current version of the LLM generates the same code or not. If it generates different code one would have to inspect the diff and see whether they want to upgrade that part of the system or not. Is this not much too effortful if millions of people have to do the same diff and upgrade? Isn't our current package system a better solution: it's only the maintainer of the `isMobile` package that has to update it, and maybe a few others to vouch for it. All the rest of us can benefit from it. 
 
+In fact, in a Hegelian anti-thesis, what might come after the LLMs might be a much more serious attitude about maintaining little packages, increasing the trust in them, reusing them and documenting them. 
 
 
 
