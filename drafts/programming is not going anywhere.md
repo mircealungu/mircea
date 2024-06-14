@@ -54,7 +54,7 @@ There are multiple possible LLM limitation models
 
 Although 2) is the reality at the moment, and it's likely to never be solved given that , we will work with an LLM model of 1). We assume an LLM that's better than everything that exists at the moment. 
 
-Two more assumptions that we make are: 
+Several further assumptions that we safely make about the current and the future best possible 
 
 ### C1. For any wish there can be many programs to satisfy it
 
@@ -62,9 +62,9 @@ Two more assumptions that we make are:
 
 wish(i) => P{i}...P{j} 
 
-This is not surprising, since it is inherent in the architecture of the LLM - every word generated impacts the next words that follow it. 
-
-Also, given the ambiguity of natural language, it follows that the LLM can not know what the user means, so it must be able to generate code for multiple languages. 
+This is not surprising, since it is inherent in the 
+- architecture of the LLM - every word generated impacts the next words that follow it. 
+- ambiguity of natural language: it follows that the LLM can not know what the user means, so it must be able to generate code for multiple languages. 
 
 
 ### C2. Different versions of an LLM will generate different programs for the same wish
@@ -83,6 +83,8 @@ On the other hand, asking high-level wishes, is fraught with danger. If one asks
 
 
 It is hard to see how any future LLM can be generated that does not fall under the two constraints above. These are the only assumptions we will take forward in the analysis. 
+
+
 
 
 
@@ -195,9 +197,11 @@ It is unlikely that
 
 
 
-# Topics to think about
+# To think about
 
 - some programmers are not even good at english
+- ChattyLLM that people envision is usually not exactly an LLM - it's an LLM augmented with hundreds of man-years of human reinforcement; so maybe we should write about AI in general? Even if that is not a well-defined term, in the above we did operationalize it. 
+- The AI system can even be allowed to grant the wish that the user wants not the one he writes? 
 
 
 # Other Topics Not Discussed
