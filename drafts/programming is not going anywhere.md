@@ -8,6 +8,10 @@
 
 - "Why prompting-LLMs will not render PLs obsolete?" -- This would also be a *positive* framing for the paper
 - Programming Languages Are Not Going Anywhere
+- Wish-based programing
+
+Note:
+- i started writing about *wish-based programming*, but *prompt-ing* is probably the technical term for the same thing; should revisit maybe?
 
 
 
