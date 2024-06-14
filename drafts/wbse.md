@@ -104,19 +104,21 @@ Collaboration will become a big challenge.
 #### Code Review
 
 Assuming that for large systems, one would want to review the wishes, it will be fascinating to see discussions of the form:
-- your wish W1 is not clear to me, can you rephrase
-- with no guarantee that the rephrased wish still generates the same functionality
-
-By definition Refactoring is out of the window. 
+- your wish W_n is not clear to me, can you rephrase it? 
+- well, i could, but then i'd have to go back and ensure that the LLM will still generate the same system, or a similar one because there is no guarantee that the rephrased wish still generates the same functionality
+- ...
+- wish W_k seems superfluous
+- I know, but w/o it the generated system did not do exactly what I wanted
 
 On the bright side, one would argue, this would require a much more solid suite of tests. Indeed, the only way to ensure that a *refactored wish* does the same as the original is to run the tests. However, what are the tests written in? Because we do not assume programming language will be necessary. If they are written in prompts themselves, we end up with an infinite regression of asking: "how do we know that the tests are doing what we want them to do" unless we have tests for them? 
+
+#### Refactoring
+
+Refactoring is by definition impossible because there is no guarantee of *functionality preserving transformation*s 
 
 ### Code Evolution
 
 Manny Lehman: The law of continuing change. 
-
-
-
 
 
 Let us think how could we construct programs in the idealized world of very powerful LLMs as described above. 
@@ -129,14 +131,8 @@ Thus, if one would construct a bricolage of a system by composing together progr
 	- adding another wish asking the LLM to modify the system. this requires that the LLM has to be fed the whole system as a whole as part of the training. so instead of replacing an older wish, one will just amend it. imprecise definitions of program transformations might be possible, but how is the programmer to verify that their imprecise request is fulfilled? in our thought experiment, all they write are "wishes" but to know which of the wishes really are what they want they can't check the generated code. so they are left with the only way to test is "trying out the system" or writing "tests" that ensure that the generated code 
 
 
+One possible outcome of this is that parts of the system will forever depend on particular versions of the LLM. Another is a continuous verification whether the LLM generated snippets do the same with every new version. And if not, adjusting the prompts till they match... 
 
-
-
-
-
-### This system is not sustainable
-
-The LLM works based on examples it finds on the internet. Thus, it can not work on new technologies and languages until they have a critical mass. 
 
 
 #### The low level wishes are exactly those for which there are better solutions
@@ -194,7 +190,9 @@ In fact, in a Hegelian anti-thesis, what might come after the LLMs might be a mu
 
 
 
+### This system is not sustainable
 
+The LLM works based on examples it finds on the internet. Thus, it can not work on new technologies and languages until they have a critical mass. 
 
 ### Data-driven haphazard model-driven engineering
 
