@@ -1,7 +1,7 @@
-# Will Prompt-Engineering Replace Software Engineering? 
+# Wish-Based Software Engineering?
 
 
-> Programming languages are the easiest way in which one can specify systems; if there was an easier way, we would have used it. (to find the author)
+> Programming languages are the easiest way in which one can specify systems; if there was an easier way, we would have used it. (to find the author and the exact quote :)
 
 
 # Alternative subtitles
@@ -9,6 +9,7 @@
 - "Why prompting-LLMs will not render PLs obsolete?" -- This would also be a *positive* framing for the paper
 - Programming Languages Are Not Going Anywhere
 - Wish-based programing
+- Will Prompt-Engineering Replace Software Engineering? 
 
 Note:
 - i started writing about *wish-based programming*, but *prompt-ing* is probably the technical term for the same thing; should revisit maybe?
