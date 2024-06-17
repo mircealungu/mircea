@@ -9,6 +9,7 @@
 	- [**Browser Extension**](https://github.com/zeeguu/browser-extension) ([pulls](https://github.com/zeeguu/browser-extension/pulls)) 
 	- [Readability Server](https://github.com/mircealungu/readability-server/) 
 - [**FMD**](https://github.com/flask-dashboard/Flask-MonitoringDashboard)
+- [Git-Truck](https://github.com/git-truck/git-truck) 
 - [Homepage](https://github.com/mircealungu/mircea)
 
 **Courses**
