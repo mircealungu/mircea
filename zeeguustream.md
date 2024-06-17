@@ -6,3 +6,6 @@ What would be meaningful feedback for a learner?
 - showing the monthly progression of the bottom 50 words they struggle with
 
 
+Crawler improvements
+- repetitive text pattern detection
+- 
