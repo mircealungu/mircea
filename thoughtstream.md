@@ -7,6 +7,7 @@ Niall Ferguson also [observing](https://youtu.be/IUOKwITZq6U?t=1229) that the *n
 On replay today: [Un Alt Inceput](https://www.youtube.com/watch?v=Vu5b6bbnhVo)
 
 **June 12**
+
 Soljenitsyn: you could be sentenced for 5 years for *"negative attitude towards the party or one of its plans"*.
 What makes us believe that what was possible 80years ago is not possible anymore.
 What changed in the human soul to prevent this?
@@ -14,9 +15,10 @@ What changed in the human soul to prevent this?
 Denounciations were useful tools for the speeding up of the sentencing and easing the job of the bureaucrats who did the sentencing.
 
 **June 5**
+
 Archipelago and Dogville: both reminders of human capacity for evil.
 
-mcbeth was so weak. felt bad for one crime. to scale, evil needs ideology. 
+McBeth was so weak: he went mad with remorse for a single crime.  To scale, evil needs ideology. Indeed, that was exactly the story in the Ordinary Men by Browning: normal people can become monsters. 
 
 **June 2**
 
