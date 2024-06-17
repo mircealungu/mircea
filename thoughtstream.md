@@ -1,6 +1,6 @@
 **June 17**
 
-Niall Ferguson also [observing](https://youtu.be/IUOKwITZq6U?t=1229) that the *new, modern quasi-religions* are similar to the ones that they displaced, only worse. In that sense they are tapping into very similar psychological human needs: excluding the blasphemers (deniers), worrying about the end of days = climate extinction, preparing by fasting (become vegan), etc.. Also, your sins can be forgiven in the old religion; in the new one, there is no forgiveness: you said something racist ten years ago, you're not forgiven; your skin color is an original sin. 
+Niall Ferguson also [observing](https://youtu.be/IUOKwITZq6U?t=1229) that the *new, modern quasi-religions* are similar to the ones that they displaced, only worse. In that sense they are tapping into very similar psychological human needs: excluding the blasphemers (deniers), worrying about the end of days = climate extinction, preparing by fasting (become vegan), etc.. Also, your sins can be forgiven in the old religion; in the new one, there is no forgiveness: you said something racist ten years ago, you're not forgiven; even your skin color and sex can be *an original sin* for which there's no forgiveness. 
 
 ** 
 
@@ -18,7 +18,7 @@ Denounciations were useful tools for the speeding up of the sentencing and easin
 
 Archipelago and Dogville: both reminders of human capacity for evil.
 
-McBeth was so weak: he went mad with remorse for a single crime.  To scale, evil needs ideology. Indeed, that was exactly the story in the Ordinary Men by Browning: normal people can become monsters. 
+McBeth was so weak: he went mad with remorse for a single crime.  To scale, evil needs ideology. Indeed, that was exactly the story in the Ordinary Men by Browning. 
 
 **June 2**
 
