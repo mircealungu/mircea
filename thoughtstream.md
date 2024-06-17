@@ -313,7 +313,7 @@ I'd love to have a software engineering master's course where we look at modern 
 
 Motivational lecture
 
-- historical consensuses that everybody believed, where everybody was onboard that later turned out that were not like that (formal verification, scrum, object-orientation, supercomputers, Map-Reduce, ORM, no sql, GraphQL, etc.)
+- historical consensuses that everybody believed, where everybody was onboard that later turned out that were not like that (formal verification, scrum, object-orientation, supercomputers, Map-Reduce, ORM, no sql, [GraphQL](https://x.com/strzibnyj/status/1796442096355905542/photo/1, etc.), serverless, typescript, etc.
 - my own excitement about UML when I was a student. believe you me, it was exciting at that time!
 
 Topics
