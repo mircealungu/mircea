@@ -1,6 +1,6 @@
 **June 17**
 
-Niall Ferguson also [observing](https://youtu.be/IUOKwITZq6U?t=1229) that the *new, modern quasi-religions* are similar to the ones that they displaced, only worse. In that sense they are tapping into very similar psychological human needs: excluding the blasphemers (deniers), worrying about the end of days = climate extinction, preparing by fasting (become vegan), etc.. Also, your sins can be forgiven in the old religion; in the new one, there is no forgiveness: you said something racist ten years ago, you're not forgiven; even your skin color and sex can be *an original sin* for which there's no forgiveness. 
+Niall Ferguson also [observes](https://youtu.be/IUOKwITZq6U?t=1229) that the *new, modern quasi-religions* are similar to the ones that they displaced, only worse. In that sense they are tapping into very similar psychological human needs: excluding the blasphemers (deniers), worrying about the end of days = climate extinction, preparing by fasting (become vegan), etc.. Also, your sins can be forgiven in the old religion; in the new one, there is no forgiveness: you said something racist ten years ago, you're not forgiven; even your skin color and sex can be *an original sin* for which there's no forgiveness. 
 
 ** 
 
