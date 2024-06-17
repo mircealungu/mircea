@@ -1,9 +1,17 @@
-**June 12**
-archipelago: you could be sentenced for 5 years for "negative attitude towards the party or one of its plans".
-what makes us believe that what was possible 80years ago is not possible anymore.
-what changed in the human soul to prevent this?
+**June 17**
 
-denounciations were useful tools for the speeding up of the sentencing and easing the job of the bureaucrats who did the sentencing.
+Niall Ferguson also [observing](https://youtu.be/IUOKwITZq6U?t=1229) that the *new, modern quasi-religions* are similar to the ones that they displaced, only worse. In that sense they are tapping into very similar psychological human needs: excluding the blasphemers (deniers), worrying about the end of days = climate extinction, preparing by fasting (become vegan), etc.. Also, your sins can be forgiven in the old religion; in the new one, there is no forgiveness: you said something racist ten years ago, you're not forgiven; your skin color is an original sin. 
+
+** 
+
+On replay today: [Un Alt Inceput](https://www.youtube.com/watch?v=Vu5b6bbnhVo)
+
+**June 12**
+Soljenitsyn: you could be sentenced for 5 years for *"negative attitude towards the party or one of its plans"*.
+What makes us believe that what was possible 80years ago is not possible anymore.
+What changed in the human soul to prevent this?
+
+Denounciations were useful tools for the speeding up of the sentencing and easing the job of the bureaucrats who did the sentencing.
 
 **June 5**
 Archipelago and Dogville: both reminders of human capacity for evil.
