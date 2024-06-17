@@ -6,6 +6,10 @@ Niall Ferguson also [observes](https://youtu.be/IUOKwITZq6U?t=1229) that the *ne
 
 Rediscovered today: [Un Alt Inceput](https://www.youtube.com/watch?v=Vu5b6bbnhVo)
 
+** 
+
+You only have one life: live it. You only have one conscience: use it. (heard in the interview between Peterson and Solzhenitsyn's son). 
+
 **June 12**
 
 Soljenitsyn: you could be sentenced for 5 years for *"negative attitude towards the party or one of its plans"*.
