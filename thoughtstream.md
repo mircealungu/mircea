@@ -4,7 +4,7 @@ Niall Ferguson also [observes](https://youtu.be/IUOKwITZq6U?t=1229) that the *ne
 
 ** 
 
-On replay today: [Un Alt Inceput](https://www.youtube.com/watch?v=Vu5b6bbnhVo)
+Rediscovered today: [Un Alt Inceput](https://www.youtube.com/watch?v=Vu5b6bbnhVo)
 
 **June 12**
 
