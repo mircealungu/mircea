@@ -12,7 +12,7 @@ You only have one life: live it. You only have one conscience: use it. (heard in
 
 **June 12**
 
-Soljenitsyn: you could be sentenced for 5 years for *"negative attitude towards the party or one of its plans"*.
+Solzhenitsyn: you could be sentenced for 5 years for *"negative attitude towards the party or one of its plans"*.
 What makes us believe that what was possible 80years ago is not possible anymore.
 What changed in the human soul to prevent this?
 
