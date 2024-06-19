@@ -8,7 +8,7 @@ you mountains.
 And you seas,
 give me another body to discharge my madness 
 in full!
-Wide earth, be my trunk,
+Wide earth, be my torso,
 be the breast of this rushing heart,
 pretend to be the place of the storms that crush me,
 be the amphora of my rebellious self!
