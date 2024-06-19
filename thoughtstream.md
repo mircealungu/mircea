@@ -3,7 +3,7 @@
 
 Quick and dirty translation of one of my favorite Lucian Blaga poems. 
 
-Give me a body
+> Give me a body
 you mountains.
 And you seas,
 give me another body to discharge my madness 
@@ -12,25 +12,25 @@ Wide earth, be my torso,
 be the breast of this rushing heart,
 pretend to be the place of the storms that crush me,
 be the amphora of my rebellious self!
-
-Through the cosmos
+>
+> Through the cosmos
 then my great steps would be heard
 and I would appear suddenly and freely
 such as I am.
-
-When i would love
+>
+>When i would love
 I would stretch all the seas to the sky
 like wild, wild hot arms,
 to the sky
 to grasp it
 and to kiss its twinkling stars.
-
-When i would hate
+>
+ When i would hate
 I would crush under my feet
 poor passenger suns
 and maybe I would smile.
 
-But I only have you, my passing body. 
+> But I only have you, my passing body. 
 So I decorate you with white and red flowers 
 even though you're too small and too weak
 for this tumultuous soul of mine.
