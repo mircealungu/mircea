@@ -42,6 +42,8 @@ for this tumultuous soul of mine.
 
 Plants are slow-motion miracles. You put a little garlic in the ground, pour water over it every now and then, and the next thing you know is that the one old garlic has transformed into twelve fresh garlics. 
 
+This observation is dedicated to the most ambitious garlics in the world: those who even if held in the fridge, decided to sprout, and thus, persuaded me to plant them. As Albert Schweitzer used to say: "I am life who wants to live in the middle of life who wants to live".
+
 **June 18**
 
 Went for a walk to the beach and saw the most intense fluorescent pink band in the sunset ever. Took dozens of photos trying to capture it. No photo can do justice to the majesty of the sunset. And to think that in 4 billion years the Andromeda galaxy will intersect ours and probably will interfere with the sunsets! 
