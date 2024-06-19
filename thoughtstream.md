@@ -1,10 +1,9 @@
 
 **Jun 19** 
 
-Quick and dirty translation of one of my favorite Lucian Blaga poems. 
+A slightly modified (for a more positive feeling) of one of my favorite Lucian Blaga poems. 
 
 ```
-
 Give me a body
 you mountains.
 And you seas,
