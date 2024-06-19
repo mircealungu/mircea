@@ -1,3 +1,40 @@
+**Jun 19** 
+
+Quick and dirty translation of one of my favorite Lucian Blaga poems. 
+
+Give me a body
+you mountains.
+And you seas,
+give me another body to discharge my madness 
+in full!
+Wide earth, be my trunk,
+be the breast of this rushing heart,
+pretend to be the place of the storms that crush me,
+be the amphora of my rebellious self!
+
+Through the cosmos
+then my great steps would be heard
+and I would appear suddenly and freely
+such as I am.
+
+When i would love
+I would stretch all the seas to the sky
+like wild, wild hot arms,
+to the sky
+to grasp it
+and to kiss its twinkling stars.
+
+When i would hate
+I would crush under my feet
+poor passenger suns
+and maybe I would smile.
+
+But I only have you, my passing body. 
+So I decorate you with white and red flowers 
+even though you're too small and too weak
+for this tumultuous soul of mine.
+
+
 **June 17**
 
 Niall Ferguson also [observes](https://youtu.be/IUOKwITZq6U?t=1229) that the *new, modern quasi-religions* are similar to the ones that they displaced, only worse. In that sense they are tapping into very similar psychological human needs: excluding the blasphemers (deniers), worrying about the end of days = climate extinction, preparing by fasting (become vegan), etc.. Also, your sins can be forgiven in the old religion; in the new one, there is no forgiveness: you said something racist ten years ago, you're not forgiven; even your skin color and sex can be *an original sin* for which there's no forgiveness. 
