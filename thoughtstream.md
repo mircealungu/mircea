@@ -39,6 +39,10 @@ for this tumultuous soul of mine.
 
 Plants are a slow-motion miracle. You put a little garlic in the ground, and then put water in there every now and then. Next thing you know, the one garlic has transformed into 12. 
 
+**June 18**
+
+Went for a walk to the beach and saw the most intense fluorescent pink band in the sunset ever. Took dozens of photos trying to capture it. No photo can do justice to the majesty of the sunset. And to think that in 4 billion years the Andromeda galaxy will intersect ours and probably will interfere with the sunsets! 
+
 
 **June 17**
 
