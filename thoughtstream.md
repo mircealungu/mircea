@@ -42,7 +42,7 @@ for this tumultuous soul of mine.
 
 Plants are slow-motion miracles. You put a little old garlic in the ground, pour water over it every few days, and the next thing you know is that the one garlic has transformed into twelve fresh garlics. 
 
-Observation made possible by some of the most ambitious garlics in the world who, even if held in the fridge, decided to sprout, and thus, persuaded me to plant them. Albert Schweitzer: *"I am life who wants to live in the middle of life who wants to live"*.
+Observation made possible by some of the most ambitious garlics in the world who, even if held in the fridge, decided to sprout, and thus, persuaded me to plant them. Somehow reminds me of Albert Schweitzer's: *"I am life who wants to live in the middle of life who wants to live"*.
 
 **June 18**
 
