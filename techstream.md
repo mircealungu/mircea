@@ -1,3 +1,8 @@
+Jun 19
+
+configuring a service in docker-compose such that it forwards a port to the host machine, but does not open it to the world: 
+
+![](docs/assets/compose-forwarding-port-to-host.png)
 
 Apr 15, 24
 
