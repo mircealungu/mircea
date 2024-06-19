@@ -1,7 +1,7 @@
 
 **Jun 19** 
 
-An adaptation, with mild changes for a slightly more positive aftertaste, of one of my favorite Lucian Blaga poems. 
+An adaptation, with mild changes for a slightly more positive ending, of one of my favorite Lucian Blaga poems. 
 
 ```
 Give me a body
