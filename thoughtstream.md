@@ -37,7 +37,7 @@ for this tumultuous soul of mine.
 
 ** 
 
-Plants are a slow-motion miracle. You put a little garlic in the ground, pour water over it every now and then, and the next thing you know is that the one garlic has transformed into 12. 
+Plants are a slow-motion miracles. You put a little garlic in the ground, pour water over it every now and then, and the next thing you know is that the one garlic has transformed into 12. 
 
 **June 18**
 
