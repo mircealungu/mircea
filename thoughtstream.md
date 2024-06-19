@@ -1,3 +1,4 @@
+
 **Jun 19** 
 
 Quick and dirty translation of one of my favorite Lucian Blaga poems. 
@@ -33,6 +34,10 @@ But I only have you, my passing body.
 So I decorate you with white and red flowers 
 even though you're too small and too weak
 for this tumultuous soul of mine.
+
+** 
+
+Plants are a slow-motion miracle. You put a little garlic in the ground, and then put water in there every now and then. Next thing you know, the one garlic has transformed into 12. 
 
 
 **June 17**
