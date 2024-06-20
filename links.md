@@ -28,7 +28,7 @@
  - Merle - [Exercise Progression in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024079) (SD) (censor proposal sent)
  - Iga - [Easing Onboarding](https://learnit.itu.dk/grade/report/grader/index.php?id=3024152)(SD) (censor proposal sent)
  - Klara - [Browsing in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024025) (SD)
- - Emil - [WastingPomodoros](https://learnit.itu.dk/course/view.php?id=3024075) 
+ - Emil - [SavingPomodoros](https://learnit.itu.dk/course/view.php?id=3024075) 
 - 
 
 **To share with students**
