@@ -1,6 +1,17 @@
+**Jun 20**
+
+Started reading an [article about whether English borrowed words from Danish](https://www.zeeguu.org/read/article?id=2506904). It was quite long and I didn't finish it. 
+Then did some exercises, but the words of yesterday didn't show up. There was only one word left, that I could solve because it was a triple-choice and I remembered the word I didn't get yesterday... So I solved it. 
+
+I also had  to translate again in the text `isaer` = especially IIRC. I know I'm in the learning process with this word. 
+
+Later I went to the exercises tab again and started getting new exercises. I guess based on today's reading. But it wasn't clear.
+
+
+
 **Jun 18**
 
-read an [article](https://videnskab.dk/krop-sundhed/forskere-har-mistanke-om-at-autisme-og-adhd-kan-kobles-til-forstyrrelser-i-tarmbakterierne/) about a big study that seems to find a correlation between autism and ADHD. 
+Read an [article](https://videnskab.dk/krop-sundhed/forskere-har-mistanke-om-at-autisme-og-adhd-kan-kobles-til-forstyrrelser-i-tarmbakterierne/) about a big study that seems to find a correlation between autism and ADHD. 
 
 spent 14min in total. (zeeguu estimation: 5min)
 translated quite a few words:
