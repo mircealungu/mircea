@@ -1,3 +1,6 @@
+**Jun 20**
+
+Interesting take by e luttwak on the implications of living in a [post heroic era](https://unherd.com/2024/06/who-will-win-a-post-heroic-war/). I don't think he's got it right. Having fewer children is not the root cause; root cause is individualism. We live in a more individualistic society. This is why few people would be willing to go to war. 
 
 **Jun 19** 
 
