@@ -1,15 +1,19 @@
 
 **Jun 25**
 
-And then, going back to Blaga, aren't our bodies miracles?
+
+
+On a break from eating since Sunday evening. Last time I dreamt with food :) When awake though, it's actually wonderful feeling. Why don't I do this more often?
+
+**
+
+Aren't our bodies miracles?
 
 > One thing they do is turn on autophagy. The term is Greek for “self-eating,” and that’s exactly what happens. During autophagy, your cells check all their internal parts, find anything that’s old, damaged, or functioning poorly, and replace them with shiny new versions. The old parts are either recycled into new materials or destroyed.
 
 ([source](https://perfectketo.com/the-5-stages-of-fasting/))
 
-**
 
-On a break from eating since Sunday evening. Last time I dreamt with food :) When awake though, it's actually wonderful feeling. Why don't I do this more often?
 
 
 **Jun 20**
