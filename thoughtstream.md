@@ -1,3 +1,10 @@
+**Jun 25**
+
+And then, going back to Blaga, aren't our bodies miracles?
+
+> One thing they do is turn on autophagy. The term is Greek for “self-eating,” and that’s exactly what happens. During autophagy, your cells check all their internal parts, find anything that’s old, damaged, or functioning poorly, and replace them with shiny new versions. The old parts are either recycled into new materials or destroyed.
+
+
 **Jun 20**
 
 Interesting take by e luttwak on the implications of living in a [post heroic era](https://unherd.com/2024/06/who-will-win-a-post-heroic-war/). I don't think he's got it right. Having fewer children is not the root cause; root cause is individualism. We live in a more individualistic society. This is why few people would be willing to go to war. 
