@@ -2,7 +2,9 @@
 **Jun 25**
 
 
-Day #2 of fasting. Last night I dreamt with food :) Eugenia. When awake though, I'm not troubled at all. It's actually wonderful feeling. I feel calm and more focused. More present somehow. Why don't I do this more often?
+Day #2 of fasting. Last night I dreamt with food :) Eugenia. 
+
+When awake though, I'm not troubled at all. It's actually a wonderful overall feeling. I feel calm and more focused. More present somehow. Why don't I do this more often?
 
 **
 
