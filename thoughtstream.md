@@ -14,7 +14,9 @@ Aren't our bodies miracles?
 
 ([source](https://perfectketo.com/the-5-stages-of-fasting/))
 
+** 
 
+Also, my sense of smell is now supercharged by the evening of day #2. I know that in Parkinson's the sense of smell decreases as the disease progresses. Would fasting be a way to fight back against that symptom. Against the disease as a whole? 
 
 
 **Jun 20**
