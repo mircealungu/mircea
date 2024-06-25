@@ -16,7 +16,7 @@ Aren't our bodies miracles?
 
 ** 
 
-Also, my sense of smell is now supercharged by the evening of day #2. I know that in Parkinson's the sense of smell decreases as the disease progresses. Would fasting be a way to fight back against that symptom. Against the disease as a whole? 
+My sense of smell is now supercharged by the evening of day #2. 
 
 
 **Jun 20**
