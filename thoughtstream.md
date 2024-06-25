@@ -2,8 +2,7 @@
 **Jun 25**
 
 
-
-On a break from eating since Sunday evening. Last time I dreamt with food :) When awake though, it's actually wonderful feeling. Why don't I do this more often?
+Day #2 of fasting. Last night I dreamt with food :) Eugenia. When awake though, I'm not troubled at all. It's actually wonderful feeling. I feel calm and more focused. More present somehow. Why don't I do this more often?
 
 **
 
