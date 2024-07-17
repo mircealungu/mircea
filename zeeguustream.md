@@ -8,4 +8,12 @@ What would be meaningful feedback for a learner?
 
 Crawler improvements
 - repetitive text pattern detection
+
+
+better progress report
+
+notifications to users when their searchers retrieve results? (klara?)
+
+
+deploy the merle exercises
 - 

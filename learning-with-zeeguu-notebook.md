@@ -1,3 +1,59 @@
+**Jul 11**
+
+While doing exercises, I find the following:
+
+![](docs/assets/Pasted%20image%2020240711150905.png)
+
+
+Even with the context, the meaning of `helt` still feels a bit elusive. I guess if I would see more examples? Or better examples? 
+
+Looking in ordnet I see that there are also nouns for helt, but that in this case it's an [adverb](https://ordnet.dk/ddo/ordbog?select=helt,3&query=helt)which can have two meanings, one more abstract than the other. And it is part also of many `faste udtryk` -- fixed expressions. 
+
+How is one to take this into account while studying? Should we?
+
+
+Then I see this:
+
+![](docs/assets/Pasted%20image%2020240711151438.png)
+It makes me wonder: what are the declinations for this? Should I be able to dive into a new exercise to test my memory of the conjugations?
+
+Looking at the [conjugations](https://www.verbix.com/webverbix/go.php?T1=skete&D1=26&H1=126) for *skete* I realize that there're examples with "Jeg sketer" ... I happen?!?! 
+
+While navigating ordbog.dk I learn that `elsker` comes from Norse `elska` which means `close, cultivate`. That seems to align with some of the advice that `love` is something that you `cultivate`. 
+
+[`Stemme`](https://ordnet.dk/ddo/ordbog?query=stemme) is also, both `voice` and `vote`. This is also a bit poetical!
+
+Took me 9 *active minutes* to finish my 23 words that were due today. The total time was more like 50minutes - because I kept navigating to ordbog... 
+
+
+
+
+
+**Jul 7**
+
+- did the exercises quickly, started working on a new text
+- this is hard: ![](docs/assets/Pasted%20image%2020240707142913.png)
+	- i wonder, will `ved siden` be prioritized? it seems like an important word
+	- 
+
+
+**Jul 6**
+
+Quite a long time since I last studied. 
+It's too easy to lose the "streak" and so hard to start.
+There's no wonder that Duolingo puts so much emphasis on the streak. 
+
+In any case, starting with exercises
+- i'd love if after i solve a word, it's automatically pronounced; at least for Danish this makes sense for me; the pronunciation is so important
+- when I do multiple choice, i'd like to have the counter update as soon as I get a correct pair; that would make also clear the fact that the last one does not count, because the counter will not change :)
+- did i just see the counter jump from 13 to 11 after choosing *"don't show this word again"* and providing feedback for it? 
+
+In a situation like the one in the picture, the "keep exercising" could be more informative: and say something like: "ideally there's 4 more words that would be ideally practiced today".
+
+![](docs/assets/Pasted%20image%2020240706194309.png)
+
+
+
 **Jun 21**
 
 Starting with exercises today

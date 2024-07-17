@@ -1,3 +1,123 @@
+**Jul 8**
+
+There's somebody near me in the plane with an IronMan bracelet, and it reminded me that I always admired people who finished such a race. Maybe one day I'll do one too.
+
+**
+
+So many things to do, so little time.
+
+**
+
+Reading Heretic by Ayaan Hirsi Ali. What an alien religion is Islam. The funny thing is that I'm sure for them, christianity is just as alien. In fact, I remember discussing religion with S., a friend who was really amused at the idea of Jesus being the son of God. How can God have a son? In any case, the book by Hirsi Ali is a reminder that Islam is in dire need of a reformation: the combination of literalist interpretation and warlord-period inspired ethics does not fit in the modern world. Unfortunately, I think Ayyan is *preaching to the choir*.
+
+** 
+
+Discussing with M. yesterday: what if Calvin is right, and in a Loki-*esque* manner, The Creator has endowed some humans with the capacity of feeling spirituality, and some others without it. Now the two groups can contradict each other forever without any of them being able to understand the other.
+
+
+
+
+**Jul 6**
+
+Stallone: *"I wanted to at least have the opportunity to say to myself, well, you tried"*. (https://www.instagram.com/p/C8KX5q1x2hB/) 
+
+
+**Jul 1**
+
+Under the starry sky, at night, in the mountains. 
+
+From Kingdom of Heaven: *What man is a man who does not make the world a better place?* The beauty of this, as a philosophy of life is that, no matter who you are and where you are, as long as you still *are*, you can try to live up to it. Obviously it's unfinished a philosophy of life, because it's dependent on what one understands *"better"* to mean. But maybe in combination with Schweitzer's *"life who wants to live in the middle of life who wants to live"* it could become a moral code? I guess first implication would be vegetarianism. And a more advanced implication would be the buddhist monks who are afraid of even stepping on an ant? 
+
+
+**
+
+Might it be the time that I travel more to the mountains? And I should really start writing down a list of my hikes? 
+
+
+
+
+**Jun 28**
+
+On repeat today: Soy, by Gipsy Kings. 
+
+** 
+
+Arm(airport)chair geopolitics: 
+- In the US doctrine of war it stands written that: US is allowed to respond **militarily to any entity threatening its economical interests**. It does not make much difference if the threat is intentional or unintentional. Any entity that threatens the us economy will have to back down or explode... it does not matter that it is a currency, a gas pipe, a dictators, or a democratically elected leader ... economies can sometimes back down voluntarily (e.g. japan), gas pipes get delayed or explode; dictators rarely back down voluntarily: 
+	- the easiest is when the entity backs down: Japan devaluing their currency 
+	- another easy solution is when the entity explodes and nobody wants to figure out who is responsible for the explosion; 
+	- the hardest is to punish a country with war; humans don't like war; so you can not just attack without making it clear that the attacked is the *bad guy*. 
+		- Humanitarian reasons for example are the easiest. The populace will buy it. And other countries, and governments who don't fall for the propaganda, will get the message. 
+		- Sometimes, preparing the populace for a war can take many years of media brainwashing. 
+
+- Western Europe thinks itself separate from the US, but in practice when US says jump, EU says "how high?". So although we, sometimes think about US as a geopolitical elephant in the china shop, we have to remember that we are supporting them. Are we  the baddies? 
+- That EU is vassals, it becomes more and more evident as the time passes by:
+	- Sweden did not need to enter NATO - at a time when Russia is at its weakest; but they did because it's good for NATO. The treaty they signed with the US about military bases on their territory looks, as a Swedish journalist says, like *the peace treaty signed by a country who lost a war*.
+	- Germany didn't say a word when their economy was attacked by the exploding of the gas pipes
+	- Denmark is 100% aligned with all the US military directions
+- The only explanation possible is the economy; somebody has explained EU that it would go into a dark depression if the US economy went down; so we're tied together, and we prefer to take little hits and make little economic sacrifices, become an economy of war, rather than face a sudden disaster. 
+- Mark Rutte as the face of NATO is an important hint that the organization is going to need to have a more persuasive role in the future: he is charismatic, talented, popular, intelligent. Stoltenberg was quite anonymous. Rutte is the opposite. So I'm afraid, his nomination is bad news for peace on Earth. 
+
+
+**Jun 27**
+
+
+Seen somewhere: if you believe in a deterministic universe, you believe in the same qualities that describe God in the Judeo-Christian traditions. Determinism assumes preservation of information, no loss of knowledge from the beginning of time. The assumption of accessible determinism requires knowledge for everything, everywhere, all at once. Determinism assumes the emergence of life as inevitable, a quality of the universe. God in these traditions is: timeless, omniscient, omnipresent, immutable, complete, creator of all things.
+
+Counter argument: So we move the complexity one level up to explaining the existence of God. This doesn't get us anywhere. Why invent a more complex thing (God) to explain a less complex thing (Universe) because we can't explain the less complex thing.
+
+
+** 
+
+Seen somewhere: Databases are the pragmatic intersection and application of all the fundamental topics in CS: algorithms and data structures, distributed systems, PL and compilers, operating systems, hardware, etc.
+
+
+** 
+
+Morning depressing listen: us is opening 15 military bases in Sweden. The deal is horrible: swedes have no right to even know what kind of installations are going to be deployed. Not even if they will place atomic weapons. Why is Europe walking towards war so happily? 
+
+**
+
+Fasting feels like hope. 
+
+
+**Jun 26**
+
+woke up and while still in bed felt inspired to compose a few verses as a dedication to my mother. 
+
+```
+The blood in my veins
+The spark in my eyes
+The will that i have
+The love for the sky
+
+I have them from you.
+```
+
+clearly quite childish verses. and maybe inspired by the discussion with D. about how he asks his kids to write a poem.  but this was the *first thing* that came to my mind in the morning. not reaching out for the phone. not thinking about food. but verses! 
+
+does my mind really work better in a fasted state? is this for others too or only for me? It must, somebody was telling me about the buddhist monks who mediate while fasting.
+
+are we normally walking around lost in mental fog just because we love food too much? 
+
+**
+
+Biked to the airport for my trip to Aalborg. Slightly less power in legs. Saw the same yesterday evening for a few games of beach volleyball. I felt slightly slower. At the same time, my passes were much, much more precise than usually! 
+
+*16:37.* 
+
+I'm tired and feel like sleeping
+But it's a bodily tiredness
+Not a mental tiredness. 
+
+Slept half an hour woke up super fresh and ready. 
+
+After waking up started listening to Keith Jarrett. *The notes are sweeter*.
+
+"Nobody writes poems on a full stomach". "Stay hungry, stay foolish". These sayings receive new meaning. 
+
+Sunny evening in Aalborg. Life is so much more beautiful in the sun. No wonder some of the ancients worshipped it. 
+
 
 **Jun 25**
 

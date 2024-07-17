@@ -1,3 +1,32 @@
+Jun 28
+
+Triple-track agile.
+- discovery: backlog
+- delivery: backlog
+- beautify: backlog
+
+
+
+Jun 27
+
+indeed, the complexity of software creation does not compare with the simplicity to the scrum process. but i guess this is exactly why it's popular, because most people like to have certainties. and it's defined so high level that it can apply to anything.
+
+
+Jun 26
+
+good overview of [random forrests](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&ab_channel=StatQuestwithJoshStarme) 
+
+gradient boosting explained by chatGPT:
+
+1. **Weak Learner**: In gradient boosting, a weak learner is typically a decision tree with a limited depth. A weak learner is a model that performs slightly better than random guessing.
+    
+2. **Ensemble**: The ensemble is the collection of all the weak learners combined. In gradient boosting, each new weak learner corrects the errors made by the previous ones.
+    
+3. **Additive Model**: Gradient boosting builds the model in a stage-wise manner. At each stage, a new model is added to correct the errors made by the existing ensemble of models.
+
+seems to me like it might be quite a good approach to overfitting? 
+
+
 Jun 19
 
 configuring a service in docker-compose such that it forwards a port to the host machine, but does not open it to the world: 

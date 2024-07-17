@@ -46,7 +46,7 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 
 ## In Progress
 
-- Better and more precise time-measurement on the platform (include exercises, include reviewing words, show the timer in real time, pause when inactive, etc.)
+
 - More diverse exercises: e.g. reorder parts of sentence into whole with drag and drop
 - Better personalized recommendations
 - Improved difficulty recommendation
@@ -69,7 +69,10 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 	- how important is the difficulty estimator given that Zeeguu supports the reader also with translations - so they can read texts that are harder than their level; how much harder than their level can they read now? 
 	- how to evaluate the efficiency of the exercise scheduling algorithm?
 
+## Recently Added
 
+- Better and more precise time-measurement on the platform (include exercises, include reviewing words, show the timer in real time, pause when inactive, etc.)
+- 
 # Inspiration
 
 - For polyglots, the native language is still [more special than all the others](https://news.mit.edu/2024/mit-study-polyglots-brain-processing-native-language-0310) in that 
