@@ -12,6 +12,8 @@
 - [Homepage](https://github.com/mircealungu/mircea)
 
 **Courses**
+- [ASE'24](https://learnit.itu.dk/course/view.php?id=3023599) 
+- [TID'24](https://learnit.itu.dk/course/view.php?id=3023628) 
 - [Software Architecture](https://learnit.itu.dk/course/view.php?id=3022830#section-0) ([Reconstruction on GH](https://github.com/mircealungu/reconstruction))
 - [**DevOps GitHub**](https://github.com/itu-devops/lecture_notes) - [LearnIt](https://learnit.itu.dk/course/view.php?id=3022842) 
 - [DataVis...](https://learnit.itu.dk/course/view.php?id=3022800#section-6)
