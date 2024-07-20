@@ -1,10 +1,10 @@
 **Jul 19**
 
-Seeing a child watch Peppa Pig is a thing of wonder: the wide eyes, the 100% focus. How much would I be able to learn if I had the same focus? 
+Seeing a 3yo watch cartoons is a thing of wonder: the wide eyes, the 100% focus. How much would I be able to learn if I had the same focus? 
 
 ** 
 
-*Marvin, das Steppende Pferd* in German saved me from doomscrolling in the morning during the 2008 economic crisis. Could it be that in 2024 *Gurli Gris* in Danish will save me from reading and watching materials about the upcoming third world war and economic disasters?
+*Marvin, das Steppende Pferd* in German saved me from doomscrolling in during the 2008 economic crisis. Could it be that in 2024 *Gurli Gris* in Danish will save me from reading and watching materials about the upcoming third world war and economic disasters?
 
 **
 
