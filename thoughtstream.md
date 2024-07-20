@@ -8,9 +8,7 @@ Seeing a child watch Peppa Pig is a thing of wonder: the wide eyes, the 100% foc
 
 **
 
-Day #2 of fasting; 18.30
-
-8 pull ups?! on a normal day I do 5-6? 
+Day #2 of fasting; 18.30: 8 pull ups?! on a normal day I do 5-6!
 
 
 
