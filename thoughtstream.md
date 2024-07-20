@@ -1,3 +1,19 @@
+**Jul 19**
+
+Seeing a child watch Peppa Pig is a thing of wonder: the wide eyes, the 100% focus. How much would I be able to learn if I had the same focus? 
+
+** 
+
+*Marvin, das Steppende Pferd* in German saved me from doomscrolling in the morning during the 2008 economic crisis. Could it be that in 2024 *Gurli Gris* in Danish will save me from reading and watching materials about the upcoming third world war and economic disasters?
+
+**
+
+Day #2 of fasting; 18.30
+
+8 pull ups?! on a normal day I do 5-6? 
+
+
+
 **Jul 8**
 
 There's somebody near me in the plane with an IronMan bracelet, and it reminded me that I always admired people who finished such a race. Maybe one day I'll do one too.
