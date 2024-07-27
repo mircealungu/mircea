@@ -39,6 +39,7 @@
 
 **Ops**
 - [Google Cloud Compute Instances](https://console.cloud.google.com/compute/instances) - [Billing](https://console.cloud.google.com/billing/)
+- [hetzner robot](https://robot.hetzner.com/server)
 - [dockerhub/zeeguu](https://hub.docker.com/repositories/zeeguu)
 
 
