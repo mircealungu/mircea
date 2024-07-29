@@ -1,3 +1,18 @@
+Jul 29
+
+nginx needs access to all the path to a file that it would need to serve (somebody else [asking](https://unix.stackexchange.com/questions/491679/nginx-requires-identical-permissions-for-a-whole-path-up-to-a-directory-assets) about it on SO)
+
+This is why, in zeeguu - I can't use `/home/zeeguu/data/` as root for the `/speech/` folder in the api site config. 
+
+Current solution:
+- keep the speech in the /var/www 
+- overwite the volume mapping for /zeeguu/data/speech to point to the /var/www instead of it being together with all the other ones
+
+Alternative, 
+- provide fine-grained ACL to the www-data user to the /home/zeeguu/data/
+
+
+
 Jun 28
 
 Triple-track agile.
