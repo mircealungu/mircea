@@ -17,7 +17,9 @@ It was interesting to see the answer of the host on would you die for your count
 
 If you do your work because you want to serve. Remember to always ask: *Is this going to serve?*. 
 
+**
 
+Evening, after big dinner in town, I still have strong cravings for sugar. This can not be my brain. This has to be some *bastard bacteria that are colonizing my gut*. My brain can't be so stupid... can it?
 
 
 
