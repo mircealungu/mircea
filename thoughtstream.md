@@ -1,3 +1,40 @@
+**Jul 29**
+
+Morning coffee discussing with my father a quote from a book: "In our culture people put more effort in the job than in the family". And we both agree: he didn't do that. He put family first. Good? Bad? Who knows.
+
+
+**Jul 28**
+
+My answer to the two questions from the [interview](https://youtu.be/qRY-foz-ZAw?t=2364) with Robert Waldinger on happiness: 
+
+**Why are you alive?** To make the world ever so slightly better. 
+
+**For what are you willing to die today?** I can list people for which I would die. I don't think I would die for an idea. 
+
+It was interesting to see the answer of the host on would you die for your country? I wrote about this before: I don't think our generation is ready to die for the abstract concept of a nation anymore. 
+
+**
+
+If you do your work because you want to serve. Remember to always ask: *Is this going to serve?*. 
+
+
+
+
+
+**Jul 26**
+
+The elites in the US have had it so easily that they started this meaningless attack on meritocracy. If they are to stay relevant, they have to reverse it. Unless they realize that they casnt even keep up?
+
+
+**Jul 24**
+
+Fischer: do not let their piece in your half court. As soon as it enters, as soon as you shoo it out. 
+
+
+**Jul 20**
+
+Lunch with L. Realizing that making choices is hard when they fall outside of an overall goal. As per Alice in Wonderland: if you don't know where you're going, any way will do. 
+
 **Jul 19**
 
 Seeing a 3yo watch cartoons is a thing of wonder: the wide eyes, the 100% focus. How much would I be able to learn if I had the same focus? 
@@ -536,6 +573,7 @@ I'd love to have a software engineering master's course where we look at modern 
 
 Motivational lecture
 
+- Aristotle - the virtuous life is the middle way between extremes
 - historical consensuses that everybody believed, where everybody was onboard that later turned out that were not like that (formal verification, scrum, object-orientation, supercomputers, Map-Reduce, ORM, no sql, [GraphQL](https://x.com/strzibnyj/status/1796442096355905542/photo/1, etc.), serverless, typescript, etc.
 - my own excitement about UML when I was a student. believe you me, it was exciting at that time!
 
