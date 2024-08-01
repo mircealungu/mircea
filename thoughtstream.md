@@ -1,3 +1,8 @@
+**Aug 1**
+
+Most scholars agree that Mark was the first of the gospels to be composed and that the authors of Matthew and Luke used it plus a second document called the Q source when composing their own gospels. Although it is debated, [marcan priority](https://en.wikipedia.org/wiki/Marcan_priority) seems to be most plausible.
+
+
 **Jul 29**
 
 Morning coffee discussing with my father a quote from a book: "In our culture people put more effort in the job than in the family". And we both agree: he didn't do that. He put family first. Good? Bad? Who knows.
