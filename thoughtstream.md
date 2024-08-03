@@ -1,3 +1,8 @@
+**Aug 2**
+
+China learned from the west to use markets. The west will have to learn from China to give more power to the governments. 
+
+
 **Aug 1**
 
 Most scholars agree that Mark was the first of the gospels to be composed and that the authors of Matthew and Luke used it plus a second document called the Q source when composing their own gospels. Although it is debated, [marcan priority](https://en.wikipedia.org/wiki/Marcan_priority) seems to be most plausible.
