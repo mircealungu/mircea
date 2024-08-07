@@ -10,6 +10,11 @@ Current solution:
 
 Alternative, 
 - provide fine-grained ACL to the www-data user to the /home/zeeguu/data/
+- This works. And it feels more 
+	- advanced
+	- elegant; now all the generated data is in the ./data folder; easier to backup, easier to manage, etc.
+
+
 
 
 

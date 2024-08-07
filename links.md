@@ -7,6 +7,7 @@
 	- [**API**](https://github.com/zeeguu/api): [pulls](https://github.com/zeeguu/api/pulls), [issues](https://github.com/zeeguu/api/issues)
 	- [**Browser Extension**](https://github.com/zeeguu/browser-extension) ([pulls](https://github.com/zeeguu/browser-extension/pulls)) 
 	- [Readability Server](https://github.com/mircealungu/readability-server/) 
+	- [Ops](https://github.com/mircealungu/zeeguu-ops) 
 - [**FMD**](https://github.com/flask-dashboard/Flask-MonitoringDashboard)
 - [Git-Truck](https://github.com/git-truck/git-truck) 
 - [Homepage](https://github.com/mircealungu/mircea)
