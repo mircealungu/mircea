@@ -1,3 +1,16 @@
+Aug 7
+
+a lovely sentence:
+
+	Nar vi lige har lært at læse, læsser vi højt for os selv.
+
+![](docs/assets/Pasted%20image%2020240807100010.png)
+
+a bit of italian
+
+- autofaggia, l'unico mecanismo che consente alle celule di rimuovere molecole e altre strutture dannegiate
+
+
 
 Jul 9
 

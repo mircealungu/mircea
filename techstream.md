@@ -1,3 +1,9 @@
+Aug 7
+
+reloading nginx is [safer](https://stackoverflow.com/questions/13525465/when-to-restart-and-not-reload-nginx) than restarting because it checks configs first
+
+
+
 Jul 29
 
 nginx needs access to all the path to a file that it would need to serve (somebody else [asking](https://unix.stackexchange.com/questions/491679/nginx-requires-identical-permissions-for-a-whole-path-up-to-a-directory-assets) about it on SO)
