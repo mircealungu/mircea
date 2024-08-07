@@ -1,3 +1,7 @@
+**Aug 7**
+
+It's funny how the airPods can be actually used to either isolate the environment sounds, or to amplify them!
+
 **Aug 2**
 
 China learned from the west to use markets. The west will have to learn from China to give more power to the governments. 
