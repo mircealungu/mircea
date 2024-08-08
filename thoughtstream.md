@@ -4,6 +4,8 @@
 
 Also W.: _we must follow our conscience, while also accepting the world as_ it comes to us.
 
+Schopenhauer (...) whose ethics consists simply of extinguishing one’s own desires while trying to reduce the suffering of others. [source](https://mostlyaboutstories.com/wittgenstein-at-war-his-early-ethics-and-two-extracts-from-his-diary/)
+
 
 **Aug 7**
 
