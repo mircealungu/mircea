@@ -1,3 +1,8 @@
+**Aug 8**
+
+„Acolo unde alții merg înainte, eu rămân pe loc” (Ludwig Wittgenstein).
+
+
 **Aug 7**
 
 It's funny how the airPods can be actually used to either isolate the environment sounds, or to amplify them!
