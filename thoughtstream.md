@@ -2,6 +2,8 @@
 
 „Acolo unde alții merg înainte, eu rămân pe loc” (Ludwig Wittgenstein).
 
+Also W.: _we must follow our conscience, while also accepting the world as_ it comes to us.
+
 
 **Aug 7**
 
