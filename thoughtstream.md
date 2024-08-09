@@ -1,3 +1,6 @@
+so easy to judge in others what i indulge in myseld
+
+
 **Aug 8**
 
 „Acolo unde alții merg înainte, eu rămân pe loc” (Ludwig Wittgenstein).
