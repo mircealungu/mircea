@@ -1,4 +1,6 @@
-so easy to judge in others what i indulge in myseld
+**Aug 9**
+
+So easy to judge in others what i indulge in myself.
 
 
 **Aug 8**
