@@ -1,3 +1,12 @@
+aug 15
+
+people watching in Bergamo, piazza vecchia. 
+each one of this people - an inner world that i.m oblivious of.
+each one with his thoughts that ill never know.
+except the old man that stopped to tell me about how citta 
+alta used to be when he was young :)
+
+
 **Aug 9**
 
 So easy to judge in others what i indulge in myself.
