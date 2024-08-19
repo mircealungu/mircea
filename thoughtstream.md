@@ -25,7 +25,7 @@ Schopenhauer (...) whose ethics consists simply of extinguishing one’s own des
 
 **Aug 2**
 
-China learned from the west to use markets. The west will have to learn from China to give more power to the governments. 
+China learned from the west to use markets. The west will have to learn from China to give more power to the governments. You can't hope that some for profit company from a different country is going to care about the long term of your own infrastructure. 
 
 
 **Aug 1**
