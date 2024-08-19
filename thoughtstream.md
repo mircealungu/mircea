@@ -1,10 +1,9 @@
 aug 15
 
-people watching in Bergamo, piazza vecchia. 
+People watching in Bergamo, Piazza Vecchia: 
 each one of this people - an inner world that i.m oblivious of.
 each one with his thoughts that ill never know.
-except the old man that stopped to tell me about how citta 
-alta used to be when he was young :)
+except the old man that stopped to tell me about the *citta alta* of his youth :)
 
 
 **Aug 9**
@@ -14,16 +13,15 @@ So easy to judge in others what i indulge in myself.
 
 **Aug 8**
 
-„Acolo unde alții merg înainte, eu rămân pe loc” (Ludwig Wittgenstein).
+„Where others go ahead, I remain still” (Ludwig Wittgenstein).
 
-Also W.: _we must follow our conscience, while also accepting the world as_ it comes to us.
+Also L.W.: "_we must follow our conscience, while also accepting the world as it comes to us_".
+
+** 
 
 Schopenhauer (...) whose ethics consists simply of extinguishing one’s own desires while trying to reduce the suffering of others. [source](https://mostlyaboutstories.com/wittgenstein-at-war-his-early-ethics-and-two-extracts-from-his-diary/)
 
 
-**Aug 7**
-
-It's funny how the airPods can be actually used to either isolate the environment sounds, or to amplify them!
 
 **Aug 2**
 
@@ -56,18 +54,18 @@ If you do your work because you want to serve. Remember to always ask: *Is this 
 
 **
 
-Evening, after big dinner in town, I still have strong cravings for sugar. This can not be my brain. This has to be some *bastard bacteria that are colonizing my gut*. My brain can't be so stupid... can it?
+Evening, after big dinner in town, I still have strong cravings for sugar. This can not be my brain. This has to be some bastard bacteria that in my gut that are pulling on the vagus nerve. My brain can't be so stupid... can it?
 
 
 
 **Jul 26**
 
-The elites in the US have had it so easily that they started this meaningless attack on meritocracy. If they are to stay relevant, they have to reverse it. Unless they realize that they casnt even keep up?
+The elites in the US have had it so easily that they started this meaningless attack on meritocracy. If they are to stay relevant, they have to reverse it. 
 
 
 **Jul 24**
 
-Fischer: do not let their piece in your half court. As soon as it enters, as soon as you shoo it out. 
+I heard that Bobby Fischer had this principle in chess: do not let the opponent's piece linger in your half board. As soon as it enters, as soon as you kick it out. I like that. 
 
 
 **Jul 20**
