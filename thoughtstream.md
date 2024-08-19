@@ -1,4 +1,4 @@
-aug 15
+**Aug 15**
 
 People watching in Bergamo, Piazza Vecchia. 
 Each one of this people - an inner world that i.m oblivious of.
@@ -14,7 +14,7 @@ So easy to judge in others what i indulge in myself.
 
 **Aug 8**
 
-„Where others go ahead, I remain still” (Ludwig Wittgenstein).
+Ludwig Wittgenstein: „Where others go ahead, I remain still”.
 
 Also L.W.: "_we must follow our conscience, while also accepting the world as it comes to us_".
 
