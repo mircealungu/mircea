@@ -1,9 +1,10 @@
 aug 15
 
-People watching in Bergamo, Piazza Vecchia: 
-each one of this people - an inner world that i.m oblivious of.
-each one with his thoughts that ill never know.
-except the old man that stopped to tell me about the *citta alta* of his youth :)
+People watching in Bergamo, Piazza Vecchia. 
+Each one of this people - an inner world that i.m oblivious of.
+Each one with their thoughts that ill never know.
+Except the old man that stopped to tell me about the *citta alta* of his youth :)
+
 
 
 **Aug 9**
