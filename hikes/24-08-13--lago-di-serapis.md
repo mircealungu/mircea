@@ -1,4 +1,4 @@
-# Hike to Lago di Sorapis 
+# Lago di Sorapis 
 
   ![](attachments/lago-2.jpeg)
 
