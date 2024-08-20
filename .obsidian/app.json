@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "docs/assets",
+  "attachmentFolderPath": "./attachments",
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
   "showInlineTitle": false
