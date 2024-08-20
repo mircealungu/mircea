@@ -3,7 +3,8 @@
 People watching in Bergamo, Piazza Vecchia. 
 Each one of this people - an inner world that i.m oblivious of.
 Each one with their thoughts that ill never know.
-Except the old man that stopped to tell me about the *citta alta* of his youth :)
+
+Except the old man that stops to tell me about the *citta alta* of his youth :)
 
 
 
