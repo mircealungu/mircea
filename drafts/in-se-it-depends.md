@@ -50,7 +50,7 @@ Teach the students to disentangle the exaggeration from the actually useful. Giv
 - Microservices:
 	- Amazon Prime team [switches to monolith from microservices](https://thenewstack.io/return-of-the-monolith-amazon-dumps-microservices-for-video-monitoring/) 
 	- [Podcast](https://www.hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde) with a Roberta Arcoverde from StackOverflow about not going down the path to microservices and being fine ([somebody wrote an overview about this case](https://www.linkedin.com/pulse/decoding-stack-overflows-on-premises-monolith-dive-zia-tahir/)) 
-	- DHH Case Study: [The Majestic Monolith](https://signalvnoise.com/svn3/the-majestic-monolith/)
+	- 
 	- DHH Essay: [How to Recover from Microservices](https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc)
 - Cloud Infrastructure:
 	- The lichess case study
@@ -76,7 +76,22 @@ Further possible technologies:
 # Readings
 
 - No Silver Bullet
-- The Law of Leaky Abstractions
+- [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/), Spolsky
+	- 15min read; a bit hard to understand for today's audience; we need fresh examples
+	- assignment after reading; group spends 15min thinking of another and sends PR with their written example? my suggestions: terraform, docker
+	- next time class discussion we spend time going through examples
+	- lessons learned: importance of still understanding what's happening under the hood; 
+		- reference to A Deepness in the Sky
+- [The Majestic Monolith](https://signalvnoise.com/svn3/the-majestic-monolith/), DHH 
+	- 10min read
+	- to think about
+		- *cargo-culting*
+		- how to write code that makes us smile while we write it?
+		- it's easy to silo knowledge in smaller systems?
+	- to investigate
+		- does FB really have a monolith?
+	- 
+
 - [Learning from the Object-Oriented Mania](https://lemire.me/blog/2024/05/14/learning-from-the-object-oriented-mania/) Short essay on Daniel Lemire's blog
 
 
