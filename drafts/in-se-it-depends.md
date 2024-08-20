@@ -33,10 +33,30 @@ Or, if we were aware of ancient philosophy, we could use some info also from - A
 - Aristotle - the virtuous life is the middle way between extremes; 
 - The cynics - they could argue for anything very convincingly; those philosophers that went to Rome and gave a lecture one evening about how the empire was the greatest; and the next evening about how it was the worst
 
-
 ## Goal
 
 Teach the students to disentangle the exaggeration from the actually useful. Given them the chance to think for themselves, critically, against the mainstream opinion. 
+
+## Why is SE prone to this kind of hype?
+
+A game of incentives
+ - complex problems attract easy solution salesman
+ - hoping that by imitating 
+ - developers like to tinker
+ - attracting talented developers who want to work on cool stuff 
+ - using well-known tech 
+
+Proving things empirically is hard. Every case is different. 
+
+
+## For whom is this?
+
+This is for the CTO that wants to take the right decision for the long term. Not for the curious who wants to learn a new technology. 
+
+However, you will need to be able to investigate, and decide, and convince.
+
+
+
 
 
 ## Case Studies
@@ -47,17 +67,29 @@ Teach the students to disentangle the exaggeration from the actually useful. Giv
 - Map-Reduce - 
 - GraphQL: 
 	- [Discussion about GraphQL](https://x.com/strzibnyj/status/1796442096355905542/photo/1, etc.) on Reddit
-- Microservices:
+- **Microservices**
 	- Amazon Prime team [switches to monolith from microservices](https://thenewstack.io/return-of-the-monolith-amazon-dumps-microservices-for-video-monitoring/) 
-	- [Podcast](https://www.hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde) with a Roberta Arcoverde from StackOverflow about not going down the path to microservices and being fine ([somebody wrote an overview about this case](https://www.linkedin.com/pulse/decoding-stack-overflows-on-premises-monolith-dive-zia-tahir/)) 
+	- [Podcast](https://www.hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde) with a Roberta Arcoverde from StackOverflow about not going down the path to microservices ([somebody wrote an overview about this case](https://www.linkedin.com/pulse/decoding-stack-overflows-on-premises-monolith-dive-zia-tahir/)) 
 	- 
 	- DHH Essay: [How to Recover from Microservices](https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc)
-- Cloud Infrastructure:
+		- 10min read
+		- he talks about "it depends" - sure, but know your it depends
+- **Cloud Infrastructure**
 	- The lichess case study
-	- The DHH moving from the cloud to on-prem
+	- The 37 Signals Case Study
+		- [We have left the Cloud](https://world.hey.com/dhh/we-have-left-the-cloud-251760fb), DHH
+			- 7min read
+		- [We stand to save 7m over five years for cloud exit](https://world.hey.com/dhh/we-stand-to-save-7m-over-five-years-from-our-cloud-exit-53996caa), DHH. 
+			- 5min read
+			- the cost of running the infra is so much higher than buying it!
+		- [37Signals Cloud Spend in '22](https://dev.37signals.com/our-cloud-spend-in-2022/)
+			- the cost of the relational database!
+		- [Podcast discussion](https://37signals.com/podcast/leaving-the-cloud/)
+		
 - Blockchain
 - Gen AI
 	- The airline company that deployed ChatBots with their customer service and had to rollback 
+- Single Page Applications
 
 
 Further possible technologies: 
