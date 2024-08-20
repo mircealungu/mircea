@@ -3,10 +3,10 @@
   ![](attachments/lago-2.jpeg)
 
 
-Start: Passo Tre Croci
-Duration: 2h + 2h
-Difficulty: medium
-Super busy
+- Start: Passo Tre Croci
+- Duration: 2h + 2h
+- Difficulty: popular
+- Super busy
 
 
 
