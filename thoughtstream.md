@@ -21,7 +21,7 @@ Also L.W.: "_we must follow our conscience, while also accepting the world as i
 
 ** 
 
-Schopenhauer (...) whose ethics consists simply of extinguishing one’s own desires while trying to reduce the suffering of others. [source](https://mostlyaboutstories.com/wittgenstein-at-war-his-early-ethics-and-two-extracts-from-his-diary/)
+Schopenhauer (...) whose ethics consists simply of extinguishing one’s own desires while trying to reduce the suffering of others. [source](https://mostlyaboutstories.com/wittgenstein-at-war-his-early-ethics-and-two-extracts-from-his-diary/). 
 
 
 
@@ -37,7 +37,7 @@ Most scholars agree that Mark was the first of the gospels to be composed and th
 
 **Jul 29**
 
-Morning coffee discussing with my father a quote from a book: "In our culture people put more effort in the job than in the family". And we both agree: he didn't do that. He put family first. Good? Bad? Who knows.
+Morning coffee discussing with my father a quote from a book: *"In our culture people put more effort in the job than in the family"*. We both agree he didn't do that; he put family first. Good? Bad? Who knows.
 
 
 **Jul 28**
