@@ -44,11 +44,11 @@ Morning coffee discussing with my father a quote from a book: *"In our culture p
 
 My answer to the two questions from the [interview](https://youtu.be/qRY-foz-ZAw?t=2364) with Robert Waldinger on happiness: 
 
-**Why are you alive?** To make the world ever so slightly better. 
+- **Why are you alive?** To make the world ever so slightly better. 
 
-**For what are you willing to die today?** I can list people for which I would die. I don't think I would die for an idea. 
+- **For what are you willing to die today?** I can list people for which I would die. I don't think I would die for an idea. 
 
-It was interesting to see the answer of the host on would you die for your country? I wrote about this before: I don't think our generation is ready to die for the abstract concept of a nation anymore. 
+It was interesting to see the answer of the host to *"Would you die for your country"*? Nope. I wrote about this before: I don't think our generation is ready to die for the abstract concept of a nation anymore. 
 
 **
 
