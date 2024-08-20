@@ -2,10 +2,15 @@
 
   ![](attachments/lago-2.jpeg)
 
-Day #3 of our trip. 
-  
 
-The lake seems to be famous... It's 11.05 and We have to park 2km below the Passo Tre Croci parking and hike along the street. It's busy. 
+Start: Passo Tre Croci
+Duration: 2h + 2h
+Difficulty: medium
+Super busy
+
+
+
+11.05 - The lake seems to be famous... It's 11.05 and We have to park 2km below the Passo Tre Croci parking and hike along the street. It's busy. 
 ![](attachments/hike-start.png)
   
 
@@ -30,16 +35,10 @@ Trail is quite busy too. And pretty. 
 ![](attachments/climbing-gets-steeper.png)
   
 
-  
-
-  
-
 12.40 - around the corner a beautiful glacier valley
 
   
 ![](attachments/glacier-valley.png)
-  
-
   
 
 1300 - Chains are needed for the ones who don't like heights; the fall to the left is super abrupt
