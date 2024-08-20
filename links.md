@@ -13,26 +13,15 @@
 - [Homepage](https://github.com/mircealungu/mircea)
 
 **Courses**
-- [ASE'24](https://learnit.itu.dk/course/view.php?id=3023599) 
+- [ASE'24](https://learnit.itu.dk/course/view.php?id=3023599) ([participants](https://learnit.itu.dk/user/index.php?id=3023599) s)
 - [TID'24](https://learnit.itu.dk/course/view.php?id=3023628) 
-- [Software Architecture](https://learnit.itu.dk/course/view.php?id=3022830#section-0) ([Reconstruction on GH](https://github.com/mircealungu/reconstruction))
-- [**DevOps GitHub**](https://github.com/itu-devops/lecture_notes) - [LearnIt](https://learnit.itu.dk/course/view.php?id=3022842) 
-- [DataVis...](https://learnit.itu.dk/course/view.php?id=3022800#section-6)
-- [TID'23 LearnIt](https://learnit.itu.dk/course/view.php?id=3022263) ([GitHub](https://github.com/itu-tid/lecture-notes/tree/main/Lectures))
 
-**Bachelor Theses** 
-- Oscar, Nicolai, Mads - [Recommender System](https://learnit.itu.dk/course/view.php?id=3023893) (CS)
-- Maria - [Bayesian Inference](https://learnit.itu.dk/course/view.php?id=3023893) ([gh](https://github.com/mariamomanu/BachelorProject))(DS) (censor proposal sent)
- 
+
 **Master Theses**
- - Johannes - [OSS Telemetry](https://learnit.itu.dk/grade/report/grader/index.php?id=3024163) (CS) (censor proposal sent)
-	 - todo: deploy fmd on api.zeeguu.org 
- - Thomas - [GitTruck Performance & Scalability](https://learnit.itu.dk/grade/report/grader/index.php?id=3024202) (CS) ([overleaf](https://www.overleaf.com/project/66100b3af013c1984f472f28))
- - Merle - [Exercise Progression in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024079) (SD) (censor proposal sent)
- - Iga - [Easing Onboarding](https://learnit.itu.dk/grade/report/grader/index.php?id=3024152)(SD) (censor proposal sent)
+ - Merle - [Exercise Progression in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024079) (SD) 
  - Klara - [Browsing in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024025) (SD)
  - Emil - [SavingPomodoros](https://learnit.itu.dk/course/view.php?id=3024075) 
-- 
+
 
 **To share with students**
 - [Writing guidelines](https://github.com/mircealungu/student-projects/blob/master/writing_guidelines/README.md)
@@ -65,3 +54,21 @@
 **Copenhagen**
 - [Amager Volley](https://www.amagervolley.dk/dl/hjem) - [FB](https://www.facebook.com/groups/6035564066)- [H3](https://www.facebook.com/groups/929115003800969) ([results](https://resultater.volleyball.dk/tms/Turneringer-og-resultater/Pulje-Stilling.aspx?PuljeId=3609))
 - Reddit threads: [recycling stations](https://www.reddit.com/r/copenhagen/comments/1cf1h1r/does_copenhagen_have_a_recycling_center_where_i/)  [handyman-finding-apps](https://www.reddit.com/r/copenhagen/comments/13tcnlg/assembling_furniture_service/) 
+
+
+
+
+**Past Bachelor Theses** 
+- Oscar, Nicolai, Mads - [Recommender System](https://learnit.itu.dk/course/view.php?id=3023893) (CS)
+- Maria - [Bayesian Inference](https://learnit.itu.dk/course/view.php?id=3023893) ([gh](https://github.com/mariamomanu/BachelorProject))(DS) 
+ 
+**Past Master Theses**
+ - Johannes - [OSS Telemetry](https://learnit.itu.dk/grade/report/grader/index.php?id=3024163) (CS) 
+ - Thomas - [GitTruck Performance & Scalability](https://learnit.itu.dk/grade/report/grader/index.php?id=3024202) (CS) ([overleaf](https://www.overleaf.com/project/66100b3af013c1984f472f28))
+ - Iga - [Easing Onboarding](https://learnit.itu.dk/grade/report/grader/index.php?id=3024152)(SD) 
+
+**Past Courses**
+- [Software Architecture](https://learnit.itu.dk/course/view.php?id=3022830#section-0) ([Reconstruction on GH](https://github.com/mircealungu/reconstruction))
+- [**DevOps GitHub**](https://github.com/itu-devops/lecture_notes) - [LearnIt](https://learnit.itu.dk/course/view.php?id=3022842) 
+- [DataVis...](https://learnit.itu.dk/course/view.php?id=3022800#section-6)
+- [TID'23 LearnIt](https://learnit.itu.dk/course/view.php?id=3022263) ([GitHub](https://github.com/itu-tid/lecture-notes/tree/main/Lectures))
