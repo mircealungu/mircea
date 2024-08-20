@@ -6,8 +6,7 @@
 
 Mircea Lungu is associate professor in computer science at the [IT University of Copenhagen](https://en.itu.dk/research). Before coming to Denmark he was assistant professor at the [Faculty of Science and Engineering](http://www.rug.nl/research/fmns/?lang=en) of [University of Groningen](http://www.rug.nl/) where he was a member of the [SEARCH](http://www.cs.rug.nl/search/) research group and the [Data Science Pioneers](http://www.rug.nl/research/fmns/themes/dssc/) group. He was also part time visiting researcher in the [SWAT](https://www.cwi.nl/research-groups/software-analysis-and-transformation) group at [CWI in Amsterdam](https://www.cwi.nl/). Before that he was postdoc at the [University of Bern](http://scg.unibe.ch/) in Switzerland, and for six months, visiting researcher at [IBM TJ Watson Research Center](http://www.watson.ibm.com/index.shtml) in New York. He got his PhD working with [Michele Lanza](http://www.inf.usi.ch/lanza/) and the REVEAL research group at the [University of Lugano](http://www.inf.usi.ch/), in Switzerland. His interests are in software visualization, tools for software evolution, human computer interaction, and personalized learning environments.
 
-As of spring 2024, I just had a new idea I'm trying a new experiment: instead of posting my random ideas on social platforms I just dump them on a separate page that I call my 
-[thoughtstream](thoughtstream.md). This way, whomever might fancy to sample the many random thoughts that go through my head, does not have to interleave them with ads and dancing cats.
+
 
 # Research Interests
 - [Software Visualization](directions/visualization.md)
@@ -39,8 +38,12 @@ Pieces of text that aim to have a beginning and an end... slowly porting them he
 - Nov '13 - [mapping-the-information-economy](essays/mapping-the-information-economy.md)
 - Aug '13 - [academia-courage-innovation](essays/academia-courage-innovation.md)
 
-# Notes and writings in progress
-Assorted notes
+# Notes, writings, and thoughtstream
+
+As of spring 2024, I just had a new idea I'm trying a new experiment: instead of posting my random ideas on social platforms I just dump them on a separate page that I call my 
+[thoughtstream](thoughtstream.md). This way, whomever might fancy to sample the many random thoughts that go through my head, does not have to interleave them with ads and dancing cats.
+
+Some more assorted notes: 
 [Importance-of-Maintenance](notes/Importance-of-Maintenance.md) // [How-to-Read-a-Research-Paper](notes/How-to-Read-a-Research-Paper.md) // [Good-Code-Is-Readable](notes/Good-Code-Is-Readable.md)   //  [A-Performance-Problem](notes/A-Performance-Problem.md)  // [The-Badly-Designed-Everyday-Things](notes/The-Badly-Design-of-Everyday-Things.md) | [Book-Reviews](notes/Book-Reviews.md) | // [ChatGPT-and-CoPilot](notes/ChatGPT-and-CoPilot.md) //  [Import-boilerplate-in-react](essays/import-boilerplate.md) 
 
 
