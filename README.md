@@ -38,7 +38,7 @@ Pieces of text that aim to have a beginning and an end... slowly porting them he
 - Nov '13 - [mapping-the-information-economy](essays/mapping-the-information-economy.md)
 - Aug '13 - [academia-courage-innovation](essays/academia-courage-innovation.md)
 
-# Notes
+# Notes, Thoughts
 
 As of spring 2024, I just had a new idea I'm trying a new experiment: instead of posting my random ideas on social platforms I just dump them on a separate page that I call my [thoughtstream](thoughtstream.md). This way, whomever might fancy to sample my assorted ideas does not have to see them interleaved with ads and dancing cats.
 
