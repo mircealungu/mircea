@@ -1,3 +1,11 @@
+**Aug 14**
+
+expression found in: https://www.zeeguu.org/read/article?id=2542795
+- ud i lys lue = into the open (literal *out in the bright hat* ?)
+
+
+
+
 **Jul 11**
 
 While doing exercises, I find the following:
