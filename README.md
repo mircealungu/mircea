@@ -38,10 +38,9 @@ Pieces of text that aim to have a beginning and an end... slowly porting them he
 - Nov '13 - [mapping-the-information-economy](essays/mapping-the-information-economy.md)
 - Aug '13 - [academia-courage-innovation](essays/academia-courage-innovation.md)
 
-# Notes, writings, and thoughtstream
+# Notes
 
-As of spring 2024, I just had a new idea I'm trying a new experiment: instead of posting my random ideas on social platforms I just dump them on a separate page that I call my 
-[thoughtstream](thoughtstream.md). This way, whomever might fancy to sample the many random thoughts that go through my head, does not have to interleave them with ads and dancing cats.
+As of spring 2024, I just had a new idea I'm trying a new experiment: instead of posting my random ideas on social platforms I just dump them on a separate page that I call my [thoughtstream](thoughtstream.md). This way, whomever might fancy to sample my assorted ideas does not have to see them interleaved with ads and dancing cats.
 
 Some more assorted notes: 
 [Importance-of-Maintenance](notes/Importance-of-Maintenance.md) // [How-to-Read-a-Research-Paper](notes/How-to-Read-a-Research-Paper.md) // [Good-Code-Is-Readable](notes/Good-Code-Is-Readable.md)   //  [A-Performance-Problem](notes/A-Performance-Problem.md)  // [The-Badly-Designed-Everyday-Things](notes/The-Badly-Design-of-Everyday-Things.md) | [Book-Reviews](notes/Book-Reviews.md) | // [ChatGPT-and-CoPilot](notes/ChatGPT-and-CoPilot.md) //  [Import-boilerplate-in-react](essays/import-boilerplate.md) 
