@@ -7,7 +7,6 @@ Each one with their thoughts that ill never know.
 Except the old man that stops to tell me about the *citta alta* of his youth :)
 
 
-
 **Aug 9**
 
 So easy to judge in others what i indulge in myself.
@@ -52,7 +51,7 @@ It was interesting to see the answer of the host to *"Would you die for your cou
 
 **
 
-If you do your work because you want to serve. Remember to always ask: *Is this going to serve?*. 
+If you do your work because you want to serve. Remember to always ask: *Is this going to serve?*
 
 **
 
