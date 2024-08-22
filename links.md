@@ -13,7 +13,7 @@
 - [Homepage](https://github.com/mircealungu/mircea)
 
 **Courses**
-- [ASE'24](https://learnit.itu.dk/course/view.php?id=3023599) ([participants](https://learnit.itu.dk/user/index.php?id=3023599) s)
+- [ASE'24](https://learnit.itu.dk/course/view.php?id=3023599) ([participants](https://learnit.itu.dk/user/index.php?id=3023599)), ASE['23](https://learnit.itu.dk/course/view.php?id=3022230) 
 - [TID'24](https://learnit.itu.dk/course/view.php?id=3023628) 
 
 
