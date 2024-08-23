@@ -13,8 +13,8 @@
 - [Homepage](https://github.com/mircealungu/mircea)
 
 **Courses**
-- [ASE'24](https://learnit.itu.dk/course/view.php?id=3023599) ([participants](https://learnit.itu.dk/user/index.php?id=3023599)), ASE['23](https://learnit.itu.dk/course/view.php?id=3022230) 
-- [TID'24](https://learnit.itu.dk/course/view.php?id=3023628) 
+- [ASE'24](https://learnit.itu.dk/course/view.php?id=3023599) ([participants](https://learnit.itu.dk/user/index.php?id=3023599), [schedule](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X360Q90YQ52x5YZ61ZY1Q9y5695Y05X58207QX01433Yg56092gX64Y09Q5.html)), ASE['23](https://learnit.itu.dk/course/view.php?id=3022230) 
+- [TID'24](https://learnit.itu.dk/course/view.php?id=3023628) ([schedule](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X360Q90YQ50x5YZ61ZY1Q9y5695Y05X58307QX01473Yg56092gX64Y09Q5.html))
 
 
 **Master Theses**
