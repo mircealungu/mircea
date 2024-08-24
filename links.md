@@ -42,6 +42,7 @@
 - [faq](https://docs.google.com/document/d/18x3zhD_KzfnsvPvJN5wATnjb287UBi5kzIAXTGv1I9Y/edit)
 - [Outlook](https://outlook.office.com/owa/?exsvurl=1&path=/calendar/view/WorkWeek)
 - [Talent Recruiter / hr-manager](https://recruiter.hr-manager.net/Sys/DesktopDefault.aspx?tabalias=clappterm&cid=119)
+- Exam types at ITU: [groups](https://intranet.itu.dk/-/media/Intranet/Teacher-Guide/Teaching-and-Examination/Conducting-exams/Oral-Group-Exam-Sub-Forms_Sept2019-pdf.pdf)
 
 
 
