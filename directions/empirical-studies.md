@@ -7,8 +7,11 @@ However, software engineering can become more and more a data-driven field if we
 
 ## Papers 
 
-Some papers that I have contributed to in this domain are interested in
-- the impact of API deprecations
-- the kinds of bugs that developers most often introduce in Java 
+Several papers representative of this line of research are: 
+- [The impact of API deprecations on software ecosystems](https://pure.rug.nl/ws/portalfiles/portal/224311707/How_Do_Developers_React_to_API_Deprecation._The_Case_of_a_Smalltalk_Ecosystem.pdf)
+- [The kinds of bugs that developers most often introduce in Java](https://www.researchgate.net/profile/Oscar-Nierstrasz/publication/271551392_Mining_frequent_bug-fix_code_changes/links/54d63df60cf25013d0300660/Mining-frequent-bug-fix-code-changes.pdf)
+- [Studying developer needs in software ecosystems](https://scg.unibe.ch/assets/archive/papers/Haen13a-EcosystemInformationNeeds.pdf)
+
+
 
 
