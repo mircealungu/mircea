@@ -1,6 +1,6 @@
 Aug 26
 
-quite unintuitive, but the resting energy expenditure of our bodies increase when we fast, and this effect can be seen for up to four days even [popular explanation](https://www.dietdoctor.com/does-fasting-burn-muscle), [scientific article](https://pubmed.ncbi.nlm.nih.gov/10837292/). But at a second thought, it's not that unintuitive: the person needs more energy to find food!
+quite unintuitive, but the resting energy expenditure of our bodies increase when we fast, and this effect can be seen for up to four days even. ([scientific article](https://pubmed.ncbi.nlm.nih.gov/10837292/)). Although at a second thought, it's not that unintuitive: the person needs more energy to find food! ([more elaborate discussion](https://www.dietdoctor.com/does-fasting-burn-muscle))
 
 
 Aug 21
