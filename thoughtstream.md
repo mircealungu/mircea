@@ -1,3 +1,17 @@
+Aug 26
+
+quite unintuitive, but the resting energy expenditure of our bodies increase when we fast, and this effect can be seen for up to four days even [popular explanation](https://www.dietdoctor.com/does-fasting-burn-muscle), [scientific article](https://pubmed.ncbi.nlm.nih.gov/10837292/). But at a second thought, it's not that unintuitive: the person needs more energy to find food!
+
+
+Aug 21
+
+- hermeneutic spiral - https://youtu.be/qKJP93dWn40?si=InwMKPrP07RM7TPI - you must go around a problem a few times before you solve it.
+
+- sometimes slow is better than fast: https://youtu.be/Bc9jFbxrkMk?si=lAOmQiLfZJ1Lxl2J
+	- good discussion also about speeding when driving 
+
+
+
 **Aug 15**
 
 People watching in Bergamo, Piazza Vecchia. 
