@@ -13,8 +13,8 @@
 - [Homepage](https://github.com/mircealungu/mircea)
 
 **Courses**
-- [ASE'24](https://learnit.itu.dk/course/view.php?id=3023599) ([participants](https://learnit.itu.dk/user/index.php?id=3023599), [schedule](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X360Q90YQ52x5YZ61ZY1Q9y5695Y05X58207QX01433Yg56092gX64Y09Q5.html)), ASE['23](https://learnit.itu.dk/course/view.php?id=3022230) 
-- TID: [LearnIt](https://learnit.itu.dk/course/view.php?id=3023628) , [GH: LectureNotes](https://github.com/mircealungu/tiD_Lecture_Notes/?tab=readme-ov-file), [m-time](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X360Q90YQ50x5YZ61ZY1Q9y5695Y05X58307QX01473Yg56092gX64Y09Q5.html), [lecture plan spreadsheet](https://docs.google.com/spreadsheets/d/1CSeqHOSnSdf381EJmpaoiOpfrnqZyG_XecSND6qMiy8/edit?gid=1468158338#gid=1468158338) [TID'23](https://learnit.itu.dk/course/view.php?id=3022263) 
+- **ASE**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3023599), [m-time](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X360Q90YQ52x5YZ61ZY1Q9y5695Y05X58207QX01433Yg56092gX64Y09Q5.html), ['23 Version](https://learnit.itu.dk/course/view.php?id=3022230) 
+- **TID**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3023628) , [GH: LectureNotes](https://github.com/mircealungu/tiD_Lecture_Notes/?tab=readme-ov-file), [m-time](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X360Q90YQ50x5YZ61ZY1Q9y5695Y05X58307QX01473Yg56092gX64Y09Q5.html), [lecture plan spreadsheet](https://docs.google.com/spreadsheets/d/1CSeqHOSnSdf381EJmpaoiOpfrnqZyG_XecSND6qMiy8/edit?gid=1468158338#gid=1468158338) ['23 Version](https://learnit.itu.dk/course/view.php?id=3022263) 
 
 
 **Master Theses**
