@@ -14,7 +14,7 @@
 
 **Courses**
 - [ASE'24](https://learnit.itu.dk/course/view.php?id=3023599) ([participants](https://learnit.itu.dk/user/index.php?id=3023599), [schedule](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X360Q90YQ52x5YZ61ZY1Q9y5695Y05X58207QX01433Yg56092gX64Y09Q5.html)), ASE['23](https://learnit.itu.dk/course/view.php?id=3022230) 
-- [TID'24](https://learnit.itu.dk/course/view.php?id=3023628) ([m-time](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X360Q90YQ50x5YZ61ZY1Q9y5695Y05X58307QX01473Yg56092gX64Y09Q5.html), [lecture plan](https://docs.google.com/spreadsheets/d/1CSeqHOSnSdf381EJmpaoiOpfrnqZyG_XecSND6qMiy8/edit?gid=1468158338#gid=1468158338))
+- [TID'24](https://learnit.itu.dk/course/view.php?id=3023628) ([m-time](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X360Q90YQ50x5YZ61ZY1Q9y5695Y05X58307QX01473Yg56092gX64Y09Q5.html), [lecture plan](https://docs.google.com/spreadsheets/d/1CSeqHOSnSdf381EJmpaoiOpfrnqZyG_XecSND6qMiy8/edit?gid=1468158338#gid=1468158338)) [TID'23](https://learnit.itu.dk/course/view.php?id=3022263) ([githubrepo](https://github.com/mircealungu/tiD_Lecture_Notes/?tab=readme-ov-file))
 
 
 **Master Theses**
@@ -43,6 +43,7 @@
 - [Outlook](https://outlook.office.com/owa/?exsvurl=1&path=/calendar/view/WorkWeek)
 - [Talent Recruiter / hr-manager](https://recruiter.hr-manager.net/Sys/DesktopDefault.aspx?tabalias=clappterm&cid=119)
 - Exam types at ITU: [groups](https://intranet.itu.dk/-/media/Intranet/Teacher-Guide/Teaching-and-Examination/Conducting-exams/Oral-Group-Exam-Sub-Forms_Sept2019-pdf.pdf)
+- [sog.kb.dk](https://soeg.kb.dk/discovery/search?vid=45KBDK_KGL:KGL)
 
 
 
