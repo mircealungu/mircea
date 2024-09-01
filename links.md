@@ -19,11 +19,11 @@
 
 
 **Master Theses**
-- 
+- Theodor - PWAs 
 - Sofie - Mathscamp 
- - Merle - [Exercise Progression in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024079) (SD) 
- - Klara - [Browsing in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024025) (SD)
- - Emil - [SavingPomodoros](https://learnit.itu.dk/course/view.php?id=3024075) 
+- Merle - [Exercise Progression in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024079) (SD) 
+- Klara - [Browsing in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024025) (SD)
+- Emil - [SavingPomodoros](https://learnit.itu.dk/course/view.php?id=3024075) 
 
 
 **To share with students**
