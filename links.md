@@ -25,6 +25,8 @@
 - Klara - [Browsing in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024025) (SD)
 - Emil - [SavingPomodoros](https://learnit.itu.dk/course/view.php?id=3024075) 
 
+**BSc Theses**
+- Gustav K. - CEFR Level Labeling
 
 **To share with students**
 - [Writing guidelines](https://github.com/mircealungu/student-projects/blob/master/writing_guidelines/README.md)
