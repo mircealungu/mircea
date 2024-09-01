@@ -1,3 +1,8 @@
+sep 1
+
+we have writing to see how shallow our thoughts are.
+and we have programming too see how shallow our writing is
+
 Aug 26
 
 quite unintuitive, but the resting energy expenditure of our bodies increase when we fast, and this effect can be seen for up to four days even. ([scientific article](https://pubmed.ncbi.nlm.nih.gov/10837292/)). Although at a second thought, it's not that unintuitive: the person needs more energy to find food! ([more elaborate discussion](https://www.dietdoctor.com/does-fasting-burn-muscle))
