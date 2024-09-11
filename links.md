@@ -21,16 +21,20 @@
 **Master Theses**
 - Theodor - PWAs 
 - Sofie - Mathscamp 
-- Merle - [Exercise Progression in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024079) (SD) 
-- Klara - [Browsing in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024025) (SD)
-- Emil - [SavingPomodoros](https://learnit.itu.dk/course/view.php?id=3024075) 
+
 
 **BSc Theses**
-- Gustav K. - CEFR Level Labeling
+- Gustav K. - [CEFR Level Labeling](https://learnit.itu.dk/user/index.php?id=3024498)
+
 
 **To share with students**
 - [Writing guidelines](https://github.com/mircealungu/student-projects/blob/master/writing_guidelines/README.md)
--  ... 
+-  todo
+	- checklist for submitting a thesis
+	- make sure to share your primary data
+	- checklist for presentation
+		- make sure to have slide numbers on every slide
+		- 
 
 **Ops**
 - [Google Cloud Compute Instances](https://console.cloud.google.com/compute/instances) - [Billing](https://console.cloud.google.com/billing/)
@@ -50,6 +54,9 @@
 - Exam types at ITU: [groups](https://intranet.itu.dk/-/media/Intranet/Teacher-Guide/Teaching-and-Examination/Conducting-exams/Oral-Group-Exam-Sub-Forms_Sept2019-pdf.pdf)
 - [sog.kb.dk](https://soeg.kb.dk/discovery/search?vid=45KBDK_KGL:KGL)
 
+EHK 4th floor map
+![](attachments/ehk-4th-floor-map.png)
+
 
 
 
@@ -68,14 +75,21 @@
 **Past Bachelor Theses** 
 - Oscar, Nicolai, Mads - [Recommender System](https://learnit.itu.dk/course/view.php?id=3023893) (CS)
 - Maria - [Bayesian Inference](https://learnit.itu.dk/course/view.php?id=3023893) ([gh](https://github.com/mariamomanu/BachelorProject))(DS) 
+
  
 **Past Master Theses**
  - Johannes - [OSS Telemetry](https://learnit.itu.dk/grade/report/grader/index.php?id=3024163) (CS) 
  - Thomas - [GitTruck Performance & Scalability](https://learnit.itu.dk/grade/report/grader/index.php?id=3024202) (CS) ([overleaf](https://www.overleaf.com/project/66100b3af013c1984f472f28))
  - Iga - [Easing Onboarding](https://learnit.itu.dk/grade/report/grader/index.php?id=3024152)(SD) 
+ - Klara - [Browsing in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024025) (SD)
+- Merle - [Exercise Progression in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024079) (SD) 
 
 **Past Courses**
 - [Software Architecture](https://learnit.itu.dk/course/view.php?id=3022830#section-0) ([Reconstruction on GH](https://github.com/mircealungu/reconstruction))
 - [**DevOps GitHub**](https://github.com/itu-devops/lecture_notes) - [LearnIt](https://learnit.itu.dk/course/view.php?id=3022842) 
 - [DataVis...](https://learnit.itu.dk/course/view.php?id=3022800#section-6)
 - [TID'23 LearnIt](https://learnit.itu.dk/course/view.php?id=3022263) ([GitHub](https://github.com/itu-tid/lecture-notes/tree/main/Lectures))
+
+
+
+- Emil - [SavingPomodoros](https://learnit.itu.dk/course/view.php?id=3024075) (SD)
