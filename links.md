@@ -53,6 +53,7 @@
 - [Talent Recruiter / hr-manager](https://recruiter.hr-manager.net/Sys/DesktopDefault.aspx?tabalias=clappterm&cid=119)
 - Exam types at ITU: [groups](https://intranet.itu.dk/-/media/Intranet/Teacher-Guide/Teaching-and-Examination/Conducting-exams/Oral-Group-Exam-Sub-Forms_Sept2019-pdf.pdf)
 - [sog.kb.dk](https://soeg.kb.dk/discovery/search?vid=45KBDK_KGL:KGL)
+- Wiki: [Faculty Meetings](https://wiki.itu.dk/computerscience/index.php/Department_faculty_meetings) 
 
 EHK 4th floor map
 ![](attachments/ehk-4th-floor-map.png)
