@@ -18,22 +18,6 @@
 - **TID**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3023628), [GitHub](https://github.com/itu-tid/lecture-notes), [TimeEdit](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X360Q90YQ50x5YZ61ZY1Q9y5695Y05X58307QX01473Yg56092gX64Y09Q5.html), [Lecture Plan](https://docs.google.com/spreadsheets/d/1CSeqHOSnSdf381EJmpaoiOpfrnqZyG_XecSND6qMiy8/edit?gid=1468158338#gid=1468158338). Past: [2023](https://learnit.itu.dk/course/view.php?id=30222) 
 
 
-**Master Theses**
-- [Theodor](https://learnit.itu.dk/grade/report/grader/index.php?id=3024549) - PWAs 
-- [Sofie](https://learnit.itu.dk/user/index.php?id=3024553) - Mathscamp 
-
-
-
-**BSc Theses**
-- Gustav K. - [CEFR Level Labeling](https://learnit.itu.dk/user/index.php?id=3024498)
-
-**Research Project**
-- Chloe & Johanna (KSD) - Goal Setting, Encouragement, and Congratulations
-- Alin? (KCS)
-- Louise & Sofia? (KSD)
-- Bence, Robert, Lucian? (KSD)
-
-
 **To share with students**
 - [Writing guidelines](https://github.com/mircealungu/student-projects/blob/master/writing_guidelines/README.md)
 -  todo
@@ -61,11 +45,26 @@
 - Exam types at ITU: [groups](https://intranet.itu.dk/-/media/Intranet/Teacher-Guide/Teaching-and-Examination/Conducting-exams/Oral-Group-Exam-Sub-Forms_Sept2019-pdf.pdf)
 - [sog.kb.dk](https://soeg.kb.dk/discovery/search?vid=45KBDK_KGL:KGL)
 - Wiki: [Faculty Meetings](https://wiki.itu.dk/computerscience/index.php/Department_faculty_meetings) 
-
-EHK 4th floor map
-![](attachments/ehk-4th-floor-map.png)
+- EHK 4th [floor map](attachments/ehk-4th-floor-map.png)
 
 
+
+
+**Master Theses**
+- [Theodor](https://learnit.itu.dk/grade/report/grader/index.php?id=3024549) - PWAs 
+- [Sofie](https://learnit.itu.dk/user/index.php?id=3024553) - Mathscamp 
+
+
+**BSc Theses**
+- Gustav K. - [CEFR Level Labeling](https://learnit.itu.dk/user/index.php?id=3024498)
+
+**Research Project**
+- Chloe & Johanna (KSD) - Goal Setting, Encouragement, and Congratulations
+- ? Alin (KCS)
+- ? Louise & Sofia (KSD) - 
+- ? Bence, Robert, Lucian (KSD) - 
+- ? Christian Skov Gyrsting (KSD) - Git-Truck? 
+- 
 
 
 
