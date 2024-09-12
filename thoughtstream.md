@@ -1,3 +1,7 @@
+sep 13
+everything ends. even the universe. the ultimate melancholy.
+or schadenfreude.
+
 sep 1
 
 we have writing to see how shallow our thoughts are.
