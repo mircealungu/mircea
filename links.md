@@ -19,12 +19,19 @@
 
 
 **Master Theses**
-- Theodor - PWAs 
-- Sofie - Mathscamp 
+- [Theodor](https://learnit.itu.dk/grade/report/grader/index.php?id=3024549) - PWAs 
+- [Sofie](https://learnit.itu.dk/user/index.php?id=3024553) - Mathscamp 
+
 
 
 **BSc Theses**
 - Gustav K. - [CEFR Level Labeling](https://learnit.itu.dk/user/index.php?id=3024498)
+
+**Research Project**
+- Chloe & Johanna (KSD) - Goal Setting, Encouragement, and Congratulations
+- Alin? (KCS)
+- Louise & Sofia? (KSD)
+- Bence, Robert, Lucian? (KSD)
 
 
 **To share with students**
