@@ -18,14 +18,7 @@
 - **TID**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3023628), [GitHub](https://github.com/itu-tid/lecture-notes), [TimeEdit](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X360Q90YQ50x5YZ61ZY1Q9y5695Y05X58307QX01473Yg56092gX64Y09Q5.html), [Lecture Plan](https://docs.google.com/spreadsheets/d/1CSeqHOSnSdf381EJmpaoiOpfrnqZyG_XecSND6qMiy8/edit?gid=1468158338#gid=1468158338). Past: [2023](https://learnit.itu.dk/course/view.php?id=30222) 
 
 
-**To share with students**
-- [Writing guidelines](https://github.com/mircealungu/student-projects/blob/master/writing_guidelines/README.md)
--  todo
-	- checklist for submitting a thesis
-	- make sure to share your primary data
-	- checklist for presentation
-		- make sure to have slide numbers on every slide
-		- 
+
 
 **Ops**
 - [Google Cloud Compute Instances](https://console.cloud.google.com/compute/instances) - [Billing](https://console.cloud.google.com/billing/)
@@ -64,7 +57,7 @@
 - ? Louise & Sofia (KSD) - 
 - ? Bence, Robert, Lucian (KSD) - 
 - ? Christian Skov Gyrsting (KSD) - Git-Truck? 
-- 
+-` `
 
 
 
@@ -100,3 +93,14 @@
 
 
 - Emil - [SavingPomodoros](https://learnit.itu.dk/course/view.php?id=3024075) (SD)
+
+
+
+**To share with students**
+- [Writing guidelines](https://github.com/mircealungu/student-projects/blob/master/writing_guidelines/README.md)
+-  todo
+	- checklist for submitting a thesis
+	- make sure to share your primary data
+	- checklist for presentation
+		- make sure to have slide numbers on every slide
+		- 
