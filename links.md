@@ -18,8 +18,6 @@
 - **TID**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3023628), [GitHub](https://github.com/itu-tid/lecture-notes), [TimeEdit](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X360Q90YQ50x5YZ61ZY1Q9y5695Y05X58307QX01473Yg56092gX64Y09Q5.html), [Lecture Plan](https://docs.google.com/spreadsheets/d/1CSeqHOSnSdf381EJmpaoiOpfrnqZyG_XecSND6qMiy8/edit?gid=1468158338#gid=1468158338). Past: [2023](https://learnit.itu.dk/course/view.php?id=30222) 
 
 
-
-
 **Ops**
 - [Google Cloud Compute Instances](https://console.cloud.google.com/compute/instances) - [Billing](https://console.cloud.google.com/billing/)
 - [hetzner robot](https://robot.hetzner.com/server)
@@ -52,12 +50,11 @@
 - Gustav K. - [CEFR Level Labeling](https://learnit.itu.dk/user/index.php?id=3024498)
 
 **Research Project**
-- Chloe & Johanna (KSD) - Goal Setting, Encouragement, and Congratulations
-- ? Alin (KCS)
+- Chloe & Johanna (KSD) - **Goal Setting, Encouragement, and Congratulations**
+- Bence, Robert, Lucian (KSD) - **Evaluating and Enhancing the Scalability of React-Flask Web Applications** 
+- ? Alin (KCS) 
 - ? Louise & Sofia (KSD) - 
-- ? Bence, Robert, Lucian (KSD) - 
 - ? Christian Skov Gyrsting (KSD) - Git-Truck? 
--` `
 
 
 
@@ -98,6 +95,7 @@
 
 **To share with students**
 - [Writing guidelines](https://github.com/mircealungu/student-projects/blob/master/writing_guidelines/README.md)
+- [A good abstract](https://github.com/mircealungu/student-projects/blob/master/thesis-abstract.md)
 -  todo
 	- checklist for submitting a thesis
 	- make sure to share your primary data
