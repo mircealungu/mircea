@@ -10,7 +10,7 @@ everything ends. even the universe. the ultimate melancholy.
 or schadenfreude. 
 
 alternative to everything has an end is "everything changes".
-from three Ursula Le Guin book. where Chsnge was God. 
+from the Octavia Butler's Parable of the Sower. Where  there is this religion where people worship Change. 
 because there is nothing else that that is as eternal as change.
 
 sep 1
