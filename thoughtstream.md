@@ -1,4 +1,5 @@
 sept 20
+
 morning swimming in the cold sea 
 makes happy. and wakes one up better than the most italian espresso.
 
