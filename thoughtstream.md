@@ -1,7 +1,6 @@
 sept 20
-
-i love morning swimming in the north sea.
-makes me happy. and wakes one up better than three most Italian espresso.
+morning swimming in the cold sea 
+makes happy. and wakes one up better than three most Italian espresso.
 
 
 sep 13
