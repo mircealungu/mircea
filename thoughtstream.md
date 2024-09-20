@@ -11,7 +11,7 @@ or schadenfreude.
 
 alternative to everything has an end is "everything changes".
 from the Octavia Butler's Parable of the Sower. Where  there is this religion where people worship Change. 
-because there is nothing else that that is as eternal as change.
+because there is nothing else as eternal as change.
 
 sep 1
 
