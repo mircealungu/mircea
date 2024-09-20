@@ -1,6 +1,6 @@
 sept 20
 morning swimming in the cold sea 
-makes happy. and wakes one up better than three most Italian espresso.
+makes happy. and wakes one up better than the most italian espresso.
 
 
 sep 13
