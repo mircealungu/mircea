@@ -1,6 +1,17 @@
+sept 20
+
+i love morning swimming in the north sea.
+makes me happy. and wakes one up better than three most Italian espresso.
+
+
 sep 13
+
 everything ends. even the universe. the ultimate melancholy.
-or schadenfreude.
+or schadenfreude. 
+
+alternative to everything has an end is "everything changes".
+from three Ursula Le Guin book. where Chsnge was God. 
+because there is nothing else that that is as eternal as change.
 
 sep 1
 
