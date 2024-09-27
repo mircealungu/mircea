@@ -1,6 +1,6 @@
 sep 27
 
-homo sapiens. homo faber. homo ludens. you can't have one without the other.
+homo sapiens. homo faber. homo ludens. you can't have one without the other. or you can, but it's not fun. or stupid. 
 
 sept 20
 
