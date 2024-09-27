@@ -4,8 +4,8 @@ homo sapiens. homo faber. homo ludens. you can't have one without the other.
 
 sept 20
 
-morning swimming in the cold sea
-makes happy. and wakes one up better than the most italian espresso.
+morning swimming in the sea. it's cold.
+makes happy. and wakes one up better than the most Italian espresso.
 
 sep 13
 
