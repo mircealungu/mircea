@@ -1,4 +1,10 @@
+sep 27
+
+homo sapiens. homo faber. homo ludens. you can't have one without the other. 
+
+
 sep 13
+
 everything ends. even the universe. the ultimate melancholy.
 or schadenfreude.
 
