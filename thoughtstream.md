@@ -1,3 +1,9 @@
+sep 29
+
+natural language (ambiguous) running on LLMs (non-semantic / non-deterministic? machines) will never replace programming languages (non-ambiguous) running on vms languages (semantic, deterministic) for any of the tasks for which the latter are good at.  
+
+
+
 sep 27
 
 homo sapiens. homo faber. homo ludens. you can't have one without the other. or you can, but it's not fun. or stupid. 
