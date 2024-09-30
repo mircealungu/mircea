@@ -50,7 +50,7 @@
 - Gustav K. - [CEFR Level Labeling](https://learnit.itu.dk/user/index.php?id=3024498)
 
 **Research Project**
-- Chloe & Johanna (KSD) - **[Goal Setting and Encouragement](https://learnit.itu.dk/course/view.php?id=3024771**
+- Chloe & Johanna (KSD) - [**Goal Setting and Encouragement**](https://learnit.itu.dk/course/view.php?id=3024771) 
 - Bence, Robert, Lucian (KSD) - [**Evaluating and Enhancing the Scalability of React-Flask Web Applications**](https://learnit.itu.dk/course/view.php?id=3024841) 
 - Philip, Joakim, Andreas - [**Speech-to-Text for L2L**](https://learnit.itu.dk/course/view.php?id=3024824)
 - Louise & Sofia (KSD) - [**Visualizing Learner Knowledge Progress**](https://learnit.itu.dk/user/index.php?id=3024869)
