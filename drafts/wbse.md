@@ -36,6 +36,7 @@ Many a reader will probably not agree with the conclusion, and thus might not ne
 However, for those who are not familiar enough with PL, SE, or LLMs such that they can still believe that LLMs will replace programming as we know it, this paper tries to put the activity of *programming* in the bigger context of software engineering, and follow to it's logical conclusion the assumption that *programmers will only have to write prompts and all the code will be written for them*. \cite{...}
 
 # What methodology does this paper use? 
+
 We are software engineers, and are writing from a position of understanding the challenges that software evolution poses to programming and in this paper we are going to analyze in which way changing programming with *prompting* will address these challenges. 
 
 The method we use in this paper is a principled analysis. Or *gedankenexperiment*. It is not an empirical study; there are many such studies, but the problem with them is that their replicability is difficult: a study that uses ChatGPT or CoPilot can't be replicated once new versions of these systems are released. The results would probably be different. 
@@ -145,7 +146,7 @@ function isMobile() {
 }
 ```
 
-The problem with this code is that it is not maintainable. It might work for today, but when new user agents appear, it will be stuck in the past. Compare this with packages, like in `npm`. There, one depending on a package, one gets for free updates. 
+The problem with this code is that it is not maintainable. It might work for today, but when new user agents appear, it will be stuck in the past. Compare this with packages, like in `npm`. There, one depending on a package, one gets for free updates. ([Elsewhere](../notes/Npm-vs-StackOverflow-vs-ChatGPT.md) I elaborate a bit more the comparison from this section on GenAI and npm and also StackOverflow).
 
 The defenders of no-more-programming-needed would probably argue that a new version of the LLM would generate an updated version of this function. However, until the LLM finds sufficient examples of the new code to learn the new pattern, the application that uses it will be broken. Compare this with the alternative:
 - the maintainer of the little `isMobile` package finds out that there's a new user agent, updates the regex, pushes an update
@@ -172,9 +173,7 @@ Yes... Nope. That is not a better system.
 One thing that is left is boilerplate. 
 And detecting latent patterns in the code.
 
-Indeed, the LLMs will eventually, very likely converge into being the next thing after auto-completion. Indeed, they can do more than 
-
-
+Indeed, the LLMs will eventually, very likely converge into being the next thing after auto-completion. And also, since search is so bad these days, it might replace search for basic algorithmic (how to balance a tree) and utility questions (a regex to detect that a website is running on a mobile). 
 
 
 ## So What Are these systems good for then?
@@ -190,14 +189,9 @@ In fact, in a Hegelian anti-thesis, what might come after the LLMs might be a mu
 
 
 
-### This system is not sustainable
 
-The LLM works based on examples it finds on the internet. Thus, it can not work on new technologies and languages until they have a critical mass. 
 
-### Data-driven haphazard model-driven engineering
 
-- is there something to learn from model-driven engineering?
-- the limitations of code generated 
 
 
 
@@ -209,6 +203,23 @@ The LLM works based on examples it finds on the internet. Thus, it can not work 
 
 
 # Other Topics Not Discussed
+
+
+### A possible summary
+
+Imprecise natural language running on a non-deterministic black-box will never replace formally unambiguous programs running on well-defined hardware.  
+
+### This system is not sustainable
+
+The LLM works based on examples it finds on the internet. Thus, it can not work on new technologies and languages until they have a critical mass. 
+
+
+
+### Data-driven haphazard model-driven engineering
+
+- is there something to learn from model-driven engineering?
+- the limitations of code generated 
+
 
 ### 2. there is no guarantee that the program selected for implementing a wish is correct
 
