@@ -1,6 +1,11 @@
 #### Links
 
-[vissoft program](https://vissoft.info/2024/program.html)
+icsme: 
+- [wed](https://conf.researchr.org/program/icsme-2024/program-icsme-2024/?date=Wed%209%20Oct%202024&past=Show%20upcoming%20events%20only)
+- [thu](https://conf.researchr.org/program/icsme-2024/program-icsme-2024/?date=Thu%2010%20Oct%202024&past=Show%20upcoming%20events%20only)
+- [fri](https://conf.researchr.org/program/icsme-2024/program-icsme-2024/?date=Fri%2011%20Oct%202024&past=Show%20upcoming%20events%20only)
+
+
 
 
 
