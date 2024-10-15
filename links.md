@@ -1,12 +1,5 @@
 #### Links
 
-icsme: 
-- [wed](https://conf.researchr.org/program/icsme-2024/program-icsme-2024/?date=Wed%209%20Oct%202024&past=Show%20upcoming%20events%20only)
-- [thu](https://conf.researchr.org/program/icsme-2024/program-icsme-2024/?date=Thu%2010%20Oct%202024&past=Show%20upcoming%20events%20only)
-- [fri](https://conf.researchr.org/program/icsme-2024/program-icsme-2024/?date=Fri%2011%20Oct%202024&past=Show%20upcoming%20events%20only)
-
-
-
 
 
 **GitHub**
@@ -50,12 +43,12 @@ icsme:
 
 
 **Master Theses**
-- **Theodor** - [**Migrating React-Flask to PWA: A Case Study**](https://learnit.itu.dk/course/view.php?id=3024549) 
-- **Sofie** - [**Mathscamp: Steps Toward Personalization**](https://learnit.itu.dk/course/view.php?id=3024553)
+- **Theodor** - [**Migrating React-Flask to PWA: A Case Study**](https://learnit.itu.dk/course/view.php?id=3024549)  (C: E)
+- **Sofie** - [**Mathscamp: Steps Toward Personalization**](https://learnit.itu.dk/course/view.php?id=3024553) (C: E)
 
 
 **BSc Theses**
-- Gustav K. - [CEFR Level Labeling](https://learnit.itu.dk/user/index.php?id=3024498)
+- Gustav K. - [CEFR Level Labeling](https://learnit.itu.dk/user/index.php?id=3024498) (C: E)
 
 **Research Project**
 - Chloe & Johanna (KSD) - [**Goal Setting and Encouragement**](https://learnit.itu.dk/course/view.php?id=3024771) 
