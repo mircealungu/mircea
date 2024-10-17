@@ -91,7 +91,9 @@ For simple wishes, there are few possible programs that the LLM will generate. E
 
 On the other hand, asking high-level wishes, is fraught with danger. If one asks "generate for me a todo app" there could be potentially thousands of such implementations. And very likely, each one of the implementations, would not be exactly what the asker wants. A bit like the naïve young man from Bedazzled: asking to be powerful, but forgetting that being intelligent matters too, etc. 
 
+
 *** 
+
 
 It is hard to see how any future LLM can be generated that does not fall under the simple three constraints above. This is why, these three above are the only assumptions we will take forward in the analysis. 
 
@@ -102,6 +104,16 @@ It is hard to see how any future LLM can be generated that does not fall under t
 ## Bricolage: constructing a system from "wishes"
 
 The challenges in Software Engineering are in creating complex systems. Thus, we will assume this for the rest of the discussion. A complex system is one that requires a team to work full time for more than one year. The early version of WhatsApp was such a system. And this should cover more than X0% of all the systems out there. And probably 100% of all the systems that are difficult to create. 
+
+### Requirements: the second coming of Outsourcing 
+
+#### Outsourcing in the Opposite Direction
+
+We've tried outsourcing software engineering to the east. It did not work, because we realized that it takes so much time to specify something precisely enough for it to be implemented that we might just as well implement it ourselves. Did we learn something from it?
+
+No. Now we're hoping that we can "solve" software engineering by outsourcing to the west, to the capitalistic magic black box that has ingested the whole internet and will surely be able to take our vague wishes and transform them for cheap into programs that do what we want.
+
+
 
 ### Challenge: Collaboration 
 
