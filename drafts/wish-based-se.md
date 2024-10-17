@@ -91,9 +91,9 @@ For simple wishes, there are few possible programs that the LLM will generate. E
 
 On the other hand, asking high-level wishes, is fraught with danger. If one asks "generate for me a todo app" there could be potentially thousands of such implementations. And very likely, each one of the implementations, would not be exactly what the asker wants. A bit like the naïve young man from Bedazzled: asking to be powerful, but forgetting that being intelligent matters too, etc. 
 
-It is hard to see how any future LLM can be generated that does not fall under the simple constraint above. 
+*** 
 
-This is why, these two above are the only assumptions we will take forward in the analysis. 
+It is hard to see how any future LLM can be generated that does not fall under the simple three constraints above. This is why, these three above are the only assumptions we will take forward in the analysis. 
 
 
 
