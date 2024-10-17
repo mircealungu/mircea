@@ -50,7 +50,7 @@ The main arguments of this paper are those stemming from software maintenance an
 
 ## What do we mean by LLMs? 
 
-One of the difficulties of writing about LLMs is the fact that they represent an ever moving target. A critique of *ChattyLLM* 4.0 can always be countered with: *"You just wait to see how ChattyLLM 5.0 will solve this problem"*. 
+One of the difficulties of writing about LLMs is the fact that they represent an ever moving target. A critique of *ChattyLLM* 4.0 can always be countered with: *"You just wait to see how ChattyLLM (TM) 5.0 will solve this problem"*. 
 
 In order to be able to have a discussion that is not prone to the above *critique* we must discuss a *Very Powerful LLM*, more powerful than any of the known ones, and possibly more powerful than all the ones that are going to exist in the foreseeable future. 
 
@@ -60,9 +60,11 @@ There are multiple possible LLM limitation models
 
 Although 2) is the reality at the moment, and it's likely to never be solved given that , we will work with an LLM model of 1). We assume an LLM that's better than everything that exists at the moment. 
 
-Several further assumptions that we safely make about the current and the future best possible 
+Several further assumptions that we safely make about the current and the future best possible LLM-based code assistants are: 
 
 ### C1. For any wish there can be many programs to satisfy it
+
+We're going to call these things wishes, although the current terminology is "prompt". However, in the way in which they are used by some people they are nothing more than a "wish of what you want the code to do". 
 
 - this is also visible in the UI of LLMs these days, as one types a *prompt*, the system returns an answer, but together with the answer one can use a "give me more" button. 
 
@@ -135,6 +137,14 @@ Thus, if one would construct a bricolage of a system by composing together progr
 One possible outcome of this is that parts of the system will forever depend on particular versions of the LLM. Another is a continuous verification whether the LLM generated snippets do the same with every new version. And if not, adjusting the prompts till they match... 
 
 
+### Challenge: Infrastructure Evolution
+
+Your wishes are running on top of a black box that's trained on the whole web. What could be the problem with this? The web changes, the weights in the black box change. Your program stops doing what you want. 
+
+Not to mention adversarial attacks - where I would pollute the internet on purpose with alternative and broken code examples till your prompts don't do what you hoped they would do anymore. 
+
+
+
 
 #### The low level wishes are exactly those for which there are better solutions
 
@@ -197,7 +207,7 @@ In fact, in a Hegelian anti-thesis, what might come after the LLMs might be a mu
 
 # To think about
 
-- some programmers are not even good at english
+- Some programmers are not even good at english
 - ChattyLLM that people envision is usually not exactly an LLM - it's an LLM augmented with hundreds of man-years of human reinforcement; so maybe we should write about AI in general? Even if that is not a well-defined term, in the above we did operationalize it. 
 - The AI system can even be allowed to grant the wish that the user wants not the one he writes? 
 
@@ -208,6 +218,9 @@ In fact, in a Hegelian anti-thesis, what might come after the LLMs might be a mu
 ### A possible summary
 
 Imprecise natural language running on a non-deterministic black-box will never replace formally unambiguous programs running on well-defined hardware.  
+
+And remember, what we appreciate in programming is exactly their determinism. We accept their non-determinism when being entertained (e.g. art) or when we don't care that much (e.g. when we're looking for a photo of a dog... we're ok with sometimes among the dog photos we see a muffin). 
+
 
 ### This system is not sustainable
 
