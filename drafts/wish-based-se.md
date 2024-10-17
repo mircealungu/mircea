@@ -45,7 +45,9 @@ In fact, what this paper will have to do to resist the test of time is also addr
 
 # The Software Evolution Perspective
 
-The main arguments of this paper are those stemming from software maintenance and evolution. There are other people who have written about the inherent limitations of the LLMs when it comes to trutfulness, and etc. 
+The main arguments of this paper are those stemming from our experience with software maintenance and evolution. Indeed, fifty years of software engineering have shown that building software is a challenge that is much larger than writing code. Ever since the Programming as Theory Building paper of Naur the community has argued that programming should not be considered synonymous with writing code, and if we thought about it like that, we would not understand the challenges associated with it. 
+
+There are other people who have written about the inherent limitations of the LLMs when it comes to truthfulness, their supposedly emergent properties, etc. This is not our take. 
 
 
 ## What do we mean by LLMs? 
@@ -93,7 +95,9 @@ On the other hand, asking high-level wishes, is fraught with danger. If one asks
 It is hard to see how any future LLM can be generated that does not fall under the two constraints above. These are the only assumptions we will take forward in the analysis. 
 
 
+### C4. Writing code for new versions of upstreams
 
+Example of Helge: when you're trying to use a new version of a library, but that version was not ingested yet in the black box. And even if it were, there is not enough data for it to disentangle between the old and the new versions. 
 
 
 ## Bricolage: constructing a system from "wishes"
