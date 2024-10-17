@@ -87,17 +87,16 @@ wish(i, v(LLM) = P{i,v(LLM)} ... P{n,v(LLM)}
 
 ### C3. The higher the abstraction level of the "wish", the more possible programs will be generated for it
 
-For simple wishes, there are few possible programs that the LLM will generate. E.g. `provide a fibonacci implementation` . There are few implementations, and all of them have been written a billion times on the internet. 
+For simple wishes, there are few possible programs that the LLM will generate. E.g. `provide a fibonacci implementation` . There are few implementations, and all of them have been written a billion times on the internet. This is not a problem, and we believe that 
 
-On the other hand, asking high-level wishes, is fraught with danger. If one asks "generate for me a todo app" there could be potentially thousands of such implementations. And very likely, each one of the implementations, would not be exactly what the asker wants. A bit like the naïve young man from Bedazzled. -
+On the other hand, asking high-level wishes, is fraught with danger. If one asks "generate for me a todo app" there could be potentially thousands of such implementations. And very likely, each one of the implementations, would not be exactly what the asker wants. A bit like the naïve young man from Bedazzled: asking to be powerful, but forgetting that being intelligent matters too, etc. 
+
+It is hard to see how any future LLM can be generated that does not fall under the simple constraint above. 
+
+This is why, these two above are the only assumptions we will take forward in the analysis. 
 
 
-It is hard to see how any future LLM can be generated that does not fall under the two constraints above. These are the only assumptions we will take forward in the analysis. 
 
-
-### C4. Writing code for new versions of upstreams
-
-Example of Helge: when you're trying to use a new version of a library, but that version was not ingested yet in the black box. And even if it were, there is not enough data for it to disentangle between the old and the new versions. 
 
 
 ## Bricolage: constructing a system from "wishes"
@@ -139,6 +138,11 @@ Thus, if one would construct a bricolage of a system by composing together progr
 
 
 One possible outcome of this is that parts of the system will forever depend on particular versions of the LLM. Another is a continuous verification whether the LLM generated snippets do the same with every new version. And if not, adjusting the prompts till they match... 
+
+### Challenge.  Upstream evolution
+
+*Example from the discussion with Helge: when you're trying to use a new version of a library, but that version was not ingested yet in the black box. And even if it were, there is not enough data for it to disentangle between the old and the new versions.* 
+
 
 
 ### Challenge: Infrastructure Evolution
