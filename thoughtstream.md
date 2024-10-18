@@ -1,3 +1,19 @@
+oct 18
+
+Thomas Seyfried on cancer talks about ketosis and albert schweizer in the same video. Two of my favorites :)
+
+
+oct 17
+
+We've tried outsourcing software engineering to the east. It did not work, because we realized that it takes so much time to specify something precisely enough for it to be implemented that we might just as well implement it ourselves. Did we learn something from it?  
+  
+Nope.  
+  
+Now we're hoping that we can "solve" software engineering by outsourcing to the west: the capitalistic magic black box that has ingested the whole internet will surely be able to take our wishes and give us for cheap programs that do what we need, even if we don't put in the effort to specify unambiguously what we want.  
+  
+Nothing is new under the sun.
+
+
 sep 29
 
 natural language (ambiguous) running on LLMs (non-semantic / non-deterministic? machines) will never replace programming languages (non-ambiguous) running on vms languages (semantic, deterministic) for any of the tasks for which the latter are good at.  
