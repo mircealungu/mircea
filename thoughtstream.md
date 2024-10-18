@@ -14,6 +14,13 @@ Now we're hoping that we can "solve" software engineering by outsourcing to the 
 Nothing is new under the sun.
 
 
+
+oct 10
+
+in the US.
+crossing the street in front of one of the (monster) trucks they casually drive there.
+the first time in my life i feel afraid to cross in front of a stopped car: what if the driver does not see me. so i rush to the other side. 
+
 sep 29
 
 natural language (ambiguous) running on LLMs (non-semantic / non-deterministic? machines) will never replace programming languages (non-ambiguous) running on vms languages (semantic, deterministic) for any of the tasks for which the latter are good at.  
