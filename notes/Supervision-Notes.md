@@ -1,8 +1,10 @@
 
 
-# Meetings
+# Supervision Notes
 
-## Emails the Day Before
+A few notes on how to make the most of student projects.
+
+## Emails the Day Before the Weekly Meeting
 
 The working day before our meeting I would kindly ask you to send (to the supervisors) an email in which you answer the following questions concisely: 
 1. What progress did you make in the last week?
