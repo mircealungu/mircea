@@ -11,19 +11,26 @@ Because of car rental issues, we left Flagstaff around 9.30 and arrived at the e
 
 Once past the entrance, very quickly the road opens onto the canyon. We saw it, we stopped and jumped off to admire and take photos. 
 
-The view from the South Rim is indeed spectacular, and photos can not really do it justice. 
+
 
 ![](attachments/gc-from-the-rim.jpg)
+The view from the South Rim is indeed spectacular, and photos can not really do it justice. 
+
+*
+
 We realized that the trail we were planning to take was only 15min of walking away, so we continued on foot. 
 
 Soon we were at the South Kaybab Trail and we start down. The trail starts abruptly and soon one starts to feel inside of the canyon. 
+
+*
+
 
 ![](attachments/on-sk-trail.jpg)
 Trail is dusty. 
 
 
 ![](attachments/sk-trail-2.jpg)
-But view is spectacular. 
+But view is spectacular
 
 
 
