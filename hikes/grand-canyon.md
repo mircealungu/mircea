@@ -48,4 +48,4 @@ The red-dust trail continues spectacularly.
 About one hour and a quarter after starting down we arrive at Cedar Ridge. We take a group photo with the brave and then we go back up because we have budgeted for going up twice as much as going down, and we did start quite late... 
 
 
-The only slight disappointment is that, as we talk to two other hikers, we learn that if we continued maybe 1h more all the way to Skeleton Point, we could have seen the Colorado River. Next disappointment is when the next day I met one of the students of Andrea Capiluppi who went all the way down a day before. That must be really amazing. And for another time.  
+The only slight disappointment is that, as we talk to two other hikers, we learn that if we continued to Skeleton Point (probably 45min more), we could have seen the Colorado River. Next disappointment for me is the next day when at ICSME I met one of the students of Andrea Capiluppi who went all the way down a day before. That must be really amazing. I wish I did that. Maybe another time.  
