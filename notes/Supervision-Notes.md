@@ -6,7 +6,7 @@ A few notes on how to make the most of student projects.
 
 ## Emails the Day Before the Weekly Meeting
 
-The working day before our meeting I would kindly ask you to send an email with the following: 
+The working day before our meeting I would kindly ask you to send an email with the following structure: 
 1. **Progress**. What progress did you make in the last week?
 2. **Blockers**. Are there any issues that are blocking you?
 3. **Next**. What is the plan for the next week?
