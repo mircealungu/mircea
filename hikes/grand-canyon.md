@@ -15,31 +15,41 @@ The view from the South Rim is indeed spectacular, and photos can not really do 
 
 ![](attachments/gc-from-the-rim.jpg)
 
-We realized that the trail we were planning to take was only 15min of walking away, so we continued on foot. On the way we also took essential photos: 
+We realized that the trail we were planning to take was only 15min of walking away, so we continued on foot. 
 
 
 ![](attachments/jump-over-gc.jpeg)
+On the way we also took essential photos. 
 
-Soon we were at the South Kaybab Trail and we started down. 
 
 ![](attachments/on-sk-trail.jpg)
+Soon we were at the South Kaybab Trail and we start down. 
+
 
 ![](attachments/sk-trail-2.jpg)
+View is spectacular on and on.
 
-Gregorio, Leonel, and David, VISSOFT organizers are leading the pack: 
+
 
 ![](attachments/oragnizers-leading.jpg)
+Gregorio, Leonel, and David, my VISSOFT co-organizers are leading the pack :)
 
-We quite soon arrive to the first named point on the trail is the famous Ooh-Aah point where Valentin is happy: 
+
 
 ![](attachments/valentin-at-ooh-ah.jpeg)
+We quickly arrive to the first named point on the trail is the famous Ooh-Aah point where Valentin looks happy. 
 
-The red-dust trail continues spectacularly: 
+
+
 
 ![](attachments/red-dust-trail.jpg)
+The red-dust trail continues spectacularly.
 
-About one hour and a quarter after starting down we arrive at Cedar Ridge. We take a group photo with the brave and then we go back up because we have budgeted for going up twice as much as going down, and we did start late after all. 
+
+
 
 ![](attachments/DSC01473.jpg)
+About one hour and a quarter after starting down we arrive at Cedar Ridge. We take a group photo with the brave and then we go back up because we have budgeted for going up twice as much as going down, and we did start late after all. 
+
 
 The only slight disappointment is that, as we talk to two other hikers, we learn that if we continued maybe 1h more all the way to Skeleton Point, we could have seen the Colorado River. Next disappointment is when the next day I met one of the students of Andrea Capiluppi who went all the way down a day before. That must be really amazing. And for another time.  
