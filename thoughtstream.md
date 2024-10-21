@@ -2,6 +2,10 @@ oct 18
 
 Thomas Seyfried on cancer talks about ketosis and albert schweizer in the same video. Two of my favorites :)
 
+**
+
+Will GenAI increase the importance of unit tests and contracts? In principle, the more tests you have, the more contracts you have, the more confident you can be that the generated code might actually do what you want. Although... the devil is always in the details. And the bugs are always in the corner cases... 
+
 
 oct 17
 
