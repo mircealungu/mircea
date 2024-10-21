@@ -13,7 +13,7 @@ The working day before our meeting I would kindly ask you to send an email with 
 4. **Help**. Do you need any help from the supervisor(s)? 
 
 Also, if it's the case, mention that you need
-- an **online meeting** - they normally equally fine as the in-person ones for me
+- **an online meeting** - they normally equally fine as the in-person ones for me
 - **no meeting at all** - usually when there was no progress, or because you know what to do and just need more time
 
 
