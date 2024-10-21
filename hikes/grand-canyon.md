@@ -18,7 +18,7 @@ The view from the South Rim is indeed spectacular, and photos can not really do 
 We realized that the trail we were planning to take was only 15min of walking away, so we continued on foot. On the way we also took essential photos: 
 
 
-![](attachments/IMG_20241008_133014488.webp)
+![](attachments/jump-over-gc.jpeg)
 
 Soon we were at the South Kaybab Trail and we started down. 
 
