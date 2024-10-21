@@ -20,11 +20,11 @@ We realize that South Kaybab -- the trail we are planning to take -- is only 15m
 
 
 ![](attachments/on-sk-trail.jpg)
-Inside of the canyon the feeling is different than from outside: now the huge expansion is not so visible anymore, the view is obstructed by adjacent walls. Still majestic. 
+Inside of the canyon the huge expanse is not always evident, the view being sometimes obstructed by adjacent walls.
 
 
 ![](attachments/sk-trail-2.jpg)
-View is spectacular. And we are lucky that it's a cloudy October day. I've heard people who suffered from heat really badly. Not our case. 
+View is still majestic. And we are lucky that it's a cloudy October day. I've heard people who suffered from heat really badly. Not our case. 
 
 
 
