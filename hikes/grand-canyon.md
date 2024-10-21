@@ -18,7 +18,7 @@ The view from the South Rim is indeed spectacular, and photos can not really do 
 
 We realized that the trail we were planning to take was only 15min of walking away, so we continued on foot. 
 
-Soon we were at the South Kaybab Trail and we start down. The trail starts abruptly and soon one starts to feel inside of the canyon. 
+Soon we were at the South Kaybab Trail and we start down. The trail starts abruptly and soon one starts to feel inside of the canyon. The feeling is very different than from the rim. 
 
 *
 
