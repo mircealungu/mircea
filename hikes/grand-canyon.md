@@ -1,5 +1,8 @@
 # Mini-Incursion Into the Grand Canyon
 
+October 8, 2024
+
+
 The day off, between VISSOFT and ICSME we took a trip down to the Grand Canyon. 
 
 The view from the South Rim is indeed spectacular, and photos can not really do it justice. 

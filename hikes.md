@@ -1,4 +1,4 @@
-[24-08-13--lago-di-serapis](hikes/24-08-13--lago-di-serapis.md)
+[serapis](hikes/serapis.md)
 
 
 
