@@ -12,9 +12,9 @@ The working day before our meeting I would kindly ask you to send (to the superv
 3. **Next**. What is the plan for the next week?
 4. **Help**. Do you need any help from the supervisor(s)? 
 
-In the day before email also let me know if you don't need a meeting at all or if you need a zoom meeting: 
+Also write **if you don't need a meeting at all** or if you need an **online meeting**: 
 - If you do not actually need a sync meeting, that is perfectly cool for me. Async might be even a more efficient use of time sometimes; so let us use the time wisely. 
-- Zoom meetings are equally fine for me as the ones in person, so feel free to call one any time you prefer that. 
+- Online meetings are equally fine for me as the ones in person, so let's use that if you like. 
 
 
 
