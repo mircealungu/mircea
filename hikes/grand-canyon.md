@@ -14,17 +14,13 @@ Once past the entrance, very quickly the road opens onto the canyon. We saw it, 
 ![](attachments/gc-from-the-rim.jpg)
 The view from the South Rim is indeed spectacular, and photos can not really do it justice. 
 
-*
 
-We realized that the trail we were planning to take was only 15min of walking away, so we continued on foot. 
+We realize that South Kaybab -- the trail we are planning to take -- is only 15min of walking away, so we continue on foot. Soon we were at the trailhead, we fill water from a super-sturdy water cage, and we start down. The trail starts abruptly and soon we are inside the canyon. 
 
-Soon we were at the South Kaybab Trail and we start down. The trail starts abruptly and soon one starts to feel inside of the canyon. The feeling is very different than from the rim. 
-
-*
 
 
 ![](attachments/on-sk-trail.jpg)
-Trail is dusty. 
+Inside of the canyon the feeling is different than from outside: now the huge expansion is not so visible anymore, the view is obstructed by adjacent walls. Still majestic. 
 
 
 ![](attachments/sk-trail-2.jpg)
