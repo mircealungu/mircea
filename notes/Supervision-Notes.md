@@ -12,7 +12,7 @@ The working day before our meeting I would kindly ask you to send (to the superv
 3. **Next**: what is the plan for the next week?
 4. **Asks of supervisors**: Do you need help with anything from the supervisors? 
 
-Also, if you do not actually need a sync meeting, then you can always choose to do a async (written) update via email. Let us use the time wisely. 
+Also, if you do not actually need a sync meeting, that is perfectly cool for me. Async might be even a more efficient use of time sometimes. So let us use the time wisely. 
 
 
 
