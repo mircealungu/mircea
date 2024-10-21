@@ -15,5 +15,8 @@ The view from the South Rim is indeed spectacular, and photos can not really do 
 
 ![](attachments/gc-from-the-rim.jpg)
 
+We realized that the trail we were planning to take was only 15min of walking away, so we continued on foot. On the way took essential jumping photos. Here's mine:  
 
+
+![](attachments/IMG_20241008_133014488.webp)
 
