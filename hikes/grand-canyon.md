@@ -7,7 +7,7 @@ The day off between VISSOFT and ICSME we took a trip to the Grand Canyon with a 
 
 Because of car rental issues, we left Flagstaff around 9.30 and arrived at the entrance of the park around 11. Although it was a Tuesday, we found at huge traffic jam before the entrance, and spent more than one hour in the queue. We had read online that if you have an access ticket you can take the left lane and be faster. We stopped thus in a city before the entrance to buy tickets. It did not help. Nobody respects enforces the rule about the left lane as of 2024. 
 
-Once past the entrance, very quickly the road opens onto the canyon. We saw it, we stopped and jumped off to admire and take photos. 
+Once past the entrance, very quickly the road opens onto the canyon. We saw it, and we just had to stop. Parked in the first available space we found and got off to admire and take photos. 
 
 
 
