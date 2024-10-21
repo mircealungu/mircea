@@ -1,4 +1,4 @@
-# Mini-Incursion Into the Grand Canyon
+# Mini-Hike Down the Grand Canyon
 
 October 8, 2024
 
