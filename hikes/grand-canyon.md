@@ -14,25 +14,21 @@ Once past the entrance, very quickly the road opens onto the canyon. We saw it, 
 The view from the South Rim is indeed spectacular, and photos can not really do it justice. 
 
 ![](attachments/gc-from-the-rim.jpg)
-
 We realized that the trail we were planning to take was only 15min of walking away, so we continued on foot. 
 
-
-![](attachments/jump-over-gc.jpeg)
-On the way we also took essential photos. 
-
+Soon we were at the South Kaybab Trail and we start down. The trail starts abruptly and soon one starts to feel inside of the canyon. 
 
 ![](attachments/on-sk-trail.jpg)
-Soon we were at the South Kaybab Trail and we start down. 
+Trail is dusty. 
 
 
 ![](attachments/sk-trail-2.jpg)
-View is spectacular on and on.
+But view is spectacular. 
 
 
 
 ![](attachments/oragnizers-leading.jpg)
-Gregorio, Leonel, and David, my VISSOFT co-organizers are leading the pack :)
+Gregorio, Leonel, and David, my VISSOFT co-organizers are leading the pack. Only Jesus is missing! 
 
 
 
