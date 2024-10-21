@@ -24,7 +24,7 @@ Inside of the canyon the feeling is different than from outside: now the huge ex
 
 
 ![](attachments/sk-trail-2.jpg)
-But view is spectacular
+View is spectacular. And we are lucky that it's a cloudy October day. I've heard people who suffered from heat really badly. Not our case. 
 
 
 
