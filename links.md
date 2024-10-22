@@ -65,7 +65,8 @@
 
 
 **Copenhagen**
-- [Amager Volley](https://www.amagervolley.dk/dl/hjem) - [FB](https://www.facebook.com/groups/6035564066)- [H3](https://www.facebook.com/groups/929115003800969) ([results](https://resultater.volleyball.dk/tms/Turneringer-og-resultater/Pulje-Stilling.aspx?PuljeId=3609))
+- Amager Volley: [Website](https://www.amagervolley.dk/dl/hjem). [Club FB](https://www.facebook.com/groups/6035564066).  
+- H3: [FB](https://www.facebook.com/groups/929115003800969) [Ranking](https://resultater.volleyball.dk/tms/Turneringer-og-resultater/Pulje-Stilling.aspx?PuljeId=3792) [Games](https://resultater.volleyball.dk/tms/Turneringer-og-resultater/Hold-Kampprogram.aspx?HoldId=26875)
 - Reddit threads: [recycling stations](https://www.reddit.com/r/copenhagen/comments/1cf1h1r/does_copenhagen_have_a_recycling_center_where_i/)  [handyman-finding-apps](https://www.reddit.com/r/copenhagen/comments/13tcnlg/assembling_furniture_service/) 
 
 
