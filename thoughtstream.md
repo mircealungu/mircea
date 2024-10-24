@@ -1,6 +1,6 @@
 oct 24
 
-Christians used to think of God as a great king (king of kings) or a great lord (lord of lords). With our current understanding of the universe, it's much more likely that he'd be physicist of physicists or hacker of hackers. Or physicist-hacker of physicist-hackers. 
+Christians used to think of God as a great king (king of kings) or a great lord (lord of lords). Not surprising: every age has it's own idea of who's the most powerful in the world. In the past military might was the epitome of power. Now, we seem to believe that it's creative power. With our current understanding of the world, it's much more likely that the most powerful being we would imagine would be something like a physicist of physicists or hacker of hackers. Or physicist-hacker of physicist-hackers. 
 
 If God would self-identify as hacker, he'd probably be an interventionist god: stop the execution of the universe, make a change because something seems wrong (or because one of the protagonists asks *with all their heart*?); then restart. A bit like a Smalltalk debugger: pause, change, continue. 
 
