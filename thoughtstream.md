@@ -1,3 +1,15 @@
+oct 24
+
+Christians used to think of God as a great king (king of kings) or a great lord (lord of lords). With our current understanding of the universe, it's much more likely that he'd be physicist of physicists or hacker of hackers. Or physicist-hacker of physicist-hackers. 
+
+If God would self-identify as hacker, he'd probably be an interventionist god: stop the execution of the universe, make a change because something seems wrong (or because one of the protagonists asks *with all their heart*?); then restart. A bit like a Smalltalk debugger: pause, change, continue. 
+
+If he was a physicist, he'd be much more about running multiple simulations. Because how could he ever decide that a given state is bad without having left the simulation run till the end? So he would owe it to himself to let our timeline with the holocaust run to it's completion just to figure out whether that local maximum of suffering might not be the seed of future good. Just as he owes it to himself to run a simulation w/o Hitler reaching adulthood. And one with slightly different speed of light maybe too.
+
+Assuming he's a hacker-physicist that wants to minimize suffering in the universe he's created, which would be the only thing would make sense for us anyway, does he not owe it to himself to run an infinite number of simulations? Maybe, but it's very likely that even God's infra would not scale to that. He must be pruning some of the timelines early if they end up being too miserable. So in a sense, if every one of us would try to minimize suffering, maybe we'd help him just a bit along in his sysyphian quest? 
+
+This is getting too complicated a model. I think it's easier to think of a king of kings after all. 
+
 oct 18
 
 Thomas Seyfried on cancer talks about ketosis and albert schweizer in the same video. Two of my favorites :)
