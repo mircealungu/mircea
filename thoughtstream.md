@@ -1,10 +1,21 @@
+oct 27
+
+Yesterday evening wine tasting. 
+Pinot Noir - a bit too flat.
+Chianti - a bit too superficial. Might have not been aired it enough: the alcohol was a bit too obvious. 
+Chateau Neuf du Pape - nice. a broader spectrum of flavor then the ones before. 
+Spanish Crianza - Ribera del Duero - this was nice. Crianza = aged before bottling. 
+Mentor - Portughese Doura DOC Red 2021 - a nice surprise. Really nice flavour. 
+Primitivo de Manduria - this was the nicest of the evening. Sweeter than the others. Fruity flavour. 
+
+
 oct 24
 
-Christians used to think of God as a great king (king of kings) or a great lord (lord of lords). Not surprising: every age has it's own idea of who's the most powerful in the world. In the past military might was the epitome of power. Now, we seem to believe that it's creative power. With our current understanding of the world, it's much more likely that the most powerful being we would imagine would be something like a physicist of physicists or hacker of hackers. Or physicist-hacker of physicist-hackers. 
+Christians used to think of God as a great king (king of kings) or a great lord (lord of lords). Not surprising: every age has it's own idea of who's the most powerful in the world. In the past military might was the epitome of power. Now, we seem to believe that it's creative power. With our current understanding of the world, it's much more likely that the most powerful being we would imagine would be something like a physicist of physicists or hacker of hackers. Or physicist-hacker of physicist-hackers. And this is because the dominant metaphor of our age is computation. Thus, we imagine the whole universe as a "simulation inside of a computer". 
 
-If God would self-identify as hacker, he'd probably be an interventionist god: stop the execution of the universe, make a change because something seems wrong (or because one of the protagonists asks *with all their heart*?); then restart. A bit like a Smalltalk debugger: pause, change, continue. 
+If one thinks of God as hacker, they'd probably imagine an interventionist god: stop the execution of the universe, make a change because something seems wrong (or because one of the protagonists asks *with all their heart*?); then restart. A bit like a Smalltalk debugger: pause, change, continue. 
 
-If he was a physicist, he'd be much more about running multiple simulations. Because how could he ever decide that a given state is bad without having left the simulation run till the end? So he would owe it to himself to let our timeline with the holocaust run to it's completion just to figure out whether that local maximum of suffering might not be the seed of future good. Just as he owes it to himself to run a simulation w/o Hitler reaching adulthood. And one with slightly different speed of light maybe too.
+If God was a physicist, he'd be much more about running multiple simulations. Because how could he ever decide that a given state is bad without having left the simulation run till the end? So he would owe it to himself to let our timeline with the holocaust run to it's completion just to figure out whether that local maximum of suffering might not be the seed of future good. Just as he owes it to himself to run a simulation w/o Hitler reaching adulthood. And one with slightly different speed of light maybe too.
 
 Assuming he's a hacker-physicist that wants to minimize suffering in the universe he's created, which would be the only thing would make sense for us anyway, does he not owe it to himself to run an infinite number of simulations? Maybe, but it's very likely that even God's infra would not scale to that. He must be pruning some of the timelines early if they end up being too miserable. So in a sense, if every one of us would try to minimize suffering, maybe we'd help him just a bit along in his sysyphian quest? 
 
