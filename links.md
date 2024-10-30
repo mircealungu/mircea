@@ -40,6 +40,7 @@
 - [sog.kb.dk](https://soeg.kb.dk/discovery/search?vid=45KBDK_KGL:KGL)
 - Wiki: [Faculty Meetings](https://wiki.itu.dk/computerscience/index.php/Department_faculty_meetings) 
 - EHK 4th [floor map](attachments/ehk-4th-floor-map.png)
+- Adding articles in [pure]([https://pure.itu.dk/admin/](https://pure.itu.dk/admin/))
 
 
 
