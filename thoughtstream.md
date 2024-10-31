@@ -1,6 +1,6 @@
 oct 30
 
-second day of water fasting. in the evening i go to volleyball training. I was a bit worried, but I completely forgot that I was fasting. i love this game. the fasting did not interfere at all with the game. i did a few super nice attacks, i felt like I might be jumping actually a bit higher than normal, and also my timing was better than in the past. 
+second day of water fasting. in the evening i go to volleyball training. I was a bit worried, but I completely forgot that I was fasting. i did a few super nice attacks, i felt like I might be spiking a bit better than normal. especially my timing seemed a bit better.  i love this game.
 
 
 oct 24
