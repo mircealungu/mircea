@@ -1,6 +1,7 @@
 #### Links
 
-
+[hamburg places](hamburg.md)
+[map](https://maps.app.goo.gl/mV5esTDzECBMzBeJ8)
 
 **GitHub**
 - [Zeeguu](https://github.com/zeeguu)
@@ -57,7 +58,7 @@
 
 
 **BSc Theses**
-- Gustav K. - [CEFR Level Labeling](https://learnit.itu.dk/user/index.php?id=3024498) (C: E)
+- Gustav K. - [CEFR Level Labeling](https://learnit.itu.dk/user/index.php?id=3024498) (C: E) [GH repo](>  [https://github.com/gustavkrist/bachelor](https://github.com/gustavkrist/bachelor))
 
 **Research Project**
 - Chloe & Johanna (KSD) - [**Goal Setting and Encouragement**](https://learnit.itu.dk/course/view.php?id=3024771) 
