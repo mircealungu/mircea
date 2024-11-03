@@ -105,8 +105,7 @@ Aug 21
 
 People watching in Bergamo, Piazza Vecchia.
 Each one of this people - an inner world that i.m oblivious of.
-Each one with their thoughts that ill never know.
-
+Each one carrying with them thoughts that ill never know.
 Except the old man that stops to tell me about the _citta alta_ of his youth :)
 
 **Aug 9**
