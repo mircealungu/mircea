@@ -57,6 +57,7 @@ Nothing is new under the sun.
 oct 10
 
 in the US.
+
 crossing the street in front of one of the (monster) trucks they casually drive there.
 the first time in my life i feel afraid to cross in front of a stopped car: what if the driver does not see me. so i rush to the other side. 
 
