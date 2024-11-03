@@ -6,7 +6,7 @@ The left used to care about the dispossessed. And the left was powerful because 
 
 However, this side of the century, the youth are not fighting for the dispossessed anymore. Indeed, there still are some relics of the traditional left who care about economic equality, e.g. the eternal Bernie Sanders, but most of the youth are not focused on that, but rather, on the politics of sexual preferences, gender self-perception, and skin-color intersectional identities. A vague political cause, that is trying to figure out exactly where does it want to go and whom does it want to protest against. And in the process it dissipates the force of the youth. 
 
-Compare that with the alternative scenario in which the young generation would target its protest at economic inequality. They would have rightful reasons for anger -- so many of them are worse off than their parents already and the outlook is not brighter for the future. In fact, many of the people in the older generations would definitely join them as the 99% share of economical wealth has been constantly declining to the benefit of a handful of individuals. Indeed, Gates, Buffet, and Bezos have more wealth together than half the country. The most powerful country in the world that is. 
+Compare that with the alternative scenario in which the young generation would target its protest at economic inequality. They would have rightful reasons for anger -- so many of them are worse off than their parents already, have falling life expectancy, and the outlook is not brighter for the future. In fact, many of the people in the older generations would definitely join them as the 99% share of economical wealth has been constantly declining to the benefit of a handful of individuals. Indeed, Gates, Buffet, and Bezos have more wealth together than half the country. The most powerful country in the world that is. 
 
 At the first sight, this is a wasted opportunity.
 
@@ -35,7 +35,7 @@ This is getting too complicated a model. I think it's easier to think of a king 
 
 oct 18
 
-Thomas Seyfried on cancer talks about ketosis and albert schweizer in the same video. Two of my favorites :)
+Thomas Seyfried talks about 1) Ketosis and 2) Albert Schweizer in the same video. Two of my favorite topics in one talk. 
 
 **
 
