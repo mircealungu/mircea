@@ -1,3 +1,21 @@
+nov 3
+
+Reading an article entitled [the left has forgotten its phylosophy](https://unherd.com/2024/11/the-left-has-forgotten-its-philosophy/) and i'm thinking about the following... 
+
+The left used to care about the dispossessed. And the left was powerful because it would normally have on it's side the energy of the youth, who, by definition are the ones who should want equality for everybody, a natural consequence of the fact that they do not have yet power and would like to share. From whence also the adagio: "*if by 20 you're not a socialist you don't have a heart; and after 40 you're still one, you don't have a brain*". 
+
+However, this side of the century, the youth are not fighting for the dispossessed anymore. Indeed, there still are some relics of the traditional left who care about economic equality, e.g. the eternal Bernie Sanders, but most of the youth are not focused on that, but rather, on the politics of sexual preferences, gender self-perception, and skin-color intersectional identities. A vague political cause, that is trying to figure out exactly where does it want to go and whom does it want to protest against. And in the process it dissipates the force of the youth. 
+
+Compare that with the alternative scenario in which the young generation would target its protest at economic inequality. They would have rightful reasons for anger -- so many of them are worse off than their parents already and the outlook is not brighter for the future. In fact, many of the people in the older generations would definitely join them as the 99% share of economical wealth has been constantly declining to the benefit of a handful of individuals. Indeed, Gates, Buffet, and Bezos have more wealth together than half the country. The most powerful country in the world that is. 
+
+At the first sight, this is a wasted opportunity.
+
+But at a second glance, this is a good thing for the *stability* of America and more generally the west. It is not clear that the politicians could deliver more economical equality or that they would even be interested in doing so given that they are already part of the beneficiaries of the current system and the rich are also too powerful by now. 
+
+So in some sense, the youth who are supposed to be liberal are doing the conservative job of preserving the status quo by not focusing their energy on fighting for economic equality. And maybe it is for the best after all? Maybe it's a feature not a bug? After all, when the young communists got to power and had their chance to impose *equality*, the world did not become a better place.
+
+
+
 oct 30
 
 second day of water fasting. in the evening i go to volleyball training. I was a bit worried, but I completely forgot that I was fasting. i did a few super nice attacks, i felt like I might be spiking a bit better than normal. especially my timing seemed a bit better.  i love this game.
