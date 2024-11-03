@@ -1,8 +1,5 @@
 #### Links
 
-[hamburg places](hamburg.md)
-[map](https://maps.app.goo.gl/mV5esTDzECBMzBeJ8)
-
 **GitHub**
 - [Zeeguu](https://github.com/zeeguu)
 	- [**Web**](https://github.com/zeeguu/web/): [pulls](https://github.com/zeeguu/web/pulls), [issues](https://github.com/zeeguu/web/issues)	
