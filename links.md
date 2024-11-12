@@ -59,6 +59,18 @@ GitHub Repos
 - Philip, Joakim, Andreas - [**Speech-to-Text for L2L**](https://learnit.itu.dk/course/view.php?id=3024824) ([report](https://www.overleaf.com/project/6703f3e8746a92aef75be859))
 - Louise & Sofia (KSD) - [**Visualizing Learner Knowledge Progress**](https://learnit.itu.dk/user/index.php?id=3024869) (Michele?)
 
+**Spring Semester 2025**
+
+**BSc**
+1. Sebastian Cloos Hylander, Casper Holten - IDE-Integrated Interactive Architectural Diagrams for ArchLens
+
+**MSc SD**
+2. Chloe & Johanna
+3. Robert, Bence, Lucian
+4. Louise & Sofia ? 
+
+**MSc CS**
+5. Philip, Joakim, Andreas
 
 
 
