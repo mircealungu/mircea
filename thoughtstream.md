@@ -1,3 +1,7 @@
+nov 12
+
+Just read a goodreads [review of "the last kamikaze"](https://www.goodreads.com/review/show/1502319715?type=review#rating_730310365) that I wrote in 2016 when I read the book. I don't remember anything from that book. What's the point of reading so much if you don't remember anything. Maybe less is more also about reading? Maybe we should all create our own Bible - biblos = library in greek -- the collection of books that we read and re-read because we find them valuable. 
+
 nov 3
 
 Reading an article entitled [the left has forgotten its phylosophy](https://unherd.com/2024/11/the-left-has-forgotten-its-philosophy/) and i'm thinking about the following... 
