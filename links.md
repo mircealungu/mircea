@@ -65,12 +65,12 @@ GitHub Repos
 1. Sebastian Cloos Hylander, Casper Holten - IDE-Integrated Interactive Architectural Diagrams for ArchLens
 
 **MSc SD**
-2. Chloe & Johanna
-3. Robert, Bence, Lucian
-4. Louise & Sofia ? 
+1. Chloe & Johanna - Streaks in Zeeguu
+2. Robert, Bence, Lucian - Scalability & Performance
+3. Louise & Sofia - Progress Visualization
 
 **MSc CS**
-5. Philip, Joakim, Andreas
+4. Philip, Joakim, Andreas - Speech2Text in L2 Learnig
 
 
 
