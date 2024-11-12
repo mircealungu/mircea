@@ -62,7 +62,8 @@ GitHub Repos
 **Spring Semester 2025**
 
 **BSc**
-1. Sebastian Cloos Hylander, Casper Holten - IDE-Integrated Interactive Architectural Diagrams for ArchLens
+1. Sebastian, Casper - IDE-Integrated Interactive Architectural Diagrams for ArchLens
+2. Francisco - with Raul - ...
 
 **MSc SD**
 1. Chloe & Johanna - Streaks in Zeeguu
