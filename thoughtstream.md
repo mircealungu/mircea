@@ -2,7 +2,7 @@ nov 12
 
 Just read a goodreads [review of "the last kamikaze"](https://www.goodreads.com/review/show/1502319715?type=review#rating_730310365) that I wrote in 2016 when I read the book. I don't remember anything from that book. I read the review, it sounds like me, but I don't remember the details from the book. 
 
-What's the point of reading so much if you don't remember anything. Maybe less is more also in reading? My grandma read the mostly one book, the Bible, but she read it so many times that she could recite full chapters. I read probably more than a thousand books by now, and I do not remember any paragraph by heart. None of the two approaches is ideal. The middle way probably would also serve here. Maybe we should all create our own Bible -- from gr. *biblos* = library -- a collection of books that we read and re-read because we find them valuable. 
+What's the point of reading so much if you don't remember whole books? Maybe less is more also in reading? My grandma read the mostly one book, the Bible, but she read it so many times that she could recite full chapters. I read probably more than a thousand books by now, and I do not remember almost any paragraph by heart. None of the two approaches is ideal. The middle way probably would probably be best. Maybe we should all create our own Bible -- from gr. *biblos* = library -- a collection of books that we read and re-read because we find them valuable. 
 
 nov 3
 
