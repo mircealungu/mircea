@@ -1,2 +1,5 @@
 *.DS_Store
-.obsidian
+
+# ignore obsidian, but not a given file!
+.obsidian/*
+!.obsidian/app.json
