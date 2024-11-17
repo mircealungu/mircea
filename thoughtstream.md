@@ -1,6 +1,6 @@
 nov 17
 
-#music Symphony 5 in C Minor - III -- glorious and sweet at the same time. 
+Symphony 5 in C Minor - 3rd movement -- majestic and sweet at the same time. 
 
 
 
