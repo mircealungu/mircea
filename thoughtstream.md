@@ -1,3 +1,9 @@
+nov 17
+
+#music Symphony 5 in C Minor - III -- glorious and sweet at the same time. 
+
+
+
 nov 12
 
 Just read a goodreads [review of "the last kamikaze"](https://www.goodreads.com/review/show/1502319715?type=review#rating_730310365) that I wrote in 2016 when I read the book. I don't remember anything from that book. I read the review, it sounds like me, but I don't remember the details from the book. 
