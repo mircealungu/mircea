@@ -51,7 +51,8 @@ GitHub Repos
 
 
 **BSc Theses**
-- Gustav K. - [CEFR Level Labeling](https://learnit.itu.dk/user/index.php?id=3024498) (C: E) [GH repo](>  [https://github.com/gustavkrist/bachelor](https://github.com/gustavkrist/bachelor))
+- Gustav K. - [CEFR Level Labeling](https://learnit.itu.dk/user/index.php?id=3024498) (C: E) [GitHub repository](>  [https://github.com/gustavkrist/bachelor](https://github.com/gustavkrist/bachelor)), [Overleaf Thesis](https://www.overleaf.com/project/673716fc5e674663a3f96c19)
+
 
 **Research Project**
 - Chloe & Johanna (KSD) - [**Goal Setting and Encouragement**](https://learnit.itu.dk/course/view.php?id=3024771) [overleaf](https://www.overleaf.com/project/66fe82cd240aa0d51de7c0a4)
