@@ -46,18 +46,18 @@ GitHub Repos
 
 ### Supervisions Fall 2024 
 
-**Master Theses**
-- Theodor - **Migrating React-Flask to PWA: A Case Study**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024549)  (C: Ender)
-- Sofie - **MathsCamp: Steps Toward Personalization** [LearnIt](https://learnit.itu.dk/course/view.php?id=3024553) (C: Ender)
+#### Master Theses
+- Theodor - **Migrating React-Flask to PWA: A Case Study** - [LearnIt](https://learnit.itu.dk/course/view.php?id=3024549)  (C: Ender)
+- Sofie - **MathsCamp: Steps Toward Personalization** - [LearnIt](https://learnit.itu.dk/course/view.php?id=3024553) (C: Ender)
 
 
-**BSc Theses**
-- Gustav K. - **CEFR Level Labeling**: [LearnIt](https://learnit.itu.dk/user/index.php?id=3024498)  [GHRepo](>  [https://github.com/gustavkrist/bachelor](https://github.com/gustavkrist/bachelor)), [Overleaf](https://www.overleaf.com/project/673716fc5e674663a3f96c19) (C: Ender)
+#### BSc Theses
+- Gustav K. - **CEFR Level Labeling** - [LearnIt](https://learnit.itu.dk/user/index.php?id=3024498)  [GHRepo](>  [https://github.com/gustavkrist/bachelor](https://github.com/gustavkrist/bachelor)), [Overleaf](https://www.overleaf.com/project/673716fc5e674663a3f96c19) (C: Ender)
 
-**Research Projects**
-- Chloe & Johanna (KSD) - [**Goal Setting and Encouragement**](https://learnit.itu.dk/course/view.php?id=3024771) [overleaf](https://www.overleaf.com/project/66fe82cd240aa0d51de7c0a4)
+#### Research Projects
+- Chloe & Johanna (KSD) - **Goal Setting and Encouragement** - [LearnIt](https://learnit.itu.dk/course/view.php?id=3024771), [Overleaf](https://www.overleaf.com/project/66fe82cd240aa0d51de7c0a4)
 - Bence, Robert, Lucian (KSD) - [**Evaluating and Enhancing the Scalability of React-Flask Web Applications**](https://learnit.itu.dk/course/view.php?id=3024841) (Paolo)
-- Philip, Joakim, Andreas - [**Speech-to-Text for L2L**](https://learnit.itu.dk/course/view.php?id=3024824) ([report](https://www.overleaf.com/project/6703f3e8746a92aef75be859))
+- Philip, Joakim, Andreas - **Speech-to-Text for L2L** - [LearnIt](https://learnit.itu.dk/course/view.php?id=3024824) ([Overleaf](https://www.overleaf.com/project/6703f3e8746a92aef75be859))
 - Louise & Sofia (KSD) - [**Visualizing Learner Knowledge Progress**](https://learnit.itu.dk/user/index.php?id=3024869) (C: Michele)
 
 ### Spring Semester 2025
