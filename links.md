@@ -46,12 +46,12 @@ GitHub Repos
 
 
 **Master Theses**
-- **Theodor** - [**Migrating React-Flask to PWA: A Case Study**](https://learnit.itu.dk/course/view.php?id=3024549)  (C: E)
-- **Sofie** - [**Mathscamp: Steps Toward Personalization**](https://learnit.itu.dk/course/view.php?id=3024553) (C: E)
+- **Theodor** - **Migrating React-Flask to PWA: A Case Study**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024549)  (C: E)
+- **Sofie** - **Mathscamp: Steps Toward Personalization** [LearnIt](https://learnit.itu.dk/course/view.php?id=3024553) (C: Ender)
 
 
 **BSc Theses**
-- Gustav K. - [CEFR Level Labeling](https://learnit.itu.dk/user/index.php?id=3024498) (C: E) [GitHub repository](>  [https://github.com/gustavkrist/bachelor](https://github.com/gustavkrist/bachelor)), [Overleaf Thesis](https://www.overleaf.com/project/673716fc5e674663a3f96c19)
+- Gustav K. - CEFR Level Labeling [LearnIt](https://learnit.itu.dk/user/index.php?id=3024498)  [GitHub repository](>  [https://github.com/gustavkrist/bachelor](https://github.com/gustavkrist/bachelor)), [Overleaf Thesis](https://www.overleaf.com/project/673716fc5e674663a3f96c19) (C: Ender)
 
 
 **Research Project**
