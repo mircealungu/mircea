@@ -46,15 +46,15 @@ GitHub Repos
 
 ### Supervisions Fall 2024 
 
-#### Master Theses
+#### Master Thesis
 - Theodor - **Migrating React-Flask to PWA: A Case Study** - [LearnIt](https://learnit.itu.dk/course/view.php?id=3024549)  (C: Ender)
 - Sofie - **MathsCamp: Steps Toward Personalization** - [LearnIt](https://learnit.itu.dk/course/view.php?id=3024553) (C: Ender)
 
 
-#### BSc Theses
-- Gustav K. - **CEFR Level Labeling** - [LearnIt](https://learnit.itu.dk/user/index.php?id=3024498)  [GHRepo](>  [https://github.com/gustavkrist/bachelor](https://github.com/gustavkrist/bachelor)), [Overleaf](https://www.overleaf.com/project/673716fc5e674663a3f96c19) (C: Ender)
+#### BSc Thesis
+- Gustav K. - **CEFR Level Labeling** - [LearnIt](https://learnit.itu.dk/user/index.php?id=3024498), [GHRepo](>  [https://github.com/gustavkrist/bachelor](https://github.com/gustavkrist/bachelor)), [Overleaf](https://www.overleaf.com/project/673716fc5e674663a3f96c19) (C: Ender)
 
-#### Research Projects
+#### Research Project
 - Chloe & Johanna (KSD) - **Goal Setting and Encouragement** - [LearnIt](https://learnit.itu.dk/course/view.php?id=3024771), [Overleaf](https://www.overleaf.com/project/66fe82cd240aa0d51de7c0a4)
 - Bence, Robert, Lucian (KSD) - [**Evaluating and Enhancing the Scalability of React-Flask Web Applications**](https://learnit.itu.dk/course/view.php?id=3024841) (Paolo)
 - Philip, Joakim, Andreas - **Speech-to-Text for L2L** - [LearnIt](https://learnit.itu.dk/course/view.php?id=3024824) ([Overleaf](https://www.overleaf.com/project/6703f3e8746a92aef75be859))
@@ -62,16 +62,17 @@ GitHub Repos
 
 ### Spring Semester 2025
 
-**BSc**
+#### BSc Thesis
 1. Sebastian, Casper - IDE-Integrated Interactive Architectural Diagrams for ArchLens
 2. Francisco - with Raul - ...
 
-**MSc SD**
+#### Master Thesis -- Software Design
 1. Chloe & Johanna - Streaks in Zeeguu
 2. Robert, Bence, Lucian - Scalability & Performance
 3. Louise & Sofia - Progress Visualization
 
-**MSc CS**
+#### Master Thesis -- Computer Science
+
 4. Philip, Joakim, Andreas - Speech2Text in L2 Learnig
 
 
