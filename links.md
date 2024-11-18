@@ -44,7 +44,7 @@ GitHub Repos
 
 
 
-### Fall 2024
+### Supervisions Fall 2024 
 
 **Master Theses**
 - Theodor - **Migrating React-Flask to PWA: A Case Study**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024549)  (C: E)
