@@ -4,7 +4,7 @@ Git-Truck is a project that aims to ease the understanding of the evolution of a
 
 - License: MIT
 - Source code & documentation: [github.com/git-truck](https://github.com/git-truck/git-truck)
-- To try it out run: `npm install git-truck && npm run git-truck`
+- To try it out run: `npx -y git-truck`
 - Contributors: Jonas, Thomas, Emil, Kristoffer, Dawid
 - Privacy: runs completely locally; does not upload anything to the cloud; can be used offline
 
