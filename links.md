@@ -4,15 +4,17 @@
 	- [Organization](https://github.com/zeeguu)
 	- [**Web**](https://github.com/zeeguu/web/): [pulls](https://github.com/zeeguu/web/pulls), [issues](https://github.com/zeeguu/web/issues)	
 	- [**API**](https://github.com/zeeguu/api): [pulls](https://github.com/zeeguu/api/pulls), [issues](https://github.com/zeeguu/api/issues)
-	- [**Browser Extension**](https://github.com/zeeguu/browser-extension): [pulls](https://github.com/zeeguu/browser-extension/pulls)) 
+	- [**Browser Extension**](https://github.com/zeeguu/browser-extension): [pulls](https://github.com/zeeguu/browser-extension/pulls), [issues](https://github.com/zeeguu/browser-extension/issues)
 	- [Readability Server](https://github.com/mircealungu/readability-server/) 
 	- [Ops Repo](https://github.com/mircealungu/zeeguu-ops) 
 - [DockerHub](https://hub.docker.com/?namespace=zeeguu)
+
 
 GitHub Repos
 - [**FMD**](https://github.com/flask-dashboard/Flask-MonitoringDashboard)
 - [Git-Truck](https://github.com/git-truck/git-truck) 
 - [Homepage](https://github.com/mircealungu/mircea)
+- [llm guidelines](https://github.com/se-ubt/llm-guidelines-website)
 
 
 **Courses**
@@ -63,17 +65,20 @@ GitHub Repos
 ### Spring Semester 2025
 
 #### BSc Thesis
-1. Sebastian, Casper - IDE-Integrated Interactive Architectural Diagrams for ArchLens
-2. Francisco - with Raul - ...
+1. **Sebastian, Casper** - IDE-Integrated Interactive Architectural Diagrams for ArchLens
+2. **Francisco** - with Raul - ...
+3. Requests
+	4. Albert, Carmen, Natalie --  Tools for the Junior Engineer || software engineering, DevOps, or related fields
+	5. Emilie, Olivia, Mathilde -- software visualization, tools for supporting software evolution and personalized learning environments 
 
 #### Master Thesis -- Software Design
 1. Chloe & Johanna - Streaks in Zeeguu
-2. Robert, Bence, Lucian - Scalability & Performance
-3. Louise & Sofia - Progress Visualization
+2. Robert, Bence, Lucian - Scalability & Performance (C: )
+3. Louise & Sofia - Progress Visualization (C: )
 
 #### Master Thesis -- Computer Science
 
-4. Philip, Joakim, Andreas - Speech2Text in L2 Learnig
+4. Philip, Joakim, Andreas - Speech2Text in L2 Learnig (C: Paolo)
 
 
 
