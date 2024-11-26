@@ -1,7 +1,7 @@
 
 # ArchLens 
 
-ArchLens ([GitHub](https://github.com/archlens/ArchLens)) is a project that aims to help developers keep track of the evolution of the structure of their systems by allowing them to quickly define module views and then visualizing their evolution. 
+ArchLens ([GitHub](https://github.com/archlens/ArchLens)) is a project that aims to help developers **keep track of the evolution of the structure of their systems** by allowing them to quickly define module views and then visualizing their evolution. 
 
 A [vision paper](https://www.overleaf.com/read/zbcctdmkbgpv#b4ce30) is written by Mircea about the project. 
 
@@ -9,7 +9,7 @@ A [vision paper](https://www.overleaf.com/read/zbcctdmkbgpv#b4ce30) is written b
 
 # Contributors
 
-Multiple students have contributed to the current version of Archlens over the years. 
+Multiple students have contributed to the current version of Archlens in their master's thesis and research projects: 
 - Nikolai Perlt Andersen
 - Jesper Kronborg Rusbjerg
 - Bjørnar Haugstad Jåtten
@@ -18,15 +18,17 @@ Multiple students have contributed to the current version of Archlens over the y
 - Simon Boye Jørgensen
 
 # Possible Student Projects
-- Port ArchLens to C# - when we were looking for participants for evaluating the earlier versions of ArchLens 
-- 
+
+Several possible future directions for ArchLens are: 
+1. Port ArchLens to C# - when we were looking for participants for evaluating the earlier versions of ArchLens with companies in Copenhagen it was hard to find companies that have Python systems. It would be wonderful if a team of students would port the analysis module to C# such that more people would benefit from it
+2. It would be good to have a [Smarter Selection Of Views Inserted as Comments in the PR](#Nov%202024%20-%20Smarter%20Selection%20Of%20Views%20Inserted%20as%20Comments%20in%20the%20PR) - indeed, now a view is inserted in the PR even if no diff is visible inside of it. 
 
 
 
 # Journalling the Use of ArchLens with Zeeguu API
 
 
-## Nov 2024 - 
+## Nov 2024 - Smarter Selection Of Views Inserted as Comments in the PR
 
 It would be good to be smarter on which views are introduced in the PR by the GH action. Currently views are introduced even if there is no visible element being added or removed in that view. 
 
