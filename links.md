@@ -14,7 +14,7 @@ GitHub Repos
 - [**FMD**](https://github.com/flask-dashboard/Flask-MonitoringDashboard)
 - [Git-Truck](https://github.com/git-truck/git-truck) 
 - [Homepage](https://github.com/mircealungu/mircea)
-- [llm guidelines](https://github.com/se-ubt/llm-guidelines-website)
+- [LLM Guidelines](https://github.com/se-ubt/llm-guidelines-website)
 
 
 **Courses**
