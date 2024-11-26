@@ -21,7 +21,7 @@ Multiple students have contributed to the current version of Archlens in their m
 
 Several possible future directions for ArchLens are: 
 1. Port ArchLens to C# - when we were looking for participants for evaluating the earlier versions of ArchLens with companies in Copenhagen it was hard to find companies that have Python systems. It would be wonderful if a team of students would port the analysis module to C# such that more people would benefit from it
-2. It would be good to have a [Smarter Selection Of Views Inserted as Comments in the PR](#Nov%202024%20-%20Smarter%20Selection%20Of%20Views%20Inserted%20as%20Comments%20in%20the%20PR) - indeed, now a view is inserted in the PR even if no diff is visible inside of it. 
+2. It would be good to have a *Smarter Selection Of Views Inserted as Comments in the PR* . Indeed, currently all the ArchLens views are always inserted in the PR even if no diff is visible inside of a given view. This is not smart because the developers will start ignoring the comments. Views should be highlighted in the pull request only if they highlight an actual change. See [the example below](#Nov%202024%20-%20Smarter%20Selection%20Of%20Views%20Inserted%20as%20Comments%20in%20the%20PR)
 
 
 
