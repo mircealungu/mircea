@@ -1,18 +1,39 @@
 
+# ArchLens 
+
 ArchLens ([GitHub](https://github.com/archlens/ArchLens)) is a project that aims to help developers keep track of the evolution of the structure of their systems by allowing them to quickly define module views and then visualizing their evolution. 
 
+A [vision paper](https://www.overleaf.com/read/zbcctdmkbgpv#b4ce30) is written by Mircea about the project. 
 
 
 
+# Contributors
 
+Multiple students have contributed to the current version of Archlens over the years. 
+- Nikolai Perlt Andersen
+- Jesper Kronborg Rusbjerg
+- Bjørnar Haugstad Jåtten
+- Magnus Albeck Klitmose
+- Mathias Baunsgaard Kristensen
+- Simon Boye Jørgensen
 
+# Possible Student Projects
+- Port ArchLens to C# - when we were looking for participants for evaluating the earlier versions of ArchLens 
+- 
 
 
 
 # Journalling the Use of ArchLens with Zeeguu API
 
 
-*Jun 11, 2024*
+## Nov 2024 - 
+
+It would be good to be smarter on which views are introduced in the PR by the GH action. Currently views are introduced even if there is no visible element being added or removed in that view. 
+
+
+
+![](attachments/archlens-should-be-smarter-when-showing-diffs.png)
+## Jun 11, 2024
 
 Looking at a PR from Tiago I see that he introduces a new dependency from API to core: 
 
