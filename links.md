@@ -46,39 +46,51 @@ GitHub Repos
 
 
 
-### Supervisions Fall 2024 
+## Supervisions 
+
+## Fall 2024 
 
 #### Master Thesis
 - Theodor - **Migrating React-Flask to PWA: A Case Study** - [LearnIt](https://learnit.itu.dk/course/view.php?id=3024549)  (C: Ender)
 - Sofie - **MathsCamp: Steps Toward Personalization** - [LearnIt](https://learnit.itu.dk/course/view.php?id=3024553) (C: Ender)
-
 
 #### BSc Thesis
 - Gustav K. - **CEFR Level Labeling** - [LearnIt](https://learnit.itu.dk/user/index.php?id=3024498), [GHRepo](>  [https://github.com/gustavkrist/bachelor](https://github.com/gustavkrist/bachelor)), [Overleaf](https://www.overleaf.com/project/673716fc5e674663a3f96c19) (C: Ender)
 
 #### Research Project
 - Chloe & Johanna (KSD) - **Goal Setting and Encouragement** - [LearnIt](https://learnit.itu.dk/course/view.php?id=3024771), [Overleaf](https://www.overleaf.com/project/66fe82cd240aa0d51de7c0a4)
-- Bence, Robert, Lucian (KSD) - [**Evaluating and Enhancing the Scalability of React-Flask Web Applications**](https://learnit.itu.dk/course/view.php?id=3024841) (Paolo)
+- Bence, Robert, Lucian (KSD) - [**Evaluating and Enhancing the Scalability of React-Flask Web Applications**](https://learnit.itu.dk/course/view.php?id=3024841) (C: Paolo)
 - Philip, Joakim, Andreas - **Speech-to-Text for L2L** - [LearnIt](https://learnit.itu.dk/course/view.php?id=3024824) ([Overleaf](https://www.overleaf.com/project/6703f3e8746a92aef75be859))
 - Louise & Sofia (KSD) - [**Visualizing Learner Knowledge Progress**](https://learnit.itu.dk/user/index.php?id=3024869) (C: Michele)
 
-### Spring Semester 2025
+### Spring 2025
 
 #### BSc Thesis
-1. **Sebastian, Casper** - IDE-Integrated Interactive Architectural Diagrams for ArchLens
-2. **Francisco** - with Raul - ...
-3. Requests
-	4. Albert, Carmen, Natalie --  Tools for the Junior Engineer || software engineering, DevOps, or related fields
-	5. Emilie, Olivia, Mathilde -- software visualization, tools for supporting software evolution and personalized learning environments 
+1. Sebastian, Casper - **ArchLens: Interactive Architectural Diagrams in the IDE** #archlens #bsc
+2. Albert, Carmen, Natalie - **Exception Support in FMD** #fmd #bsc
+3. Francisco - (with Raul) - **Bayesian Word-Knowledge Inference** in FRaVoPA  #bayesian #bsc #zeeguu-data-case-study
 
-#### Master Thesis -- Software Design
-1. Chloe & Johanna - Streaks in Zeeguu
-2. Robert, Bence, Lucian - Scalability & Performance (C: )
-3. Louise & Sofia - Progress Visualization (C: )
+Pending Requests
+- 
 
-#### Master Thesis -- Computer Science
 
-4. Philip, Joakim, Andreas - Speech2Text in L2 Learnig (C: Paolo)
+#### MSc Thesis -- Software Design
+1.  Robert, Bence, Lucian - **Scalability & Performance of Flask-Based APIs** #fmd #zeeguu-case-study #ksd 
+2. Chloe & Johanna - **Commitment and Streaks** in FRaVoPA #zeeguu-feature #ksd
+3. Louise & Sofia - **Progress Visualization** in FRaVoPA #zeeguu-feature #ksd 
+4. Philip, Jacob, Peter, August - GitTruck ? Zeeguu? 
+5. Martin & Silas - #zeeguu-feature ?Videos in FRaVoPA 
+
+Pending
+- Daria Mikhailovna - any projects within web-development that I could join with you being my supervisor? - she's to send me her info. 
+
+#### MSc Thesis -- Computer Science
+
+6. ? Philip, Joakim, Andreas - **Speech2Text in FRaVoPA** (?)
+
+Pending Requests
+- .. 
+
 
 
 
@@ -121,9 +133,8 @@ GitHub Repos
 **To share with students**
 - [Writing guidelines](https://github.com/mircealungu/student-projects/blob/master/writing_guidelines/README.md)
 - [A good abstract](https://github.com/mircealungu/student-projects/blob/master/thesis-abstract.md)
+- [preparing-a-presentation](preparing-a-presentation.md)
+- [thesis-and-project-exams](thesis-and-project-exams.md)
 -  todo
 	- checklist for submitting a thesis
 	- make sure to share your primary data
-	- checklist for presentation
-		- make sure to have slide numbers on every slide
-		- 

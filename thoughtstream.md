@@ -1,3 +1,40 @@
+jan 1
+
+Watching Daniel Naroditsky commenting live a game with somebody around my level on chess .com. It's a thing of beauty to see an expert do his thing. He takes all his time to explain how he thinks and even explains alternatives too. 
+
+Should we be doing the same with programming? Frontend development has quite a bit of complexity. I wonder, whether various front-end patterns would be as interesting as the chess openings and the various lines. 
+
+dec 30
+
+restarting to read thomas mann - joseph and his brothers - because I want to find a quotation in it. somewhere a character, and I think it's mai sakhme says something along the lines of: 
+
+> only stupid people are surprised in life; the wise can not be surprised because they have thought about all the possibilities
+
+i would like to adapt it to becoming angry. you become angry when you are usually surprised by something that you don't like. somebody cuts you in line. the food is too late to arrive. somebody does not do what you would like. if you got angry it means you were stupid: you did not think this possible. 
+
+reminds me of that story with the dalai lama being asked: "if you could time travel and sit in a cinema near hitler, could you avoid getting angry and killing him?" answered: "yes, kill him, but don't get angry". 
+
+** 
+
+First time i read the novel was in Romanian, and thought it was absolutely brilliant. am curious how will i feel about the english translation. But it's already promising... look at the beauty of this passage: 
+
+![](attachments/Pasted%20image%2020241230235114.png)
+
+or: 
+
+![](attachments/Pasted%20image%2020241231003905.png)
+
+and the length of this phrase: 
+
+![](attachments/Pasted%20image%2020241231073552.png)
+
+or this: 
+![](attachments/Pasted%20image%2020250102233329.png)
+
+or:
+
+![](attachments/Pasted%20image%2020250102233510.png)
+
 nov 17
 
 Symphony 5 in C Minor - 3rd movement -- majestic and sweet at the same time. 
