@@ -1,3 +1,16 @@
+jan 7
+
+you have such a great responsibility when you're naming things: listening to my team having to use the term "bookmark" for a translation, and not being able to change it because it's so deep in the system that it would be too much effort. 
+
+** 
+
+we are all tempted to come up with technological solutions to social problems. we do not see it in ourselves, but it's so easy to see it in others. you look at them and you think? why do you do that? it's not needed. however, your own idea-of-software-that-the-world-needs  are absolutely essential and if they happened, they would make the world such a much better place. 
+
+
+jan 6
+
+ruy-lopez, the schilieman variation - looks quite nice. must try it :)
+
 jan 1
 
 Watching Daniel Naroditsky commenting live a game with somebody around my level on chess .com. It's a thing of beauty to see an expert do his thing. He takes all his time to explain how he thinks and even explains alternatives too. 
