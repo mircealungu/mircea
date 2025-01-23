@@ -16,11 +16,17 @@ GitHub Repos
 - [Homepage](https://github.com/mircealungu/mircea)
 - [LLM Guidelines](https://github.com/se-ubt/llm-guidelines-website)
 
+Submissions
+- Polyglot Gathering: https://docs.google.com/forms/d/e/1FAIpQLSdlPsKWE6fEozbsiNO6jd1_MY8_4tJRZ4KTbpwskznq53EsPw/viewform
+- 
+
 
 **Courses**
 
 Spring 2025
 - **Software Architecture**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024304)
+- DevOps
+
 
 Fall 2024
 - **ASE**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3023599), [TimeEdit](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X360Q90YQ52x5YZ61ZY1Q9y5695Y05X58207QX01433Yg56092gX64Y09Q5.html) ([exams](https://cloud.timeedit.net/itu/web/public/ri1005899YX425Q8X0Q0Y98YZ011Y2YXX5X885052582415X5Y25055315510YXY7005X51215555X9X100Y022Y50XY6729X0Y2XY5Z2g4Q0gy9605x0466593Q8YZg5Q9Y01662X0Y5.html)), [Course Description](https://learnit.itu.dk/local/coursebase/view.php?ciid=1486), Past: [2023](https://learnit.itu.dk/course/view.php?id=3022230) 
@@ -53,6 +59,38 @@ Fall 2024
 
 ## Supervisions 
 
+
+
+### Spring 2025
+
+#### Research Project
+- Jonas Rossum - Language-Independent Complexity Metric in GitTruck?
+
+
+#### BSc Thesis
+1. Sebastian, Casper - **ArchLens: Interactive Architectural Diagrams in the IDE** #archlens #bsc
+2. Albert, Carmen, Natalie - **Exception Support in FMD** #fmd #bsc
+3. Francisco - (with Raul) - **Bayesian Word-Knowledge Inference** in FRaVoPA  #bayesian #bsc #zeeguu-data-case-study
+
+
+#### MSc Thesis -- Software Design
+1.  Robert, Bence, Lucian - **Scalability & Performance of Flask-Based APIs** #fmd #zeeguu-case-study #ksd 
+2. Chloe & Johanna - **Commitment and Streaks** in FRaVoPA #zeeguu-feature #ksd
+3. Louise & Sofia - **Progress Visualization** in FRaVoPA #zeeguu-feature #ksd 
+4. Martin & Silas - **Videos in FRaVoPA**  #zeeguu-feature
+5. Philip, Joakim, Andreas - **Speech2Text in FRaVoPA** (?) 
+
+
+#### MSc Thesis -- Computer Science
+- ... 
+
+
+Pending
+- Philip, Jacob, Peter, August - GitTruck ? Zeeguu? 
+
+
+
+
 ## Fall 2024 
 
 #### Master Thesis
@@ -68,33 +106,9 @@ Fall 2024
 - Philip, Joakim, Andreas - **Speech-to-Text for L2L** - [LearnIt](https://learnit.itu.dk/course/view.php?id=3024824) ([Overleaf](https://www.overleaf.com/project/6703f3e8746a92aef75be859))
 - Louise & Sofia (KSD) - [**Visualizing Learner Knowledge Progress**](https://learnit.itu.dk/user/index.php?id=3024869) (C: Michele)
 
-### Spring 2025
-
-#### BSc Thesis
-1. Sebastian, Casper - **ArchLens: Interactive Architectural Diagrams in the IDE** #archlens #bsc
-2. Albert, Carmen, Natalie - **Exception Support in FMD** #fmd #bsc
-3. Francisco - (with Raul) - **Bayesian Word-Knowledge Inference** in FRaVoPA  #bayesian #bsc #zeeguu-data-case-study
-
-Pending Requests
-- 
 
 
-#### MSc Thesis -- Software Design
-1.  Robert, Bence, Lucian - **Scalability & Performance of Flask-Based APIs** #fmd #zeeguu-case-study #ksd 
-2. Chloe & Johanna - **Commitment and Streaks** in FRaVoPA #zeeguu-feature #ksd
-3. Louise & Sofia - **Progress Visualization** in FRaVoPA #zeeguu-feature #ksd 
-4. Philip, Jacob, Peter, August - GitTruck ? Zeeguu? 
-5. Martin & Silas - #zeeguu-feature ?Videos in FRaVoPA 
 
-Pending
-- Daria Mikhailovna - any projects within web-development that I could join with you being my supervisor? - she's to send me her info. 
-
-#### MSc Thesis -- Computer Science
-
-6. ? Philip, Joakim, Andreas - **Speech2Text in FRaVoPA** (?)
-
-Pending Requests
-- .. 
 
 
 
