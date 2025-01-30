@@ -64,7 +64,9 @@ Fall 2024
 ### Spring 2025
 
 #### Research Project
-- Jonas Rossum - Language-Independent Complexity Metric in GitTruck?
+- Jonas Rossum - Fast, Language-Independent Complexity Metrics in GitTruck
+- Maria Henriksen - ? 
+- Emil Højgaard & Anne - zeeguu-related? - upload images? 
 
 
 #### BSc Thesis
@@ -78,15 +80,12 @@ Fall 2024
 2. Chloe & Johanna - **Commitment and Streaks** in FRaVoPA #zeeguu-feature #ksd
 3. Louise & Sofia - **Progress Visualization** in FRaVoPA #zeeguu-feature #ksd 
 4. Martin & Silas - **Videos in FRaVoPA**  #zeeguu-feature
-5. Philip, Joakim, Andreas - **Speech2Text in FRaVoPA** (?) 
 
 
 #### MSc Thesis -- Computer Science
 - ... 
 
 
-Pending
-- Philip, Jacob, Peter, August - GitTruck ? Zeeguu? 
 
 
 
