@@ -1,3 +1,20 @@
+jan 30
+
+should one invest in apple in a.d. 2025? 
+- yes. technology, hardware and software well done are still going to be important ten years from now. and the leadership position is going to be hard to beat. ; 
+- no - the fragmentation of the whole world into two spheres will limit the "growth" that the markets are looking for. apple won't be able to keep growing anymore. also, as usual... the chinese will come and hit them strong (e.g. xiaomi, huawei, et al.). Still, their ecosystem and network effect is going to be with us for the long term. 
+
+The quality of their product? They really create seamless integrations and slowly keep innovating. And though they have small problems at the edge of their software offering - e.g., the fact that T's music account was still in Switzerland because it was associated with some inexistent credit card info from 10 years ago (!?) overall they still produce some of the highest quality software / hardware at the moment. Including the wonderful assistive mode that i use for T. 
+
+So as of Jan 30, 2025 AAPL is a buy for 1 year, 5 years, and 10 years. 
+
+
+
+jan 29
+
+the mind can be either a producer or a consumer. be a producer. 
+
+
 jan 7
 
 you have such a great responsibility when you're naming things: listening to my team having to use the term "bookmark" for a translation, and not being able to change it because it's so deep in the system that it would be too much effort. 
