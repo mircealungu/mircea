@@ -17,8 +17,8 @@ GitHub Repos
 - [LLM Guidelines](https://github.com/se-ubt/llm-guidelines-website)
 
 Submissions
-- Polyglot Gathering: https://docs.google.com/forms/d/e/1FAIpQLSdlPsKWE6fEozbsiNO6jd1_MY8_4tJRZ4KTbpwskznq53EsPw/viewform
-- 
+- [Polyglot Gathering](https://docs.google.com/forms/d/e/1FAIpQLSdlPsKWE6fEozbsiNO6jd1_MY8_4tJRZ4KTbpwskznq53EsPw/viewform)
+- ... 
 
 
 **Courses**
