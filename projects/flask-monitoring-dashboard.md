@@ -9,6 +9,11 @@ The project aims to support the small company or the individual developer have a
 
 
 
+## Case Studies
+
+- [A Performance Problem](../notes/A-Performance-Problem.md)
+- [Who Uses this Endpoint](../notes/who-uses-this-endpoint.md)
+
 ## Papers
 1. [**A Low-Effort Analytics Platform for Visualizing Evolving Flask-Based Python Web Services**](/docs/assets/papers/17-Vissoft-FMD.pdf) 
 	- a paper that presents the tool
