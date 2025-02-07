@@ -1,5 +1,7 @@
 # Who Uses This Endpoint
 
+*Feb 7, 2025*
+
 Very often, when you have an API you wonder - is anybody using this endpoint. Well, once it's public, you can never be sure... but when you are the owner of both front-end and backend you can have more confidence. Even so, sometimes you're not sure, and a tool like FMD can remove the doubts. 
 
 Today we were looking with Tiago at two endpoints, a GET and a POST, and we were not whether they were both called by the front-end or not. After a quick glimpse at the FMD it became clear: the second one has never been called, while the first has been called multiple times today, this week, and overall. 
