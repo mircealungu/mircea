@@ -65,8 +65,7 @@ Fall 2024
 
 #### Research Project
 - Jonas Rossum - Fast, Language-Independent Complexity Metrics in GitTruck
-- Maria Henriksen - ? 
-- Emil Højgaard & Anne - zeeguu-related? - upload images? 
+- Emil, Anne, Marie  - **Any Page as Context for Zeeguu**
 
 
 #### BSc Thesis
@@ -77,9 +76,9 @@ Fall 2024
 
 #### MSc Thesis -- Software Design
 1.  Robert, Bence, Lucian - **Scalability & Performance of Flask-Based APIs** #fmd #zeeguu-case-study #ksd 
-2. Chloe & Johanna - **Commitment and Streaks** in FRaVoPA #zeeguu-feature #ksd
-3. Louise & Sofia - **Progress Visualization** in FRaVoPA #zeeguu-feature #ksd 
-4. Martin & Silas - **Videos in FRaVoPA**  #zeeguu-feature
+2. Chloe & Johanna - **Commitment and Streaks** in Zeeguu #zeeguu-feature #ksd
+3. Martin & Silas - **Videos in Zeeguu**  #zeeguu-feature
+4. Luisa - ... ? 
 
 
 #### MSc Thesis -- Computer Science
