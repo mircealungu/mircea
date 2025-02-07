@@ -9,7 +9,7 @@ The project aims to support the small company or the individual developer have a
 
 
 
-## Case Studies
+## Notes About FMD 
 
 - [A Performance Problem](../notes/A-Performance-Problem.md)
 - [Who Uses this Endpoint](../notes/who-uses-this-endpoint.md)
