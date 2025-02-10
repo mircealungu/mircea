@@ -25,7 +25,8 @@ Submissions
 
 Spring 2025
 - **Software Architecture**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024304)
-- DevOps
+- [**DevOps GitHub**](https://github.com/itu-devops/lecture_notes) - LearnIt
+
 
 
 Fall 2024
