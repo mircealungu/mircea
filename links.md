@@ -15,6 +15,8 @@ GitHub Repos
 - [Git-Truck](https://github.com/git-truck/git-truck) 
 - [Homepage](https://github.com/mircealungu/mircea)
 - [LLM Guidelines](https://github.com/se-ubt/llm-guidelines-website)
+- [ArchLens](https://github.com/archlens/)
+
 
 Submissions
 - [Polyglot Gathering](https://docs.google.com/forms/d/e/1FAIpQLSdlPsKWE6fEozbsiNO6jd1_MY8_4tJRZ4KTbpwskznq53EsPw/viewform)
@@ -64,27 +66,22 @@ Fall 2024
 
 ### Spring 2025
 
-#### Research Project
-- Jonas Rossum - Fast, Language-Independent Complexity Metrics in GitTruck
-- Emil, Anne, Marie  - **Any Page as Context for Zeeguu**
+#### Research Project (2)
+1. Jonas Rossum - Fast, Language-Independent Complexity Metrics in GitTruck
+2. Emil, Anne, Marie  - **Any Page as Context for Zeeguu**
 
 
-#### BSc Thesis
-1. Sebastian, Casper - **ArchLens: Interactive Architectural Diagrams in the IDE** #archlens #bsc
-2. Albert, Carmen, Natalie - **Exception Support in FMD** #fmd #bsc
-3. Francisco - (with Raul) - **Bayesian Word-Knowledge Inference** in FRaVoPA  #bayesian #bsc #zeeguu-data-case-study
+#### BSc Thesis (3)
+3. Sebastian, Casper - **ArchLens: Interactive Architectural Diagrams in the IDE** #archlens #bsc
+4. Albert, Carmen, Natalie - **Exception Support in FMD** #fmd #bsc
+5. Francisco - (with Raul) - **Bayesian Word-Knowledge Inference** in FRaVoPA  #bayesian #bsc #zeeguu-data-case-study
 
 
-#### MSc Thesis -- Software Design
-1.  Robert, Bence, Lucian - **Scalability & Performance of Flask-Based APIs** #fmd #zeeguu-case-study #ksd 
-2. Chloe & Johanna - **Commitment and Streaks** in Zeeguu #zeeguu-feature #ksd
-3. Martin & Silas - **Videos in Zeeguu**  #zeeguu-feature
-4. Luisa - ... ? 
-
-
-#### MSc Thesis -- Computer Science
-- ... 
-
+#### MSc Thesis -- Software Design (4)
+6.  Robert, Bence, Lucian - **Scalability & Performance of Flask-Based APIs** #fmd #zeeguu-case-study #ksd 
+7. Chloe & Johanna - **Commitment and Streaks** in Zeeguu #zeeguu-feature #ksd
+8. Martin & Silas - **Videos in Zeeguu**  #zeeguu-feature
+9. Luisa - ... ? 
 
 
 
