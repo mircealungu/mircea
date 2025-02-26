@@ -7,12 +7,19 @@
 
 | [**Web**](https://github.com/zeeguu/web/): [pulls](https://github.com/zeeguu/web/pulls), [issues](https://github.com/zeeguu/web/issues)	| [**API**](https://github.com/zeeguu/api): [pulls](https://github.com/zeeguu/api/pulls), [issues](https://github.com/zeeguu/api/issues) | [**Extension**](https://github.com/zeeguu/browser-extension): [pulls](https://github.com/zeeguu/browser-extension/pulls), [issues](https://github.com/zeeguu/browser-extension/issues) | [Ops](https://github.com/mircealungu/zeeguu-ops) |
 
-| GCP: [Instances](https://console.cloud.google.com/compute/instances), [Billing](https://console.cloud.google.com/billing/) | Hetzner:  [Robot](https://robot.hetzner.com/server) | 
-
 
 **Projects**
 
 | [**FMD**](https://github.com/flask-dashboard/Flask-MonitoringDashboard) | [**ArchLens**](https://github.com/archlens/) | [**Git-Truck**](https://github.com/git-truck/git-truck)  | 
+
+
+
+**Courses Spring 2025**
+
+| [TimeEdit](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X560Q90YQ59x5YZ61ZY1Q6y5695Y05X59207QX01483Yg56092gX64Y09Q5.html) | Software Architecture: [**LearnIt**](https://learnit.itu.dk/course/view.php?id=3024304) | DevOps: [**GitHub**](https://github.com/itu-devops/lecture_notes) | 
+
+
+**Writing**
 
 | [Homepage](https://github.com/mircealungu/mircea) | [LLM Guidelines](https://github.com/se-ubt/llm-guidel¬ines-website) |  
 
@@ -22,9 +29,6 @@
 | [Polyglot Gathering](https://docs.google.com/forms/d/e/1FAIpQLSdlPsKWE6fEozbsiNO6jd1_MY8_4tJRZ4KTbpwskznq53EsPw/viewform) | [EuroCALL](https://www.openconf.org/EUROCALL2025/author/) |
 
 
-**Courses Spring 2025**
-
-| [TimeEdit](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X560Q90YQ59x5YZ61ZY1Q6y5695Y05X59207QX01483Yg56092gX64Y09Q5.html) | Software Architecture: [**LearnIt**](https://learnit.itu.dk/course/view.php?id=3024304) | DevOps: [**GitHub**](https://github.com/itu-devops/lecture_notes) | 
 
 
 
@@ -69,6 +73,11 @@ FAQ:
 - Exam types at ITU: [groups](https://intranet.itu.dk/-/media/Intranet/Teacher-Guide/Teaching-and-Examination/Conducting-exams/Oral-Group-Exam-Sub-Forms_Sept2019-pdf.pdf)
 - EHK 4th [floor map](attachments/ehk-4th-floor-map.png)
 - Adding articles in [pure]([https://pure.itu.dk/admin/](https://pure.itu.dk/admin/))
+
+
+**Infra**
+
+| GCP: [Instances](https://console.cloud.google.com/compute/instances), [Billing](https://console.cloud.google.com/billing/) | Hetzner:  [Robot](https://robot.hetzner.com/server) | 
 
 
 ## Censoring
