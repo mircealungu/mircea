@@ -1,4 +1,4 @@
-| [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) |  [WebPrint](https://ituwebprint.itu.dk/RicohmyPrint/Main.aspx)| 
+| [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) |  [WebPrint](https://ituwebprint.itu.dk/RicohmyPrint/Main.aspx)| [Outlook](https://outlook.office.com/owa/?exsvurl=1&path=/calendar/view/WorkWeek) | 
 
 
 **Zeeguu**
@@ -69,8 +69,7 @@
 
  | [Administrative abc](https://intranet.itu.dk/Administrative-ABC) | Funding Support [pre-award links](https://intranet.itu.dk/Administrative-ABC/F/Funding-Support/Funding-Support/Pre-award#danish-foundations) | [faq](https://docs.google.com/document/d/18x3zhD_KzfnsvPvJN5wATnjb287UBi5kzIAXTGv1I9Y/edit) | 
  
-- [censor list](https://services2.brics.dk/censor/)
-- [Outlook](https://outlook.office.com/owa/?exsvurl=1&path=/calendar/view/WorkWeek)
+
 - [Talent Recruiter / hr-manager](https://recruiter.hr-manager.net/Sys/DesktopDefault.aspx?tabalias=clappterm&cid=119)
 - Exam types at ITU: [groups](https://intranet.itu.dk/-/media/Intranet/Teacher-Guide/Teaching-and-Examination/Conducting-exams/Oral-Group-Exam-Sub-Forms_Sept2019-pdf.pdf)
 - [sog.kb.dk](https://soeg.kb.dk/discovery/search?vid=45KBDK_KGL:KGL)
@@ -89,6 +88,7 @@
 
 ## Censoring
 - [aau digitaleksam](https://digitaleksamen.aau.dk/)
+- [censor list](https://services2.brics.dk/censor/)
 
 
 ## Copenhagen
