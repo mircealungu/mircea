@@ -8,9 +8,11 @@
 | [**Web**](https://github.com/zeeguu/web/): [pulls](https://github.com/zeeguu/web/pulls), [issues](https://github.com/zeeguu/web/issues)	| [**API**](https://github.com/zeeguu/api): [pulls](https://github.com/zeeguu/api/pulls), [issues](https://github.com/zeeguu/api/issues) | [**Extension**](https://github.com/zeeguu/browser-extension): [pulls](https://github.com/zeeguu/browser-extension/pulls), [issues](https://github.com/zeeguu/browser-extension/issues) | [Readability Server](https://github.com/mircealungu/readability-server/) | [Ops](https://github.com/mircealungu/zeeguu-ops) | 
 
 
-**GitHub Repos**
+**Projects**
 
-| [**FMD**](https://github.com/flask-dashboard/Flask-MonitoringDashboard) | [**ArchLens**](https://github.com/archlens/) | [**Git-Truck**](https://github.com/git-truck/git-truck)  | [Homepage](https://github.com/mircealungu/mircea) | [LLM Guidelines](https://github.com/se-ubt/llm-guidel¬ines-website) |  
+| [**FMD**](https://github.com/flask-dashboard/Flask-MonitoringDashboard) | [**ArchLens**](https://github.com/archlens/) | [**Git-Truck**](https://github.com/git-truck/git-truck)  | 
+
+| [Homepage](https://github.com/mircealungu/mircea) | [LLM Guidelines](https://github.com/se-ubt/llm-guidel¬ines-website) |  
 
 
 **Submissions**
