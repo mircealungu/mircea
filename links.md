@@ -1,7 +1,6 @@
 | [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) |  [WebPrint](https://ituwebprint.itu.dk/RicohmyPrint/Main.aspx)| 
 
 
-
 **Zeeguu**
 
 | [Reports](https://zeeguu.org/reports) | [DockerHub](https://hub.docker.com/?namespace=zeeguu) | [ GH Org](https://github.com/zeeguu)
@@ -19,10 +18,31 @@
 | [Polyglot Gathering](https://docs.google.com/forms/d/e/1FAIpQLSdlPsKWE6fEozbsiNO6jd1_MY8_4tJRZ4KTbpwskznq53EsPw/viewform) | [EuroCALL](https://www.openconf.org/EUROCALL2025/author/) |
 
 
-**Courses**
+**Courses Spring 2025**
 
-| Spring 2025 | **Software Architecture**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024304) | [**DevOps GitHub**](https://github.com/itu-devops/lecture_notes) - LearnIt | 
+| **Software Architecture**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024304) | [**DevOps GitHub**](https://github.com/itu-devops/lecture_notes) - LearnIt | 
 
+
+
+## Supervisions 
+
+### Spring 2025
+
+#### Research Project (2)
+1. Jonas Rossum - Fast, Language-Independent Complexity Metrics in GitTruck
+2. Emil, Anne, Marie  - **Any Page as Context for Zeeguu** [Word-extractor-Extension](https://github.com/emilHojgaard/Word-Extractor) 
+
+
+#### BSc Thesis (3)
+1. Sebastian, Casper - **ArchLens: Interactive Architectural Diagrams in the IDE** #archlens #bsc
+2. Albert, Carmen, Natalie - **Exception Support in FMD** #fmd #bsc
+3. Francisco - (with Raul) - **Bayesian Word-Knowledge Inference** in FRaVoPA  #bayesian #bsc #zeeguu-data-case-study
+
+
+#### MSc Thesis -- Software Design (4)
+1. Robert, Bence, Lucian - **[Evaluating User Capacity of N-Tier Web Services via Latency and Throughput Analysis](https://learnit.itu.dk/user/index.php?id=3025170)** #fmd #zeeguu-case-study #ksd 
+2. Chloe & Johanna - **Commitment and Streaks** in Zeeguu #zeeguu-feature #ksd
+3. Martin & Silas - **Videos in Zeeguu**  #zeeguu-feature
 
 
 ## **To share with students**
@@ -57,25 +77,7 @@
 - Adding articles in [pure]([https://pure.itu.dk/admin/](https://pure.itu.dk/admin/))
 
 
-## Supervisions 
 
-### Spring 2025
-
-#### Research Project (2)
-1. Jonas Rossum - Fast, Language-Independent Complexity Metrics in GitTruck
-2. Emil, Anne, Marie  - **Any Page as Context for Zeeguu** [Word-extractor-Extension](https://github.com/emilHojgaard/Word-Extractor) 
-
-
-#### BSc Thesis (3)
-3. Sebastian, Casper - **ArchLens: Interactive Architectural Diagrams in the IDE** #archlens #bsc
-4. Albert, Carmen, Natalie - **Exception Support in FMD** #fmd #bsc
-5. Francisco - (with Raul) - **Bayesian Word-Knowledge Inference** in FRaVoPA  #bayesian #bsc #zeeguu-data-case-study
-
-
-#### MSc Thesis -- Software Design (4)
-1. Robert, Bence, Lucian - **[Evaluating User Capacity of N-Tier Web Services via Latency and Throughput Analysis](https://learnit.itu.dk/user/index.php?id=3025170)** #fmd #zeeguu-case-study #ksd 
-2. Chloe & Johanna - **Commitment and Streaks** in Zeeguu #zeeguu-feature #ksd
-3. Martin & Silas - **Videos in Zeeguu**  #zeeguu-feature
 
 
 
