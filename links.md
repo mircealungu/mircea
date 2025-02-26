@@ -13,7 +13,6 @@
 | [**FMD**](https://github.com/flask-dashboard/Flask-MonitoringDashboard) | [**ArchLens**](https://github.com/archlens/) | [**Git-Truck**](https://github.com/git-truck/git-truck)  | 
 
 
-
 **Courses Spring 2025**
 
 | [TimeEdit](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X560Q90YQ59x5YZ61ZY1Q6y5695Y05X59207QX01483Yg56092gX64Y09Q5.html) | Software Architecture: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024304) | DevOps: [GitHub](https://github.com/itu-devops/lecture_notes) | 
@@ -21,15 +20,12 @@
 
 **Writing**
 
-| [Homepage](https://github.com/mircealungu/mircea) | [LLM Guidelines](https://github.com/se-ubt/llm-guidel¬ines-website) |  
+| [Homepage](https://github.com/mircealungu/mircea) | [LLM Guidelines](https://github.com/se-ubt/llm-guidelines-website) |  
 
 
 **Submissions**
 
 | [Polyglot Gathering](https://docs.google.com/forms/d/e/1FAIpQLSdlPsKWE6fEozbsiNO6jd1_MY8_4tJRZ4KTbpwskznq53EsPw/viewform) | [EuroCALL](https://www.openconf.org/EUROCALL2025/author/) |
-
-
-
 
 
 ## Supervisions 
