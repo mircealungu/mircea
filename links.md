@@ -7,7 +7,7 @@
 
 | [**Web**](https://github.com/zeeguu/web/): [pulls](https://github.com/zeeguu/web/pulls), [issues](https://github.com/zeeguu/web/issues)	| [**API**](https://github.com/zeeguu/api): [pulls](https://github.com/zeeguu/api/pulls), [issues](https://github.com/zeeguu/api/issues) | [**Extension**](https://github.com/zeeguu/browser-extension): [pulls](https://github.com/zeeguu/browser-extension/pulls), [issues](https://github.com/zeeguu/browser-extension/issues) | [Ops](https://github.com/mircealungu/zeeguu-ops) |
 
-| [Google Cloud Compute Instances](https://console.cloud.google.com/compute/instances) [Billing](https://console.cloud.google.com/billing/) | [Hetzner Robot](https://robot.hetzner.com/server) | 
+| GCP: [Instances](https://console.cloud.google.com/compute/instances) [Billing](https://console.cloud.google.com/billing/) | Hetzner:  [Robot](https://robot.hetzner.com/server) | 
 
 
 **Projects**
@@ -61,7 +61,7 @@
 
 **ITU**
 
-| [Ibistic](https://services.ibistic.net/MP/AspxHost.aspx?key=AVcBT1rugkyVP60M9CAUybpM5yzvIThMqLVwf7sSoCcbaH44n%2bL3ZkWWAT1gRSy%2bm2IY2PvIyP2T8pVblrRSwHAJ0dVcoi%2fRXuMNY1EPGKvCqZpx7RZG3bslqlIlGAzxxSwUYMO3uuQC2RFLMuNTkCjmpG%2bXkz6QxUYtUCKArtwYq2%2bFeYonSDw5HKe3THhoMg6hrCKWBdff1DryF8%2fICoXWMEvRos848o2BpKhfhSgi%2bWDUw71LzaZl3pUgGNrrN1hl8xr%2b2usbqv1OZ6haV%2bNluOfFrnyi8oCtpgQJe9FEeXnpgaiH2WFFA6qgQW0NEzRzt80AUU0SWzPvXi1EpBfR8Iei5lUZL%2b7lvA4rAPXfbEC0JQ3m4z680qV45lT9AFVdtEd6QI4E2k6AAaTJLASB%2fLru3d5Suc8jBepne4FwSIT3bhGYP%2fyE6fiyZBaUCtI5RDLSipF2cLU9cta5qYrloFp8LUNyljqFft1Om0zi%2fz9f2cGuhWHXgvEzBxUK0oaC%2bQVLup%2bNw5IMhgpcwG3XvMHSlNG3HUyIKVASSl70hERgdnraOjsyYJUEJuIuIKfOot%2f9dGYa82uRLF50CalsDl%2b63biP5SBJE%2bnAKtY7nYAQ&__tt=3) | [Time-edit](https://timeedit.itu.dk/) | [Administrative abc](https://intranet.itu.dk/Administrative-ABC) | [HR-manager](https://recruiter.hr-manager.net/Sys/DesktopDefault.aspx?tabalias=clappterm&cid=119) | 
+| [Ibistic](https://services.ibistic.net/MP/AspxHost.aspx?key=AVcBT1rugkyVP60M9CAUybpM5yzvIThMqLVwf7sSoCcbaH44n%2bL3ZkWWAT1gRSy%2bm2IY2PvIyP2T8pVblrRSwHAJ0dVcoi%2fRXuMNY1EPGKvCqZpx7RZG3bslqlIlGAzxxSwUYMO3uuQC2RFLMuNTkCjmpG%2bXkz6QxUYtUCKArtwYq2%2bFeYonSDw5HKe3THhoMg6hrCKWBdff1DryF8%2fICoXWMEvRos848o2BpKhfhSgi%2bWDUw71LzaZl3pUgGNrrN1hl8xr%2b2usbqv1OZ6haV%2bNluOfFrnyi8oCtpgQJe9FEeXnpgaiH2WFFA6qgQW0NEzRzt80AUU0SWzPvXi1EpBfR8Iei5lUZL%2b7lvA4rAPXfbEC0JQ3m4z680qV45lT9AFVdtEd6QI4E2k6AAaTJLASB%2fLru3d5Suc8jBepne4FwSIT3bhGYP%2fyE6fiyZBaUCtI5RDLSipF2cLU9cta5qYrloFp8LUNyljqFft1Om0zi%2fz9f2cGuhWHXgvEzBxUK0oaC%2bQVLup%2bNw5IMhgpcwG3XvMHSlNG3HUyIKVASSl70hERgdnraOjsyYJUEJuIuIKfOot%2f9dGYa82uRLF50CalsDl%2b63biP5SBJE%2bnAKtY7nYAQ&__tt=3) | [TimeEdit](https://timeedit.itu.dk/) | [Administrative abc](https://intranet.itu.dk/Administrative-ABC) | [HR-manager](https://recruiter.hr-manager.net/Sys/DesktopDefault.aspx?tabalias=clappterm&cid=119) | 
 
 | Funding Support [pre-award links](https://intranet.itu.dk/Administrative-ABC/F/Funding-Support/Funding-Support/Pre-award#danish-foundations) | [sog.kb.dk](https://soeg.kb.dk/discovery/search?vid=45KBDK_KGL:KGL) | [Faculty Meetings Wiki](https://wiki.itu.dk/computerscience/index.php/Department_faculty_meetings)  | 
 
