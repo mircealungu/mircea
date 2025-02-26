@@ -20,7 +20,7 @@
 
 **Courses Spring 2025**
 
-| **Software Architecture**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024304) | [**DevOps GitHub**](https://github.com/itu-devops/lecture_notes) - LearnIt | 
+| [Time Edit](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X560Q90YQ59x5YZ61ZY1Q6y5695Y05X59207QX01483Yg56092gX64Y09Q5.html) | Software Architecture [**LearnIt**](https://learnit.itu.dk/course/view.php?id=3024304) | DevOps [**GitHub**](https://github.com/itu-devops/lecture_notes) - LearnIt | 
 
 
 
