@@ -5,7 +5,7 @@
 
 | [Reports](https://zeeguu.org/reports) | [DockerHub](https://hub.docker.com/?namespace=zeeguu) | [ Org](https://github.com/zeeguu) | 
 
-| [**Web**](https://github.com/zeeguu/web/): [pulls](https://github.com/zeeguu/web/pulls), [issues](https://github.com/zeeguu/web/issues)	| [**API**](https://github.com/zeeguu/api): [pulls](https://github.com/zeeguu/api/pulls), [issues](https://github.com/zeeguu/api/issues) | [**Extension**](https://github.com/zeeguu/browser-extension): [pulls](https://github.com/zeeguu/browser-extension/pulls), [issues](https://github.com/zeeguu/browser-extension/issues) | [Readability Server](https://github.com/mircealungu/readability-server/) | [Ops](https://github.com/mircealungu/zeeguu-ops) | 
+| [**Web**](https://github.com/zeeguu/web/): [pulls](https://github.com/zeeguu/web/pulls), [issues](https://github.com/zeeguu/web/issues)	| [**API**](https://github.com/zeeguu/api): [pulls](https://github.com/zeeguu/api/pulls), [issues](https://github.com/zeeguu/api/issues) | [**Extension**](https://github.com/zeeguu/browser-extension): [pulls](https://github.com/zeeguu/browser-extension/pulls), [issues](https://github.com/zeeguu/browser-extension/issues) | [Ops](https://github.com/mircealungu/zeeguu-ops) |
 
 
 **Projects**
