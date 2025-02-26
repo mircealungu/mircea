@@ -20,7 +20,7 @@
 
 **Writing**
 
-| [Homepage](https://github.com/mircealungu/mircea) | [LLM Guidelines](https://github.com/se-ubt/llm-guidelines-website) |  
+| [Homepage](https://github.com/mircealungu/mircea) | LLM Guidelines: [GitHub](https://github.com/se-ubt/llm-guidelines-website), [Spreadsheet](https://docs.google.com/spreadsheets/d/14p3seQdfeFo3d3Qx21KDpsqabpXQqUFPKwB03zueKbk/edit?gid=0#gid=0) |  
 
 
 **Submissions**
