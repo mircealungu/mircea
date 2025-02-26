@@ -3,16 +3,14 @@
 
 
 **Zeeguu**
-| [Reports](https://zeeguu.org/reports) | [DockerHub](https://hub.docker.com/?namespace=zeeguu) | 
-- GitHub
-	- [**Web**](https://github.com/zeeguu/web/): [pulls](https://github.com/zeeguu/web/pulls), [issues](https://github.com/zeeguu/web/issues)	
-	- [**API**](https://github.com/zeeguu/api): [pulls](https://github.com/zeeguu/api/pulls), [issues](https://github.com/zeeguu/api/issues)
-	- [**Extension**](https://github.com/zeeguu/browser-extension): [pulls](https://github.com/zeeguu/browser-extension/pulls), [issues](https://github.com/zeeguu/browser-extension/issues)
-	- [Readability Server](https://github.com/mircealungu/readability-server/) 
-	- [Ops Repo](https://github.com/mircealungu/zeeguu-ops) 
+| [Reports](https://zeeguu.org/reports) | [DockerHub](https://hub.docker.com/?namespace=zeeguu) | [ GH Org](https://github.com/zeeguu)
+- [**Web**](https://github.com/zeeguu/web/): [pulls](https://github.com/zeeguu/web/pulls), [issues](https://github.com/zeeguu/web/issues)	
+- [**API**](https://github.com/zeeguu/api): [pulls](https://github.com/zeeguu/api/pulls), [issues](https://github.com/zeeguu/api/issues)
+- [**Extension**](https://github.com/zeeguu/browser-extension): [pulls](https://github.com/zeeguu/browser-extension/pulls), [issues](https://github.com/zeeguu/browser-extension/issues)
+- [Readability Server](https://github.com/mircealungu/readability-server/) 
+- [Ops](https://github.com/mircealungu/zeeguu-ops) 
 
-
-GitHub Repos
+**GitHub Repos**
 - [**FMD**](https://github.com/flask-dashboard/Flask-MonitoringDashboard)
 - [Git-Truck](https://github.com/git-truck/git-truck) 
 - [Homepage](https://github.com/mircealungu/mircea)
@@ -20,7 +18,7 @@ GitHub Repos
 - [ArchLens](https://github.com/archlens/)
 
 
-Submissions
+**Submissions**
 - [Polyglot Gathering](https://docs.google.com/forms/d/e/1FAIpQLSdlPsKWE6fEozbsiNO6jd1_MY8_4tJRZ4KTbpwskznq53EsPw/viewform)
 - [EuroCALL](https://www.openconf.org/EUROCALL2025/author/) 
 
@@ -40,8 +38,7 @@ Fall 2024
 
 **Ops**
 - [Google Cloud Compute Instances](https://console.cloud.google.com/compute/instances) - [Billing](https://console.cloud.google.com/billing/)
-- [hetzner robot](https://robot.hetzner.com/server)
-- [dockerhub/zeeguu](https://hub.docker.com/repositories/zeeguu)
+- [Hetzner Robot](https://robot.hetzner.com/server)
 
 
 **ITU**
