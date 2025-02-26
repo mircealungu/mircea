@@ -3,15 +3,13 @@
 
 
 **Zeeguu**
-- [Reports](https://zeeguu.org/reports)
+| [Reports](https://zeeguu.org/reports) | [DockerHub](https://hub.docker.com/?namespace=zeeguu) | 
 - GitHub
-	- [Organization](https://github.com/zeeguu)
 	- [**Web**](https://github.com/zeeguu/web/): [pulls](https://github.com/zeeguu/web/pulls), [issues](https://github.com/zeeguu/web/issues)	
 	- [**API**](https://github.com/zeeguu/api): [pulls](https://github.com/zeeguu/api/pulls), [issues](https://github.com/zeeguu/api/issues)
 	- [**Extension**](https://github.com/zeeguu/browser-extension): [pulls](https://github.com/zeeguu/browser-extension/pulls), [issues](https://github.com/zeeguu/browser-extension/issues)
 	- [Readability Server](https://github.com/mircealungu/readability-server/) 
 	- [Ops Repo](https://github.com/mircealungu/zeeguu-ops) 
-- [DockerHub](https://hub.docker.com/?namespace=zeeguu)
 
 
 GitHub Repos
@@ -72,7 +70,7 @@ Fall 2024
 
 #### Research Project (2)
 1. Jonas Rossum - Fast, Language-Independent Complexity Metrics in GitTruck
-2. Emil, Anne, Marie  - **Any Page as Context for Zeeguu**
+2. Emil, Anne, Marie  - **Any Page as Context for Zeeguu** [Word-extractor-Extension](https://github.com/emilHojgaard/Word-Extractor) 
 
 
 #### BSc Thesis (3)
@@ -82,16 +80,30 @@ Fall 2024
 
 
 #### MSc Thesis -- Software Design (4)
-6.  Robert, Bence, Lucian - **Scalability & Performance of Flask-Based APIs** #fmd #zeeguu-case-study #ksd 
-7. Chloe & Johanna - **Commitment and Streaks** in Zeeguu #zeeguu-feature #ksd
-8. Martin & Silas - **Videos in Zeeguu**  #zeeguu-feature
-9. Luisa - ... ? 
+1. Robert, Bence, Lucian - **[Evaluating User Capacity of N-Tier Web Services via Latency and Throughput Analysis](https://learnit.itu.dk/user/index.php?id=3025170)** #fmd #zeeguu-case-study #ksd 
+2. Chloe & Johanna - **Commitment and Streaks** in Zeeguu #zeeguu-feature #ksd
+3. Martin & Silas - **Videos in Zeeguu**  #zeeguu-feature
 
 
 
 
 
-## Fall 2024 
+
+
+## Censoring
+- [aau digitaleksam](https://digitaleksamen.aau.dk/)
+
+
+## Copenhagen
+- Amager Volley: [Website](https://www.amagervolley.dk/dl/hjem). [Club FB](https://www.facebook.com/groups/6035564066).  
+- H3: [FB](https://www.facebook.com/groups/929115003800969) [Ranking](https://resultater.volleyball.dk/tms/Turneringer-og-resultater/Pulje-Stilling.aspx?PuljeId=3792) [Games](https://resultater.volleyball.dk/tms/Turneringer-og-resultater/Hold-Kampprogram.aspx?HoldId=26875)
+- Reddit threads: [recycling stations](https://www.reddit.com/r/copenhagen/comments/1cf1h1r/does_copenhagen_have_a_recycling_center_where_i/)  [handyman-finding-apps](https://www.reddit.com/r/copenhagen/comments/13tcnlg/assembling_furniture_service/) 
+
+
+## Past Supervisions
+
+
+### Fall 2024 
 
 #### Master Thesis
 - Theodor - **Migrating React-Flask to PWA: A Case Study** - [LearnIt](https://learnit.itu.dk/course/view.php?id=3024549)  (C: Ender)
@@ -111,33 +123,19 @@ Fall 2024
 
 
 
-
-
-**Censoring**
-- [aau digitaleksam](https://digitaleksamen.aau.dk/)
-
-
-**Copenhagen**
-- Amager Volley: [Website](https://www.amagervolley.dk/dl/hjem). [Club FB](https://www.facebook.com/groups/6035564066).  
-- H3: [FB](https://www.facebook.com/groups/929115003800969) [Ranking](https://resultater.volleyball.dk/tms/Turneringer-og-resultater/Pulje-Stilling.aspx?PuljeId=3792) [Games](https://resultater.volleyball.dk/tms/Turneringer-og-resultater/Hold-Kampprogram.aspx?HoldId=26875)
-- Reddit threads: [recycling stations](https://www.reddit.com/r/copenhagen/comments/1cf1h1r/does_copenhagen_have_a_recycling_center_where_i/)  [handyman-finding-apps](https://www.reddit.com/r/copenhagen/comments/13tcnlg/assembling_furniture_service/) 
-
-
-
-
-**Past Bachelor Theses** 
+### **Past Bachelor Theses** 
 - Oscar, Nicolai, Mads - [Recommender System](https://learnit.itu.dk/course/view.php?id=3023893) (CS)
 - Maria - [Bayesian Inference](https://learnit.itu.dk/course/view.php?id=3023893) ([gh](https://github.com/mariamomanu/BachelorProject))(DS) 
 
  
-**Past Master Theses**
+### **Past Master Theses**
  - Johannes - [OSS Telemetry](https://learnit.itu.dk/grade/report/grader/index.php?id=3024163) (CS) 
  - Thomas - [GitTruck Performance & Scalability](https://learnit.itu.dk/grade/report/grader/index.php?id=3024202) (CS) ([overleaf](https://www.overleaf.com/project/66100b3af013c1984f472f28))
  - Iga - [Easing Onboarding](https://learnit.itu.dk/grade/report/grader/index.php?id=3024152)(SD) 
  - Klara - [Browsing in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024025) (SD)
 - Merle - [Exercise Progression in Zeeguu](https://learnit.itu.dk/grade/report/grader/index.php?id=3024079) (SD) 
 
-**Past Courses**
+## **Past Courses**
 - [Software Architecture](https://learnit.itu.dk/course/view.php?id=3022830#section-0) ([Reconstruction on GH](https://github.com/mircealungu/reconstruction))
 - [**DevOps GitHub**](https://github.com/itu-devops/lecture_notes) - [LearnIt](https://learnit.itu.dk/course/view.php?id=3022842) 
 - [DataVis...](https://learnit.itu.dk/course/view.php?id=3022800#section-6)
@@ -145,11 +143,8 @@ Fall 2024
 
 
 
-- Emil - [SavingPomodoros](https://learnit.itu.dk/course/view.php?id=3024075) (SD)
 
-
-
-**To share with students**
+## **To share with students**
 - [Writing guidelines](https://github.com/mircealungu/student-projects/blob/master/writing_guidelines/README.md)
 - [A good abstract](https://github.com/mircealungu/student-projects/blob/master/thesis-abstract.md)
 - [preparing-a-presentation](preparing-a-presentation.md)
