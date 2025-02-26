@@ -1,3 +1,7 @@
+[LeChat](https://chat.mistral.ai/chat) [DeepSeek](https://chat.deepseek.com/)
+
+
+
 **Zeeguu**
 - [Reports](https://zeeguu.org/reports)
 - GitHub
