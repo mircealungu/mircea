@@ -1,4 +1,4 @@
-[LeChat](https://chat.mistral.ai/chat) [DeepSeek](https://chat.deepseek.com/)
+| [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) | 
 
 
 
