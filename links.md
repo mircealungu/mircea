@@ -7,7 +7,7 @@
 
 | [**Web**](https://github.com/zeeguu/web/): [pulls](https://github.com/zeeguu/web/pulls), [issues](https://github.com/zeeguu/web/issues)	| [**API**](https://github.com/zeeguu/api): [pulls](https://github.com/zeeguu/api/pulls), [issues](https://github.com/zeeguu/api/issues) | [**Extension**](https://github.com/zeeguu/browser-extension): [pulls](https://github.com/zeeguu/browser-extension/pulls), [issues](https://github.com/zeeguu/browser-extension/issues) | [Ops](https://github.com/mircealungu/zeeguu-ops) |
 
-| GCP: [Instances](https://console.cloud.google.com/compute/instances) [Billing](https://console.cloud.google.com/billing/) | Hetzner:  [Robot](https://robot.hetzner.com/server) | 
+| GCP: [Instances](https://console.cloud.google.com/compute/instances), [Billing](https://console.cloud.google.com/billing/) | Hetzner:  [Robot](https://robot.hetzner.com/server) | 
 
 
 **Projects**
