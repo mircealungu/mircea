@@ -10,7 +10,8 @@
 
 **Projects**
 
-| [**FMD**](https://github.com/flask-dashboard/Flask-MonitoringDashboard) | [**ArchLens**](https://github.com/archlens/) | [**Git-Truck**](https://github.com/git-truck/git-truck)  | 
+| [**FMD**](https://github.com/flask-dashboard/Flask-MonitoringDashboard) | [**ArchLens**](https://github.com/archlens/) : [CLI](https://github.com/archlens/ArchLens), [VSCode](https://github.com/archlens/ArchLens-VsCode-Extension) | [**Git-Truck**](https://github.com/git-truck/git-truck)  | 
+
 
 
 **Courses Spring 2025**
