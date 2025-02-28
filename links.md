@@ -51,9 +51,9 @@
 
 
 #### MSc Thesis -- Software Design (4)
-1. Robert, Bence, Lucian - **Evaluating User Capacity of N-Tier Web Services via Latency and Throughput Analysis** [learnIt](https://learnit.itu.dk/user/index.php?id=3025170) [overleaf](https://www.overleaf.com/project/67aa0bb02c7df14516740af3) #fmd #zeeguu-case-study #ksd 
-2. Chloe & Johanna - **Commitment and Streaks** in Zeeguu [overleaf](https://www.overleaf.com/project/67530dea455e87d3ddc31ff2) #zeeguu-feature #ksd
-3. Martin & Silas - **Videos in Zeeguu**  #zeeguu-feature
+1. Robert, Bence - **Evaluating User Capacity of N-Tier Web Services via Latency and Throughput Analysis** [learnIt](https://learnit.itu.dk/user/index.php?id=3025170), [miro]([https://miro.com/app/board/uXjVLlLuRkI=/?share_link_id=562995130982](https://miro.com/app/board/uXjVLlLuRkI=/?share_link_id=562995130982) [overleaf](https://www.overleaf.com/project/67aa0bb02c7df14516740af3) 
+2. Chloe & Johanna - **Commitment and Streaks** in Zeeguu [overleaf](https://www.overleaf.com/project/67530dea455e87d3ddc31ff2) 
+3. Martin & Silas - **Videos in Zeeguu** 
 
 
 ## **To share with students**
