@@ -10,7 +10,9 @@
 
 **Projects**
 
-| **FMD**: [code](https://github.com/flask-dashboard/Flask-MonitoringDashboard), [meta](https://flask-dashboard.github.io/fmd-telemetry/#/stats/user-session), [pypi](https://pypi.org/project/Flask-MonitoringDashboard/) | **ArchLens:** [org](https://github.com/archlens/), [cli](https://github.com/archlens/ArchLens), [vscode](https://github.com/archlens/ArchLens-VsCode-Extension) , [pypi](https://pypi.org/project/ArchLens-Preview/) | [**Git-Truck**](https://github.com/git-truck/git-truck)  | 
+| **FMD**: [code](https://github.com/flask-dashboard/Flask-MonitoringDashboard), [meta](https://flask-dashboard.github.io/fmd-telemetry/#/stats/user-session), [pypi](https://pypi.org/project/Flask-MonitoringDashboard/) | **ArchLens:** [org](https://github.com/archlens/), [cli](https://github.com/archlens/ArchLens), [vscode](https://github.com/archlens/ArchLens-VsCode-Extension) , [pypi](https://pypi.org/project/ArchLens-Preview/) | [**Git-Truck**](https://github.com/git-truck/git-truck)  
+
+| [Aiki](https://aiki-extension.github.io/) | MathsCamp | 
 
 
 
