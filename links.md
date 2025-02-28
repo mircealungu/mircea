@@ -35,9 +35,11 @@
 
 ### Spring 2025
 
-#### Research Project (2)
+#### Research Project (3)
 1. Jonas Rossum - Fast, Language-Independent Complexity Metrics in GitTruck
 2. Emil, Anne, Marie  - **Any Page as Context for Zeeguu** [Word-extractor-Extension](https://github.com/emilHojgaard/Word-Extractor) 
+3. Cem & Wassim - **Aiki: Enhancing Digital Well-Being Through**
+**Motivation-Focused Interventions** 
 
 
 #### BSc Thesis (3)
