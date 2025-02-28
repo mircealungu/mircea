@@ -5,14 +5,14 @@
 
 | [Reports](https://zeeguu.org/reports) | [DockerHub](https://hub.docker.com/?namespace=zeeguu) | [ Org](https://github.com/zeeguu) | 
 
-| [**Web**](https://github.com/zeeguu/web/): [pulls](https://github.com/zeeguu/web/pulls), [issues](https://github.com/zeeguu/web/issues)	| [**API**](https://github.com/zeeguu/api): [pulls](https://github.com/zeeguu/api/pulls), [issues](https://github.com/zeeguu/api/issues) | [**Extension**](https://github.com/zeeguu/browser-extension): [pulls](https://github.com/zeeguu/browser-extension/pulls), [issues](https://github.com/zeeguu/browser-extension/issues) | [ops](https://github.com/mircealungu/zeeguu-ops), [provisioning](https://github.com/mircealungu/zeeguu-provisioning) |
+| **Web**: [code](https://github.com/zeeguu/web/): [pulls](https://github.com/zeeguu/web/pulls), [issues](https://github.com/zeeguu/web/issues)	| **API**: [code](https://github.com/zeeguu/api): [pulls](https://github.com/zeeguu/api/pulls), [issues](https://github.com/zeeguu/api/issues) | **Extension**: [code](https://github.com/zeeguu/browser-extension): [pulls](https://github.com/zeeguu/browser-extension/pulls), [issues](https://github.com/zeeguu/browser-extension/issues) | [Ops](https://github.com/mircealungu/zeeguu-ops), [Provisioning](https://github.com/mircealungu/zeeguu-provisioning) |
 
 
 **Projects**
 
 | **FMD**: [code](https://github.com/flask-dashboard/Flask-MonitoringDashboard), [meta](https://flask-dashboard.github.io/fmd-telemetry/#/stats/user-session), [pypi](https://pypi.org/project/Flask-MonitoringDashboard/) | **ArchLens:** [org](https://github.com/archlens/), [cli](https://github.com/archlens/ArchLens), [vscode](https://github.com/archlens/ArchLens-VsCode-Extension) , [pypi](https://pypi.org/project/ArchLens-Preview/) | [**Git-Truck**](https://github.com/git-truck/git-truck)  
 
-| [Aiki](https://aiki-extension.github.io/) | MathsCamp: [site](https://mathscamp.org/#/), [gh](https://github.com/MathsCamp/MathsCamp) | 
+| **Aiki**: [gh.io](https://aiki-extension.github.io/) | **MathsCamp**: [site](https://mathscamp.org/#/), [gh](https://github.com/MathsCamp/MathsCamp) | 
 
 
 
@@ -78,7 +78,7 @@ FAQ:
 
 **Infra**
 
-| GCP: [Instances](https://console.cloud.google.com/compute/instances), [Billing](https://console.cloud.google.com/billing/) | Hetzner:  [Robot](https://robot.hetzner.com/server) | 
+| GCP: [Instances](https://console.cloud.google.com/compute/instances), [Billing](https://console.cloud.google.com/billing/) | Hetzner:  [Robot](https://robot.hetzner.com/server) | [Squarespace](https://account.squarespace.com/domains) | 
 
 
 ## Censoring
