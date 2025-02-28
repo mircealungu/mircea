@@ -3,14 +3,16 @@
 
 **Zeeguu**
 
-| [Reports](https://zeeguu.org/reports) | [DockerHub](https://hub.docker.com/?namespace=zeeguu) | [ Org](https://github.com/zeeguu) | 
+| [Reports](https://zeeguu.org/reports) | [DockerHub](https://hub.docker.com/?namespace=zeeguu) | [ Org](https://github.com/zeeguu) | [Wiki](https://wiki.zeeguu.org/)| 
 
 | **Web**: [code](https://github.com/zeeguu/web/): [pulls](https://github.com/zeeguu/web/pulls), [issues](https://github.com/zeeguu/web/issues)	| **API**: [code](https://github.com/zeeguu/api): [pulls](https://github.com/zeeguu/api/pulls), [issues](https://github.com/zeeguu/api/issues) | **Extension**: [code](https://github.com/zeeguu/browser-extension): [pulls](https://github.com/zeeguu/browser-extension/pulls), [issues](https://github.com/zeeguu/browser-extension/issues) | [Ops](https://github.com/mircealungu/zeeguu-ops), [Provisioning](https://github.com/mircealungu/zeeguu-provisioning) |
 
 
-**Projects**
+**Software Engineering**
 
 | **FMD**: [code](https://github.com/flask-dashboard/Flask-MonitoringDashboard), [meta](https://flask-dashboard.github.io/fmd-telemetry/#/stats/user-session), [pypi](https://pypi.org/project/Flask-MonitoringDashboard/) | **ArchLens:** [org](https://github.com/archlens/), [cli](https://github.com/archlens/ArchLens), [vscode](https://github.com/archlens/ArchLens-VsCode-Extension) , [pypi](https://pypi.org/project/ArchLens-Preview/) | [**Git-Truck**](https://github.com/git-truck/git-truck)  
+
+**Other**
 
 | **Aiki**: [gh.io](https://aiki-extension.github.io/) | **MathsCamp**: [site](https://mathscamp.org/#/), [gh](https://github.com/MathsCamp/MathsCamp) | 
 
