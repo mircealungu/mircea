@@ -49,7 +49,7 @@ CHI'21: Nanna Inie and Mircea F. Lungu. 2021. [**Aiki: Turning Procrastination i
 
 
 # Download
-- [Aiki-CHI'23 Version](Aiki-CHI23.zip) - zipped archive; You must install manually in your Browser
+- [Aiki-CHI'23 Version](https://aiki-extension.github.io/Aiki-CHI23.zip) - zipped archive; You must install manually in your Browser
 
 ## Source Code
 - Aiki-CHI'21 Version Code: [github.com/aiki-extension](https://github.com/Aiki-Extension/Aiki)
