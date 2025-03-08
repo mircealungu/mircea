@@ -1,34 +1,40 @@
 | [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) |  [WebPrint](https://ituwebprint.itu.dk/RicohmyPrint/Main.aspx)| [Outlook](https://outlook.office.com/owa/?exsvurl=1&path=/calendar/view/WorkWeek) | [ITU faq](https://docs.google.com/document/d/18x3zhD_KzfnsvPvJN5wATnjb287UBi5kzIAXTGv1I9Y/edit) | 
 
 
-**Zeeguu**
-
-| [Reports](https://zeeguu.org/reports) | [DockerHub](https://hub.docker.com/?namespace=zeeguu) | [ Org](https://github.com/zeeguu) | [Wiki](https://wiki.zeeguu.org/)| 
-
-| **Web**: [code](https://github.com/zeeguu/web/): [pulls](https://github.com/zeeguu/web/pulls), [issues](https://github.com/zeeguu/web/issues)	| **API**: [code](https://github.com/zeeguu/api): [pulls](https://github.com/zeeguu/api/pulls), [issues](https://github.com/zeeguu/api/issues) | **Extension**: [code](https://github.com/zeeguu/browser-extension): [pulls](https://github.com/zeeguu/browser-extension/pulls), [issues](https://github.com/zeeguu/browser-extension/issues) | [Ops](https://github.com/mircealungu/zeeguu-ops), [Provisioning](https://github.com/mircealungu/zeeguu-provisioning) |
-
-
-**Software Engineering**
-
-| **FMD**: [code](https://github.com/flask-dashboard/Flask-MonitoringDashboard), [meta](https://flask-dashboard.github.io/fmd-telemetry/#/stats/user-session), [pypi](https://pypi.org/project/Flask-MonitoringDashboard/) | **ArchLens:** [org](https://github.com/archlens/), [cli](https://github.com/archlens/ArchLens), [vscode](https://github.com/archlens/ArchLens-VsCode-Extension) , [pypi](https://pypi.org/project/ArchLens-Preview/) | [**Git-Truck**](https://github.com/git-truck/git-truck)  
-
-**Other**
-
-| **Aiki**: [gh.io](https://aiki-extension.github.io/) | **MathsCamp**: [site](https://mathscamp.org/#/), [gh](https://github.com/MathsCamp/MathsCamp) | 
-
-
-
-**Courses Spring 2025**
+### Teaching ('25 spring)
 
 | [TimeEdit](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X560Q90YQ59x5YZ61ZY1Q6y5695Y05X59207QX01483Yg56092gX64Y09Q5.html) | Software Architecture: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024304) | DevOps: [GitHub](https://github.com/itu-devops/lecture_notes) | 
 
+### Zeeguu
 
-**Writing**
+| [Reports](https://zeeguu.org/reports) | [DockerHub](https://hub.docker.com/?namespace=zeeguu) | [ Org](https://github.com/zeeguu) | [Wiki](https://wiki.zeeguu.org/)| 
+
+- **Web**: [code](https://github.com/zeeguu/web/): [pulls](https://github.com/zeeguu/web/pulls), [issues](https://github.com/zeeguu/web/issues)	
+- **API**: [code](https://github.com/zeeguu/api): [pulls](https://github.com/zeeguu/api/pulls), [issues](https://github.com/zeeguu/api/issues) 
+- **Extension**: [code](https://github.com/zeeguu/browser-extension): [pulls](https://github.com/zeeguu/browser-extension/pulls), [issues](https://github.com/zeeguu/browser-extension/issues)
+- [Ops](https://github.com/mircealungu/zeeguu-ops)
+- [Provisioning](https://github.com/mircealungu/zeeguu-provisioning) 
+
+### FMD
+- [Code](https://github.com/flask-dashboard/Flask-MonitoringDashboard), [FMD-MD](https://flask-dashboard.github.io/fmd-telemetry/#/stats/user-session), [PyPI](https://pypi.org/project/Flask-MonitoringDashboard/) 
+
+### ArchLens
+- [GH Org](https://github.com/archlens/)
+- [Cli](https://github.com/archlens/ArchLens), [Vscode Extension](https://github.com/archlens/ArchLens-VsCode-Extension) 
+- [PyPI](https://pypi.org/project/ArchLens-Preview/) 
+
+### Other
+- [**Git-Truck**](https://github.com/git-truck/git-truck)  
+- **Aiki**: [gh.io](https://aiki-extension.github.io/) 
+- MathsCamp: [site](https://mathscamp.org/#/), [gh](https://github.com/MathsCamp/MathsCamp) 
+
+
+
+
+
+# Writing
 
 | [Homepage](https://github.com/mircealungu/mircea) | LLM Guidelines: [Website GH](https://github.com/se-ubt/llm-guidelines-website), [Internal GH](https://github.com/se-ubt/llm-guidelines-internal), [Spreadsheet](https://docs.google.com/spreadsheets/d/14p3seQdfeFo3d3Qx21KDpsqabpXQqUFPKwB03zueKbk/edit?gid=0#gid=0) |  
-
-
-**Submissions**
 
 | [Polyglot Gathering](https://docs.google.com/forms/d/e/1FAIpQLSdlPsKWE6fEozbsiNO6jd1_MY8_4tJRZ4KTbpwskznq53EsPw/viewform) | [EuroCALL](https://www.openconf.org/EUROCALL2025/author/) |
 
