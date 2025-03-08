@@ -1,9 +1,9 @@
 | [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) |  [WebPrint](https://ituwebprint.itu.dk/RicohmyPrint/Main.aspx)| [Outlook](https://outlook.office.com/owa/?exsvurl=1&path=/calendar/view/WorkWeek) | [ITU faq](https://docs.google.com/document/d/18x3zhD_KzfnsvPvJN5wATnjb287UBi5kzIAXTGv1I9Y/edit) | 
 
 
-### Teaching ('25 spring)
+### Teaching 
 
-| TimeEdit: [Lectures](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X560Q90YQ59x5YZ61ZY1Q6y5695Y05X59207QX01483Yg56092gX64Y09Q5.html), [Exams](https://cloud.timeedit.net/itu/web/public/ri1005899YX725Q8X0Q0Y98YZ011Y2YXX5X885052592415X5Y25055315510YXY7005X51215555X9X100Y022Y50XY6729X0Y2XY5Z2g4Q0gy9605x0466593Q8YZg5Q9Y01662X0Y5.html) | Software Architecture: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024304) | DevOps: [GitHub](https://github.com/itu-devops/lecture_notes) | 
+| TimeEdit: [Lectures](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X560Q90YQ59x5YZ61ZY1Q6y5695Y05X59207QX01483Yg56092gX64Y09Q5.html), [Exams](https://cloud.timeedit.net/itu/web/public/ri1005899YX725Q8X0Q0Y98YZ011Y2YXX5X885052592415X5Y25055315510YXY7005X51215555X9X100Y022Y50XY6729X0Y2XY5Z2g4Q0gy9605x0466593Q8YZg5Q9Y01662X0Y5.html) | Architecture: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024304) | DevOps: [GitHub](https://github.com/itu-devops/lecture_notes) | 
 
 ### Zeeguu
 
