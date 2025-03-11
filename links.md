@@ -3,7 +3,7 @@
 
 ### Teaching 
 
-| Architecture: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024304) | DevOps: [GitHub](https://github.com/itu-devops/lecture_notes) | TimeEdit: [Lectures](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X560Q90YQ59x5YZ61ZY1Q6y5695Y05X59207QX01483Yg56092gX64Y09Q5.html), [Exams](https://cloud.timeedit.net/itu/web/public/ri1005899YX725Q8X0Q0Y98YZ011Y2YXX5X885052592415X5Y25055315510YXY7005X51215555X9X100Y022Y50XY6729X0Y2XY5Z2g4Q0gy9605x0466593Q8YZg5Q9Y01662X0Y5.html) Ț 
+| Architecture: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024304) | DevOps: [GitHub](https://github.com/itu-devops/lecture_notes) | TimeEdit: [Lectures](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X560Q90YQ59x5YZ61ZY1Q6y5695Y05X59207QX01483Yg56092gX64Y09Q5.html), [Exams](https://cloud.timeedit.net/itu/web/public/ri1005899YX725Q8X0Q0Y98YZ011Y2YXX5X885052592415X5Y25055315510YXY7005X51215555X9X100Y022Y50XY6729X0Y2XY5Z2g4Q0gy9605x0466593Q8YZg5Q9Y01662X0Y5.html) | 
 
 ### Zeeguu
 
@@ -58,8 +58,8 @@
 
 #### MSc Thesis -- Software Design (4)
 1. Robert, Bence - **Evaluating User Capacity of N-Tier Web Services via Latency and Throughput Analysis** [learnIt](https://learnit.itu.dk/user/index.php?id=3025170), [miro]([https://miro.com/app/board/uXjVLlLuRkI=/?share_link_id=562995130982](https://miro.com/app/board/uXjVLlLuRkI=/?share_link_id=562995130982) [overleaf](https://www.overleaf.com/project/67aa0bb02c7df14516740af3) 
-2. Chloe & Johanna - **Commitment and Streaks** in Zeeguu [overleaf](https://www.overleaf.com/project/67530dea455e87d3ddc31ff2) 
-3. Martin & Silas - **Videos in Zeeguu** 
+2. Chloe & Johanna - **Commitment and Streaks** in Zeeguu [learnIt](https://learnit.itu.dk/course/view.php?id=3025279) [overleaf](https://www.overleaf.com/project/67530dea455e87d3ddc31ff2) 
+3. Martin & Silas - **Videos in Zeeguu** [learnIt](https://learnit.itu.dk/course/view.php?id=3025143)
 
 
 ## **To share with students**
