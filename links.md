@@ -1,4 +1,4 @@
-| [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) | [Claude](https://chat.chatbotapp.ai/?model=claude)|  [WebPrint](https://ituwebprint.itu.dk/RicohmyPrint/Main.aspx)| [Outlook](https://outlook.office.com/owa/?exsvurl=1&path=/calendar/view/WorkWeek) | [ITU faq](https://docs.google.com/document/d/18x3zhD_KzfnsvPvJN5wATnjb287UBi5kzIAXTGv1I9Y/edit) | 
+| [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) | [Claude](https://claude.ai/chat/)|  [WebPrint](https://ituwebprint.itu.dk/RicohmyPrint/Main.aspx)| [Outlook](https://outlook.office.com/owa/?exsvurl=1&path=/calendar/view/WorkWeek) | [ITU faq](https://docs.google.com/document/d/18x3zhD_KzfnsvPvJN5wATnjb287UBi5kzIAXTGv1I9Y/edit) | 
 
 
 ### Teaching 
