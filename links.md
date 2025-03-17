@@ -87,6 +87,8 @@ FAQ:
 **Infra**
 
 | GCP: [Instances](https://console.cloud.google.com/compute/instances), [Billing](https://console.cloud.google.com/billing/) | Hetzner:  [Robot](https://robot.hetzner.com/server) | [Squarespace](https://account.squarespace.com/domains) | 
+- [gc could storage](https://console.cloud.google.com/)
+- 
 
 
 ## Censoring
