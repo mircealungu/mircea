@@ -1,4 +1,4 @@
-| [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) | [Claude](https://claude.ai/chat/)|  [WebPrint](https://ituwebprint.itu.dk/RicohmyPrint/Main.aspx)| [Outlook](https://outlook.office.com/owa/?exsvurl=1&path=/calendar/view/WorkWeek) | [ITU faq](https://docs.google.com/document/d/18x3zhD_KzfnsvPvJN5wATnjb287UBi5kzIAXTGv1I9Y/edit) | 
+| [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) | [Claude](https://claude.ai/chat/)|  [WebPrint](https://ituwebprint.itu.dk/RicohmyPrint/Main.aspx)| [Outlook](https://outlook.office.com/owa/?exsvurl=1&path=/calendar/view/WorkWeek) | [ITU faq](https://docs.google.com/document/d/18x3zhD_KzfnsvPvJN5wATnjb287UBi5kzIAXTGv1I9Y/edit) | [my zoom](https://itucph.zoom.us/j/2553542477) | 
 
 
 ### Teaching 
@@ -52,7 +52,7 @@
 
 #### BSc Thesis (3)
 1. Sebastian, Casper - **ArchLens: Interactive Architectural Diagrams in the IDE** #archlens #bsc
-2. Albert, Carmen, Natalie - **Exception Support in FMD** #fmd #bsc
+2. Albert, Carmen, Natalie - **Exception Support in FMD** #fmd #bsc ([notes file](https://docs.google.com/document/d/18eHI-zB--gGUa9x0pi1y_7y7tGqGvNQSiD4wPFIB7_k/edit?tab=t.0))
 3. Francisco - (with Raul) - **Bayesian Word-Knowledge Inference** in FRaVoPA  #bayesian #bsc #zeeguu-data-case-study
 
 
