@@ -6,16 +6,16 @@ Listen up, fellow developers. It's time we have a brutally honest conversation a
 
 Front-end API aggregation might seem clever at first glance. "Oh, look at me," developers smugly declare, "I'm making multiple API calls directly in my React component and combining the data on the client-side!" No. Just no.
 
-### Performance Nightmare
+### Duplicated Code
 
-Let's break down why this approach is fundamentally broken:
+If at a later point you will want to put another front-end on top of your API, you have to duplicate the merging of the APIs again. 
 
-1. **Network Overhead**: Every single API call you make from the front-end is an additional round trip to the server. Multiple calls mean multiple requests, multiple network latencies, and a user experience that crawls slower than a geriatric snail. Each unnecessary network request is a middle finger to performance optimization.
-    
-2. **Bandwidth Consumption**: You're literally forcing the client to download raw, unfiltered data and then process it locally. Why? WHY? This is like using a bulldozer to crack a walnut. Most of that data will never be used, yet you're making users download it anyway.
-    
-3. **Security Vulnerabilities**: Exposing multiple API endpoints directly to the client is like leaving your front door wide open with a welcome mat that says "Please hack me!" You're essentially broadcasting your backend structure to the entire internet.
-    
+
+### Bandwidth Consumption
+
+**Bandwidth Consumption**: You're literally forcing the client to download raw, unfiltered data and then process it locally. Why? WHY? This is like using a bulldozer to crack a walnut. Most of that data will never be used, yet you're making users download it anyway.
+
+
 
 ## The Sane Solution: Backend Aggregation
 

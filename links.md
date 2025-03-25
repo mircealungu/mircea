@@ -38,6 +38,8 @@
 
 | [Polyglot Gathering](https://docs.google.com/forms/d/e/1FAIpQLSdlPsKWE6fEozbsiNO6jd1_MY8_4tJRZ4KTbpwskznq53EsPw/viewform) | [EuroCALL](https://www.openconf.org/EUROCALL2025/author/) |
 
+[generated rant](essays/the-terrible-idea-of-frontend-aggregation.md)
+
 
 ## Supervisions 
 
