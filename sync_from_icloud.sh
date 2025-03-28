@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+SOURCE=/Users/mircea/Library/Mobile\\ Documents/iCloud\~md\~obsidian/Documents/Megavault/mircealungu.com/
 DESTINATION=/Users/gh/mircealungu
 
 rsync -av --delete --exclude='.git/'\
@@ -8,7 +8,7 @@ rsync -av --delete --exclude='.git/'\
  --exclude='.gitignore'\
  --exclude='.obsidian'\
  --exclude='sync_from_icloud.sh'\
-  /Users/mircea/Library/Mobile\ Documents/iCloud\~md\~obsidian/Documents/Megavault/mircealungu.com/ $DESTINATION
+   $SOURCE $DESTINATION
 
 
 
