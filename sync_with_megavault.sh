@@ -8,3 +8,4 @@ rsync -av --delete --exclude='.git/'\
  --exclude='sync_with_megavault.sh'\
    "$ML_COM_IN_MEGAVAULT" "$ML_COM_IN_GH_FOLDER"
 
+git status
