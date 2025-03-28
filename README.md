@@ -11,8 +11,8 @@ Mircea Lungu is associate professor in computer science at the [IT University o
 # Research Interests
 - [Software Visualization](directions/visualization.md)
 - [Empirical Studies in Software Engineering](directions/empirical-studies.md) 
-- [Tools for Supporting Software Evolution](directions/tools-for-evolution)
-- [Personalized Learning Environments](directions/personalized-learning-environments) 
+- [Tools for Supporting Software Evolution](directions/tools-for-evolution.md)
+- [Personalized Learning Environments](directions/personalized-learning-environments.md) 
 - [Fighting Social Media Addiction](projects/aiki.md) 
 
 

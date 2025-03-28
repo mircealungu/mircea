@@ -33,7 +33,7 @@ If you look at the article titles. you see that today I read two French articles
 
 If you look at the session lengths, you see that this morning I was not very focused: it took me multiple sessions to read the article about the Coca Cola bottle size. It seems that I was not very focused on this article this morning, but rather interleaved reading with my other morning routines.
 
-![[20221118173953.png]]
+![[../docs/assets/20221118173953.png]]
 
 However, today I realized that there is a big problem with displaying of information about the user sessions in the Zeeguu web app; it is very very slow. In fact it feels as slow as this:
 
@@ -49,7 +49,7 @@ When the profiler is enabled for an endpoint, for every call to that endpoint th
 
 We thus enable the profiler for `user_article_history`, make sure to call the endpoint one more time, then open the Profiler tab in FMD to discover the information presented in the figure below. The figure shows the time spent on the corresponding lines of code called from the endpoint.
 
-![[20221118174042.png]]
+![[../docs/assets/20221118174042.png]]
 The first line shows us that the endpoint was computing stuff for 43 seconds!
 
 The last line shows that 98% of the time is spent in the following code line (which is not fully visible in the image):
@@ -81,7 +81,7 @@ This will make MySQL create additional internal structures that will allow it to
 
 I redeploy the API, request again the endpoint and then I visit again the Profiler page, and lo and behold! Instead of 43 seconds now my endpoint takes 1.6 seconds.
 
-![[20221118174105.png]]
+![[../docs/assets/20221118174105.png]]
 
 I now have a nice example to show to my sister about the huge impact indexes have on database performance.
 
