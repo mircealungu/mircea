@@ -10,7 +10,7 @@ expression found in: https://www.zeeguu.org/read/article?id=2542795
 
 While doing exercises, I find the following:
 
-![](docs/assets/Pasted%20image%2020240711150905.png)
+![](docs/assets/helt-quite.png)
 
 
 Even with the context, the meaning of `helt` still feels a bit elusive. I guess if I would see more examples? Or better examples? 
