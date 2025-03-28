@@ -230,6 +230,11 @@ In fact, in a Hegelian anti-thesis, what might come after the LLMs might be a mu
 - Some programmers are not even good at english
 - ChattyLLM that people envision is usually not exactly an LLM - it's an LLM augmented with hundreds of man-years of human reinforcement; so maybe we should write about AI in general? Even if that is not a well-defined term, in the above we did operationalize it. 
 - The AI system can even be allowed to grant the wish that the user wants not the one he writes? 
+- Extreme thought experiment: you have a genie in a bottle, that can grant you a lot of wishes. 
+
+## Related Writings
+- imagined discussion with "vibe"-coder: https://www.linkedin.com/posts/simonwardley_conversations-from-the-future-x-i-activity-7308467018154864640-fsyB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACzBgQB6j6bEmcNzE0sFF6savCpf28EVIQ
+
 
 
 # Other Topics Not Discussed

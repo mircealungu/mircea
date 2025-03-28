@@ -1,3 +1,84 @@
+
+mar 28
+
+Reading about Popper and Hayek who created a society to promote freedom -- if you want to make an impact on the world, you might have a better chance if you ally with likeminded people
+
+
+mar 27
+
+there was something really intelligent and funny that I realized this morning. I wanted to write it here. but i forgot it. 
+
+
+mar 20
+
+fast food. bad for your health. not today. but in the long term. 
+
+fast code. bad for your business. but in the long term.
+
+fast dopamine. bad for your life. not today. but in the long term. 
+
+
+
+feb 16
+
+what's happening in the world. another take. 
+
+us realized that the the ukraine war has pushed russia in the arms of china, and that gives china plenty of free energy. something that makes them even more powerful. this is bad. so they want to undo this. 
+
+it also weakened the EU. in a sense, i don't think the US is very sorry about this. i think US as a hegemon is afraid of anybody who might be a number 2 and challenge them. this is where the fear of europe approaching russia stemmed from: the famous words of ... whomever said that russia and europe have to be kept apart. 
+
+At the same time, there is a sense in which, if you weaken too much your allies, you risk not having much use for them. So from this point of view, it might actually be that US might be interested in allowing at least a limited rapprochement between the Russia and Europe. Although again, the Europeans still have a way to go. And a much more important thing for US is to be able to fight a war with China. Actually I don't think they want war with China. What they are most determined to prevent is a europe-russia-china axis. That would leave them irrelevant. So the best strategy to avoid that is to - befriend russia and ensure that russia and europe do not align. 
+
+And by befriend russia I think it's more like... negotiate with them. Russia will not "trust" the US ... but they can 
+
+
+Moreover, the european leaders, have made too many declarations of never befriending russia again to be able to simply change course. Even the US had to put a new face at the helm to ... They might be victims of cognitive dissonance: after having said so many times that Russia is "the great Satan" for them, now they can't  
+
+
+"America has no permanent friends or enemies, only interests" Henry Kissinger
+
+
+- As a proud European I'd love Europe stepping up on the international stage and let his voice being heard all over the world. But unfortunately I'm aware of the fact that this is not going to happen. We are way too much divided from within and we'll keep being treated as the americans servants for decades to come😢
+- Sure not in one weekend..everyone could see it coming.. Europeans are always late.
+- Let’s relax. America isn’t leaving NATO. America is saying if Europe wants to fight Russia for Ukraine instead of pursuing peace then have it. We have other matters to attend to
+- Isn't the founding principal of the EU peace through economic interdependence?  Why is this not a principle going forward with Russia.  It was Russian gas that fueled our prosperity.  And the US blew up Nordstream.  And now the US has dumped the EU. This EU is a far cry from its primary mission.  Thanks to JD Vance for saying what Europeans are not longer allowed to say.
+- EU interpretation of this continues to be comically bizarre....
+- "𝑰𝒕’𝒔 𝒒𝒖𝒊𝒕𝒆 𝒂 𝒔𝒑𝒆𝒄𝒕𝒂𝒄𝒍𝒆 𝒕𝒐𝒅𝒂𝒚—𝒘𝒂𝒕𝒄𝒉𝒊𝒏𝒈 𝒕𝒉𝒆 𝒉𝒆𝒍𝒑𝒍𝒆𝒔𝒔 𝒄𝒓𝒊𝒆𝒔 𝒐𝒇 𝒇𝒓𝒖𝒔𝒕𝒓𝒂𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝒂𝒏𝒈𝒆𝒓 𝒇𝒓𝒐𝒎 𝑨𝒎𝒆𝒓𝒊𝒄𝒂𝒏 𝒍𝒐𝒚𝒂𝒍𝒊𝒔𝒕𝒔 𝒕𝒐𝒘𝒂𝒓𝒅𝒔 𝒕𝒉𝒆𝒊𝒓 𝒐𝒘𝒏 𝒎𝒂𝒔𝒕𝒆𝒓𝒔. 𝑨 𝒉𝒆𝒂𝒓𝒕𝒇𝒆𝒍𝒕 𝒕𝒉𝒂𝒏𝒌𝒔 𝒕𝒐 𝒕𝒉𝒆 𝑼.𝑺. 𝑽𝒊𝒄𝒆 𝑷𝒓𝒆𝒔𝒊𝒅𝒆𝒏𝒕 𝑫𝑱 𝑽𝒂𝒏𝒄𝒆 𝒇𝒐𝒓 𝒑𝒖𝒕𝒕𝒊𝒏𝒈 𝒐𝒏 𝒔𝒖𝒄𝒉 𝒂 𝒔𝒉𝒐𝒘."
+- 
+
+
+
+
+
+
+feb 15
+
+Containers - making a process believe that it has the whole OS for itself.
+
+VMs - making an OS believe that it has the whole hardware for itself. 
+
+
+
+
+feb 14
+
+somebody should do a series of empirical studies on "*the law of leaky abstractions*" -- e.g., in projects that use ORM, how often can one see the underlying database coming through; in projects that use terraform, how often do they have to use the strange ad-hoc provisioners that allow them to fall through in 
+
+another law that somebody should formulate: any "proxy"-like service, e.g. one that promises to interface to many similar ones (e.g. vagrant, sqlalchemy, xamarin), etc. is bound to evolve much faster than any of the individual ones. from that POV, if one wants to be more sustainable, it would make sense to learn a stable technology and use that rather than use the abstraction. a way to quantify this would be to look at how often did SQL change over the duration in which SQLAlchemy, or other ORMs
+
+**
+
+Looking a bit at what is happening in the US. What's happening is probably explained by the *"hard times make strong people, strong people make good times; good times make weak people; weak people make hard times"* addagio.
+
+The "monopolar moment" has made it so easy for the US to coast, and think that they can behave with impunity in stupid ways: have senile presidents; toy with post-modern meaninglessness as an ideology, call continuums binary and call binaries continuums; intervene anywhere in the world without thinking about consequences, hire babbling vice-presidents to give meaningless discourses; print money like it does not matter. 
+
+However, as I was saying somewhere below on this blog, because of the raise of china will make them wake up. And as far as I can tell, they seem to be waking up. Seeing the discourses of the current VP, of the secretary of defense feels like realist people are back at the helm. 
+
+The EU is a different story though. It's a herd of cats and much too easy to *divide and conquer*. 
+
+
+
+
 jan 30
 
 should one invest in apple in a.d. 2025? 
@@ -46,24 +127,28 @@ reminds me of that story with the dalai lama being asked: "if you could time tra
 
 ** 
 
-First time i read the novel was in Romanian, and thought it was absolutely brilliant. am curious how will i feel about the english translation. But it's already promising... look at the beauty of this passage: 
+First time i read the novel was in Romanian, and thought it was absolutely brilliant. am curious how will i feel about the english translation. But it's already promising... look at the beauty and irony of this passage: 
 
-![](attachments/Pasted%20image%2020241230235114.png)
+> "Flower of the Two Lands," he said in voice of surprise, "whose beautiful face has a place in the house of Amun, who is alone in her comeliness when her pure hands bear the sistrum and when she sings in a voice beloved by all." He maintained this tone of happy surprise as he hastily recited the formulaic phrases. "You who fill this house with beauty and to whose grace all things pay homage, you who are the confidante of the queen—you know how to read my heart in fulfilling its wishes ere they are spoken, fulfilling them by your very coming. Here is a cushion," he said in a more prosaic voice, pulling out one from behind his back and arranging it on the ledge at his feet. "May the gods grant," he added, resuming his courtly tone,
 
 or: 
 
-![](attachments/Pasted%20image%2020241231003905.png)
+> "To remove Osarsiph... My good woman, this cannot be, banish it from your mind as an absurd, totally whimsical request. I cannot allow the idea to join my other thoughts, for it is alien among them and they all rise up against it in greatest indignation."
 
 and the length of this phrase: 
 
-![](attachments/Pasted%20image%2020241231073552.png)
+> When one considers that she had to struggle alone and without help, unable to share any of this with anyone other than Dûdu, and even with him in hints and words that hid her confession—or at least not at first, for later she cast aside all restraint and made the world around her a participant in her madness; when one also considers that the anguish in her blood had led her to choose a man who had to defer to the higher cause of a jealous God and wore in his hair an herb of faithfulness and arrogance-or, in a word, of his chosen state— and that he neither wanted nor was allowed to yield to her temptation; and when one likewise bears in mind that her agony lasted for three years, from the seventh to the tenth year of Joseph's sojourn in Potiphar's house, and that even then her torment was not allayed but simply slain—then one must admit that the fate of "Potiphar's wife" (popularly regarded as a shameless seductress and the honeyed bait of evil) was not an easy one and at least grant her the sympathy arising from the insight that the implements of such a testing carry their own punishment within them, bearing a greater share of it than they deserve, even if we admit the necessity of their function.
 
 or this: 
-![](attachments/Pasted%20image%2020250102233329.png)
+
+>Does one carry a mummy through the banquet hall as an admonition to end the feast because all is transient? No, just the opposite. For upon its brow is written: 'Seize the day!'" 
 
 or:
 
-![](attachments/Pasted%20image%2020250102233510.png)
+> For instance, he had more than enough to do just fending off the presents she had been trying to shower upon him of late—moved, as she was, by that ancient and **forever lively desire of those who love, which is rooted in feelings of dependency upon the person whom they have made into a god, to offer sacrifices, to glorify and adorn them, to woo them with bribes**.
+> And that is not all. The lover's gift also acts as a means of claiming and seizing possession, it serves to brand the person loved before the rest of the world with a protective symbol of ownership, to clothe him in a livery that says he is no longer available. If you wear my gift, you are mine. The finest gift of love is the ring—whoever gives it knows perfectly well what he wants and whoever takes it surely knows what is happening to him, for the ring is a visible link in an invisible chain.
+
+
 
 nov 17
 
