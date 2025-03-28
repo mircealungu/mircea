@@ -4,7 +4,6 @@
 
 
 rsync -av --delete --exclude='.git/'\
- --exclude='sync_from_icloud.sh'\
  --exclude='.gitignore'\
  --exclude='.obsidian'\
  --exclude='sync_with_megavault.sh'\
