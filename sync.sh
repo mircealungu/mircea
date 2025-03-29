@@ -20,9 +20,11 @@ check_and_push() {
 
     # Check if MODIFIED_FILES contains exactly one line and that line matches file_path
     if [ "$(echo "$MODIFIED_FILES" | wc -l)" -eq 1 ] && [ "$MODIFIED_FILES" == "$file_path" ]; then
+        echo ""
         echo "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
         echo "Only $file_path has been modified. Generating comment and pushing..."
         echo "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
+        echo ""
         git commit -am "update $file_path"
         git push
         exit 0
