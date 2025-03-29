@@ -2,7 +2,7 @@
 
 mar 28
 
-Reading about Popper and Hayek who created a society to promote freedom -- if you want to make an impact on the world, you might have a better chance if you ally with likeminded people
+Reading about Popper and Hayek who established the **Mont Pèlerin Society** to work together and promote freedom, I'm reminded that if you want to make an impact on the world, you will  have a better chance if you ally with likeminded people
 
 
 mar 27
