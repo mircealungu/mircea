@@ -16,7 +16,9 @@ MODIFIED_FILES=$(git diff --name-only HEAD)
 FILE_PATH="thoughtstream.md"
 # Check if only the specified file is modified
 if [ "$MODIFIED_FILES" == "$FILE_PATH" ]; then
-    echo "Only $FILE_PATH has been modified. Generating comment and pushing".
+    echo "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
+    echo "Only $FILE_PATH has been modified. Generating comment and pushing...".
+    echo "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
     git commit -am "update thoughtstream"
     git push
     exit 0
