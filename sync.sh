@@ -6,7 +6,7 @@
 rsync -av --delete --exclude='.git/'\
  --exclude='.gitignore'\
  --exclude='.obsidian'\
- --exclude='sync_with_megavault.sh'\
+ --exclude='sync.sh'\
    "$ML_COM_IN_MEGAVAULT" "$ML_COM_IN_GH_FOLDER"
 
 git status
