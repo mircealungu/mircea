@@ -15,6 +15,12 @@ git status
 # Get the list of modified files
 MODIFIED_FILES=$(git diff --name-only HEAD)
 
+if [ -z "$MODIFIED_FILES" ]; then
+    echo "No changes to commit."
+    exit 0
+fi
+
+
 check_and_push() {
     local file_path=$1
 
