@@ -1,4 +1,5 @@
 
+
 mar 28
 
 Reading about Popper and Hayek who created a society to promote freedom -- if you want to make an impact on the world, you might have a better chance if you ally with likeminded people
@@ -13,7 +14,7 @@ mar 20
 
 fast food. bad for your health. not today. but in the long term. 
 
-fast code. bad for your business. but in the long term.
+fast code. bad for your business. in the long term.
 
 fast dopamine. bad for your life. not today. but in the long term. 
 
