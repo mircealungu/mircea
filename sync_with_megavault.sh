@@ -11,6 +11,21 @@ rsync -av --delete --exclude='.git/'\
 
 git status
 
+MODIFIED_FILES=$(git diff --name-only HEAD)
+
+FILE_PATH="thoughtstream.md"
+# Check if only the specified file is modified
+if [ "$MODIFIED_FILES" == "$FILE_PATH" ]; then
+    echo "Only $FILE_PATH has been modified. Generating comment and pushing".
+    git commit -am "update thoughtstream"
+    git push
+    exit 0
+else
+    echo "Other files have been modified or $FILE_PATH has not been modified."
+    exit 1
+fi
+
+
 
 echo ""
 echo "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
