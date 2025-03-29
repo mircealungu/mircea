@@ -11,22 +11,26 @@ rsync -av --delete --exclude='.git/'\
 
 git status
 
+
+# Get the list of modified files
 MODIFIED_FILES=$(git diff --name-only HEAD)
 
-FILE_PATH="thoughtstream.md"
-# Check if only the specified file is modified
-if [ "$MODIFIED_FILES" == "$FILE_PATH" ]; then
-    echo "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
-    echo "Only $FILE_PATH has been modified. Generating comment and pushing...".
-    echo "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
-    git commit -am "update thoughtstream"
-    git push
-    exit 0
-else
-    echo "Other files have been modified or $FILE_PATH has not been modified."
-    exit 1
-fi
+check_and_push() {
+    local file_path=$1
 
+    # Check if MODIFIED_FILES contains exactly one line and that line matches file_path
+    if [ "$(echo "$MODIFIED_FILES" | wc -l)" -eq 1 ] && [ "$MODIFIED_FILES" == "$file_path" ]; then
+        echo "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
+        echo "Only $file_path has been modified. Generating comment and pushing..."
+        echo "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
+        git commit -am "update $file_path"
+        git push
+        exit 0
+    fi
+}
+
+# Call the function with the file path
+check_and_push "thoughtstream.md"
 
 
 echo ""
