@@ -31,6 +31,7 @@ check_and_push() {
 
 # Call the function with the file path
 check_and_push "thoughtstream.md"
+check_and_push "links.md"
 
 
 echo ""
