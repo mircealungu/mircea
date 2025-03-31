@@ -1,4 +1,8 @@
 
+mar 30
+
+For many things, the chatbots are what google used to be. a way of finding out how to do things. only that they extract exactly the knowledge you're after from the net, and they don't shove a ton of senseless ads in your face. for now. as the avenue q song say: "everything in life, is only for now". soon the ads will follow again, displayed on the side of the chatbot answers. 
+
 
 mar 28
 
