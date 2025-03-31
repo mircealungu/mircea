@@ -1,7 +1,7 @@
 
 march 31
 
-we don't need to write because we can type; we don't need to type because we can dictate; we don't need to read because we can listen... hopefully we don't abandon reading and writing...
+we don't need to write because we can type; we don't need to type because we can dictate; we don't need to read because we can listen... hopefully we don't abandon reading and writing!
 
 
 mar 30
