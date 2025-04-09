@@ -1,5 +1,11 @@
 
-march 31
+
+apr 7
+
+The value of anything can be computed as integral over time of the quality of the effort invest in it.
+
+
+mar 31
 
 we don't need to write because we can type; we don't need to type because we can dictate; we don't need to read because we can listen... hopefully we don't abandon reading and writing!
 

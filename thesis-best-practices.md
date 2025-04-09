@@ -4,3 +4,7 @@ methodology
 
 reporting
 - if you create a dataset you must share it; discuss with your supervisor 
+
+Thematic analysis
+- traceability between your themes and the quotes 
+
