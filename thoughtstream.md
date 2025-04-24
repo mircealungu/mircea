@@ -1,7 +1,7 @@
 
 **Apr 24**
 
-How come we can be sad when we lose something that we didn't even really had? 
+How come we can be sad when we lose something that we didn't even really had in the first place? 
 
 
 Apr 21
