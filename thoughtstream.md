@@ -1,18 +1,74 @@
 
+**Apr 24**
+
+How come we can be sad when we lose something that we didn't even really had? 
+
+
+Apr 21
+
+The smell of spring in Arad is different than anywhere else. And teleports me to childhood.  
+
+** 
+Dune. Dacia. Two typeface designers; same idea.
+
+**
+
+Online course idea: *Teach yourself Linux in one year. Without shabbats.* As a conversation between me and somebody who does not know anything about Linux. 
+
+
+
+Apr 20
+
+Once you step outside of a given context, you can see the cracks in it. *There is a crack in everything, that's how the light gets in*. 
+
+** 
+
+Life vs. artefacts.  Buildings vs. Communities. Individuals vs organizations. Is there a higher aim for a creator than to create something that's life-like? 
+
+
+
+Apr 15
+
+KØBN HAVN LUFT HAVN = Shopping port air port. 
+
+** 
+
+In BUD airport, watching a man and a woman take turns at doing an islamic prayer. Carpet to the wall. standing. Bowing. woman does the prayers. He films her. When she's done he does the prayers and bows. They are trying to attract the benevolence of their god i guess. It looks so out of place. So medieval. Though I guess it's similar in christianity. I guess it's always easier to look down onto another's religion. 
+
+
+Apr 14
+
+What if LLMs and robotics merge to become tutors? Uncanny valley? Does not need to happen. We we can stop before.
+
+VR and LLM? Whatever works to do the reps. 
+
+**
+
+What if Jeffrey Sachs is Still working for the us? Either as a backup for the unlikely case where the narrative collapses. Or as some kind of spy that the enemies are happy to welcome in their midst because he speaks against the US? If there is so much deception in a board game like BoTCT, there has to be some more in the real world? 
+
+
+Apr 13
+That missing word to describe the joy of realising one afternoon, it's always one afternoon, that Scandinavian winter is over. I keep asking my local friends whether they have a name for it and it seems they don't. They should. 
 
 apr 7
 
-The value of anything can be computed as integral over time of the quality of the effort invest in it.
+The personal and subjective value of anything can be computed as integral over time of the quality invested. 
 
 
 mar 31
 
-we don't need to write because we can type; we don't need to type because we can dictate; we don't need to read because we can listen... hopefully we don't abandon reading and writing!
+We don't need to write anymore, because we can type. 
+
+We don't need to type because we can dictate. 
+
+We don't need to read because we can listen... 
+
+Hopefully we don't devolve into becoming illiterate as a society. 
 
 
 mar 30
 
-For many things, the chatbots are what google used to be. a way of finding out how to do things. only that they extract exactly the knowledge you're after from the net, and they don't shove a ton of senseless ads in your face. for now. as the avenue q song say: "everything in life, is only for now". soon the ads will follow again, displayed on the side of the chatbot answers. 
+For many things, the chatbots are replacing search. Only that they extract exactly the knowledge you're after from the net, and they don't shove a ton of senseless ads in your face. For now that is ([like everything else](https://www.youtube.com/watch?v=C_cB9sSswpo)). Soon the ads will follow again, displayed on the side of the chatbot answers. 
 
 
 mar 28
@@ -38,33 +94,18 @@ fast dopamine. bad for your life. not today. but in the long term.
 
 feb 16
 
-what's happening in the world. another take. 
+Geopolitical Analysis: The Ukraine War, US-Russia-China Relations, and Europe's Position
 
-us realized that the the ukraine war has pushed russia in the arms of china, and that gives china plenty of free energy. something that makes them even more powerful. this is bad. so they want to undo this. 
+My take on what's happening in the world is the following:
 
-it also weakened the EU. in a sense, i don't think the US is very sorry about this. i think US as a hegemon is afraid of anybody who might be a number 2 and challenge them. this is where the fear of europe approaching russia stemmed from: the famous words of ... whomever said that russia and europe have to be kept apart. 
+1. US realized that the the Ukraine war has pushed Russia close to China. This gives china cheap energy, something that makes them an even more dangerous competitor. So they want to undo this. The idea seems to be to try to negotiate with Russia. However, it is not clear why Russia would trust the US now. Then again, they don't need to be asked to trust, the US can simply provide more openes to the east. US retreating from eastern Europe might be all that's necessary to give more "breathing space" to Russia. 
+2. The war has weakened EU. 
+	1. In a sense, i don't think the US is sorry about this. US as a hegemon is afraid of anybody who might be a number 2 and challenge them. European economy was also a strong competitor. This is where the fear of Europe approaching Russia stemmed from in the first place: the famous hearthland theory -- whomever controls central asia controls the world. And thus, the only worse thing than europe working in collaboration with russia is an europe-russia-china super-continental power. This is what the hearthland theory claims to be the secret of world dominance. 
+	2. There is another sense in which, US is also not happy about the weakening of EU. If their allies are too weka, they are not useful. So from this point of view, it might actually be that US might be interested in allowing and encouraging at least a limited rapprochement between the Russia and Europe. However, Europe is prisoner of it's own propaganda at the moment. The US had it easy: it simply put a new face at the helm and they can now "pivot". 
+3. The most important thing for US is to be able to fight a war with China. It's worth remembering in its doctrine of war, US makes it clear that they are allowed to start kinetic war against countries and actors that threaten their economic interests. Starting a war with China, would also allow the US to cancel all their debts to China, which would be quite a nice side-effect. 
+4. Ideally for the US what they would be able to achieve is a limited decoupling of Russia from China by allowing Russia to have some "breathing space" in Europe; while at the same time, making sure that too much integration between Europe and Russia is still avoided. 
 
-At the same time, there is a sense in which, if you weaken too much your allies, you risk not having much use for them. So from this point of view, it might actually be that US might be interested in allowing at least a limited rapprochement between the Russia and Europe. Although again, the Europeans still have a way to go. And a much more important thing for US is to be able to fight a war with China. Actually I don't think they want war with China. What they are most determined to prevent is a europe-russia-china axis. That would leave them irrelevant. So the best strategy to avoid that is to - befriend russia and ensure that russia and europe do not align. 
-
-And by befriend russia I think it's more like... negotiate with them. Russia will not "trust" the US ... but they can 
-
-
-Moreover, the european leaders, have made too many declarations of never befriending russia again to be able to simply change course. Even the US had to put a new face at the helm to ... They might be victims of cognitive dissonance: after having said so many times that Russia is "the great Satan" for them, now they can't  
-
-
-"America has no permanent friends or enemies, only interests" Henry Kissinger
-
-
-- As a proud European I'd love Europe stepping up on the international stage and let his voice being heard all over the world. But unfortunately I'm aware of the fact that this is not going to happen. We are way too much divided from within and we'll keep being treated as the americans servants for decades to come😢
-- Sure not in one weekend..everyone could see it coming.. Europeans are always late.
-- Let’s relax. America isn’t leaving NATO. America is saying if Europe wants to fight Russia for Ukraine instead of pursuing peace then have it. We have other matters to attend to
-- Isn't the founding principal of the EU peace through economic interdependence?  Why is this not a principle going forward with Russia.  It was Russian gas that fueled our prosperity.  And the US blew up Nordstream.  And now the US has dumped the EU. This EU is a far cry from its primary mission.  Thanks to JD Vance for saying what Europeans are not longer allowed to say.
-- EU interpretation of this continues to be comically bizarre....
-- "𝑰𝒕’𝒔 𝒒𝒖𝒊𝒕𝒆 𝒂 𝒔𝒑𝒆𝒄𝒕𝒂𝒄𝒍𝒆 𝒕𝒐𝒅𝒂𝒚—𝒘𝒂𝒕𝒄𝒉𝒊𝒏𝒈 𝒕𝒉𝒆 𝒉𝒆𝒍𝒑𝒍𝒆𝒔𝒔 𝒄𝒓𝒊𝒆𝒔 𝒐𝒇 𝒇𝒓𝒖𝒔𝒕𝒓𝒂𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝒂𝒏𝒈𝒆𝒓 𝒇𝒓𝒐𝒎 𝑨𝒎𝒆𝒓𝒊𝒄𝒂𝒏 𝒍𝒐𝒚𝒂𝒍𝒊𝒔𝒕𝒔 𝒕𝒐𝒘𝒂𝒓𝒅𝒔 𝒕𝒉𝒆𝒊𝒓 𝒐𝒘𝒏 𝒎𝒂𝒔𝒕𝒆𝒓𝒔. 𝑨 𝒉𝒆𝒂𝒓𝒕𝒇𝒆𝒍𝒕 𝒕𝒉𝒂𝒏𝒌𝒔 𝒕𝒐 𝒕𝒉𝒆 𝑼.𝑺. 𝑽𝒊𝒄𝒆 𝑷𝒓𝒆𝒔𝒊𝒅𝒆𝒏𝒕 𝑫𝑱 𝑽𝒂𝒏𝒄𝒆 𝒇𝒐𝒓 𝒑𝒖𝒕𝒕𝒊𝒏𝒈 𝒐𝒏 𝒔𝒖𝒄𝒉 𝒂 𝒔𝒉𝒐𝒘."
-- 
-
-
-
+"America has no permanent friends or enemies, only interests" Henry Kissinger. But will it be able to play the balance of p
 
 
 
@@ -146,7 +187,7 @@ reminds me of that story with the dalai lama being asked: "if you could time tra
 
 First time i read the novel was in Romanian, and thought it was absolutely brilliant. am curious how will i feel about the english translation. But it's already promising... look at the beauty and irony of this passage: 
 
-> "Flower of the Two Lands," he said in voice of surprise, "whose beautiful face has a place in the house of Amun, who is alone in her comeliness when her pure hands bear the sistrum and when she sings in a voice beloved by all." He maintained this tone of happy surprise as he hastily recited the formulaic phrases. "You who fill this house with beauty and to whose grace all things pay homage, you who are the confidante of the queen—you know how to read my heart in fulfilling its wishes ere they are spoken, fulfilling them by your very coming. Here is a cushion," he said in a more prosaic voice, pulling out one from behind his back and arranging it on the ledge at his feet. "May the gods grant," he added, resuming his courtly tone,
+> "Flower of the Two Lands," he said in voice of surprise, "whose beautiful face has a place in the house of Amun, who is alone in her comeliness when her pure hands bear the sistrum and when she sings in a voice beloved by all." He maintained this tone of happy surprise as he hastily recited the formulaic phrases. "You who fill this house with beauty and to whose grace all things pay homage, you who are the confidante of the queen—you know how to read my heart in fulfilling its wishes ere they are spoken, fulfilling them by your very coming. Here is a cushion," he said in a more prosaic voice, pulling out one from behind his back and arranging it on the ledge at his feet. "May the gods grant," he added ... 
 
 or: 
 
