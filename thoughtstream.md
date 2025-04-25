@@ -1,29 +1,53 @@
 
 **Apr 24**
 
-How come we can be sad when we lose something that we didn't even really had in the first place? 
+Sometimes we relive the story of the prophet Jonah and his overnight attachment to the leafy squash plant. We attach quickly to an idea, a person, a possible future. And when it’s taken away, we suffer. Even if a little while ago, we didn't even know it existed. 
+
+Are we like kids who do not want to go home from the playground? Did we fall in love with this idea, with this possible future, so much that our feelings are kicking and screaming at the thought of having to give it up? Or did we maybe make an intuitive recognition of genuine value or compatibility?
+
+Gnosce te ipsum. 
+
+** 
+
+You should follow the “*no broken windows*” theory in your own life. 
+
+**
+
+Can you get on a dopamine roll fuelled by creation instead of consumption?
+
+** 
+
+James P. Carse: the valuable games are infinite ones, not finite ones. 
+
+**
+
+It’s good to have a local version of an LLM. Your own little black box with a compressed internet that you can consult even when on a plane.
 
 
 Apr 21
 
-The smell of spring in Arad is different than anywhere else. And teleports me to childhood.  
+The smell of spring in Arad is different than anywhere else for me. And teleports me to childhood.  
 
 ** 
 Dune. Dacia. Two typeface designers; same idea.
 
 **
 
-Online course idea: *Teach yourself Linux in one year. Without shabbats.* As a conversation between me and somebody who does not know anything about Linux. 
+Online course idea: *Teach yourself Linux in one year, 15 min a day.* As a conversation between me and somebody who does not know anything about Linux. Would I know so much about Linux? 
 
 
 
 Apr 20
 
-Once you step outside of a given context, you can see the cracks in it. *There is a crack in everything, that's how the light gets in*. 
+Once you step outside of a given context, you can see the cracks in it.
+
+*There is a crack in everything, that's how the light gets in*. 
 
 ** 
 
-Life vs. artefacts.  Buildings vs. Communities. Individuals vs organizations. Is there a higher aim for a creator than to create something that's life-like? 
+Life vs. artefacts.  Buildings vs. Communities. Individuals vs organizations.
+
+Is there a higher aim for a creator than to create something that's life-like? 
 
 
 
@@ -33,7 +57,7 @@ KØBN HAVN LUFT HAVN = Shopping port air port.
 
 ** 
 
-In BUD airport, watching a man and a woman take turns at doing an islamic prayer. Carpet to the wall. standing. Bowing. woman does the prayers. He films her. When she's done he does the prayers and bows. They are trying to attract the benevolence of their god i guess. It looks so out of place. So medieval. Though I guess it's similar in christianity. I guess it's always easier to look down onto another's religion. 
+In BUD airport, watching a man and a woman take turns at doing an islamic prayer. Carpet to the wall. standing. Bowing. woman does the prayers. He films her. When she's done he does the prayers and bows. They are trying to attract the benevolence of their god i guess. It looks so out of place. So medieval. Though I guess somebody else would find similar medievalisms in various flavours of Christianity. I guess it's always easier to see the limitations of somebody else’s religion.
 
 
 Apr 14
@@ -44,15 +68,17 @@ VR and LLM? Whatever works to do the reps.
 
 **
 
-What if Jeffrey Sachs is Still working for the us? Either as a backup for the unlikely case where the narrative collapses. Or as some kind of spy that the enemies are happy to welcome in their midst because he speaks against the US? If there is so much deception in a board game like BoTCT, there has to be some more in the real world? 
+Jeffrey Sachs, John Mersheimer, as some kind of spies that the enemies are happy to welcome in their midst because they speak against the US? If there is so much deception in a board game like BoTCT, there has to be some also in the real world?
 
 
 Apr 13
-That missing word to describe the joy of realising one afternoon, it's always one afternoon, that Scandinavian winter is over. I keep asking my local friends whether they have a name for it and it seems they don't. They should. 
+That missing word to describe the joy of realising one afternoon that Scandinavian winter is over. You go away from work and it’s not dark anymore, but rather you can see the sunset.
+
+I keep asking my local friends whether they have a name for it and it seems they don't. They should. 
 
 apr 7
 
-The personal and subjective value of anything can be computed as integral over time of the quality invested. 
+The personal and subjective value of a relationship can be computed as integral over time of the quality of the relationship.
 
 
 mar 31
@@ -61,25 +87,23 @@ We don't need to write anymore, because we can type.
 
 We don't need to type because we can dictate. 
 
-We don't need to read because we can listen... 
+We don't need to read because we can listen. 
 
-Hopefully we don't devolve into becoming illiterate as a society. 
+We risk becoming illiterate as a society. 
 
 
 mar 30
 
-For many things, the chatbots are replacing search. Only that they extract exactly the knowledge you're after from the net, and they don't shove a ton of senseless ads in your face. For now that is ([like everything else](https://www.youtube.com/watch?v=C_cB9sSswpo)). Soon the ads will follow again, displayed on the side of the chatbot answers. 
+For many things, the chatbots are replacing search. Only that they extract exactly the knowledge you're after from the net, and they help you avoid the insufferable and innumerable ads that litter the web. 
+
+For now they help you avoid the ads. For now,  [like everything else](https://www.youtube.com/watch?v=C_cB9sSswpo).
+
+Soon the ads will follow again, displayed on the side of the chatbot answers. Just as YouTube was a relief from the TV ads, only to become even worse once it stole the market of TV.
 
 
 mar 28
 
 Reading about Popper and Hayek who established the *Mont Pèlerin Society* to work together and promote freedom, I'm reminded that if you want to make an impact on the world, you will  have a better chance if you ally with likeminded people.
-
-
-
-mar 27
-
-there was something really intelligent and funny that I realized this morning. I wanted to write it here. but i forgot it. 
 
 
 mar 20
@@ -98,15 +122,15 @@ Geopolitical Analysis: The Ukraine War, US-Russia-China Relations, and Europe's 
 
 My take on what's happening in the world is the following:
 
-1. US realized that the the Ukraine war has pushed Russia close to China. This gives china cheap energy, something that makes them an even more dangerous competitor. So they want to undo this. The idea seems to be to try to negotiate with Russia. However, it is not clear why Russia would trust the US now. Then again, they don't need to be asked to trust, the US can simply provide more openes to the east. US retreating from eastern Europe might be all that's necessary to give more "breathing space" to Russia. 
+1. US realized that the the Ukraine war has pushed Russia close to China. This gives China cheap energy, something that makes them an even more dangerous economic  competitor to the US, and thus an enemy. So they want to undo this proximity between the two Asian powers. The surface idea seems to be to try to negotiate with Russia? It is not clear why Russia would trust the US now. Then again, they don't need to be asked to trust, the US can simply provide more openes to the east. US retreating from eastern Europe might be all that's necessary to give more "breathing space" to Russia and decrease their dependency on China. 
 2. The war has weakened EU. 
-	1. In a sense, i don't think the US is sorry about this. US as a hegemon is afraid of anybody who might be a number 2 and challenge them. European economy was also a strong competitor. This is where the fear of Europe approaching Russia stemmed from in the first place: the famous hearthland theory -- whomever controls central asia controls the world. And thus, the only worse thing than europe working in collaboration with russia is an europe-russia-china super-continental power. This is what the hearthland theory claims to be the secret of world dominance. 
-	2. There is another sense in which, US is also not happy about the weakening of EU. If their allies are too weka, they are not useful. So from this point of view, it might actually be that US might be interested in allowing and encouraging at least a limited rapprochement between the Russia and Europe. However, Europe is prisoner of it's own propaganda at the moment. The US had it easy: it simply put a new face at the helm and they can now "pivot". 
-3. The most important thing for US is to be able to fight a war with China. It's worth remembering in its doctrine of war, US makes it clear that they are allowed to start kinetic war against countries and actors that threaten their economic interests. Starting a war with China, would also allow the US to cancel all their debts to China, which would be quite a nice side-effect. 
-4. Ideally for the US what they would be able to achieve is a limited decoupling of Russia from China by allowing Russia to have some "breathing space" in Europe; while at the same time, making sure that too much integration between Europe and Russia is still avoided. 
+	1. In a sense, i don't think the US is sorry about this. US as a hegemon is afraid of anybody who might be a number 2 and challenge them. European economy was also a strong competitor. This is where the fear of Europe approaching Russia stemmed from in the first place: the famous hearthland theory -- whomever controls central asia controls the world. And thus, the only worse thing than europe working in collaboration with russia is an europe-russia-china euro-Asian block. This is what the hearthland theory claims to be the secret of world dominance. 
+	2. There is another sense in which, US is also not happy about the weakening of EU. If their allies are too weak, they are not useful. So from this point of view, it might actually be that US might be interested in allowing and encouraging at least a limited rapprochement between the Russia and Europe. However, Europe is prisoner of its own propaganda at the moment. The US had it easy: it simply put a new face at the helm and they can now "pivot". Then again, it might be that US profit from the stalemate in Europe. In a few years, when the war with China starts, EU will have to fight RU.
+3. Ideally for the US what they would be want to achieve is a limited decoupling of Russia from China by allowing Russia to have some "breathing space" in Europe; while at the same time, making sure that too much integration between Europe and Russia is still avoided.
+4. The most important thing for US is to be able to fight a war with China. It's worth remembering in its doctrine of war, US makes it clear that they are allowed to start kinetic war against countries and actors that threaten their economic interests. Starting a war with China, would also allow the US to cancel all their debts to China, which would be quite a nice side-effect. 
+ 
 
-"America has no permanent friends or enemies, only interests" Henry Kissinger. But will it be able to play the balance of p
-
+"America has no permanent friends or enemies, only interests" Henry Kissinger.
 
 
 feb 15
@@ -120,7 +144,7 @@ VMs - making an OS believe that it has the whole hardware for itself.
 
 feb 14
 
-somebody should do a series of empirical studies on "*the law of leaky abstractions*" -- e.g., in projects that use ORM, how often can one see the underlying database coming through; in projects that use terraform, how often do they have to use the strange ad-hoc provisioners that allow them to fall through in 
+Somebody should do a series of empirical studies on "*the law of leaky abstractions*" -- e.g., in projects that use ORM, how often can one see the underlying database coming through; in projects that use terraform, how often do they have to use the strange ad-hoc provisioners that allow them to fall through in 
 
 another law that somebody should formulate: any "proxy"-like service, e.g. one that promises to interface to many similar ones (e.g. vagrant, sqlalchemy, xamarin), etc. is bound to evolve much faster than any of the individual ones. from that POV, if one wants to be more sustainable, it would make sense to learn a stable technology and use that rather than use the abstraction. a way to quantify this would be to look at how often did SQL change over the duration in which SQLAlchemy, or other ORMs
 
