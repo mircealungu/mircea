@@ -26,20 +26,21 @@ Gnosce te ipsum.
 It’s good to have a local version of an LLM. Your own little black box with a compressed internet that you can consult even when on a plane.
 
 
-Apr 21
+**Apr 21**
 
 The smell of spring in Arad is different than anywhere else for me. And teleports me to childhood.  
 
 ** 
+
 Dune. Dacia. Two typeface designers; same idea.
 
 **
 
-Online course idea: *Teach yourself Linux in one year, 15 min a day.* As a conversation between me and somebody who does not know anything about Linux. Would I know so much about Linux? 
+Online course idea: *Teach yourself Linux in one year, 15 min a day.* As a conversation between me and somebody who does not know anything about Linux. Would I know enough about Linux? 
 
 
 
-Apr 20
+**Apr 20**
 
 Once you step outside of a given context, you can see the cracks in it.
 
@@ -53,7 +54,7 @@ Is there a higher aim for a creator than to create something that's life-like?
 
 
 
-Apr 15
+**Apr 15**
 
 KØBN HAVN LUFT HAVN = Shopping port air port. 
 
@@ -62,7 +63,7 @@ KØBN HAVN LUFT HAVN = Shopping port air port.
 In BUD airport, watching a man and a woman take turns at doing an islamic prayer. Carpet to the wall. standing. Bowing. woman does the prayers. He films her. When she's done he does the prayers and bows. They are trying to attract the benevolence of their god i guess. It looks so out of place. So medieval. Though I guess somebody else would find similar medievalisms in various flavours of Christianity. I guess it's always easier to see the limitations of somebody else’s religion.
 
 
-Apr 14
+**Apr 14**
 
 What if LLMs and robotics merge to become tutors? Uncanny valley? Does not need to happen. We we can stop before.
 
@@ -73,17 +74,18 @@ VR and LLM? Whatever works to do the reps.
 Jeffrey Sachs, John Mersheimer, as some kind of spies that the enemies are happy to welcome in their midst because they speak against the US? If there is so much deception in a board game like BoTCT, there has to be some also in the real world?
 
 
-Apr 13
+**Apr 13**
+
 That missing word to describe the joy of realising one afternoon that Scandinavian winter is over. You go away from work and it’s not dark anymore, but rather you can see the sunset.
 
 I keep asking my local friends whether they have a name for it and it seems they don't. They should. 
 
-apr 7
+**Apr 7**
 
 The personal and subjective value of a relationship can be computed as integral over time of the quality of the relationship.
 
 
-mar 31
+**mar 31**
 
 We don't need to write anymore, because we can type. 
 
