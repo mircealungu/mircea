@@ -14,9 +14,11 @@ James P. Carse: the valuable games are infinite ones, not finite ones.
 
 **Apr 24**
 
-Sometimes we relive the story of the prophet Jonah and his overnight attachment to the leafy squash plant. We attach quickly to an idea, a person, a possible future. And when it’s taken away, we suffer. Even if a little while ago, we didn't even know it existed. 
+Sometimes we relive the story of the prophet Jonah and his overnight attachment to the leafy squash plant. We attach quickly to an idea, a person, a possible future. And when it’s taken away, we suffer. 
 
-Are we like kids who do not want to go home from the playground? Did we fall in love with this idea, with this possible future, so much that our feelings are kicking and screaming at the thought of having to give it up? Or did we maybe make an intuitive recognition of genuine value or compatibility?
+Are we like kids who do not want to go home from the playground? Did we fall in love with this idea, with this possible future, so much that our feelings are kicking and screaming at the thought of having to give it up? Even if a little while ago, we didn't even know it existed? 
+
+Or did we maybe make an intuitive recognition of genuine value or compatibility?
 
 Gnosce te ipsum. 
 
