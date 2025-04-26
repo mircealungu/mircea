@@ -1,4 +1,8 @@
 
+**Apr 26**
+
+It's a stochastic parrot, true. But the quality of conversation and common sense life advice one can have from it is impressive. 
+
 **Apr 25**
 
 You should follow the “*no broken windows*” theory in your own life. 
