@@ -9,7 +9,7 @@ You should follow the “*no broken windows*” theory in your own life.
 
 **
 
-Can you get on a dopamine roll fuelled by creation instead of consumption?
+Can you get on a dopamine roll fueled by creation instead of consumption?
 
 ** 
 
