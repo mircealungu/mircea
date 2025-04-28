@@ -1,7 +1,7 @@
 
 **Apr 26**
 
-It's a stochastic parrot, true. But the quality of conversation and common sense life advice one can have from it is impressive. 
+The quality of conversation one can have with *stochastic parrot* and the common sense life advice one can distill from such a conversation is impressive. 
 
 **Apr 25**
 
