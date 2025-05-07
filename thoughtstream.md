@@ -25,7 +25,7 @@ Programming as an never ending refactoring towards clearer and clearer concepts 
 
 **Apr 26**
 
-The quality of conversation one can have with *stochastic parrot* and the common sense life advice one can distill from such a conversation is impressive. 
+Yeah, they are *stochastic parrots*. But the quality of conclusions one can derive from a  conversation one of them, and the common sense life advice one can distill from such a conversation is impressive. 
 
 **Apr 25**
 
