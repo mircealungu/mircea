@@ -1,4 +1,28 @@
 
+**May 7**
+
+Can you get on a dopamine rush fueled by creation instead of consumption?
+
+
+**May 6**
+
+That habit of the Americans to strike a conversation in any situation. That is cool. 
+
+
+**May 5**
+
+Goal for the second half of life: transform the beauty, enthusiasm, and strength of youth into kindness, wisdom, and efficiency. 
+
+
+**May 2**
+
+I can love all people, but I cannot love all cultures. Large man looking stiff and slightly angry muttering obscure religious chants to himself loud enough to hear him from three meters away.  
+
+** 
+
+Programming as an never ending refactoring towards clearer and clearer concepts of the problem domain. 
+
+
 **Apr 26**
 
 The quality of conversation one can have with *stochastic parrot* and the common sense life advice one can distill from such a conversation is impressive. 
@@ -6,10 +30,6 @@ The quality of conversation one can have with *stochastic parrot* and the common
 **Apr 25**
 
 You should follow the “*no broken windows*” theory in your own life. 
-
-**
-
-Can you get on a dopamine roll fueled by creation instead of consumption?
 
 ** 
 
