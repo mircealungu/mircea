@@ -11,7 +11,7 @@ That habit of the Americans to strike a conversation in any situation. That is c
 
 **May 5**
 
-Goal for the second half of life: transform the beauty, enthusiasm, and strength of youth into kindness, wisdom, and efficiency. 
+Goal for the second half of life: transform the beauty, enthusiasm, and strength into kindness, wisdom, and efficiency. 
 
 
 **May 2**
