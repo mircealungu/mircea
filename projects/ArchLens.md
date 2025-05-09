@@ -1,7 +1,12 @@
 
 # ArchLens 
 
-ArchLens ([GitHub](https://github.com/archlens/ArchLens)) is a project that aims to help developers **keep track of the evolution of the structure of their systems** by allowing them to quickly define module views and then visualizing their evolution. 
+ArchLens ([GitHub](https://github.com/archlens)) is a project that aims to help developers **keep track of the evolution of the structure of their systems** by allowing them to quickly define module views and then visualizing their evolution. 
+
+It consists of three components:
+- [Python CLI tool](https://github.com/archlens/ArchLens)
+- [GitHub Workflow](https://github.com/archlens/Render-Diff-on-PR)
+- [VS Code Extension](https://github.com/archlens/ArchLens-VsCode-Extension)
 
 A [vision paper](https://www.overleaf.com/read/zbcctdmkbgpv#b4ce30) is written by Mircea about the project. 
 
@@ -16,6 +21,8 @@ Multiple students have contributed to the current version of Archlens in their m
 - Magnus Albeck Klitmose
 - Mathias Baunsgaard Kristensen
 - Simon Boye Jørgensen
+- Casper Holten
+- Sebastian Hylander
 
 # Possible Student Projects
 
