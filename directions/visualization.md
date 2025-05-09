@@ -1,10 +1,10 @@
 # Software Visualization
 
-The difference between building architecture and software architecture is that in the first case, if one creates a monstruosity -- it is obvious to everbody while in the second, it is very unlikely for anybody to see. 
+The difference between building architecture and software architecture is that in the first case, if one creates a monstrosity -- it is obvious to everybody while in the second, it is very unlikely for anybody to see. 
 
-The fact that monstruos software architectures exist is not an aesthetic judgement or problem. It's an essential mental health and company survivability problem. 
+The fact that monstrous software architectures exist is not an aesthetic judgement or problem. It's an essential mental health and organizational problem. 
 
-Indeed the fact that a software system is a mess can be a strong reason for people leaving (we all know engineers who switched companies rather than working on horrible systems that they were assigned to). Moreover, when maintainability of a system becomes so low that it's evolution is slowed down, this can also impact the company or organization. It does not need to be a company, it can be also a government agency. The story of the Danish tax code is a good example.
+Indeed the fact that a software system is a pain to work with can be a strong reason for people leaving: we all know engineers who switched companies rather than working on horrible systems that they were assigned to. Moreover, when maintainability of a system becomes so low that it's evolution is slowed down, this can also impact the company or organization. This happens to both companies and government agencies. The story of the Danish tax code system is a good example.
 
 One way to address this problem is to work on software visualization - the discipline of generating visual representations of software systems that will help with seeing the structure and detecting whether it needs improvement and how. This is not easy, because of the complexity of large software systems and the diversity of technologies that these systems entail. Our solution is to create multiple visual perspectives and views that together can provide insight into the condition of a system.
 
