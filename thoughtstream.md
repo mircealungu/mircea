@@ -1,4 +1,31 @@
 
+**May 15**
+
+Such a pleasure when you finally name your concepts well in your code, and the code becomes suddenly easy to read and think about. 
+
+
+
+**May 12**
+
+Life goal: be able to distinguish between all the Beethoven's Symphonies. 
+
+
+
+**May 11**
+
+As an web app developer you're a generalist. You're the ultimate renaissance woman or man. Reminds me of the quote of Heinlein: *"a man should be able to: plant a tree, change a diaper, write a book, plan an invasion; specialization is for insects"*.  
+
+
+**May 10**
+
+Beautiful historical churches should be transformed in Farraday cages. They should be places of meditation, where you could escape from the internet for a moment. Keeping you away from Satan. 
+
+**May 9**
+
+Your duty as an academic maintainer of a software is to define the architecture, the borders of components, the interfaces. Everything that is done by a student, should be defined, circumscribed by an API that you defined, by an interface that you designed. That way, if later you need to replace it, you can replace only that component. In an ideal world.
+
+Or you do the coding, and they do run the studies. 
+
 
 **May 7**
 

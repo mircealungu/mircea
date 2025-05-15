@@ -74,6 +74,7 @@ However, you will need to be able to investigate, and decide, and convince.
 	- DHH Essay: [How to Recover from Microservices](https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc)
 		- 10min read
 		- he talks about "it depends" - sure, but know your it depends
+	- Migration to Monlith - Leotrim Zulfiu (https://www.jug.ch/html/events/2025/from_many_to_one_zh.html). Just talk title; no video :( 
 - **Cloud Infrastructure**
 	- The lichess case study
 	- The 37 Signals Case Study
