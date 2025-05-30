@@ -2,7 +2,13 @@
 
 | [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) | [Claude](https://claude.ai/chat/)| [Gemini](https://aistudio.google.com/live)|
 
-[bt](https://www.tabulaturi.ro/acorduri/radu-gheorghe/broasca-testoasa-342)
+
+Poliglot Gathering: [practical](https://www.polyglotgathering.com/2025/fr/practical/),  [program](https://www.polyglotgathering.com/2025/fr/online/program/)
+
+[ICSME NIER](https://conf.researchr.org/track/icsme-2025/icsme-2025-nier) 
+
+
+
 
 ### Teaching 
 
@@ -97,6 +103,7 @@ FAQ:
 ## Censoring
 - [aau digitaleksam](https://digitaleksamen.aau.dk/)
 - [censor list](https://services2.brics.dk/censor/)
+- [sdu digitalexam](https://digitaleksamen.sdu.dk/bedoemmer/proeve/100388)
 
 
 ## Copenhagen
@@ -160,3 +167,4 @@ Fall 2024
 
 
 
+[broasca testoasa](https://www.tabulaturi.ro/acorduri/radu-gheorghe/broasca-testoasa-342)

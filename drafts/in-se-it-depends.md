@@ -70,7 +70,7 @@ However, you will need to be able to investigate, and decide, and convince.
 - **Microservices**
 	- Amazon Prime team [switches to monolith from microservices](https://thenewstack.io/return-of-the-monolith-amazon-dumps-microservices-for-video-monitoring/) 
 	- [Podcast](https://www.hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde) with a Roberta Arcoverde from StackOverflow about not going down the path to microservices ([somebody wrote an overview about this case](https://www.linkedin.com/pulse/decoding-stack-overflows-on-premises-monolith-dive-zia-tahir/)) 
-	- 
+	- Talk at JUG Zurich: migrating away from microservices: https://www.jug.ch/html/events/2025/from_many_to_one_zh.html
 	- DHH Essay: [How to Recover from Microservices](https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc)
 		- 10min read
 		- he talks about "it depends" - sure, but know your it depends

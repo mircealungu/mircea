@@ -1,4 +1,53 @@
 
+May 28
+
+Morning burpees are hard. Harder than Romanian deadlifts.
+
+**
+
+Breakfast at the PG hotel. “Do you want a Prosecco?” Sure. That’s how I like to start my days.
+
+**
+
+Obsidian is such a pleasure. Being excited about a text editor. That is special. 
+
+** 
+
+So easy to see the silliness in somebody else’s idea. Research idea. App idea. Startup idea. But your own, they are brilliant. *Fățarnicule, scoate întâi bârna din ochiul tău, și atunci vei vedea deslușit să scoți paiul din ochiul fratelui tău*
+
+**
+
+We should add an “import your streak from Duolingo” feature to Zeeguu :)
+
+
+
+May 27
+
+Pete Seeger. I love several of his songs. But man he does have too many! I’ve made the mistake to add all his to my liked songs playlist, And now it’s 10 minutes since I keep deleting them and they still are some more. I guess I didn’t find a way to delete many of them at the same time. I have to delete the one by one. But still. 
+
+**
+
+Czechia - I don’t understand anything from this language. I should love to learn some Slavic language. I’m quite sure knowing one helps with all the others. 
+
+![](assets/IMG_5105.jpeg)
+
+
+**
+
+Mendel university. In Moravia. 
+
+
+
+
+**May 23**
+
+Politicians - “Europe should invest more and start more startups”. But this is copying the US, and we're starting too late. What if, in Europe we could go the other way? We could go for quality. Not fast stupid ideas, but high quality deep ideas.
+
+**
+
+On the translation of programs from left to right - Knuth
+
+
 **May 15**
 
 Such a pleasure when you finally name your concepts well in your code, and the code becomes suddenly easy to read and think about. 
