@@ -22,6 +22,9 @@ Sometimes it's because of marketing. Sometimes it's because technology-for-techn
 - The Blockchain
 - The cloud
 - GenAI for SE
+- MDE 
+	- Dave Thomas - [MDA: Revenge of the Modelers or UML Utopia?](https://martinfowler.com/ieeeSoftware/mda-thomas.pdf)
+	- Hailpern - [Model-driven development: The good, the bad, and the ugly](https://web.archive.org/web/20150914185054id_/http://www.hailpern.com/bthpub/papers/ISJ_45_3_2006.pdf)
 
 Each one of the above, was a wonderful technology. Each one came with a simple promise. A great example. A super convincing "hello world". But as soon as you get outside of the beaten path of the given technology, as soon as you move away from the main use case. Probably a recommended reading here would be the *Spolsky* essay on *The Law of Leaky Abstractions*. 
 

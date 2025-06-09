@@ -1,3 +1,79 @@
+Jun 9
+
+The attraction of the fly to the light; or attraction to our phones.
+
+
+Jun 2
+
+Everything you do, do it with all your heart
+
+Jun 1
+
+"Small gods" by Pratchett - could be a metaphor for the "influencer" business of nowadays. Or for the stock market. Attention goes away, the stock shrinks.
+
+
+** 
+
+Some observations on the way home from the polyglot gathering:
+- Many youngsters attended because they saw an ad on Instagram. Little video clips seem to be the way to reach a new generation.
+- Cesco - has forty (!) volunteers for his project; he's highly social and driven; but still. He even had a good looking lady to manage his booth at the expo. This is how you do things.
+- One peruvian software engineer showed me *"a website created by AI"* - a shell w/o a ghost. Fake dashboard. Missing images. But having some chat with a chatbot functionality included. He was proud of it. I tried to explain to him that when you're writing the code, you're also building your own understanding of the system. I'm not sure he got it. I asked him how is he going to maintain it. Then he agreed that it was going to be a problem... The *enshitification* of the internet is going to arrive at new levels. Not only shitty content, but now shitty web applications, where you'll have to spend some time to realize that there's nothing to them. Human curation is going to become so much more important. In a few years we'll be back to Yahoo! Directories and Digg or what was the name of that service.
+- Two of them showed me chatbots that would chat back in translations. Is this a mode that makes more sense for the new generations? 
+- At the expo, and during the conference I saw a few tools that were quite buggy, and where the ones presenting them were paying developers in India to create them. One where the language would be reverting on every other page. One where things were very slow... 
+- There was one guy who annotated and aligned on his own 900 sentences between German and English. I congratulated him. I told him that I believe that "human-inside" as opposed to "ai-inside" is going to become valuable again in the future. 
+- Brno company with 30-40 developers maintaining a multilingual corpus of sentence examples. Selling their corpus to universities as a business model. I'm so envious on that team size and the sustainability that it brings. This being said, complexity of the product is less than Zeeguu IMO. Less moving parts. 
+- Girl talking about how do we even measure progress. No solution, just talking about the difficulty. I think we should really focus on this in Zeeguu.
+- Talking to Dimitris - Latvian. Very good discussions. Including a promise that I'll send him a zeeguu advent calendar for December. 
+- Multiple people are using LingQ (based on a discussion with a participant, who tells me that the creator uses the tool himself, and creates videos about it, I start to believe that it's the same guy as FluentU). They upload their own texts. Must study it again - and see what can we learn from it.
+- The social program at the gathering is so much better than at our normal scientific conferences. No wonder that community is growing. Also, the price is so much lower. Why do we need such high price events in academia?
+- All throughout the days, filming crews were making content outside. If you wanted to be interviewed you just went there.  The attention economy seems monstrous to me. Then at the same time, I'm also contributing to it. 
+- I was one of the few Romanians. Multiple people came excited to me to talk in Romanian.
+- One guy, asked me whether I could add more than one language translation in Zeeguu. I dismissed it. But maybe I should have not? Maybe it would be nice to try to maintain multiple languages? Then again, why? Does anybody try to actively maintain vocabulary in multiple languages? In that case it should be rather phrases, not individual words. 
+
+** 
+My Google Premium has expired. The level of ads is horrendous. I just hope that this is a way of twisting the hand of the people living in the rich world so they start to pay again and sponsor the poorer parts of the world. That, I could live with. If OTOH, they are just as nasty with everybody, then they deserve to be forgotten. In any case, for now, I'm happy for the decrease in watching that their policy resulted in. 
+
+**
+
+I guess everybody is using multimodal embeddings for content recommendation these days? You like a video version of *"eat liver stew before having rakia, so the rakia does not know which to attack"* on Instagram, and then you see variations, on the exact same joke but with liver pate instead... The new, do you want to find hotels in Vienna, after you returned from Vienna already. 
+
+Alternative is that "content creators" (attention zombies, attention diggers, ...), see that a joke is successful, and they rush to create an alternative. 
+
+** 
+
+
+What if in the future, 
+
+**Sat 31**
+
+Nice discussion with one of the polyglots. The secret is in the effort. We're all making everything effortless, one-click translations, etc. But it does not matter - what matters is the effort. And back in the day, when you had to look the word in the dictionary, and you had to write it down in your notebook, you put more attention into it. And that's what mattered. 
+
+Secret in life is focus and attention. And really attending to the thing that is in front of you. As children do. 
+
+Another one: war in Kanton Bern für zwei Jahr arbeitung mit Beton. Zu viel stress. Sehr tiefe Stimme. 
+
+Another polyglot had a chatbot that would translate sentences in conversation with her friend in Italian and German for her practice. Would it make sense to have something similar for my own translations? 
+
+**
+
+If you have a principle, but you make an exception it will be much easier to make an exception again. Until it's not a principle anymore? 
+
+**
+
+Presenter talking about how we measure progress:  
+
+![](assets/image.jpg)
+
+
+Words known - “I don’t want to go into the question I’d what a word is”. So true :)
+
+Do you track every meaning? 
+
+Passive and active knowledge?
+
+My idea — 
+
+
 
 May 28
 
