@@ -1,6 +1,12 @@
+Jun 10
+
+One doesn't discover new lands without consenting to lose sight of the shore for a very long time. (A. Gide). 
+
+
 Jun 9
 
 The attraction of the fly to the light; or attraction to our phones.
+
 
 
 Jun 2
