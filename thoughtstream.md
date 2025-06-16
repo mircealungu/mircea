@@ -5,8 +5,7 @@ One doesn't discover new lands without consenting to lose sight of the shore for
 
 Jun 9
 
-The attraction of the fly to the light. The human attraction to the phone. 
-
+The attraction of the insects to the night light. The human attraction to the phone. 
 
 
 Jun 2

@@ -2,10 +2,7 @@
 
 | [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) | [Claude](https://claude.ai/chat/)| [Gemini](https://aistudio.google.com/live)|
 
-
-Poliglot Gathering: [practical](https://www.polyglotgathering.com/2025/fr/practical/),  [program](https://www.polyglotgathering.com/2025/fr/program/)
-
-[ICSME NIER](https://conf.researchr.org/track/icsme-2025/icsme-2025-nier) 
+[Zeeguu (Progress version)](https://deploy-preview-795--voluble-nougat-015dd1.netlify.app/)
 
 
 
