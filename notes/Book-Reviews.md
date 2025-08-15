@@ -7,8 +7,7 @@ I've decided that I must write short notes about the books I read. I'll try to k
 gulag archipelago
 
 - the soviet paranthesis inthe history of russia
-
-- 
+- a reminder of how 
 
 
 

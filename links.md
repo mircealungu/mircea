@@ -9,7 +9,9 @@
 
 ### Teaching 
 
-| Architecture: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024304), [Reconstruction on GH](https://github.com/mircealungu/reconstruction) | DevOps GH: [Lecture Notes](https://github.com/itu-devops/lecture_notes), [org](https://github.com/itu-devops) | TimeEdit Spring'25: [Lectures](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X560Q90YQ59x5YZ61ZY1Q6y5695Y05X59207QX01483Yg56092gX64Y09Q5.html), [Exams](https://cloud.timeedit.net/itu/web/public/ri1005899YX725Q8X0Q0Y98YZ011Y2YXX5X885052592415X5Y25055315510YXY7005X51215555X9X100Y022Y50XY6729X0Y2XY5Z2g4Q0gy9605x0466593Q8YZg5Q9Y01662X0Y5.html) | 
+TID: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024691)
+
+ | TimeEdit Fall'25: [Lectures](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X860Q90YQ59x5YZ61ZY1Q6y5695Y05X59207QX01483Yg56092gX64Y09Q5.html), [Exams](https://cloud.timeedit.net/itu/web/public/ri1005899YX725Q8X0Q0Y98YZ011Y2YXX5X885052592415X5Y25055315510YXY7005X51215555X9X100Y022Y50XY6729X0Y2XY5Z2g4Q0gy9605x0466593Q8YZg5Q9Y01662X0Y5.html) | 
 
 ### Zeeguu
 
@@ -33,6 +35,9 @@
 - [**Git-Truck**](https://github.com/git-truck/git-truck)  
 - **Aiki**: [gh.io](https://aiki-extension.github.io/) 
 - MathsCamp: [site](https://mathscamp.org/#/), [gh](https://github.com/MathsCamp/MathsCamp) 
+
+- [Antropic Console](https://console.anthropic.com/settings/billing)
+- [DeepSeek Console](https://platform.deepseek.com/usage)
 
 
 

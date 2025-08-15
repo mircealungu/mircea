@@ -1,5 +1,6 @@
 
 
+
 taurine [might slow down aging?](https://www.cnbc.com/2023/10/27/longevity-doctor-says-this-is-the-no-1-supplement-he-takes-every-day-to-slow-down-aging.html) 
 - antioxidant and antiinflamatory qualities
 - adds w/ blood pressure regulation (how?) and supports blood vessel function how?

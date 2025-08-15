@@ -1,3 +1,294 @@
+Aug 15
+
+I realized something, in Zeeguu we could now, with the help of the LLMs, have the extension simplify any article in any language. Thus, if I really want to read about something that happened in Romania, I can still find the article, and then simplify it to my level, and then read it in Danish. This seems like such a brilliant idea. 
+
+Then again, the whole development of Zeeguu has always been driven by these ideas that I have every now and then that I get very enthusiastic about. 
+
+
+Aug 14
+
+Working with Claude Code and Co. is doing the job of a Team Lead. You get code that you have to review. And not only that, but you get it from a *team member* who is quite confident, knows a lot of facts, but can be sometimes really wrong. You have to know a lot in order to be able to review it. By definition you can not do this if you're junior. 
+
+
+Aug 13
+
+Remember, never depend on a single API, especially if you're passing this onto your users. This morning Antropic's API is refusing to coöperate and throws an: 
+
+- Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}}
+
+I guess it goes without saying that anybody who ever depends on an LLM, but then, also, on any API should always have an *API multiplexer* in front of all of them. Because, if you read their TOS you'll realize that their uptime, even if they promise 99.9% is defined in a different way than you would expect E.g. Google translate define up time in terms of service request requests not the actual time their service is up.  Also, they make it clear that if a call fails, you're supposed to do exponential back off. So if you combine these two things together, you realize that their 99.9 is a very different thing than what you think when you say 99.9 up time. 
+
+
+Aug 10
+
+In the context of Zeeguu we want to teach learners meanings. However, languages present a fundamental challenge: words often have multiple meanings depending on context. and also, a given meaning might be written in different ways. Capitalization can make the same word look like two different words. Sometimes, capitalization really distinguishes between two separate meanings (e.g. Lesen vs. lesen in German, or Polish vs. polish in English). And sometimes the same form of a word has different meanings. 
+
+In the context of Zeeguu this is solved elegantly by the fact that we have context-aware translations. Thus, when we save a user translation to the database, we save the word/translation pair, and implicitly we disambiguate the meanings (Lesen/reading is going to be different from lesen/to read). 
+
+
+Aug 9
+
+A valid use-case for LLMs - the refactoring that you do when you get courage to start working on a codebase - you can do it with them and it's nice actually. 
+
+The Claude could replace the lead dev / architect. And for small changes repetitive you might still be cheaper to work with humans. 
+
+Erik Meijer - about how [vibe coding is sculpting in wax](https://x.com/headinthebox/status/1950031783581667686) as opposed to marble chiseling that is the traditional coding. I wonder if he works for an AI coding startup :) 
+
+
+
+TID 
+I can't speak for others, but for me, usability is a continuous, iterative process. I'm constantly engaging with the system, and each interaction reveals a better way to approach the design. Perhaps some people are skilled enough to think through all the usability considerations upfront, but that's not how I work.
+
+Often, inspiration strikes at unexpected moments. Sometimes I'll have a breakthrough idea in the shower, right after I've closed the application I was working on. Other times, I'll be walking to the store house and suddenly realize there's an obvious improvement I hadn't considered before.
+
+User feedback also plays a crucial role in this process. When users report bugs or provide feedback, it often makes me step back and question design decisions.
+
+The key insight is that usability emerges through this ongoing cycle of building, using, reflecting, and refining rather than being something you can fully design upfront.
+
+
+
+
+August 2
+
+- Today Claude assumes that I have a `last_seen` column in my user table.
+- I say no. But the ask if that would be a good idea. Claude reports that indeed some systems user such a pattern. 
+- I think about it, realize that it might be useful, so I say okay, let's use it. 
+- Claude comes up with the idea of updating the column on every authenticated request. I say that's stupid. It says OK, let's add throttling so we only write to the database if `last_seen` wasn't updated in the last N minutes. 
+- I look at our use case and realize that for us, once a day is enough. So that's very little overhead. 
+- Now, looking at my user table, it is very practical to have a `last_seen` column.
+
+One way to use these tools is to learn from whatever accumulated wisdom they have captured from the Internet. And learn in the context of your own project, that you really care about. 
+
+
+
+August 1
+
+Claude Code transform you in the meta-programmer of Symonyi. 
+
+
+Jul 31
+
+Some days ago, I spent an hour, trying to fix a bug with vague notes for Claude.
+
+Today, I thought well about what's happening, provided a few clear instructions, bug is fixed in five minutes. 
+
+
+Jul 30
+
+This technology is absolutely amazing for rapid prototyping—it helps you create prototypes much faster than traditional methods. But there are two sides to consider:
+
+**The Competitive Reality:** This isn't just benefiting you—everyone else has access too. This creates downward pressure on programming jobs because everyone can now build products. What used to require a five-person startup team to prototype can now be done by one skilled person. The bar is rising: you have to become much better at what you do.
+
+
+**The Cost Factor:** These AI tools are extremely expensive to use. You need to become really good at knowing exactly what to ask for. If you're vague or imprecise, the AI will go on lengthy tangents and produce poor solutions. You'll say "No, I don't like that solution," but then give another vague request, and it'll deliver another bad result.
+
+It's like that classic story of someone making a deal with the devil—the devil always exploits vague requests and never delivers what you actually wanted. AI can be similar.
+
+
+**The Bottom Line:** To use these tools cost-effectively, you must become exceptionally skilled at crafting precise, concise requests. Know exactly what you need and how to communicate it clearly. This precision will get you the results you want without burning through your budget on endless iterations.
+
+The technology is powerful, but mastery lies in knowing how to direct that power efficiently. And to do this you have to write your own code. 
+
+--
+
+Seeing the little brother of my friend from high school grown into a large adult is shocking somehow. 
+
+
+
+
+Jul 28
+
+The more you rely on these robots, the more the companies, for profit, are going to have incentives to decrease their quality. Something as simple as instructing them: be 5% more sloppy, or 5% more verbose, on Mondays, etc. A bit like the cafeteria at my university where I suspect that, because we are paying by weight, they are incentivized to create food that is heavier. 
+
+Also, if you're a company, you know your people. You have valuable people. You can count on them. But what makes you count on a company in SV that does not have your interest at heart? 
+
+**
+
+Maintenance. Talking to the guy at McD. Changing a screw. Painting a fence. Washing. Cleaning after the pigeons. He tells me about pigeons: "they are my main enemies; you wouldn’t be sitting here if I didn’t clean every day". People do not understand the importance of maintenance.
+
+()()()()()
+
+I swear that Claudius inserts little chaos in the code just to use more tokens! It just replaced a constant with a magic number! Then I have to tell it to revert it, and he agreed with me, commenting on how bad the magic numbers are. 
+
+--
+
+My experience is that when you want to do good for somebody, you often end up doing good for yourself. Is it also the other way around? Probably.
+
+--
+
+Is there a body specific weight? Moving a dumbbell that weighs 26kg from the rack makes me feel *fragile* . What should I be strengthening?
+
+
+
+Jul 23
+
+Our systems become so complicated, with so many rules, that even knowing the rules of the system is going to be as advantage.
+
+**
+
+LLMs as the magic mirror from Harry Potter in which you see what you wanted to see. 
+
+
+Jul 19
+
+Claude Code - it's awesome. But it tends to do what bad taxi drivers tend to do - drive you around on the longest path.
+
+
+Jul 13
+
+When you wake up in the morning, tell yourself: the people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous and surly. They are like this because they can't tell good from evil. But I have seen the beauty of good, and the ugliness of evil
+
+
+
+Jul 12
+
+What we might find out is that we don’t care that much about the details and that we just care about getting the thing done - it might be bad for designers. 
+
+--
+
+I worked hard my legs to solve the problems I had with my knees after last season of volleyball. Didn’t care much about the shoulders though. Now the the knees are fine but the right shoulder is injured. You have to take care of everything. 
+
+The challenge of adulthood is the challenge of maintenance. Your body, your knowledge, your skills, your relations. Maybe this is what adulthood means.  
+
+--
+
+Maybe I finally understood what is hip shoulder separation.
+
+
+-- 
+
+We are all great remixers. who said this? 
+
+-- 
+
+I'm sure I heard this lyric in a song: "we remember the places that gave us the shelter to love". Still, all the googles and all the queries to the chatbots on the Internet can't help me find a song with that verse.
+
+-- 
+
+The opportunity cost of listening to music all the time is that you don’t get to sing your own songs. The opportunity cost of listening to podcasts all the time is that you don’t get to think your own thoughts. There is always an opportunity cost. 
+
+
+9 jul
+
+The fact that i have a deploy api button on the stream deck is just so satisfying. It's so amazing to be able to do a physical push of a button and then see it's impact in the digital realm :) I don't know why, after all, when I press a keyboard shortcut, it's the same. Still, the physicality makes a difference. I just love it. For now. 
+
+** 
+
+Reminder to treat the claude-written code as any student written code. Forgetful, incomplete, unaware of the big picture. 
+
+
+8 jul
+
+The kind of review i have to do with Claude is exactly the kind of review i would have to do with my own research assistants. Except that things are named nicely. So we spend less time on renaming things. Still, duplicated code, and missing abstractions are problems all of them have in an equal measure. 
+
+
+5 jul
+
+The brilliancy of working with Claude Code is that you can learn by example, in the context in which you care. 
+
+** 
+
+With Claude, everybody becomes an architect. The low level code is generative.
+
+Also, your responsibility of introducing quality patterns in the code is super high. The robot is going to find patterns that you've used before, and copy them. Make sure that you introduce good patterns. It's like when you have a kid :) 
+
+**
+
+Eagerness is bad for you. If you add too much complexity without understanding it, you end up not being able to understand anything anymore from your codebase. You'll have to backtrack and start again. A bit like in a strategy game: if you expand too early, you lose. 
+
+
+You still have to guide it to create clean code. It's generous with tokens, and happily introduces duplication.
+
+
+
+25
+
+Why work without the copilot? Because as soon as you will be hooked, it’s going to take home 20% of your salary… so if you can work without it, you’ll be able to make more money :) 
+
+
+The three necessary societies: public life, domestic life, religious life. Russel Hittenger. 
+
+
+24 
+
+God gave us writing as a tool to see how shallow our thoughts are.
+
+LLMs are another tool for God's same purpose. Trying to brainstorm with one of these one realizes the depth of thought that he didn't go into only after they start the conversation. 
+
+
+
+23
+
+When the cars are becoming even nicer as nice as ever to be driven we introduce self driving cars take the joy away but to make a bit more profit for Tesla. 
+
+When the tools for thinking are better than ever, We are giving this Technology that promises to do the thinking for us. We should not take them. Unless indeed you have to commute for an hour and a half and live in the US and then you don’t want to be driving all the time? 
+
+
+Who is gonna take responsibility when your agent does something that you don’t want?. Might be in the interest of open AI maybe or whatever anthropic to take the responsibility to encourage adoption a little bit like Vesa did with payments and fraud. Is just that there’s too many ways and use this ages will fail and they cannot take responsibility so they will not honour all the claims and then they will push back some of this onto the clients. And then at some point maybe people will realise again that it’s better to have a full automated system that is reliable and you can trust then a vaguely functioning system. 
+
+
+jun 22
+
+
+Today i had a task that was simpler to implement than to explain to Claudius :) 
+
+
+** 
+
+Mircea's law of agents: Never give an agent agency over things that you'd be in trouble if they could not be undone. 
+
+
+
+jun 21
+
+If you're in the "bullshit generation business"—creating trivial, low-value content—then you should worry. But if you do meaningful work, you should probably be happy because these tools can help you when used properly.
+
+Always do the heavy intellectual work yourself—the thinking, the insights, the creative problem-solving. Let the AI assist with refinement, structure, and clarity.
+
+
+
+
+Jun 20
+
+Doing things dirty just to make them work was bad: that is what we called technical debt. Now you can do that at ten times the speed. 
+
+The discussion of it amplifying the amount of code you write. If you write good code, it's going to make you write more good code. If you write bad code, it's going to amplify you writing bad code. 
+
+**
+
+
+LLMs as the wizard of oz technique. Use them to quickly prototype something. If the thing works do it again, but this time understanding how it works. 
+
+
+** 
+
+
+The existence of the coding assistants should really make those of you who want to program become much more serious. A few reasons. 
+- if they help everybody write code faster, they will help talented people write code faster, and if you're the kind of person that writes buggy code, now you'll write buggy code faster; you'll suddenly risk becoming a net negative in your company; that's a risky future prospect
+- if the coding assistants will end up being like auto-pilot for the planes, remember that for something that's much much much simpler than coding, we still need to have humans ready to take over at any moment; what does this mean about coding; we will hire fewer programmers, that can supervise the robot coder, and be ready to take over at any moment; that might result in fewer people needed, and that means that only the best will be hired eventually; 
+
+
+the guy that was selling LLMs as software 3.0 the operating system of the future - bullshit. LLMs are chatbots, they are a very specific application. you can also use them as **non-linear, failure prone** components inside normal software. they are not an operating system. they are a niche application. a black box that can do many things to various degrees of shoddyness. For some reason, they can do a decent job at Software. 
+
+But remember that the real world does not need that many such failure-prone components. Remember that the software that is making your life easier are systems that are automated, boring, reliable with well-understood, linear, deterministic components that can work completely on the device w/o the need to run for the internet, and with very little energy. 
+
+
+
+Jun 19
+
+Damn robots. They pretend they are philosophers too now! 
+
+
+Jun 18
+
+The ease with which *Claude Code* creates throw-away tools that would take me 1h and then it's ready to throw them away is fascinating. 
+
+
+Jun 17
+
+Tried Claude Code. It's fascinating to see it do things that a human would do. At an equivalent speed. Or slightly faster, but still being able to follow it. This is very different than any other computing system where you can't follow along. Here you can almost follow along. You can imagine the huge computation needs required. 
+
+
 Jun 10
 
 One doesn't discover new lands without consenting to lose sight of the shore for a very long time. (A. Gide). 
@@ -14,13 +305,13 @@ Everything you do, do it with all your heart
 
 Jun 1
 
-"Small gods" by Pratchett - could be a metaphor for the "influencer" business of nowadays. Or for the stock market. Attention goes away, the stock shrinks.
+"Small gods" by Pratchett - could be a metaphor for the "influencer" business of nowadays. Or for the stock market. Attention goes away, the influencer shrinks, the stock falls.
 
 
 ** 
 
 Some observations on the way home from the polyglot gathering:
-- Many youngsters attended because they saw an ad on Instagram. Little video clips seem to be the way to reach a new generation.
+- Many youngsters attended because they saw an ad on Instagram. Short clips seem to be the way to reach a new generation.
 - Cesco - has forty (!) volunteers for his project; he's highly social and driven; but still. He even had a good looking lady to manage his booth at the expo. This is how you do things.
 - One peruvian software engineer showed me *"a website created by AI"* - a shell w/o a ghost. Fake dashboard. Missing images. But having some chat with a chatbot functionality included. He was proud of it. I tried to explain to him that when you're writing the code, you're also building your own understanding of the system. I'm not sure he got it. I asked him how is he going to maintain it. Then he agreed that it was going to be a problem... The *enshitification* of the internet is going to arrive at new levels. Not only shitty content, but now shitty web applications, where you'll have to spend some time to realize that there's nothing to them. Human curation is going to become so much more important. In a few years we'll be back to Yahoo! Directories and Digg or what was the name of that service.
 - Two of them showed me chatbots that would chat back in translations. Is this a mode that makes more sense for the new generations? 

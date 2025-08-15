@@ -11,8 +11,18 @@ The story of the Xamarin homepage
 
 Bitcoin. You read. You get it. You don't invest. 
 
+Strategy.
+- stories of people who didn't jump on the new bandwagon, and got farther with the old one.
+- stories of people jumping off the bandwagon.
+
+
+
+
+
 TODO
 - write to Crista for feedback
+
+
 
 
 

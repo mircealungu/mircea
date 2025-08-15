@@ -18,3 +18,11 @@ It's a lot of work and a lot of fun. Given that the course covers a broad set of
 -  a browser extension that helps people procrastinate less
 - an online maths learning platform for highschool kids 
 - and many other projects
+
+
+
+Topics
+- Timezone difference between user and the DB: https://claude.ai/share/7650bdcb-0e3a-4b3c-b320-953b588c30d9
+
+
+
