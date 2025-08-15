@@ -1,8 +1,8 @@
 Aug 15
 
-I realized something, in Zeeguu we could now, with the help of the LLMs, have the extension simplify any article in any language. Thus, if I really want to read about something that happened in Romania, I can still find the article, and then translate and simplify it to my level in Danish, and then read it. I am enthusiastic about this idea. It really fulfill the original idea of letting you follow what you really care about while learning. 
+I realized something, in Zeeguu we could now, with the help of the LLMs, have the extension simplify any article in any language. Thus, if I really want to read about something that happened in Romania, I can still find the article, and then translate and simplify it to my level in Danish, and then read it. I am enthusiastic about this idea. It really is a new tool towards fulfilling the original hope of letting the learner follow what they really care about while learning their new language.
 
-The whole development of Zeeguu has always been driven by these ideas that I have every now and then that I get very enthusiastic about. So many of them were not even that good. But the forever chasing of these enthusiasm-fueled mini-projects is so tempting. 
+The whole development of Zeeguu has always been driven by these ideas that I have every now and then that I get very enthusiastic about. So many of them were not even that good. But the forever chasing of these enthusiasm-fueled mini-projects is quite motivating. And some of them did turn out to be useful after all. 
 
 
 Aug 14
