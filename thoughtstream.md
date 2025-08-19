@@ -1,3 +1,8 @@
+
+Aug 18
+
+LLMs are trying to privatize the web. All the info that used to be free, is not available within the LLM. And it's more convenient, because it's not polluted with ads. And more contextual. 
+
 Aug 15
 
 I realized something, in Zeeguu we could now, with the help of the LLMs, have the extension simplify any article in any language. Thus, if I really want to read about something that happened in Romania, I can still find the article, and then translate and simplify it to my level in Danish, and then read it. I am enthusiastic about this idea. It really is a new tool towards fulfilling the original hope of letting the learner follow what they really care about while learning their new language.
