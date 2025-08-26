@@ -12,5 +12,7 @@ The projects on this page are projects that I've been involved with but are disc
 - [Softwarenaut](softwarenaut.md) - interactive visual exploration of software architecture
 - **SPO** - Small Project Observatory - interactive visual exploration of software ecosystems 
 - **Polite Smalltalk** - an experiment with a Smalltalk that wanted to be even closer to natural language than the original Smalltalk
+- [Dansk-in-Town](projects/dansk-in-town.md) - an app for gamifying vocabulary learning in town
+
 
 

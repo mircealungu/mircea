@@ -23,7 +23,6 @@ I always loved and I still love coding. However, nowadays I'm more of a product 
 - [ArchLens](projects/ArchLens.md) -  helps developers track the evolution of the structure of their systems 
 - [Zeeguu](projects/zeeguu.md) - personalized adaptive reading and vocabulary practice online
 - [Aiki](projects/aiki.md) - a browser extension that uses procrastination for good
-- [Dansk-in-Town](projects/dansk-in-town.md) - an app for gamifying vocabulary learning in town
 - [MathsCamp](projects/maths-camp.md) - personalized maths for kids
 
 [> past projects](/projects/history.md)

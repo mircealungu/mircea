@@ -13,16 +13,10 @@ One way to address this problem is to work on software visualization - the disci
 Language Independent Repository Visualization - with projects like [Git-Truck](../projects/git-truck.md)
 
 
-## Softwarenaut
-
-Interactive top-down dependency exploration:  [Softwarenaut](../projects/softwarenaut.md). 
-
-
-## Small Project Repository
-
-The vast majority of visualization tools are focusing on visualizing a single system. However, the reality is that many systems nowadays are part of larger ecosystems. In my PhD thesis I investigated how one could zoom out from the individual system to the ecosystem in a visualization tool. I hope somebody will pick up that work one day and push it forward - I still think I've never seen anything similar yet. 
-
 
 ## ArchLens 
 
 One limitation of all these directions is the fact that the visualization tools are interactive. What I think we need to do for these to become more useful is to allow the customization of the views from source code, such that developers can commit to version control view definitions. This way, the architectural views can become part of a developers daily job. As opopsed to having the views specified in Powerpoint. Ask any developer whether their Powerpoint architectural diagrams are useful for them in their daily life. Or if they are up to date. I'm starting a project in this direction actually with a few interested students. There's also a [paper in progress]() that I'm happy to get feedback on. Please reach out to me if this is something that you think you might be interested in. 
+
+[ArchLens](../projects/ArchLens.md)
+
