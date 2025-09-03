@@ -4,21 +4,13 @@ Sep 2
 Aug 31
 - I think I was shaped by my endless reading as a child - adventure, philosophy of life
 - Being in Milano centrale in reminded how much I like people watching - and I love the “glory” of this place’s architecture
-- the enthusiasm of some of these people when they hear - he’s an IT professor :)
-
-- Hegel as a model 
+- the enthusiasm of some of these people when they hear - "he’s an IT professor" :)
 - Coffee cup as a semaphore art *Art Hotel Navigli*
-- 
-- leadership pushing the employees - exemplul Dianei
-- premature optimisation is the root of all evil
-- Yagni - defence
-- the Lindy effect - new friends are like silver … Sal vs 
-- make sure to add somewhere the discussion about 
 
 
 Aug 18
 
-LLMs are trying to privatize the web. All the info that used to be free, is not available within the LLM. And it's more convenient, because it's not polluted with ads. And more contextual. 
+LLMs are trying to privatize the web. All the info that used to be free, is not available within the LLM. And it's more convenient, because it's not polluted with ads. And more contextual. Alas, the ads will come. 
 
 
 
