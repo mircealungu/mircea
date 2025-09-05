@@ -5,8 +5,8 @@
 
 ### Teaching 
 - ASE: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024665)
-- TID: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024691) [LectureNotes on GitHub](https://github.com/itu-tid/lecture-notes/tree/main), [Schedule](https://docs.google.com/spreadsheets/d/1dmJkZtfHSH8XEhFdVEtIr_ubl2u5-PHy-P2uZNb4bz4/edit)
-- TimeEdit Fall'25: [Lectures](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X860Q90YQ59x5YZ61ZY1Q6y5695Y05X59207QX01483Yg56092gX64Y09Q5.html), [Exams](https://cloud.timeedit.net/itu/web/public/ri1005899YX725Q8X0Q0Y98YZ011Y2YXX5X885052592415X5Y25055315510YXY7005X51215555X9X100Y022Y50XY6729X0Y2XY5Z2g4Q0gy9605x0466593Q8YZg5Q9Y01662X0Y5.html) 
+- TID: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024691), [LectureNotes on GitHub](https://github.com/itu-tid/lecture-notes/tree/main), [Schedule](https://docs.google.com/spreadsheets/d/1dmJkZtfHSH8XEhFdVEtIr_ubl2u5-PHy-P2uZNb4bz4/edit)
+- TimeEdit Fall'25: [Lectures](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X860Q90YQ59x5YZ61ZY1Q6y5695Y05X59207QX01483Yg56092gX64Y09Q5.html), [Exams](https://cloud.timeedit.net/itu/web/public/ri1005899YX125Q8X0Q0Y98YZ011Y2YXX5X885052592415X5Y25055315510YXY7005X51215555X9X100Y022Y50XY6729X0Y2XY5Z2g4Q0gy9605x0466593Q8YZg5Q9Y01662X0Y5.html) 
 
 
 ### Zeeguu
@@ -50,15 +50,15 @@
 ### Fall 2025
 
 #### Research Project
-1. Niklas, Zalan, Gabor - TBD
-2. Nikoline, Dea - TBD
-3. Gustav, Rasmus, David - 
-4. Babette & Lotte - 
-5. Vitus & Rasmus - 
-6. Cem & Wassim - 
+1. Niklas, Zalan, Gabor - FMD - LLM Monitoring Exceptions
+2. Nikoline, Dea - Git-Truck/Zeguu: GitTruck-Ecosystem vs. Visualizing Learner Progress
+3. Gustav, Rasmus, David - Vis? 
+4. Babette & Lotte - ArchLens? 
+5. Vitus & Rasmus - Aiki? 
+6. Cem & Wassim - Aiki
 
-#### MSc
-1. Sofia & Louise - [report](https://docs.google.com/document/d/1Zfk04cdOlSt_VAjXa-t5kHhTh8hrymS3U2SKsBc-eJQ/edit?tab=t.0#heading=h.yainbet4626x)
+#### MSc Thesis
+1. Sofia & Louise - Swiper Interface for Zeeguu [report](https://docs.google.com/document/d/1Zfk04cdOlSt_VAjXa-t5kHhTh8hrymS3U2SKsBc-eJQ/edit?tab=t.0#heading=h.yainbet4626x)
 2. 
 
 
