@@ -62,151 +62,25 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 
 ### Recommendation System Improvements
 
-#### Duplicate Article Detection and Clustering
+- [Duplicate Article Detection and Clustering](https://github.com/zeeguu/api/discussions/413)
+- [Enhanced Content Personalization](https://github.com/zeeguu/api/discussions/414)
+- [Cross-Language News Following](https://github.com/zeeguu/api/discussions/415)
+- [Language-independent paywall detection](https://github.com/zeeguu/api/discussions/416)
 
-#high-impact 
+### New Features
 
-**Problem**: Multiple articles covering the same news event lead to redundant recommendations, especially problematic when users mark content as uninteresting.
-
-**Proposed Solution**: 
-- Use embeddings to detect semantically similar articles describing the same event
-- Implement clustering to group related articles together
-- Select the highest-quality article from each cluster for recommendation
-
-**Optional, more challenging path**
-- When multiple articles map on the same topic summarize all of them
-- Show the learner all the possible sources for a given topic (as google news does)
-
-**Implementation Considerations**:
-- Embedding-based similarity detection is cost-effective compared to LLM pairwise comparisons
-- Need threshold tuning to balance over-clustering vs under-clustering
-- Consider temporal factors (articles published within similar timeframes about the same topic)
-
-#### Enhanced Content Personalization
-
-**Current State**: Seven broad topic categories
-
-**Goal**: Enable granular topic specification for personalized recommendations
-
-**Possible approaches:**
-- Tag-based topic selection
-- User interest weighting system
-- Feedback loop for continuous personalization improvement
-
-#### Cross-Language News Following
-
-**Use Case**: Users wanting to follow German news in Italian.
-
-**Challenge**: Translation costs for all language combinations
-
-**Suggested Approach**:
-- Implement on-demand translation rather than pre-translation
-- Use caching for popular language pairs
-- Consider tiered service (premium feature for less common combinations)
-
-### Missing Features
-
-#### Interactive Conversation Practice
-
-#high-impact 
-
-**Concept**: Context-driven conversational practice based on recently read articles
-
-**Feature Flow**:
-1. User selects situation/topic (optionally they can start a conversation from within an article which would imply that article to be the topic)
-2. System generates conversation starter with individually translatable words
-3. User responds via:
-   - Multiple choice selection
-   - Word unscrambling exercise
-4. Conversation continues dynamically
-5. Optional conversion to audio lesson once the conversation is finished
-
-
-#### Native Mobile Applications
-
-#high-impact 
-
-**Goal**: Improve mobile accessibility to address the current PWA limitations
-
-**Analysis**:
-- **Pros**: Better user adoption, push notifications, app store visibility
-- **Cons**: Development/maintenance overhead, platform-specific requirements
-- **Recommendation**: Start with hybrid approach (WebView wrapper) for MVP
-- **iOS Consideration**: Apple's guidelines may require more native functionality
-
-#### eBook Reader 
-**Concept**: Foreign language ebook reading with interactive translations and vocabulary building
-
-**Technical Challenges**:
-- Parsing popular ebook formats (e.g. EPUB, pdf)
-- Pagination and text reflow
-- Bookmark synchronization across devices
-
-
-#### PDF Document Support
-
-**Use Case**: Users studying personal materials in foreign languages
-**Implementation**: File upload → text extraction → interactive translation layer
-
-#### Universal Web Extension
-
-**Problem**: Current extension doesn't work on all page types (forums, etc.)
-
-**Solution**: Develop more robust content detection and make the content that is detected to be in the learned language interactive with a button click from the extension. 
-
-#### Post-Reading Knowledge Assessment
-
-#high-impact 
-
-**Concept**: Interactive comprehension testing after article completion
-
-**Benefits**: Reinforces learning, provides progress metrics
-
+- [Interactive Conversation Practice](https://github.com/zeeguu/api/discussions/417)
+- [Native Mobile Applications](https://github.com/zeeguu/api/discussions/418)
+- [eBook Reader](https://github.com/zeeguu/api/discussions/419)
+- [PDF Document Support](https://github.com/zeeguu/api/discussions/420)
+- [Post-Reading Knowledge Assessment]()
 
 ### Language Education Enhancements
 
-#### Morphological Awareness System
-
-#high-impact 
-
-**Problem**: Inflected forms (e.g., Danish "god" vs "godt") are currently treated as separate words
-**Solution**: Integrate grammatical knowledge to recognize word relationships
-
-**Implementation Strategy**:
-- Use morphological analyzers for supported languages
-- Group related word forms in vocabulary learning
-- Adjust difficulty based on morphological complexity
-- Propose an updated DB model for supporting morphological relations between 
-
-#### Smarter Exercise Scheduling
-
-**Current Issue**: All words follow identical 8-exercise progression regardless of difficulty
-
-**Proposed Improvement**: 
-- Start with complex exercises for assessment
-- Adapt progression based on performance
-- Implement research-backed spaced repetition intervals
-- Consider A/B testing different algorithms for evaluating the various alternatives (allow learners to choose?)
-
-
-#### Comprehensive Progress Tracking
-**Goal**: Meaningful feedback on learning journey
-
-**Metrics to Consider**:
-- Words learned over time
-- Reading comprehension improvement
-- Goal achievement tracking (e.g., 3 days/week usage)
-- Streak maintenance
-
-**Inspiration**: FitBod has quite a good positive reinforcement model
-**Implementation**: Dashboard with visualizations and achievement system
-
-#### More comprehensive activity tracking on the platform
-
-- In the past zeeguu tracked learner's interactions with exercises and articles read
-- However, the latest versions have other contexts in which the learner can still be consider5ed to be active (e.g. , browsing interactive summaries, or swiping through them)
-
-
+- [Morphological Awareness System](https://github.com/zeeguu/api/discussions/422)
+- [Smarter Exercise Scheduling](https://github.com/zeeguu/api/discussions/423)
+- [Comprehensive Progress Tracking](https://github.com/zeeguu/api/discussions/424)
+- Comprehensive time tracking on the platform
 
 # Resources
 
