@@ -44,36 +44,29 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 
 ## Reports & Theses
 
+
 [**Audio in Digital Learning Environments**](../docs/assets/reports/22-thesis-audio-exercises.pdf) - a controlled experiment with 22 participants shows that users find zeeguu with audio-focused exercises more **fun** and **increases the likelyhood that they'll use it in the future**
 
 [**Supporting Foreign Language Learning With a Browser Extension**](../docs/assets/reports/22-thesis-browser-extension.pdf) - thesis introducing an architecture for a browser extension for Zeeguu - half of 32 participants **prefer the browser extension which cleans up an article page to the original page**; the extension also adds interactive translation and pronunciation for reading  - the thesis also discusses **challenges with maintaining such a browser extension**
 
-## In Progress
 
 
-- More diverse exercises: e.g. reorder parts of sentence into whole with drag and drop
-- Better personalized recommendations
-- Improved difficulty recommendation
-- Better topic assignment to articles
-
-
-
-## Roadmap
+## Student Projects
 
 ### Recommendation System Improvements
 
-- [Duplicate Article Detection and Clustering](https://github.com/zeeguu/api/discussions/413)
+- [Duplicate Article Detection and Clustering](https://github.com/zeeguu/api/discussions/413) #priority
 - [Enhanced Content Personalization](https://github.com/zeeguu/api/discussions/414)
 - [Cross-Language News Following](https://github.com/zeeguu/api/discussions/415)
 - [Language-independent paywall detection](https://github.com/zeeguu/api/discussions/416)
 
 ### New Features
 
-- [Interactive Conversation Practice](https://github.com/zeeguu/api/discussions/417)
-- [Native Mobile Applications](https://github.com/zeeguu/api/discussions/418)
+- [Interactive Conversation Practice](https://github.com/zeeguu/api/discussions/417) #high-impact
+- [Native Mobile Applications](https://github.com/zeeguu/api/discussions/418) #high-impact 
 - [eBook Reader](https://github.com/zeeguu/api/discussions/419)
 - [PDF Document Support](https://github.com/zeeguu/api/discussions/420)
-- [Post-Reading Knowledge Assessment]()
+- [Post-Reading Knowledge Assessment](https://github.com/zeeguu/api/discussions/421) #high-impact 
 
 ### Language Education Enhancements
 
