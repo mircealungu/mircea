@@ -50,9 +50,9 @@
 ### Fall 2025
 
 #### Research Project
-1. Niklas, Zalan, Gabor - FMD - LLM Monitoring Exceptions
+1. Babette & Lotte - ArchLens - Performance and Usefulness
 2. Gustav, Rasmus, David - Case studies with Gut-Truck
-3. Babette & Lotte - ArchLens? 
+3. Niklas, Zalan, Gabor - FMD - LLM Monitoring Exceptions?
 4. Vitus & Rasmus - Aiki?
 5. Cem & Wassim - Aiki
 
