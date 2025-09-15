@@ -1,11 +1,26 @@
+Sep 15
+
+Slaves were usually marked. Our mark? The phone. Buying-Chul Han. 
+
+I started reading the book yesterday, and besides spotting already from the first chapter a few debateable syntax decisions, and I must say that the Foreword chapter deserves a place in my Hypes in Software Engineering Lecture: ⁠*Rust is about empowerment no matter what kind of code you are writing now*.  Rust *empowers you to reach farther, to program with confidence in a wider variety of domains than you did before*.
+
+
+Sep 14
+
+Working out is like pulling back your self perception into your body. From the mind. It’s escaping back into yourself. Escaping from what?
+
+I don’t need more programming for zeeguu. I need sales and marketing. Maybe. 
+
+
+
 Sep 2
-- so many of us are guilty of thinking that just because we can program we can solve social problems. Aiki. Zeeguu. Blockchain. 
+- so many of us are guilty of thinking that just because we can program we can solve social problems. Aiki. Blockchain. Zeeguu.
 
 Aug 31
-- I think I was shaped by my endless reading as a child - adventure, philosophy of life
-- Being in Milano centrale in reminded how much I like people watching - and I love the “glory” of this place’s architecture
-- the enthusiasm of some of these people when they hear - "he’s an IT professor" :)
-- Coffee cup as a semaphore art *Art Hotel Navigli*
+- I think I was shaped by my endless reading as a child - adventure, modestly, philosophy of life
+- Being in Milano Centrale in reminded how much I like people watching - and I love the imposing architecture of this place
+- The enthusiasm of some of these people when they hear - "he’s an IT professor". Endearing :) 
+- Coffee cup as a semaphore art *Art Hotel Navigli*. 
 
 
 Aug 18
