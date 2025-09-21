@@ -46,7 +46,12 @@ Some more assorted notes:
 
 
 # Student Projects
-If you're interested in a student project, look at the [student projects page](students.md). 
+
+If you're interested in a student project, look at the prototypes and directions listed above and see whether you'd like to contribute to any of them. At the end of each, there are several ideas of possible future directions.
+
+You can also look at the [list of projects available on GitHub](https://github.com/mircealungu/student-projects/) - for more other ideas. Use this list more as a hint at the kinds of projects I'm interested in. If you have an idea that is similar, we can still discuss. But if it's very far, then I won't be able to supervise you. 
+
+Before contacting me for a thesis please read all the details on the [student projects page](students.md). 
 
 # Teaching
 
