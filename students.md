@@ -1,9 +1,9 @@
 
 # Student Projects
 
-Please pay attention to the notes below before contacting me. 
+Please read attentively the notes below before contacting me. We are all saving time if you do so. 
 
-## Contacting Me 
+## Introduction email
 
  When contacting me, send me an email that includes "Thesis Project" in the title and includes the following: 
  
