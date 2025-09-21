@@ -1,8 +1,30 @@
+Sep 18
+
+Achievement unlocked: showed the Night on Earth: NY to a class of students - and it really fit the discussion. 
+
+Sep 16
+
+So much effort in programming languages research on channels for communication - when in practice, in the systems, this communication happens at the architectural level , message passing - it's done at the RabbitMQ level - not within the same language. 
+
+Rustacean thinking: you send a value over the channel; you can't use it anymore; like DRM protected books :) 
+
+unwrap = the opposite of try catch. 
+
+
+
+
+
+*
+
+> Make no little plans. They have no magic to stir men’s blood and probably themselves will not be realized. Make big plans; aim high in hope and work, remembering that a noble, logical diagram once recorded will never die, but long after we are gone will be a living thing, asserting itself with ever-growing insistency. Remember that our sons and grandsons are going to do things that would stagger us. Let your watchword be order and your beacon beauty. Think big.
+> 
+> — [Daniel Burnham](http://en.wikipedia.org/wiki/Daniel_Burnham "Wikipedia: Daniel Burnham"), Chicago architect (1864-1912)
+
 Sep 15
 
 Slaves were usually marked. Our mark? The phone. Buying-Chul Han. 
 
-I started reading the book yesterday, and besides spotting already from the first chapter a few debateable syntax decisions, and I must say that the Foreword chapter deserves a place in my Hypes in Software Engineering Lecture: ⁠*Rust is about empowerment no matter what kind of code you are writing now*.  Rust *empowers you to reach farther, to program with confidence in a wider variety of domains than you did before*.
+I started reading the Rust book yesterday, and besides spotting already from the first chapter a few debateable syntax decisions, and I must say that the Foreword chapter deserves a place in my Hypes in Software Engineering Lecture: ⁠*Rust is about empowerment no matter what kind of code you are writing now*.  Rust *empowers you to reach farther, to program with confidence in a wider variety of domains than you did before*.
 
 
 Sep 14
@@ -17,7 +39,7 @@ Sep 2
 - so many of us are guilty of thinking that just because we can program we can solve social problems. Aiki. Blockchain. Zeeguu.
 
 Aug 31
-- I think I was shaped by my endless reading as a child - adventure, modestly, philosophy of life
+- I think I was shaped by my endless reading as a child - e.g., the desire for adventure, the philosophy of you have to earn your 
 - Being in Milano Centrale in reminded how much I like people watching - and I love the imposing architecture of this place
 - The enthusiasm of some of these people when they hear - "he’s an IT professor". Endearing :) 
 - Coffee cup as a semaphore art *Art Hotel Navigli*. 

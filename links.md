@@ -2,9 +2,9 @@
 
 | [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) | [Claude](https://claude.ai/chat/)| [Gemini](https://aistudio.google.com/live)|
 
-
 ### Teaching 
-- ASE: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024665), [software-hypes.gh.io](https://software-hypes.github.io/)
+- ASE: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024665), 
+- [Hypes in software engineering](https://software-hypes.github.io/)
 - TID: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024691), [LectureNotes on GitHub](https://github.com/itu-tid/lecture-notes/tree/main), [Schedule](https://docs.google.com/spreadsheets/d/1dmJkZtfHSH8XEhFdVEtIr_ubl2u5-PHy-P2uZNb4bz4/edit)
 - TimeEdit Fall'25: [Lectures](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X860Q90YQ59x5YZ61ZY1Q6y5695Y05X59207QX01483Yg56092gX64Y09Q5.html), [Exams](https://cloud.timeedit.net/itu/web/public/ri1005899YX125Q8X0Q0Y98YZ011Y2YXX5X885052592415X5Y25055315510YXY7005X51215555X9X100Y022Y50XY6729X0Y2XY5Z2g4Q0gy9605x0466593Q8YZg5Q9Y01662X0Y5.html) 
 
@@ -50,15 +50,14 @@
 ### Fall 2025
 
 #### Research Project
-1. Babette & Lotte - ArchLens - Performance and Usefulness
-2. Gustav, Rasmus, David - Case studies with Gut-Truck
-3. Niklas, Zalan, Gabor - FMD - LLM Monitoring Exceptions?
-4. Vitus & Rasmus - Aiki?
-5. Cem & Wassim - Aiki
+1. Babette & Lotte - ArchLens - Performance and Migration to C# #archlens 
+2. Gustav, Rasmus - Case studies with Git-Truck #gittruck
+3. Niklas, Zalan, Gabor - Integrating an Exception Monitor with Issue Tracking and AI agents #fmd
+4. Vitus & Rasmus - Redirection during distraction 
 
 #### MSc Thesis
-1. Sofia & Louise - Swiper Interface for Zeeguu [report](https://docs.google.com/document/d/1Zfk04cdOlSt_VAjXa-t5kHhTh8hrymS3U2SKsBc-eJQ/edit?tab=t.0#heading=h.yainbet4626x)
-2. 
+1. Sofia & Louise - Swiper Interface for Zeeguu [report](https://docs.google.com/document/d/1Zfk04cdOlSt_VAjXa-t5kHhTh8hrymS3U2SKsBc-eJQ/edit?tab=t.0#heading=h.yainbet4626x) #zeeguu 
+2. Wassim - Aiki #aiki 
 
 
 ### Spring 2025
@@ -66,8 +65,7 @@
 #### Research Project (3)
 1. Jonas Rossum - Fast, Language-Independent Complexity Metrics in GitTruck (censor: KM - to announce)
 2. Emil, Anne, Marie  - **Any Page as Context for Zeeguu** [Word-extractor-Extension](https://github.com/emilHojgaard/Word-Extractor) (censor: NI)
-3. Cem & Wassim - **Aiki: Enhancing Digital Well-Being Through**
-**Motivation-Focused Interventions** 
+3. Cem & Wassim - **Aiki: Enhancing Digital Well-Being Through Motivation-Focused Interventions** 
 
 
 #### BSc Thesis (3)

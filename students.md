@@ -6,3 +6,12 @@ You can also look at the [list of projects available on GitHub](https://github.c
  Also, when contacting me for a project please **send me 0) your degree programme 1) a recent CV, 2) a transcript of your grades, and 3) a link to your GitHub repository**. This helps me understand what are your strengths and weaknesses and guide you towards more appropriate projects. 
  
  If you're curious about how a thesis with me might look like, you can find several past [Thesis-Examples](notes/Thesis-Examples.md) on this website. 
+
+## Thesis in Collaboration with Companies
+
+My default answer is no for supervisions where you work for a company. The only exceptions are if:
+
+- There is a clear research question that is relevant and publishable in one of the software engineering conferences; and that if the work turns out well, the company is ok with publishing the research (surely anonymized if necessary)
+
+- You put me in contact with somebody responsible at the company (e.g. CTO) that can explain to me that the problem is something that the company really cares about; I've done "work" in the past for some middle manager that had some idea, and then a student spent a whole thesis on it, only to find out in the end that it wasn't that important after all. 
+
