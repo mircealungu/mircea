@@ -8,7 +8,9 @@ ArchLens ([GitHub](https://github.com/archlens)) is a project that aims to help 
 
 An example of defining views with ArchLens: 
 
-![](assets/Pasted%20image%2020250826084718.png)
+<img src="assets/Pasted%20image%2020250826084718.png" style="max-width:600px"/>
+
+
 
 Once this view is defined, we can reuse it in various environments.
 
@@ -47,21 +49,17 @@ A [vision paper](https://www.overleaf.com/read/zbcctdmkbgpv#b4ce30) is written b
 
 # Contributors
 
-Multiple students have contributed to the current version of Archlens in their master's thesis and research projects: 
+Multiple students have contributed to the current version of Archlens in their master's thesis, bachelor thesis, and research projects: 
 
 MSc Thesis
 - Nikolai Perlt Andersen
 - Jesper Kronborg Rusbjerg
 
-Research Project
-- Bjørnar Haugstad Jåtten
-- Magnus Albeck Klitmose
-- Mathias Baunsgaard Kristensen
-- Simon Boye Jørgensen
-
 BSc Thesis
 - Casper Holten
 - Sebastian Hylander
+
+Research Project: Bjørnar Haugstad Jåtten, Magnus Albeck Klitmose,  Mathias Baunsgaard Kristensen, Simon Boye Jørgensen.
 
 # Possible Student Projects
 
