@@ -37,16 +37,29 @@ It consists of three components:
 A [vision paper](https://www.overleaf.com/read/zbcctdmkbgpv#b4ce30) is written by Mircea about the project. 
 
 
+## Theses
+
+- BSc Thesis: [Dynamically Generated Scoped Module Diagrams in the IDE](./assets/ArchLens4VSCode.pdf), Casper and Sebastian
+- MSc Thesis: [Architectural Lens: A Tool for Generating Comprehensible Diagrams](./assets/ArchLens-FirstThesis.pdf), Nikolai and Jesper
+
+
+
 
 # Contributors
 
 Multiple students have contributed to the current version of Archlens in their master's thesis and research projects: 
+
+MSc Thesis
 - Nikolai Perlt Andersen
 - Jesper Kronborg Rusbjerg
+
+Research Project
 - Bjørnar Haugstad Jåtten
 - Magnus Albeck Klitmose
 - Mathias Baunsgaard Kristensen
 - Simon Boye Jørgensen
+
+BSc Thesis
 - Casper Holten
 - Sebastian Hylander
 
