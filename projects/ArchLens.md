@@ -8,7 +8,7 @@ ArchLens ([GitHub](https://github.com/archlens)) is a project that aims to help 
 
 An example of defining views with ArchLens: 
 
-<img src="assets/Pasted%20image%2020250826084718.png" style="max-width:600px"/>
+<img src="assets/archlens-spec.png" style="max-width:600px"/>
 
 
 
@@ -18,13 +18,15 @@ Once this view is defined, we can reuse it in various environments.
 
 [GitHub Workflow](https://github.com/archlens/Render-Diff-on-PR) -- uses the CLI tool under to generate architectural diff views and insert them into every PR
 
-![](assets/Pasted%20image%2020250826084818.png)
+
+<img src="assets/archlens-gh-integration.png" style="max-width:500px"/>
+
 
 ## VS Code Extension
 
 [VS Code Extension](https://github.com/archlens/ArchLens-VsCode-Extension) -- live interactive diagrams in the IDE -- one can jump from individual dependencies to source code 
 
-![](assets/Pasted%20image%2020250826084902.png)
+![](assets/archlens-in-vscode.png)
 
 
 
@@ -41,8 +43,8 @@ A [vision paper](https://www.overleaf.com/read/zbcctdmkbgpv#b4ce30) is written b
 
 ## Theses
 
-- BSc Thesis: [Dynamically Generated Scoped Module Diagrams in the IDE](./assets/ArchLens4VSCode.pdf), Casper and Sebastian
-- MSc Thesis: [Architectural Lens: A Tool for Generating Comprehensible Diagrams](./assets/ArchLens-FirstThesis.pdf), Nikolai and Jesper
+- BSc Thesis: [Dynamically Generated Scoped Module Diagrams in the IDE](documents/ArchLens4VSCode.pdf), Casper and Sebastian
+- MSc Thesis: [Architectural Lens: A Tool for Generating Comprehensible Diagrams](documents/ArchLens-FirstThesis.pdf), Nikolai and Jesper
 
 
 
@@ -52,12 +54,11 @@ A [vision paper](https://www.overleaf.com/read/zbcctdmkbgpv#b4ce30) is written b
 Multiple students have contributed to the current version of Archlens in their master's thesis, bachelor thesis, and research projects: 
 
 MSc Thesis
-- Nikolai Perlt Andersen
-- Jesper Kronborg Rusbjerg
+- Nikolai Perlt Andersen & Jesper Kronborg Rusbjerg
 
 BSc Thesis
-- Casper Holten
-- Sebastian Hylander
+- Casper Holten & Sebastian Hylander
+- Babette Bækgaard & Lotte Juul Damgaard
 
 Research Project: Bjørnar Haugstad Jåtten, Magnus Albeck Klitmose,  Mathias Baunsgaard Kristensen, Simon Boye Jørgensen.
 
@@ -81,11 +82,11 @@ It would be good to be smarter on which views are introduced in the PR by the GH
 
 
 
-![](attachments/archlens-should-be-smarter-when-showing-diffs.png)
+![](assets/archlens-should-be-smarter-when-showing-diffs.png)
 ## Jun 11, 2024
 
 Looking at a PR from Tiago I see that he introduces a new dependency from API to core: 
 
-![](attachments/archlens-example-new-dependency.png)
+![](assets/archlens-example-new-dependency.png)
 
 Looking at this view, I have a strong curiosity: *"Why is there a new dependency between api and core?"*. It feels like maybe I should be able to see what is this +1 is! What is the simplest way to answer this question? And then... should it matter? After all, it's architecturally correct, there's a strong dependency between the two, there's just a new call, it's fine. The details are in the code diff. Or? 

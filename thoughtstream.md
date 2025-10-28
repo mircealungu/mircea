@@ -1,6 +1,51 @@
+
+Oct 26
+
+To tell my students. *"Don't try to be front-end or back-end. It's like Michelangelo would say: i'm only a painter not a sculptor. No. You need both to be a complete artist."*
+
+
+Oct 6
+
+When using LLMs as classifiers, they should be used to bootstrap a cheaper system. 
+
+
+
+Oct 5
+
+Reading Breakneck by Dan Wang. Fascinating. 
+- chapter 3: one child policy. Beware of anybody in power who advocates “following the science”. Churchill: "*scientists should be on tap, not on top*."
+
+
+Oct 2
+
+Skiprope is more difficult than I thought. It feels like core training if I skip a bit longer.
+
+
+
+Sept 31
+
+Time passes too fast. Unless you’re doing a plank. Then it crawls. 
+
+Maybe the secret to a long life?
+
+** 
+
+If you want to get rich, build a road. 
+
+
+Sept 30
+
+Quantitative answers are actually boring - important for penicilin but not for complex designs 
+
+
+
+27 sept 
+Research idea: investigating how to use static analysis to surgically limit context for llms. Otherwise they.re too costly
+
+
 Sep 18
 
-Achievement unlocked: showed the Night on Earth: NY to a class of students - and it really fit the discussion. 
+Achievement unlocked: showed *Night on Earth: NY* to a class of master students. It fit the discussion on Hypes in SE really well.
 
 Sep 16
 
@@ -9,10 +54,6 @@ So much effort in programming languages research on channels for communication -
 Rustacean thinking: you send a value over the channel; you can't use it anymore; like DRM protected books :) 
 
 unwrap = the opposite of try catch. 
-
-
-
-
 
 *
 
@@ -24,7 +65,9 @@ Sep 15
 
 Slaves were usually marked. Our mark? The phone. Buying-Chul Han. 
 
-I started reading the Rust book yesterday, and besides spotting already from the first chapter a few debateable syntax decisions, and I must say that the Foreword chapter deserves a place in my Hypes in Software Engineering Lecture: ⁠*Rust is about empowerment no matter what kind of code you are writing now*.  Rust *empowers you to reach farther, to program with confidence in a wider variety of domains than you did before*.
+I started reading the Rust book yesterday. I’m already in the first chapter and I already a few debateable syntax decisions. I must say that the Foreword chapter deserves a place in my Hypes in Software Engineering Lecture: ⁠
+
+ > *Rust is about empowerment no matter what kind of code you are writing now*.  Rust *empowers you to reach farther, to program with confidence in a wider variety of domains than you did before*.
 
 
 Sep 14

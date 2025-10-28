@@ -53,6 +53,8 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 
 ## Student Projects
 
+All the projects below are going to be in two parts: 1. implementation and 2. evaluation. They are grouped largely by 
+
 ### Recommendation System Improvements
 
 - [Duplicate Article Detection and Clustering](https://github.com/zeeguu/api/discussions/413) #priority
@@ -60,13 +62,15 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 - [Cross-Language News Following](https://github.com/zeeguu/api/discussions/415)
 - [Language-independent paywall detection](https://github.com/zeeguu/api/discussions/416)
 
-### New Features
+### New Features 
 
+- Crowdsourcing Translation Correctness #high-impact  
 - [Interactive Conversation Practice](https://github.com/zeeguu/api/discussions/417) #high-impact
 - [Native Mobile Applications](https://github.com/zeeguu/api/discussions/418) #high-impact 
 - [eBook Reader](https://github.com/zeeguu/api/discussions/419)
 - [PDF Document Support](https://github.com/zeeguu/api/discussions/420)
 - [Post-Reading Knowledge Assessment](https://github.com/zeeguu/api/discussions/421) #high-impact 
+
 
 ### Language Education Enhancements
 

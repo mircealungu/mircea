@@ -1,3 +1,8 @@
+Sep 27
+
+der er bedre her end pa den andre side = at the cafe - it's better here than on the other side (referring to around the corner)
+
+
 Aug 7
 
 a lovely sentence:

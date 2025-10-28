@@ -3,7 +3,7 @@
 
 Can we deploy a monitoring dashboard with one line of code?
 
-![](assets/Pasted%20image%2020250826090717.png)
+![](assets/fmd-with-exceptions.png)
 
 The project aims to support the small company or the individual developer have an API monitor for his system that is not painfully complicated. 
 
@@ -18,7 +18,7 @@ The project aims to support the small company or the individual developer have a
 
 ## Theses
 
-1. [Exception monitoring for the Flask Monitoring Dashboard](assets/exception_monitoring_for_the_flask_monitoring_dashboard.pdf), BSc thesis
+1. [Exception monitoring for the Flask Monitoring Dashboard](documents/exception_monitoring_for_the_flask_monitoring_dashboard.pdf), BSc thesis
 
 ## Papers
 1. [**A Low-Effort Analytics Platform for Visualizing Evolving Flask-Based Python Web Services**](/docs/assets/papers/17-Vissoft-FMD.pdf) 

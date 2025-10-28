@@ -50,14 +50,14 @@
 ### Fall 2025
 
 #### Research Project
-1. Babette & Lotte - ArchLens - Performance and Migration to C# #archlens 
+1. Babette & Lotte - ArchLens - Performance and Migration to C# [learnIt](https://learnit.itu.dk/course/view.php?id=3025809) #archlens 
 2. Gustav, Rasmus - Case studies with Git-Truck #gittruck
-3. Niklas, Zalan, Gabor - Integrating an Exception Monitor with Issue Tracking and AI agents #fmd
+3. Niklas, Zalan, Gabor - Integrating an Exception Monitor with Issue Tracking and AI agents #fmd [learnIt](https://learnit.itu.dk/course/view.php?id=3025803) 
 4. Vitus & Rasmus - Redirection during distraction 
 
 #### MSc Thesis
-1. Sofia & Louise - Swiper Interface for Zeeguu [report](https://docs.google.com/document/d/1Zfk04cdOlSt_VAjXa-t5kHhTh8hrymS3U2SKsBc-eJQ/edit?tab=t.0#heading=h.yainbet4626x) #zeeguu 
-2. Wassim - Aiki #aiki 
+1. Sofia & Louise - Swiper Interface for Zeeguu [report](https://docs.google.com/document/d/1Zfk04cdOlSt_VAjXa-t5kHhTh8hrymS3U2SKsBc-eJQ/edit?tab=t.0#heading=h.yainbet4626x) #zeeguu [learnit](https://learnit.itu.dk/user/index.php?id=3025688)
+2. Wassim - Aiki 3.0 #aiki [learnIt](https://learnit.itu.dk/course/view.php?id=3025904)
 
 
 ### Spring 2025
@@ -106,7 +106,7 @@ FAQ:
 
 | GCP: [Instances](https://console.cloud.google.com/compute/instances), [Billing](https://console.cloud.google.com/billing/) | Hetzner:  [Robot](https://robot.hetzner.com/server) | [Squarespace](https://account.squarespace.com/domains) | 
 - [gc could storage](https://console.cloud.google.com/)
-- 
+- [google ai studio](https://aistudio.google.com/app/apikey) - for dayflow
 
 
 ## Censoring

@@ -1,6 +1,10 @@
 *Any other feature by any other name would be as complicated*
 
-You think, requirements are simple: click on a word on a website, get a translation, save it to the database with the time when it was requested; allow the learner to practice the words with exercises based on the past contexts in which they encountered them. What could be so hard? 
+You think, requirements are simple: I wants system that allows me to click on a word on a website, get a translation, save it to the database with the time when it was requested; allow the learner to practice the words with exercises based on the past contexts in which they encountered them. 
+
+What could be so hard? 
+
+Well, anybody that has written software for a living will tell you that there
 
 # Click on a word and get a translation
 
@@ -8,15 +12,24 @@ What do you mean by this? It seems clear to you, does it not? Let's see.
 
 ## Click on a word
 
-A word might have multiple meanings, so you probably want to get the translation that makes sense in that context. 
 
 What happens if the word is part of a link? If you click it, you follow the link?
 
+I guess you could ignore links. But how do you even ignore links? And what if the word you need translated is part of the link? You can’t just ignore them. Maybe have a mode that deactivates links. But can you reactivate  them? Or maybe ctrl+click when on a link? And what about mobile? Would you want your users to use this also on the mobile?
+
 ## Get a translation
 
-What happens if you click on a particle verb. It means nothing. What is the translation in this context. How do you even display it? 
+Hours do you get a translation? Use an API. You pay a bit but it’s fine. However, what do you do if an API is down? It slow? Get multiple. But what to do if they differ? Which is right? Show them all and let the user choose? And if they agree?
 
-## Where do you insert the translation? 
+A word might have multiple meanings, so you probably want to get the translation that makes sense in that context. But the APIs don’t offer this as an option. You do find a hack… they all support HTML tags. For now you have obtained
+
+What happens if you click on a particle verb. It means nothing. It needs to be understood with its particle. E.g. 
+
+*Wir muss **steigen** der Zug **ab** hier *
+
+What is the translation in this context. How do you even display it? Of over clicks on steigen what do we put above: the meaning of steigen or the meaning of absteigen ? For visual consistency one is better, for contextual the other is.
+
+## Show the translation
 
 Show it transiently and the hide it? Let us insert it at the top of the word. 
 
