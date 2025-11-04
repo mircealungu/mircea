@@ -47,6 +47,20 @@
 
 
 ## Supervisions 
+### Spring 2026
+
+#### BSc (7)
+1. Nikolaj x2, Rasmus, Mathias - Aiki ?
+2. Alex, Jacob, and Jakob - Interactive Conversation Practice ?
+
+#### MSc (10)
+2. Simone Jacbosen - Dead Code Detection Case Study ?
+3. Babete & Lotte - ArchLens for C#
+4. Gustav & Rasmus - 
+5. Niklas, Zalan, Gabor - 
+6. Vitus & Rasmus - FMD
+
+
 ### Fall 2025
 
 #### Research Project
@@ -56,8 +70,8 @@
 4. Vitus & Rasmus - Redirection during distraction 
 
 #### MSc Thesis
-1. Sofia & Louise - Swiper Interface for Zeeguu [report](https://docs.google.com/document/d/1Zfk04cdOlSt_VAjXa-t5kHhTh8hrymS3U2SKsBc-eJQ/edit?tab=t.0#heading=h.yainbet4626x) #zeeguu [learnit](https://learnit.itu.dk/user/index.php?id=3025688)
-2. Wassim - Aiki 3.0 #aiki [learnIt](https://learnit.itu.dk/course/view.php?id=3025904)
+5. Sofia & Louise - Swiper Interface for Zeeguu [report](https://docs.google.com/document/d/1Zfk04cdOlSt_VAjXa-t5kHhTh8hrymS3U2SKsBc-eJQ/edit?tab=t.0#heading=h.yainbet4626x) #zeeguu [learnit](https://learnit.itu.dk/user/index.php?id=3025688)
+6. Wassim - Aiki 3.0 #aiki [learnIt](https://learnit.itu.dk/course/view.php?id=3025904)
 
 
 ### Spring 2025

@@ -1,7 +1,22 @@
 
+Oct 30
+
+Learn to embrace change. It’s the only sure thing in life. Don’t try to hold onto things that you can’t hold on. Let them go. And be thankful for the chance of having had them. Or walked together with them. On this blessed-famed universe-faring rock.
+
+Life is both a major and a minor key. (Side, Travis)
+
+
 Oct 26
 
 To tell my students. *"Don't try to be front-end or back-end. It's like Michelangelo would say: i'm only a painter not a sculptor. No. You need both to be a complete artist."*
+
+**
+
+When I want to clarify an idea, I film something, I make a collage, and I clear up my mind. *Rebekka Boyding.*
+
+
+My observation on the fact that a paper book is less oppressive than audiobooks.
+
 
 
 Oct 6
@@ -438,11 +453,11 @@ What if in the future,
 
 **Sat 31**
 
-Nice discussion with one of the polyglots. The secret is in the effort. We're all making everything effortless, one-click translations, etc. But it does not matter - what matters is the effort. And back in the day, when you had to look the word in the dictionary, and you had to write it down in your notebook, you put more attention into it. And that's what mattered. 
+Nice discussion with one of the polyglots. The secret is in the effort. We're all making everything effortless, one-click translations, etc. But it does not matter - what matters is the effort. And back in the day, when you had to look the word in the dictionary, and you had to write it down in your notebook, you put more effort to get the translation, you put more attention when you found it, and maybe in that way you also remembered better. That effort is what matters 
 
 Secret in life is focus and attention. And really attending to the thing that is in front of you. As children do. 
 
-Another one: war in Kanton Bern für zwei Jahr arbeitung mit Beton. Zu viel stress. Sehr tiefe Stimme. 
+Another one: war in Kanton Bern für zwei Jahr arbeitung. mit Beton. Zu viel stress. Sehr tiefe Stimme. 
 
 Another polyglot had a chatbot that would translate sentences in conversation with her friend in Italian and German for her practice. Would it make sense to have something similar for my own translations? 
 
@@ -463,7 +478,7 @@ Do you track every meaning?
 
 Passive and active knowledge?
 
-My idea — 
+
 
 
 
