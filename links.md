@@ -29,7 +29,7 @@
 
 ### Other
 - [**Git-Truck**](https://github.com/git-truck/git-truck)  
-- **Aiki**: [gh.io](https://aiki-extension.github.io/) 
+- **Aiki**: [Aiki 3 on GH](https://github.com/aiki-extension/Aiki3), [aiki.github.io](https://aiki-extension.github.io/) 
 - MathsCamp: [site](https://mathscamp.org/#/), [gh](https://github.com/MathsCamp/MathsCamp) 
 
 - [Antropic Console](https://console.anthropic.com/settings/billing)
