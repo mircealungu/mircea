@@ -1,18 +1,21 @@
 
+dec 4
+
+Fourth day of water fasting.  The clarity of mind, and focus is amazing. Feeling no hunger. 
+
+
 dec 1
 
-karpathy on exams in the era of AI. you can only evaluate oral knowledge. you will never be able to detect use of AI in homework. https://x.com/karpathy/status/1993010584175141038?s=20
+I agree with karpathy that in the era of AI you can [only evaluate oral knowledge](https://x.com/karpathy/status/1993010584175141038?s=20). You will never be able to detect use of AI in project work. 
 
-lemire - LLMs make better tutors than teachers (https://x.com/lemire/status/1992968049230496212?s=20)
+Lemire - LLMs make [better tutors than teachers](https://x.com/lemire/status/1992968049230496212?s=20). I don't agree, but I see the power of personalized inquiry that one can do with them. 
 
-johnson - has learned to develop a positive association between the slight hunger feeling in the evening and a high quality sleep (https://x.com/bryan_johnson/status/1992353020001362181?s=20)
-
-
-Handwritten notes are more useful for studying and committing to memory than typed notes, ultimately contributing to higher achievement for college students.
-https://x.com/SciencNews/status/1991555166127157416?s=20
+Johnson - has learned to develop a [positive association between the slight hunger feeling in the evening and a high quality sleep](https://x.com/bryan_johnson/status/1992353020001362181?s=20). Must try. 
 
 
-Make the robots create personalized tutorials for you: https://x.com/geoffreylitt/status/1991909304085987366?s=20
+Handwritten notes are [more useful for studying and committing to memory](https://x.com/SciencNews/status/1991555166127157416?s=20) than typed notes, ultimately contributing to higher achievement for college students. Must get myself another Moleskine.
+
+Interesting idea that I am already doing a bit of: make the robots create [personalized tutorials for you](https://x.com/geoffreylitt/status/1991909304085987366?s=20) instead of simply letting them do all your work. 
 
 
 
