@@ -32,7 +32,7 @@
 - **Aiki**: [Aiki 3 on GH](https://github.com/aiki-extension/Aiki3), [aiki.github.io](https://aiki-extension.github.io/) 
 - MathsCamp: [site](https://mathscamp.org/#/), [gh](https://github.com/MathsCamp/MathsCamp) 
 
-- [Antropic Console](https://console.anthropic.com/settings/billing)
+- [Anthropic Console](https://console.anthropic.com/settings/billing) (Antropic)
 - [DeepSeek Console](https://platform.deepseek.com/usage)
 
 
@@ -49,17 +49,17 @@
 ## Supervisions 
 ### Spring 2026
 
-#### BSc (7)
-1. Nikolaj x2, Rasmus, Mathias - Aiki ?
-2. Alex, Jacob, and Jakob - Interactive Conversation Practice ?
-
 #### MSc (10)
-2. Simone Jacbosen - Dead Code Detection Case Study ?
-3. Babete & Lotte - ArchLens for C#
-4. Gustav & Rasmus - 
-5. Niklas, Zalan, Gabor - 
-6. Vitus & Rasmus - FMD
+1. Simone Jacbosen - Dead Code Detection Case Study ?
+2. Babete & Lotte - ArchLens for C#
+3. Gustav & Rasmus - 
+4. Niklas, Zalan, Gabor - 
+5. Vitus & Rasmus - FMD
 
+#### BSc (7)
+7. Nikolaj, Nicolai, Rasmus, Mathias - Aiki ?
+8. Alex, Jacob, and Jakob - Interactive Conversation Practice ?
+9. 
 
 ### Fall 2025
 

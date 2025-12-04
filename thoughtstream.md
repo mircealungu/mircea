@@ -1,4 +1,57 @@
 
+dec 1
+
+karpathy on exams in the era of AI. you can only evaluate oral knowledge. you will never be able to detect use of AI in homework. https://x.com/karpathy/status/1993010584175141038?s=20
+
+lemire - LLMs make better tutors than teachers (https://x.com/lemire/status/1992968049230496212?s=20)
+
+johnson - has learned to develop a positive association between the slight hunger feeling in the evening and a high quality sleep (https://x.com/bryan_johnson/status/1992353020001362181?s=20)
+
+
+Handwritten notes are more useful for studying and committing to memory than typed notes, ultimately contributing to higher achievement for college students.
+https://x.com/SciencNews/status/1991555166127157416?s=20
+
+
+Make the robots create personalized tutorials for you: https://x.com/geoffreylitt/status/1991909304085987366?s=20
+
+
+
+**
+
+
+A few generations ago information was very scarce. You'd stay, watch the sheep or cows all day long. Somebody passed by and told you something. On a good day. You found out one new bit of information. And because it was rare you remembered it. 
+
+Today we get in one doomscrolling session more than one of our ancestors got in a year. What will the brain do with it? Forget it as soon as it leaves the retina. 
+
+
+
+
+nov 26
+
+either i'm a bad programmer. 
+or Claude is a miracle. 
+
+nov 25
+
+the future of coding. 
+a mixture of experts. 
+every feature, is an LLM memory context that you activate. 
+so it does not have to always start looking up info !
+
+
+
+
+
+Nov 21
+
+grief is the price we have to pay for love.
+
+**
+
+
+
+
+
 Oct 30
 
 Learn to embrace change. It’s the only sure thing in life. Don’t try to hold onto things that you can’t hold on. Let them go. And be thankful for the chance of having had them. Or walked together with them. On this blessed-famed universe-faring rock.
