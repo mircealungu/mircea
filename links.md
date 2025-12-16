@@ -50,14 +50,14 @@
 ### Spring 2026
 
 #### MSc (10)
-1. Simone Jacbosen - Dead Code Detection Case Study ?
+1. Simone Jakobsen - Dead Code Detection with Dynamic Analysis - An Industrial Case Study
 2. Babete & Lotte - ArchLens for C#
 3. Gustav & Rasmus - 
 4. Niklas, Zalan, Gabor - 
 5. Vitus & Rasmus - FMD
 
 #### BSc (7)
-7. Nikolaj, Nicolai, Rasmus, Mathias - Aiki ?
+7. Nikolaj, Nicolai, Rasmus, Mathias - Aiki 
 8. Alex, Jacob, and Jakob - Interactive Conversation Practice ?
 9. 
 

@@ -1,7 +1,18 @@
 
+dec 16
+
+P != NP. Verification is always going to be easier than generation. This also is the reason for which LLMs can be useful. One can save time by verifying the generated result rather than writing it. At the same time, when the thing is too complicated to be verified... or it is not understood so can't be verified... then it's a different story. It becomes a machine that generates technical debt at incredible speed. What kind of TD though? Somebody should study. 
+
+In my opinion, the TD is the debt of making sense of the codebase. With LLMs once has a perfect ACME "just add water" legacy code generator. If one generates code much faster than they can build a mental model of it then they are in trouble. Peter Naur has already told us long time ago that coding is not a typing activity, but rather an activity of building mental models. 
+
+So I guess, one solution for the problem is introducing limits to the number of lines of code a programmer can commit in a day to the repository - to the maximum likely number that they are likely to understand :) 
+
+
 dec 4
 
 Fourth day of water fasting.  The clarity of mind, and focus is amazing. Feeling no hunger. 
+
+However, sloppy volleyball in the evening. On day one I played amazing. Tonight not so much. 
 
 
 dec 1

@@ -21,6 +21,10 @@ Once this view is defined, we can reuse it in various environments.
 
 <img src="assets/archlens-gh-integration.png" style="max-width:500px"/>
 
+Other PRs where ArchLens contributed:
+- Addition of dependency: https://github.com/zeeguu/api/pull/437
+- Removal of dependency: https://github.com/zeeguu/api/pull/438
+- 
 
 ## VS Code Extension
 
