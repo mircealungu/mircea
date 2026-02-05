@@ -51,10 +51,12 @@
 
 #### MSc (10)
 1. Simone Jakobsen - Dead Code Detection with Dynamic Analysis - An Industrial Case Study
-2. Babete & Lotte - ArchLens for C#
-3. Gustav & Rasmus - 
-4. Niklas, Zalan, Gabor - 
-5. Vitus & Rasmus - FMD
+2. Babete & Lotte - ArchLens for C# 
+3. Gustav - Git Truck? 
+4. Niklas, Zalan, Gabor - Zeeguu - Verbs
+5. Vitus & Rasmus - Intercepting Procrastination
+6. Anna Semeriuk - Personalized Audio Lessons
+7. Jonas - Categories in Git-Truck
 
 #### BSc (7)
 7. Nikolaj, Nicolai, Rasmus, Mathias - Aiki 
@@ -71,7 +73,9 @@
 
 #### MSc Thesis
 5. Sofia & Louise - Swiper Interface for Zeeguu [report](https://docs.google.com/document/d/1Zfk04cdOlSt_VAjXa-t5kHhTh8hrymS3U2SKsBc-eJQ/edit?tab=t.0#heading=h.yainbet4626x) #zeeguu [learnit](https://learnit.itu.dk/user/index.php?id=3025688)
-6. Wassim - Aiki 3.0 #aiki [learnIt](https://learnit.itu.dk/course/view.php?id=3025904)
+6. Wassim - Aiki 3.0 #aiki [learnIt](https://learnit.itu.dk/course/view.php?id=3025904)[aiki 3.0 on GH](https://github.com/aiki-extension/Aiki3)
+
+
 
 
 ### Spring 2025
@@ -126,7 +130,7 @@ FAQ:
 ## Censoring
 - [aau digitaleksam](https://digitaleksamen.aau.dk/)
 - [censor list](https://services2.brics.dk/censor/)
-- [sdu digitalexam](https://digitaleksamen.sdu.dk/bedoemmer/proeve/100388)
+- [sdu digitalexam]([https://digitaleksamen.sdu.dk/bedoemmer/proeve/100388](https://digitaleksamen.sdu.dk/bedoemmer?filter=IkkeFaerdigBedoemte))
 
 
 ## Copenhagen

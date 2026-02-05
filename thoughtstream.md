@@ -1,4 +1,76 @@
 
+feb 4
+
+I've always thought about refactoring my code to be less surprising for the agent. Often when it's surprising, it's because we've done something that's not intuitive - neither for man nor for agent. a case study at Basecamp: https://public.3.basecamp.com/p/njmKUBfBAJkfKuB8NHqV1qJ7
+
+
+feb 1
+
+US is giving up on the idea of exporting its pretense of a high moral ground (rule of law, woke ideology) to control the world. Now it's only power. 
+
+jan 28
+
+super useful prompt: 
+> critically review the two prs. look for improvments that are going to increase maintainabiilty
+
+another super useful one: 
+> critically review the two prs one more time. look for further improvments that are going to increase maintainabiilty
+
+super useful:
+- look at the code and do your own code review
+
+
+
+Jan 23
+
+What will happen when everybody can write - we don’t appreciate writing anymore - in person meeting and presence becomes more important again - oratory - using the LLMs to train - a bit like in chess
+
+
+Jan 22
+
+Must write an essay about Bedazzled as a metaphor for the AI generation.
+
+Maybe also go back to lower bounds on what you can ever say about LLMs for code. If you care about the result, then you have to be able to review it. If you don't care, then it's fine. It generates, you verify. Surely, there are two ways of verifying: 
+1. you can test that it works (so you can develop software as a tester)
+2. you can test that the code does what you want (harder but faster sometimes)
+3. you need a modicum of architectural awareness - before the whole system is too convoluted - though, you could always have one extra prompt - that is asking - refactor this contribution to increase maintainability of future code. 
+	1. but now you have to verify that it did that
+	2. and suddenly you need to be a technical person
+
+
+
+Jan 21
+
+News happens on a day-to-day timescale. Geopolitics happens on a multi-year timescale. If the US and the EU are allies who are set against Russia and China, then the little "row" over Greenland is not going to change that. It will very likely, I'm afraid, result in the US taking the Island, the two officially "splitting ways", but actually EU continuing to antagonize Russia and eventually end up in a hot war with them. Such that US can then start a hot war with China. 
+
+Jan 20
+
+they collect so much data about us, and still, they can't figure out when we split up from somebody, so they don't have to 
+
+Jan 12
+
+What if in the future because the robots can do the intellectual work, intelligence has been, modified what will become more important will be physicality. Sports arts the crafts? 
+
+Jan 4
+
+Programming as theory building has just gotten a completely new meaning. Code writing can even be done by the robot. But the theory behind the whole system is still not in the robot's head. It's in the programmers head. 
+
+In fact, technical debt, can also be a strategy of making oneself more important. 
+
+Jan 2
+
+There's so much that I would forget if it weren't for my phone's photl 
+
+Dec 23
+
+Is optimism just stupidity?
+
+
+dec 20
+
+discomfort is good for you. comfort is bad. discomfort makes you stronger, and helps you *feel* like life is longer. you want time to pass slower: stay the last 15min in the sauna; do the last 10 pushups. equally, what's easy is bad: eating cake, scrolling. unless it's relationships. then, it should be easy. if it's hard is wrong. 
+
+
 dec 16
 
 P != NP. Verification is always going to be easier than generation. This also is the reason for which LLMs can be useful. One can save time by verifying the generated result rather than writing it. At the same time, when the thing is too complicated to be verified... or it is not understood so can't be verified... then it's a different story. It becomes a machine that generates technical debt at incredible speed. What kind of TD though? Somebody should study. 

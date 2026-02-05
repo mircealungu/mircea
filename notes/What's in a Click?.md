@@ -1,5 +1,8 @@
 *Any other feature by any other name would be as complicated*
 
+*People fall in love with ideas because ideas never fight back. Execution does. It exposes your blind spots, your patience, your habits and your excuses. Most founders learn more from the first week of doing than the first year of imagining.* ([tweet](https://x.com/hnshah/status/1998474486149165231?s=20), by Hitesh Shah)
+
+
 You think, requirements are simple: I wants system that allows me to click on a word on a website, get a translation, save it to the database with the time when it was requested; allow the learner to practice the words with exercises based on the past contexts in which they encountered them. 
 
 What could be so hard? 
@@ -13,13 +16,15 @@ What do you mean by this? It seems clear to you, does it not? Let's see.
 ## Click on a word
 
 
-What happens if the word is part of a link? If you click it, you follow the link?
+What happens if the word is part of a link? If you click it, you follow the link? Well, that would not make sense, what you want, is that you get translations. Or? Should this be a configuration option? Maybe some people would want to click on a link and follow it after all. 
+
+Or maybe we can introduce two modes? A shift-click translates, simple click just follows the link. Modes, what are modes? Default? Should the default action be a translation or a link following? 
 
 I guess you could ignore links. But how do you even ignore links? And what if the word you need translated is part of the link? You can’t just ignore them. Maybe have a mode that deactivates links. But can you reactivate  them? Or maybe ctrl+click when on a link? And what about mobile? Would you want your users to use this also on the mobile?
 
 ## Get a translation
 
-Hours do you get a translation? Use an API. You pay a bit but it’s fine. However, what do you do if an API is down? It slow? Get multiple. But what to do if they differ? Which is right? Show them all and let the user choose? And if they agree?
+How do you get a translation? Use an API. You pay a bit but it’s fine. However, what do you do if an API is down? It slow? Get multiple. But what to do if they differ? Which is right? Show them all and let the user choose? And if they agree?
 
 A word might have multiple meanings, so you probably want to get the translation that makes sense in that context. But the APIs don’t offer this as an option. You do find a hack… they all support HTML tags. For now you have obtained
 

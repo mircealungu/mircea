@@ -17,7 +17,7 @@ Alternatively, transform some of the aspects of your work that you would like to
 
 ## Other Observations
 
-Put slide numbers on slides. This allows for the audience to ask you to "go back to slide number X" for clarifications. 
+**Important:** Put slide numbers on slides. This allows for the audience to ask you to "go back to slide number X" for clarifications. 
 
 **The last slide** is sometimes the one that stays the most on the screen. It is nice if it's a visual summary of the whole presentation. It is bad if it's just a "Thank you!". You already said "thank you", you don't have to write it also. 
 
