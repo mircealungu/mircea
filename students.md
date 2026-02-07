@@ -29,3 +29,21 @@ My default answer is no for supervisions where you work for a company. The only 
 ## Thesis Examples
 
  If you're curious about how a thesis with me might look like, you can find several past [Thesis-Examples](notes/Thesis-Examples.md). 
+
+
+# During the Supervision
+
+## Pre-meeting emails
+The day before our weekly (or bi-weekly) meeting I expect from you an email with answers to the following questions, so I can better prepare for the meeting:
+
+1. What did you work on during the last week?
+2. Do you have any *blockers* - problems that you don’t know how to solve?
+3. What can your supervisor(s) help with?
+4. What do you plan to work on during the next week? 
+
+
+# Final Presentations
+
+- have slides number on your slides
+- don't end on a "Questions?" slide
+
