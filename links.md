@@ -11,7 +11,7 @@
 
 ### Zeeguu
 
-| [Reports](https://zeeguu.org/reports) | [DockerHub](https://hub.docker.com/?namespace=zeeguu) | [ Org](https://github.com/zeeguu) | [Wiki](https://wiki.zeeguu.org/)| 
+| [Reports](https://zeeguu.org/reports) | [Stats](https://api.zeeguu.org/stats) | [User Activity](https://api.zeeguu.org/user_stats/dashboard) | [DockerHub](https://hub.docker.com/?namespace=zeeguu) | [ Org](https://github.com/zeeguu) | [Wiki](https://wiki.zeeguu.org/)| 
 
 - **Web**: [code](https://github.com/zeeguu/web/): [pulls](https://github.com/zeeguu/web/pulls), [issues](https://github.com/zeeguu/web/issues)	
 - **API**: [code](https://github.com/zeeguu/api): [pulls](https://github.com/zeeguu/api/pulls), [issues](https://github.com/zeeguu/api/issues) 

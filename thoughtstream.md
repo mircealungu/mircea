@@ -1,4 +1,9 @@
 
+
+Feb 10
+
+Pepper grinder filing. A little thing that an employee has to do. Maintenance. There are so many things to do in a company asa
+
 feb 4
 
 I've always thought about refactoring my code to be less surprising for the agent. Often when it's surprising, it's because we've done something that's not intuitive - neither for man nor for agent. a case study at Basecamp: https://public.3.basecamp.com/p/njmKUBfBAJkfKuB8NHqV1qJ7
