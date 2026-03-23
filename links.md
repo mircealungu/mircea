@@ -36,9 +36,15 @@
 - [Cli](https://github.com/archlens/ArchLens), [Vscode Extension](https://github.com/archlens/ArchLens-VsCode-Extension) 
 - [PyPI](https://pypi.org/project/ArchLens-Preview/) 
 
+### Aiki
+
+- **Aiki**: [Aiki 3 on GH](https://github.com/aiki-extension/Aiki3), [aiki.github.io](https://aiki-extension.github.io/) 
+- [Open new issue](https://github.com/aiki-extension/Aiki3/issues/new)
+
+
 ### Other
 - [**Git-Truck**](https://github.com/git-truck/git-truck)  
-- **Aiki**: [Aiki 3 on GH](https://github.com/aiki-extension/Aiki3), [aiki.github.io](https://aiki-extension.github.io/) 
+
 - MathsCamp: [site](https://mathscamp.org/#/), [gh](https://github.com/MathsCamp/MathsCamp) 
 
 - [Anthropic Console](https://console.anthropic.com/settings/billing) (Antropic)
