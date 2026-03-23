@@ -627,7 +627,7 @@ If you have a principle, but you make an exception it will be much easier to mak
 
 Presenter talking about how we measure progress:  
 
-![](assets/image.jpg)
+![](../bughi%20mambo%20rag/image.jpg)
 
 
 Words known - “I don’t want to go into the question I’d what a word is”. So true :)
