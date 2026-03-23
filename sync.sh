@@ -1,6 +1,7 @@
 #!/bin/bash
 
 cd "$(dirname "$0")"
+[ -f ~/.local_envvars.sh ] && source ~/.local_envvars.sh
 [ -f ~/.bash_functions ] && source ~/.bash_functions
 
 
