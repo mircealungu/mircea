@@ -2,14 +2,13 @@
 
 cd "$(dirname "$0")"
 [ -f ~/.local_envvars.sh ] && source ~/.local_envvars.sh
-[ -f ~/.bash_functions ] && source ~/.bash_functions
 
 
 rsync -a --delete --exclude='.git/'\
  --exclude='.gitignore'\
  --exclude='.obsidian'\
  --exclude='sync.sh'\
-   "$ML_COM_IN_MEGAVAULT" "$ML_COM_IN_GH_FOLDER"
+   "$ML_COM_VAULT" "$ML_COM_REPO"
 
 # Check for new untracked files
 NEW_FILES=$(git ls-files --others --exclude-standard)
@@ -23,7 +22,8 @@ if [ -n "$NEW_FILES" ]; then
         echo "New untracked files:"
         echo "$NEW_FILES"
         echo ""
-        ask_confirmation "Do you want to add and commit these new files too?"
+        read -p "Add and commit these new files? (y/n) " answer
+        [ "$answer" != "y" ] && exit 0
         git add $NEW_FILES
     fi
 fi
@@ -62,7 +62,8 @@ if [ "$1" = "--yes" ]; then
 else
     echo ""
     echo "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
-    ask_confirmation "Do you want to commit all and push?"
+    read -p "Commit all and push? (y/n) " answer
+    [ "$answer" != "y" ] && exit 0
     git commit -a
     git push
 fi

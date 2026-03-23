@@ -5,6 +5,7 @@
 
 ## Teaching
 
+
 ### Spring Semester
 - **Software Architecture**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3022830#section-0), [Reconstruction on GitHub](https://github.com/mircealungu/reconstruction)
 - **DevOps (MSc)**: [**GitHub**](https://github.com/itu-devops/MSc_lecture_notes) - [LearnIt](https://learnit.itu.dk/course/view.php?id=3022842) 
