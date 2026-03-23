@@ -11,12 +11,27 @@ rsync -a --delete --exclude='.git/'\
  --exclude='sync.sh'\
    "$ML_COM_IN_MEGAVAULT" "$ML_COM_IN_GH_FOLDER"
 
+# Check for new untracked files
+NEW_FILES=$(git ls-files --others --exclude-standard)
 
-# Stage all changes including new files
-git add .
-MODIFIED_FILES=$(git diff --name-only --cached HEAD)
+if [ -n "$NEW_FILES" ]; then
+    if [ "$1" = "--yes" ]; then
+        echo "New files detected — run interactive sync to review:"
+        echo "$NEW_FILES"
+        exit 1
+    else
+        echo "New untracked files:"
+        echo "$NEW_FILES"
+        echo ""
+        ask_confirmation "Do you want to add and commit these new files too?"
+        git add $NEW_FILES
+    fi
+fi
 
-if [ -z "$MODIFIED_FILES" ]; then
+# Get the list of modified tracked files
+MODIFIED_FILES=$(git diff --name-only HEAD)
+
+if [ -z "$MODIFIED_FILES" ] && [ -z "$(git diff --name-only --cached HEAD)" ]; then
     echo "No changes to commit."
     exit 0
 fi
@@ -27,7 +42,7 @@ check_and_push() {
 
     # Check if MODIFIED_FILES contains exactly one line and that line matches file_path
     if [ "$(echo "$MODIFIED_FILES" | wc -l)" -eq 1 ] && [ "$MODIFIED_FILES" == "$file_path" ]; then
-        git commit -m "update $file_path" --quiet
+        git commit -am "update $file_path" --quiet
         git push --quiet
         echo "Pushed: $file_path"
         exit 0
@@ -41,7 +56,7 @@ check_and_push "links.md"
 
 if [ "$1" = "--yes" ]; then
     echo "Changed: $MODIFIED_FILES"
-    git commit -m "update multiple files" --quiet
+    git commit -am "update multiple files" --quiet
     git push --quiet
     echo "Pushed."
 else
