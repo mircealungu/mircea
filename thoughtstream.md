@@ -1,6 +1,9 @@
 
 
 
+Mar 23
+
+Finally I've automated shortcuts in Obsidian to publish to various repos. Lecture notes, website, etc. This is so satisfying. And also, being able to navigate above the level of bash syntax is so pleasant. That knowledge was always too arcane. In some sense, working with Claudius is so much more pleasant - you can focus on the actual automation that you care about, not about the syntax. 
 
 
 Mar 5
