@@ -27,25 +27,28 @@
 - [Ops](https://github.com/mircealungu/zeeguu-ops)
 - [Provisioning](https://github.com/mircealungu/zeeguu-provisioning) 
 
-### ArchLens
+## ArchLens
 - [GH Org](https://github.com/archlens/)
 - [Cli](https://github.com/archlens/ArchLens), [Vscode Extension](https://github.com/archlens/ArchLens-VsCode-Extension) 
 - [PyPI](https://pypi.org/project/ArchLens-Preview/) 
 
-### Aiki
+## Aiki
 
 - **Aiki**: [Aiki 3 on GH](https://github.com/aiki-extension/Aiki3), [aiki.github.io](https://aiki-extension.github.io/) 
 - [Open new issue](https://github.com/aiki-extension/Aiki3/issues/new)
 
-### FMD
+## Git-Truck 
+- [**Git-Truck**](https://github.com/git-truck/git-truck)  
+
+## FMD
 - [Code](https://github.com/flask-dashboard/Flask-MonitoringDashboard), [FMD-MD](https://flask-dashboard.github.io/fmd-telemetry/#/stats/user-session), [PyPI](https://pypi.org/project/Flask-MonitoringDashboard/) 
 
 
-### Other
-- [**Git-Truck**](https://github.com/git-truck/git-truck)  
-
+## Other
 - MathsCamp: [site](https://mathscamp.org/#/), [gh](https://github.com/MathsCamp/MathsCamp) 
 
+
+### Dashboards
 - [Anthropic Console](https://console.anthropic.com/settings/billing) (Antropic)
 - [DeepSeek Console](https://platform.deepseek.com/usage)
 
