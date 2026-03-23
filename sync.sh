@@ -14,7 +14,7 @@ rsync -a --delete --exclude='.git/'\
 NEW_FILES=$(git ls-files --others --exclude-standard)
 
 if [ -n "$NEW_FILES" ]; then
-    if [ "$1" = "--yes" ]; then
+    if [ "$1" = "--non-interactive" ]; then
         echo "New files detected — run interactive sync to review:"
         echo "$NEW_FILES"
         exit 1
@@ -54,14 +54,16 @@ check_and_push "thoughtstream.md"
 check_and_push "links.md"
 
 
-if [ "$1" = "--yes" ]; then
+if [ "$1" = "--non-interactive" ]; then
     echo "Changed: $MODIFIED_FILES"
     git commit -am "update multiple files" --quiet
     git push --quiet
     echo "Pushed."
 else
     echo ""
-    echo "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
+    echo "Modified files:"
+    echo "$MODIFIED_FILES"
+    echo ""
     read -p "Commit all and push? (y/n) " answer
     [ "$answer" != "y" ] && exit 0
     git commit -a
