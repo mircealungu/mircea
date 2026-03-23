@@ -5,7 +5,6 @@
 
 ## Teaching
 
-
 ### Spring Semester
 - **Software Architecture**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3022830#section-0), [Reconstruction on GitHub](https://github.com/mircealungu/reconstruction)
 - **DevOps (MSc)**: [**GitHub**](https://github.com/itu-devops/MSc_lecture_notes) - [LearnIt](https://learnit.itu.dk/course/view.php?id=3022842) 
@@ -28,9 +27,6 @@
 - [Ops](https://github.com/mircealungu/zeeguu-ops)
 - [Provisioning](https://github.com/mircealungu/zeeguu-provisioning) 
 
-### FMD
-- [Code](https://github.com/flask-dashboard/Flask-MonitoringDashboard), [FMD-MD](https://flask-dashboard.github.io/fmd-telemetry/#/stats/user-session), [PyPI](https://pypi.org/project/Flask-MonitoringDashboard/) 
-
 ### ArchLens
 - [GH Org](https://github.com/archlens/)
 - [Cli](https://github.com/archlens/ArchLens), [Vscode Extension](https://github.com/archlens/ArchLens-VsCode-Extension) 
@@ -40,6 +36,9 @@
 
 - **Aiki**: [Aiki 3 on GH](https://github.com/aiki-extension/Aiki3), [aiki.github.io](https://aiki-extension.github.io/) 
 - [Open new issue](https://github.com/aiki-extension/Aiki3/issues/new)
+
+### FMD
+- [Code](https://github.com/flask-dashboard/Flask-MonitoringDashboard), [FMD-MD](https://flask-dashboard.github.io/fmd-telemetry/#/stats/user-session), [PyPI](https://pypi.org/project/Flask-MonitoringDashboard/) 
 
 
 ### Other
