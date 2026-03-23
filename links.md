@@ -2,9 +2,8 @@
 
 | [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) | [Claude](https://claude.ai/chat/)| [Gemini](https://aistudio.google.com/live)|
 
-## Teaching yes
+## Teaching
 
-this is 
 ### Fall Semester
 - ASE: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024665), 
 - [Hypes in software engineering](https://software-hypes.github.io/)
