@@ -1,5 +1,6 @@
 #!/bin/bash
 
+cd "$(dirname "$0")"
 [ -f ~/.bash_functions ] && source ~/.bash_functions
 
 
@@ -43,10 +44,13 @@ check_and_push "thoughtstream.md"
 check_and_push "links.md"
 
 
-echo ""
-echo "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
-ask_confirmation "Do you want to commit all and push?"
-
-
-git commit -a
-git push 
+if [ "$1" = "--yes" ]; then
+    git commit -am "update multiple files"
+    git push
+else
+    echo ""
+    echo "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
+    ask_confirmation "Do you want to commit all and push?"
+    git commit -a
+    git push
+fi
