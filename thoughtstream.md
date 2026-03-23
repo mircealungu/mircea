@@ -10,7 +10,7 @@ Main goal of the US regime is to make an example of any country who does not con
 
 Mar 3
 
-Discovered Spotlight was indexing 1.3M files in my code folder — 70K just from a single node_modules. The old `.metadata_never_index` trick is dead since Sequoia. Apple stopped honoring those sentinel files. The fix is simple: System Settings → Spotlight → Privacy → add ~/code. One never searchs code through Spotlight anyway.
+Discovered Spotlight was indexing 1.3M files in my code folder — 70K just from a single node_modules. The old `.metadata_never_index` trick is dead since Sequoia. Apple stopped honoring those sentinel files. The fix is simple: System Settings → Spotlight → Privacy → add ~/code. One never searches code through Spotlight anyway. One is too geek for that. 
 
 
 
