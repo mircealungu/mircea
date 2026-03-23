@@ -5,13 +5,11 @@ cd "$(dirname "$0")"
 [ -f ~/.bash_functions ] && source ~/.bash_functions
 
 
-rsync -av --delete --exclude='.git/'\
+rsync -a --delete --exclude='.git/'\
  --exclude='.gitignore'\
  --exclude='.obsidian'\
  --exclude='sync.sh'\
    "$ML_COM_IN_MEGAVAULT" "$ML_COM_IN_GH_FOLDER"
-
-git status
 
 
 # Get the list of modified files
@@ -28,14 +26,9 @@ check_and_push() {
 
     # Check if MODIFIED_FILES contains exactly one line and that line matches file_path
     if [ "$(echo "$MODIFIED_FILES" | wc -l)" -eq 1 ] && [ "$MODIFIED_FILES" == "$file_path" ]; then
-        echo ""
-        echo "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
-        echo "Only $file_path has been modified"
-        echo "Generating comment and pushing..."
-        echo "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
-        echo ""
-        git commit -am "update $file_path"
-        git push
+        git commit -am "update $file_path" --quiet
+        git push --quiet
+        echo "Pushed: $file_path"
         exit 0
     fi
 }
@@ -46,8 +39,9 @@ check_and_push "links.md"
 
 
 if [ "$1" = "--yes" ]; then
-    git commit -am "update multiple files"
-    git push
+    git commit -am "update multiple files" --quiet
+    git push --quiet
+    echo "Pushed: multiple files"
 else
     echo ""
     echo "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="

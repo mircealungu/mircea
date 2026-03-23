@@ -8,7 +8,7 @@
 ### Spring Semester
 - **Software Architecture**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3022830#section-0), [Reconstruction on GitHub](https://github.com/mircealungu/reconstruction)
 - **DevOps (MSc)**: [**GitHub**](https://github.com/itu-devops/MSc_lecture_notes) - [LearnIt](https://learnit.itu.dk/course/view.php?id=3022842) 
-- TimeEdit
+- TimeEdit: [lectures](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X360Q90YQ59x5YZ61ZY1Q6y5695Y05X59207QX01483Yg56092gX64Y09Q5.html), 
 
 
 ### Fall Semester
