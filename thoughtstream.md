@@ -1,5 +1,19 @@
 
 
+
+
+
+Mar 5
+
+Main goal of the US regime is to make an example of any country who does not conform of selling oil in USD. They are ok if the country is left in disarray. 
+
+
+Mar 3
+
+Discovered Spotlight was indexing 1.3M files in my code folder — 70K just from a single node_modules. The old `.metadata_never_index` trick is dead since Sequoia. Apple stopped honoring those sentinel files. The fix is simple: System Settings → Spotlight → Privacy → add ~/code. One never searchs code through Spotlight anyway.
+
+
+
 Feb 10
 
 Pepper grinder filing. A little thing that an employee has to do. Maintenance. There are so many things to do in a company asa

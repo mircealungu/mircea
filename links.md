@@ -2,14 +2,21 @@
 
 | [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) | [Claude](https://claude.ai/chat/)| [Gemini](https://aistudio.google.com/live)|
 
-### Teaching 
+## Teaching yes
+
+this is 
+### Fall Semester
 - ASE: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024665), 
 - [Hypes in software engineering](https://software-hypes.github.io/)
 - TID: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024691), [LectureNotes on GitHub](https://github.com/itu-tid/lecture-notes/tree/main), [Schedule](https://docs.google.com/spreadsheets/d/1dmJkZtfHSH8XEhFdVEtIr_ubl2u5-PHy-P2uZNb4bz4/edit)
 - TimeEdit Fall'25: [Lectures](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X860Q90YQ59x5YZ61ZY1Q6y5695Y05X59207QX01483Yg56092gX64Y09Q5.html), [Exams](https://cloud.timeedit.net/itu/web/public/ri1005899YX125Q8X0Q0Y98YZ011Y2YXX5X885052592415X5Y25055315510YXY7005X51215555X9X100Y022Y50XY6729X0Y2XY5Z2g4Q0gy9605x0466593Q8YZg5Q9Y01662X0Y5.html) 
 
+### Spring Semester
+- [Software Architecture](https://learnit.itu.dk/course/view.php?id=3022830#section-0) ([Reconstruction on GH](https://github.com/mircealungu/reconstruction))
+- [**DevOps GitHub**](https://github.com/itu-devops/MSc_lecture_notes) - [LearnIt](https://learnit.itu.dk/course/view.php?id=3022842) 
 
-### Zeeguu
+
+## Zeeguu
 
 | [Reports](https://zeeguu.org/reports) | [Stats](https://api.zeeguu.org/stats) | [User Activity](https://api.zeeguu.org/user_stats/dashboard) | [DockerHub](https://hub.docker.com/?namespace=zeeguu) | [ Org](https://github.com/zeeguu) | [Wiki](https://wiki.zeeguu.org/)| 
 
@@ -52,16 +59,15 @@
 #### MSc (10)
 1. Simone Jakobsen - Dead Code Detection with Dynamic Analysis - An Industrial Case Study
 2. Babete & Lotte - ArchLens for C# 
-3. Gustav - Git Truck? 
-4. Niklas, Zalan, Gabor - Zeeguu - Verbs
-5. Vitus & Rasmus - Intercepting Procrastination
-6. Anna Semeriuk - Personalized Audio Lessons
-7. Jonas - Categories in Git-Truck
-
+3. Niklas, Zalan, Gabor - Zeeguu Gamification
+4. Vitus & Rasmus - Intercepting Procrastination
+5. Gustav & Jonas - Categories in Git-Truck
 #### BSc (7)
-7. Nikolaj, Nicolai, Rasmus, Mathias - Aiki 
-8. Alex, Jacob, and Jakob - Interactive Conversation Practice ?
-9. 
+6. Nikolaj, Nicolai, Rasmus, Mathias - Aiki 
+7. Alex, Jacob, and Jakob - Verbal Flashcards
+#### Research Project
+8. Anna - Mobile Onboarding Usability, [learnit]([https://learnit.itu.dk/course/view.php?id=3026658](https://learnit.itu.dk/course/view.php?id=3026658))
+9. Lukas - Case Study of Efficiency of Different Learning Modes
 
 ### Fall 2025
 
@@ -186,8 +192,7 @@ Fall 2024
 - **TID**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3023628), [GitHub](https://github.com/itu-tid/lecture-notes), TimeEdit: [Lectures](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X360Q90YQ50x5YZ61ZY1Q9y5695Y05X58307QX01473Yg56092gX64Y09Q5.html)/ [Exam](https://cloud.timeedit.net/itu/web/public/ri1005899YX425Q8X0Q0Y98YZ011Y2YXX5X885052582415X5Y25055315510YXY7005X51215555X9X100Y022Y50XY6729X0Y2XY5Z3g4Q0gy0605x0496593Q7YZg5Q9Y01662X0Y5.html) , [Lecture Plan](https://docs.google.com/spreadsheets/d/1CSeqHOSnSdf381EJmpaoiOpfrnqZyG_XecSND6qMiy8/edit?gid=1468158338#gid=1468158338). Past: [2023](https://learnit.itu.dk/course/view.php?id=30222) 
 
 
-- [Software Architecture](https://learnit.itu.dk/course/view.php?id=3022830#section-0) ([Reconstruction on GH](https://github.com/mircealungu/reconstruction))
-- [**DevOps GitHub**](https://github.com/itu-devops/lecture_notes) - [LearnIt](https://learnit.itu.dk/course/view.php?id=3022842) 
+
 - [DataVis...](https://learnit.itu.dk/course/view.php?id=3022800#section-6)
 - [TID'23 LearnIt](https://learnit.itu.dk/course/view.php?id=3022263) ([GitHub](https://github.com/itu-tid/lecture-notes/tree/main/Lectures))
 
