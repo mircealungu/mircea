@@ -61,8 +61,7 @@ if [ "$1" = "--non-interactive" ]; then
     echo "Pushed."
 else
     echo ""
-    echo "Modified files:"
-    echo "$MODIFIED_FILES"
+    git --no-pager diff --stat HEAD
     echo ""
     read -p "Commit all and push? (y/n) " answer
     [ "$answer" != "y" ] && exit 0
