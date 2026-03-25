@@ -1,5 +1,9 @@
 
 
+Mar 24
+
+I've always said, and I still believe it: the US foreign policy would not even change with a Chimp at president. 
+
 
 Mar 23
 
