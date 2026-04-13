@@ -6,11 +6,11 @@
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #2b3038;
-    color: #b0b7bf;
+    color: #b5b1a9;
   }
 
   .markdown-body {
-    color: #b0b7bf;
+    color: #b5b1a9;
   }
 
   .markdown-body a {
@@ -18,12 +18,16 @@
   }
 
   .markdown-body h1,
-  .markdown-body h2,
+  .markdown-body h2 {
+    color: #e08a3e;
+    border-bottom-color: #3e4451;
+  }
+
   .markdown-body h3,
   .markdown-body h4,
   .markdown-body h5,
   .markdown-body h6 {
-    color: #e08a3e;
+    color: #d4a55a;
     border-bottom-color: #3e4451;
   }
 
@@ -53,7 +57,7 @@
   .markdown-body code,
   .markdown-body tt {
     background-color: rgba(110, 118, 129, 0.25);
-    color: #b0b7bf;
+    color: #b5b1a9;
   }
 
   .markdown-body pre {
