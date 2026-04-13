@@ -1,4 +1,52 @@
 
+DHH on AI coding agents - the mental model should not be that you're a PM for programmers, it should be that you have a mecha suit as a progrmamers. 
+
+
+
+Obama, the arguably one of the best orators and generally a wholesome guy, could not close Guantanamo although he wanted to. The current idiot-in-chief contradicts himself 10 times in 2 minutes, lifts sanctions on countries that he invades, and spews more vile than cartoon villains. The previous president ended up so senile that it was sad to see him. 
+
+
+
+I always said that the US president does not matter. But I'm starting to wonder, maybe having a president without honor, makes you really behave like that all the way? The news I read within the last month are embarasing. Sneak attacking Iran TWICE during 'peace' talks. Sneak attacking an unarmed Iranian ship that was on a relation-building mission. Attacking schools and hospitals for fun....
+
+
+
+Apr 4
+
+
+Andrei Tarkovsky - the sacrifice. To believe that you can pray to rather take over yourself the disaster that might fall upon your loved ones. And that God would answer your prayer. In a sense, an Easter movie. 
+
+** 
+
+Plausible deniability. Trump is (doing a) service to the American people. By behaving like a mad dictator, the war suddenly becomes not "the will of the people", but the responsibility of him and his incompetent fox-news anchor secretary of war. In a "democracy", one could argue that the bombing of schools and hospitals is a responsibility that should be distributed to all the citizens.
+
+** 
+
+I am probably missing some insight, but looking at the us and west in general, I'm reminded of the M&W sketch: *Are we the baddies?* 
+**
+
+"The American ppl are very much like the children of a Mafia boss who do not know what their father does for a living & don’t want to know, but then they wonder why someone just threw a firebomb thru the living room window. This is exactly who we are” —Bill Blum
+
+**
+
+At face value, compared to the declarations of the american representatives, the Iranian ones are beautiful, brave, and refreshing. After receiving death threats from the US and Israel, Araghchi had said: *"Your threats are beneath our feet. If we were afraid of death, we would not have entered this war, nor would we have offered our best men as martyrs. Death is an honor for us while defending our homeland... It is better to die than to live in your subjugation, with our homeland under your domination and rule. We were born free and we will die free."*
+
+I guess the difference is telling the truth: you're defending your country from an existential threat. And having to pretend: the US can not ever tell the truth about why they attacked Iran. My guess, they weaken it as much as possible, in preparation for an china war at some point soon. 
+
+**
+
+Marcus Aurelius: *"What are you afraid of losing, when nothing in the world actually belongs to you?"*
+
+=-=-=--=-=-=
+
+Asking is a moment’s shame; not asking is a lifetime’s shame. - Japanese Proverb
+
+=-=-=-=-=-=-=
+
+
+
+
+
 
 Mar 24
 
