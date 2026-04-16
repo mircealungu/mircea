@@ -231,4 +231,4 @@ Fall 2024
 ### Address
 
 **Office:** [IT University of Copenhagen](http://www.itu.dk/), room 4F31, desk 4T111, Emil Holms Kanal 20  
-Main address: Rued Langgaards Vej 7, DK-2300 Copenhagen S, Denmark.
+Main address: Rued Langgaards Vej 7, DK-2300 Copenhagen S, Denmark
