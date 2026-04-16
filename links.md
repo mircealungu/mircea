@@ -3,6 +3,13 @@
 | [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) | [Claude](https://claude.ai/chat/)| [Gemini](https://aistudio.google.com/live)| [claude.ai/code](claude.ai/code) | 
 
 
+Keybindings
+- Obsidian: **^-R** - reveal in navigation
+- Rectangle: 
+	- ^⌘-2 - center third
+	- ⌥⌘-C - center 
+
+
 ## Teaching
 
 ### Spring Semester
@@ -67,17 +74,18 @@
 ### Spring 2026
 
 #### MSc (10)
-1. Simone Jakobsen - Dead Code Detection with Dynamic Analysis - An Industrial Case Study
-2. Babete & Lotte - ArchLens for C# 
-3. Niklas, Zalan, Gabor - Zeeguu Gamification
-4. Vitus & Rasmus - Intercepting Procrastination
-5. Gustav & Jonas - Categories in Git-Truck
+1. Simone Jakobsen - Dead Code Detection with Dynamic Analysis - An Industrial Case Study - Ender or Emil 
+2. Babete & Lotte - ArchLens for C# - Emil (Ender)
+3. Niklas, Zalan, Gabor - Zeeguu Gamification - HCI? 
+4. Vitus & Rasmus - Intercepting Procrastination - HCI 
+5. Gustav & Jonas - Categories in Git-Truck - Emil or Ender
+6. Nicolai and Oskar - [learnit](https://learnit.itu.dk/course/view.php?id=3026217) - Infovis of Grain Shipping - TODO 
 #### BSc (7)
-6. Nikolaj, Nicolai, Rasmus, Mathias - Aiki 
-7. Alex, Jacob, and Jakob - Verbal Flashcards
+6. Nikolaj, Nicolai, Rasmus, Mathias - Aiki - TODO: KU person
+7. Jacob and Jakob - Verbal Flashcards  - HCI person
 #### Research Project
-8. Anna - Mobile Onboarding Usability, [learnit]([https://learnit.itu.dk/course/view.php?id=3026658](https://learnit.itu.dk/course/view.php?id=3026658))
-9. Lukas - Case Study of Efficiency of Different Learning Modes
+8. Anna - Mobile Onboarding Usability, [learnit]([https://learnit.itu.dk/course/view.php?id=3026658](https://learnit.itu.dk/course/view.php?id=3026658)) --
+9. Lukas - Case Study of Efficiency of Different Learning Modes -- 
 
 ### Fall 2025
 
@@ -208,5 +216,15 @@ Fall 2024
 
 
 
+# Others
 
 [broasca testoasa](https://www.tabulaturi.ro/acorduri/radu-gheorghe/broasca-testoasa-342)
+
+[orchid id](https://orcid.org/0000-0003-3944-5261): 0000-0003-3944-5261
+
+
+
+Address
+
+**Office:** [IT University of Copenhagen](http://www.itu.dk/), room 4F31, desk 4T111, Emil Holms Kanal 20  
+Main address: Rued Langgaards Vej 7, DK-2300 Copenhagen S, Denmark.

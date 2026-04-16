@@ -1,13 +1,25 @@
 
+
+
+
+Apr 16
+“You don’t do anything, you let it evolve.”
+ - howSergiu Celibidache
+
+
+
+Apr 6
+
 DHH on AI coding agents - the mental model should not be that you're a PM for programmers, it should be that you have a mecha suit as a progrmamers. 
 
 
+**
 
-Obama, the arguably one of the best orators and generally a wholesome guy, could not close Guantanamo although he wanted to. The current idiot-in-chief contradicts himself 10 times in 2 minutes, lifts sanctions on countries that he invades, and spews more vile than cartoon villains. The previous president ended up so senile that it was sad to see him. 
+Obama, the arguably one of the best orators and generally a wholesome guy, could not close Guantanamo although he wanted to. The current thief-cum-joker-in-chief contradicts himself 10 times in 2 minutes, lifts sanctions on countries that he invades, and spews more vile than cartoon villains. The previous potus ended up so senile that it was sad to see him. 
 
+**
 
-
-I always said that the US president does not matter. But I'm starting to wonder, maybe having a president without honor, makes you really behave like that all the way? The news I read within the last month are embarasing. Sneak attacking Iran TWICE during 'peace' talks. Sneak attacking an unarmed Iranian ship that was on a relation-building mission. Attacking schools and hospitals for fun....
+I always said that the US president does not matter. But I'm starting to wonder, maybe having a president without honor, makes you really behave like that all the way? The news I read within the last month are embarasing. Sneak attacking Iran TWICE during 'peace' talks. Sneak attacking an unarmed Iranian ship that was on a relation-building mission. Attacking schools and hospitals for fun.... 
 
 
 
@@ -15,6 +27,7 @@ Apr 4
 
 
 Andrei Tarkovsky - the sacrifice. To believe that you can pray to rather take over yourself the disaster that might fall upon your loved ones. And that God would answer your prayer. In a sense, an Easter movie. 
+
 
 ** 
 
