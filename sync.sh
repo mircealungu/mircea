@@ -8,6 +8,7 @@ rsync -a --delete --exclude='.git/'\
  --exclude='.gitignore'\
  --exclude='.obsidian'\
  --exclude='sync.sh'\
+ --exclude='assets/css/'\
    "$ML_COM_VAULT" "$ML_COM_REPO"
 
 # Check for new untracked files

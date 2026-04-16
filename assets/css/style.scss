@@ -1,0 +1,80 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #2b3038;
+    color: #c8c4bc;
+  }
+
+  .markdown-body {
+    color: #c8c4bc;
+  }
+
+  .markdown-body a {
+    color: #6bbfbf;
+  }
+
+  .markdown-body h1,
+  .markdown-body h2 {
+    color: #e08a3e;
+    border-bottom-color: #3e4451;
+  }
+
+  .markdown-body h3,
+  .markdown-body h4,
+  .markdown-body h5,
+  .markdown-body h6 {
+    color: #d4a55a;
+    border-bottom-color: #3e4451;
+  }
+
+  .markdown-body hr {
+    background-color: #3e4451;
+  }
+
+  .markdown-body blockquote {
+    color: #8b929a;
+    border-left-color: #3e4451;
+  }
+
+  .markdown-body table th,
+  .markdown-body table td {
+    border-color: #3e4451;
+  }
+
+  .markdown-body table tr {
+    background-color: #2b3038;
+    border-top-color: #3e4451;
+  }
+
+  .markdown-body table tr:nth-child(2n) {
+    background-color: #323840;
+  }
+
+  .markdown-body code,
+  .markdown-body tt {
+    background-color: rgba(110, 118, 129, 0.25);
+    color: #c8c4bc;
+  }
+
+  .markdown-body pre {
+    background-color: #323840;
+  }
+
+  .markdown-body .highlight pre,
+  .markdown-body pre {
+    background-color: #323840;
+  }
+
+  .markdown-body img {
+    background-color: transparent;
+  }
+
+  .markdown-body strong {
+    color: #c8c4bc;
+  }
+}
+
