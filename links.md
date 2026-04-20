@@ -2,14 +2,6 @@
 
 | [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) | [Claude](https://claude.ai/chat/)| [Gemini](https://aistudio.google.com/live)| [claude.ai/code](claude.ai/code) | 
 
-
-Keybindings
-- Obsidian: **^-R** - reveal in navigation
-- Rectangle: 
-	- ^⌘-2 - center third
-	- ⌥⌘-C - center 
-
-
 ## Teaching
 
 ### Spring Semester
@@ -22,8 +14,6 @@ Keybindings
 - **ASE**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024665), [Hypes in software engineering](https://software-hypes.github.io/)
 - **TID**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024691), [LectureNotes on GitHub](https://github.com/itu-tid/lecture-notes/tree/main), [Schedule](https://docs.google.com/spreadsheets/d/1dmJkZtfHSH8XEhFdVEtIr_ubl2u5-PHy-P2uZNb4bz4/edit)
 
-
-
 ## Zeeguu
 
 | [Reports](https://zeeguu.org/reports) | [Stats](https://api.zeeguu.org/stats) | [User Activity](https://api.zeeguu.org/user_stats/dashboard) | [DockerHub](https://hub.docker.com/?namespace=zeeguu) | [ Org](https://github.com/zeeguu) | [Wiki](https://wiki.zeeguu.org/)| 
@@ -33,6 +23,18 @@ Keybindings
 - **Extension**: [code](https://github.com/zeeguu/browser-extension): [pulls](https://github.com/zeeguu/browser-extension/pulls), [issues](https://github.com/zeeguu/browser-extension/issues)
 - [Ops](https://github.com/mircealungu/zeeguu-ops)
 - [Provisioning](https://github.com/mircealungu/zeeguu-provisioning) 
+
+---
+
+Keybindings
+- Obsidian: **^-R** - reveal in navigation
+- Rectangle: 
+	- ^⌘-2 - center third
+	- ⌥⌘-C - center 
+
+----
+
+
 
 ## ArchLens
 - [GH Org](https://github.com/archlens/)
