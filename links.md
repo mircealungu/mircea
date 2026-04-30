@@ -1,8 +1,11 @@
+
 | [WebPrint](https://ituwebprint.itu.dk/RicohmyPrint/Main.aspx)| [Outlook](https://outlook.office.com/owa/?exsvurl=1&path=/calendar/view/WorkWeek) | [ITU faq](https://docs.google.com/document/d/18x3zhD_KzfnsvPvJN5wATnjb287UBi5kzIAXTGv1I9Y/edit) |  [My zoom](https://itucph.zoom.us/j/2553542477) | 
 
 | [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) | [Claude](https://claude.ai/chat/)| [Gemini](https://aistudio.google.com/live)| [claude.ai/code](claude.ai/code) | [section meetings](https://teams.microsoft.com/l/message/19:5662f31d36c34bb792710fef64f044f6@thread.tacv2/1762158463912?tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb&groupId=71380aea-63cd-4c79-8124-97c2b3455dfd&parentMessageId=1762158463912&teamName=ITU.Community&channelName=Section.SoftwareEngineering&createdTime=1762158463912&ngc=true "https://teams.microsoft.com/l/message/19:5662f31d36c34bb792710fef64f044f6@thread.tacv2/1762158463912?tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb&groupId=71380aea-63cd-4c79-8124-97c2b3455dfd&parentMessageId=1762158463912&teamName=ITU.Community&channelName=Section.SoftwareEngineering&createdTime=1762158463912&ngc=true")
 
 ## Teaching
+
+
 
 ### Spring Semester
 - **Software Architecture**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3025472) -- **Recovery**: [github.io](https://architecture-recovery.github.io/), [github.com](https://github.com/architecture-recovery/architecture-recovery.github.io)
@@ -43,8 +46,12 @@ Keybindings
 
 ## Aiki
 
-- **Aiki**: [Aiki 3 on GH](https://github.com/aiki-extension/Aiki3), [aiki.github.io](https://aiki-extension.github.io/) 
-- [Open new issue](https://github.com/aiki-extension/Aiki3/issues/new)
+- **Aiki**: [Aiki 3 on GH](https://github.com/aiki-extension/Aiki3), [aiki.github.io](https://aiki-extension.github.io/), [Open new issue](https://github.com/aiki-extension/Aiki3/issues/new)
+- Publishing: 
+	- [Chrome Web Store Dev Dash](https://chrome.google.com/webstore/devconsole/07e7db37-98f0-4069-9307-27c87bc0f56a)
+	- [Add-on Developer Hub](https://addons.mozilla.org/en-US/developers/addon/aiki/edit)
+
+
 
 ## Git-Truck 
 - [**Git-Truck**](https://github.com/git-truck/git-truck)  
@@ -76,18 +83,24 @@ Keybindings
 ### Spring 2026
 
 #### MSc (10)
-1. Simone Jakobsen - Dead Code Detection with Dynamic Analysis - An Industrial Case Study - Ender or Emil 
-2. Babete & Lotte - ArchLens for C# - Emil (Ender)
-3. Niklas, Zalan, Gabor - Zeeguu Gamification - HCI? 
-4. Vitus & Rasmus - Intercepting Procrastination - HCI 
-5. Gustav & Jonas - Categories in Git-Truck - Emil or Ender
-6. Nicolai and Oskar - [learnit](https://learnit.itu.dk/course/view.php?id=3026217) - Infovis of Grain Shipping - TODO 
+
+##### Software Engineering
+1. **Simone Jakobsen - Dead Code Detection with Dynamic Analysis - An Industrial Case Study - (Adam)**
+2. **Babete & Lotte - ArchLens for C# - (Adam)**
+3. **Gustav & Jonas - Categories in Git-Truck - (Adam)**
+##### Human Computer Interaction 
+1. **Niklas, Zalan, Gabor - Zeeguu Gamification - HCI - ** ... ?
+2. **Vitus & Rasmus - Intercepting Procrastination - HCI -Adam** 
+
+##### Infovis
+1. Nicolai and Oskar - [learnit](https://learnit.itu.dk/course/view.php?id=3026217) - Infovis of Grain Shipping - (Ender because it has to be local)
 #### BSc (7)
-6. Nikolaj, Nicolai, Rasmus, Mathias - Aiki - TODO: KU person
-7. Jacob and Jakob - Verbal Flashcards  - HCI person
+6. **Nikolaj, Nicolai, Rasmus, Mathias - Aiki - (Adam)**
+7. **Jacob and Jakob - Verbal Flashcards  - (Adam)**
+
 #### Research Project
-8. Anna - Mobile Onboarding Usability, [learnit]([https://learnit.itu.dk/course/view.php?id=3026658](https://learnit.itu.dk/course/view.php?id=3026658)) --
-9. Lukas - Case Study of Efficiency of Different Learning Modes -- 
+8. Anna - Mobile Onboarding Usability, [learnit]([https://learnit.itu.dk/course/view.php?id=3026658](https://learnit.itu.dk/course/view.php?id=3026658)) (censor: Louise)
+9. Lukas - What do Teachers Need from An App Like Zeeguu? (Asked Louise also)
 
 ### Fall 2025
 
