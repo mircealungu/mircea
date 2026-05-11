@@ -86,22 +86,22 @@ Keybindings
 #### MSc (10)
 
 ##### Software Engineering
-1. **Simone Jakobsen - Dead Code Detection with Dynamic Analysis - An Industrial Case Study - (Adam)**
-2. **Babete & Lotte - ArchLens for C# - (Adam)**
-3. **Gustav & Jonas - Categories in Git-Truck - (Adam)**
+1. **Simone Jakobsen - Dead Code Detection with Dynamic Analysis - An Industrial Case Study**
+2. **Babete & Lotte - ArchLens for C#**
+3. **Gustav & Jonas - Categories in Git-Truck**
 ##### Human Computer Interaction 
-1. **Niklas, Zalan, Gabor - Zeeguu Gamification - HCI - ** ... ?
-2. **Vitus & Rasmus - Intercepting Procrastination - HCI -Adam** 
+1. **Niklas, Zalan, Gabor - Zeeguu Gamification - HCI - **
+2. **Vitus & Rasmus - Intercepting Procrastination - HCI
 
 ##### Infovis
-1. Nicolai and Oskar - [learnit](https://learnit.itu.dk/course/view.php?id=3026217) - Infovis of Grain Shipping - (Ender because it has to be local)
+1. Nicolai and Oskar - [learnit](https://learnit.itu.dk/course/view.php?id=3026217) - Infovis of Grain Shipping
 #### BSc (7)
-6. **Nikolaj, Nicolai, Rasmus, Mathias - Aiki - (Adam)**
-7. **Jacob and Jakob - Verbal Flashcards  - (Adam)**
+6. **Nikolaj, Nicolai, Rasmus, Mathias - Aiki**
+7. **Jacob and Jakob - Verbal Flashcards**
 
 #### Research Project
-8. Anna - Mobile Onboarding Usability, [learnit]([https://learnit.itu.dk/course/view.php?id=3026658](https://learnit.itu.dk/course/view.php?id=3026658)) (censor: Louise)
-9. Lukas - What do Teachers Need from An App Like Zeeguu? (Asked Louise also)
+8. Anna - Mobile Onboarding Usability, [learnit]([https://learnit.itu.dk/course/view.php?id=3026658](https://learnit.itu.dk/course/view.php?id=3026658))
+9. Lukas - What do Teachers Need from An App Like Zeeguu?
 
 ### Fall 2025
 

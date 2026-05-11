@@ -1,10 +1,14 @@
 
 
+May 5
+
+When not connected to the net the mind is more peaceful. 
+
 
 
 Apr 16
-“You don’t do anything, you let it evolve.”
- - howSergiu Celibidache
+
+*“You don’t do anything, you let it evolve.”* (Sergiu Celibidache)
 
 
 
