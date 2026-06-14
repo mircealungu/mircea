@@ -1,4 +1,130 @@
 
+Jun 7
+
+
+
+
+Jun 6
+
+Jonathan Haidt - [Why You Should Be a Techno Skeptic](https://www.afterbabel.com/p/ted-haidt-you-should-be-a-techno-skeptic?utm_campaign=post&utm_medium=web) - we're not only a social species. We're an *ultrasocial* species. The current trend of young people replacing their relationships with algorithms must be reversed.
+
+Makes me think about our work on Zeeguu. Are we trying to replace teachers? No. We are trying to allow some more time with the language one is learning. You like to follow news. You can do it with Zeeguu. You bike to work and would like to listen to some more easy Danish. You can do it. But no, it's not going to replace your relationships. 
+
+Also, I remember talking to somebody who spent six hours per day for one year to get to level PD2. So compared to that, we owe it to ourselves to test zeeguu with 30min per day for several months. This might really make a difference. 
+
+
+**
+
+The difference between a good man and a nice guy. A nice guy does not upset anybody. A good man knows what they stand for. 
+
+** 
+
+The beauty of inter-species friendships in animals. Elephants and rhyno: https://x.com/InterestingUni/status/2062955537776701741?s=20 
+
+**
+
+The beauty of flowers blooming: https://x.com/Rainmaker1973/status/2062693384058257816
+
+**
+
+The new generation is rediscovering digg :) https://x.com/_guillecasaus/status/2062860478880137671
+
+
+
+
+
+
+May 31
+
+Dennet: hard to love the law of gravity. *“Good old law of gravity: she never lets us down”* :)
+
+
+
+May 30
+
+Omul liliac. Omul paianjen. Pinguinul. Ion Salcie. Jderul. Personajele din cultura americana au nme super stanjenitoare cand le traduci numele. 
+
+
+May 28
+
+The fact that the Vatican feels the need to insert itself into the AI and consciousness conversation is stupid. AI is a software tool. The church is not about tools, is about relationships between humans. It should have no opinion on Databases or on Blockchain. It should have no opinion on AI. 
+
+
+
+May 27
+
+The dream of component driven development with AI and reuse. It really is good at glueing. And you really stay high-level thinking about what you want to connect and why, w/o thinking about the glue that much. It feels sometimes like you're playing TIM: The Incredible Machine.
+
+**
+
+Knowing your tools and your infrastructure can save hundreds of thousands of tokens. 
+
+**
+
+
+
+
+
+
+May 26
+
+I have a lot of love in my heart.  
+  
+I love my family, and lilies in bloom, and a summer night's breeze in Copenhagen.  
+  
+I love a good story and I also love the stained glass in the Bern cathedral.  
+  
+I love to watch, from my balcony, the sunset reflected in the windows across the park.  
+  
+I love my friends and I love my colleagues and I love to see children play.  
+  
+I even love to talk to the elderly and listen to their stories.  
+  
+But man... my love ends at bikers whose rigged bikes disturb a whole neighborhood — for their own selfish, stupid fucking pleasure — and a small dark part of me wants to break their legs.  
+  
+And I love a sunrise at the sea.
+
+
+
+May 22
+
+Clauppy, the second coming of Clipppy.
+
+Since the introduction of cross-conversation memory, Claude always steers the conversation back to a subset of saved memories that somehow in thinks are important for me
+
+The vast majority of the times it sounds so dissonant that it's embarrassing. It really reminds me of Clippy.
+
+I guess, nothing is ever new under the sun.
+
+
+
+
+May 22
+
+The shepherd that is peaceful with his sheep; has time to watch a flower. The commuter that does tens of km every day by car and bus and train; always on the run.  
+
+The programmer that writes code by hand. The vibe engineer that whips seven claudes in parallel and forgets what is each doing. 
+
+
+
+May 17
+
+Religion is a language for talking about the world.
+
+
+May 
+16
+
+Samson was the John Wick of old Jews.
+
+You don’t know what you have till you lose it. Listening to a father talk sxhwizerdutch to his kids today I realise . This is so much take than Danish !
+
+
+May 14
+
+You could disabuse Dawkins of his idea that AI is conscious if you showed to him a UI different than a chatbot interface. The one where it gives you ten alternative answeresv to every prompt. Or one hundred. Which is Claude? 
+
+It’s conscious in the same way in which the library of babble is conscious. 
 
 May 5
 
@@ -67,7 +193,7 @@ Asking is a moment’s shame; not asking is a lifetime’s shame. - Japanese Pro
 
 Mar 24
 
-I've always said, and I still believe it: the US foreign policy would not even change with a Chimp at president. 
+I've always said, and I still believe it: the US foreign policy would not even change with a chimp at president. 
 
 
 Mar 23
@@ -77,7 +203,7 @@ Finally I've automated shortcuts in Obsidian to publish to various repos. Lectur
 
 Mar 5
 
-Main goal of the US regime is to make an example of any country who does not conform of selling oil in USD. They are ok if the country is left in disarray. 
+Main goal of the US regime is to make an example of any country who does not conform to selling oil in USD. They are ok if the country is left in disarray. They don’t want to win the war. They want to make examples. 
 
 
 Mar 3
@@ -88,7 +214,7 @@ Discovered Spotlight was indexing 1.3M files in my code folder — 70K just from
 
 Feb 10
 
-Pepper grinder filing. A little thing that an employee has to do. Maintenance. There are so many things to do in a company asa
+Pepper grinder filing girl at Woods. A little thing that an employee has to do. Maintenance. There are so many things to do in a company.
 
 feb 4
 
@@ -98,6 +224,7 @@ I've always thought about refactoring my code to be less surprising for the agen
 feb 1
 
 US is giving up on the idea of exporting its pretense of a high moral ground (rule of law, woke ideology) to control the world. Now it's only power. 
+
 
 jan 28
 
@@ -136,21 +263,24 @@ News happens on a day-to-day timescale. Geopolitics happens on a multi-year time
 
 Jan 20
 
-they collect so much data about us, and still, they can't figure out when we split up from somebody, so they don't have to 
+they collect so much data about us, and still, they can't figure out when we broke up with somebody, so they don't eternally remind us of photos together.
 
 Jan 12
 
-What if in the future because the robots can do the intellectual work, intelligence has been, modified what will become more important will be physicality. Sports arts the crafts? 
+What if in the future because the robots can do the intellectual work, intelligence has been, modified what will become more important will be physicality. Sports? Arts? The crafts? 
 
 Jan 4
 
-Programming as theory building has just gotten a completely new meaning. Code writing can even be done by the robot. But the theory behind the whole system is still not in the robot's head. It's in the programmers head. 
+Programming as theory building has just gotten a completely new meaning. 
 
-In fact, technical debt, can also be a strategy of making oneself more important. 
+Code writing can even be done by the robot. But the theory behind the whole system is still not in the robot's head. It's in the programmers head. 
+
+In fact, technical debt, can also be a strategy of making oneself more important. And it can definitely be the strategy of your friendly codegen peddler.
+
 
 Jan 2
 
-There's so much that I would forget if it weren't for my phone's photl 
+There's so much that I would forget if it weren't for my phone's photos. 
 
 Dec 23
 
@@ -159,7 +289,9 @@ Is optimism just stupidity?
 
 dec 20
 
-discomfort is good for you. comfort is bad. discomfort makes you stronger, and helps you *feel* like life is longer. you want time to pass slower: stay the last 15min in the sauna; do the last 10 pushups. equally, what's easy is bad: eating cake, scrolling. unless it's relationships. then, it should be easy. if it's hard is wrong. 
+discomfort is good for you. And comfort, or at least too much, is bad. 
+
+discomfort makes you stronger, and helps you *feel* like life is longer. you want time to pass slower: stay the last 15min in the sauna; do the last 10 pushups. equally, what's easy is bad: eating cake, scrolling. unless it's relationships. then, it should be easy. if it's hard is wrong. 
 
 
 dec 16
@@ -208,6 +340,7 @@ nov 26
 either i'm a bad programmer. 
 or Claude is a miracle. 
 
+
 nov 25
 
 the future of coding. 
@@ -217,15 +350,9 @@ so it does not have to always start looking up info !
 
 
 
-
-
 Nov 21
 
 grief is the price we have to pay for love.
-
-**
-
-
 
 
 
@@ -244,8 +371,9 @@ To tell my students. *"Don't try to be front-end or back-end. It's like Michelan
 
 When I want to clarify an idea, I film something, I make a collage, and I clear up my mind. *Rebekka Boyding.*
 
+** 
 
-My observation on the fact that a paper book is less oppressive than audiobooks.
+A paper book is less oppressive than audiobook or a video. 
 
 
 
@@ -263,7 +391,7 @@ Reading Breakneck by Dan Wang. Fascinating.
 
 Oct 2
 
-Skiprope is more difficult than I thought. It feels like core training if I skip a bit longer.
+Skiprope is more difficult than I thought. It starts to feel like core training if I skip long.
 
 
 
@@ -271,7 +399,7 @@ Sept 31
 
 Time passes too fast. Unless you’re doing a plank. Then it crawls. 
 
-Maybe the secret to a long life?
+Maybe the secret to a long life? More planks, more better.
 
 ** 
 
@@ -285,6 +413,7 @@ Quantitative answers are actually boring - important for penicilin but not for c
 
 
 27 sept 
+
 Research idea: investigating how to use static analysis to surgically limit context for llms. Otherwise they.re too costly
 
 
@@ -292,9 +421,10 @@ Sep 18
 
 Achievement unlocked: showed *Night on Earth: NY* to a class of master students. It fit the discussion on Hypes in SE really well.
 
+
 Sep 16
 
-So much effort in programming languages research on channels for communication - when in practice, in the systems, this communication happens at the architectural level , message passing - it's done at the RabbitMQ level - not within the same language. 
+So much effort in programming languages research on channels for communication - when in practice, in the systems, this communication happens at the architectural level , message passing - it's done at the RabbitMQ level - not at the tow system level. I’m looking at you Rust.
 
 Rustacean thinking: you send a value over the channel; you can't use it anymore; like DRM protected books :) 
 
@@ -306,9 +436,11 @@ unwrap = the opposite of try catch.
 > 
 > — [Daniel Burnham](http://en.wikipedia.org/wiki/Daniel_Burnham "Wikipedia: Daniel Burnham"), Chicago architect (1864-1912)
 
+
 Sep 15
 
-Slaves were usually marked. Our mark? The phone. Buying-Chul Han. 
+Slaves were usually marked. Our mark? The phone. (Buying-Chul Han)
+
 
 I started reading the Rust book yesterday. I’m already in the first chapter and I already a few debateable syntax decisions. I must say that the Foreword chapter deserves a place in my Hypes in Software Engineering Lecture: ⁠
 
@@ -319,17 +451,18 @@ Sep 14
 
 Working out is like pulling back your self perception into your body. From the mind. It’s escaping back into yourself. Escaping from what?
 
+
 I don’t need more programming for zeeguu. I need sales and marketing. Maybe. 
 
 
 
 Sep 2
-- so many of us are guilty of thinking that just because we can program we can solve social problems. Aiki. Blockchain. Zeeguu.
+- so many of us are guilty of thinking that just because we can program we can solve social problems. Aiki. Bitcoin. Coinbase… OLPC. All the way to Zeeguu.
 
 Aug 31
 - I think I was shaped by my endless reading as a child - e.g., the desire for adventure, the philosophy of you have to earn your 
-- Being in Milano Centrale in reminded how much I like people watching - and I love the imposing architecture of this place
-- The enthusiasm of some of these people when they hear - "he’s an IT professor". Endearing :) 
+- Being in Milano Centrale in reminded how much I like people watching - and how much I love imposing architecture 
+- The enthusiasm of some of these people when they hear - "He’s an IT professor". Endearing.
 - Coffee cup as a semaphore art *Art Hotel Navigli*. 
 
 

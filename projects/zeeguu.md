@@ -16,16 +16,16 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 
 ## Presentations 
 
-2025: **Zeeguu - Personalized Learning Paths Through the Internet**
+2025: [**Zeeguu - Personalized Learning Paths Through the Internet**](assets/EuroCALL-2025-Presentation.pdf) 
 - [Workshop](https://whova.com/embedded/event/zb%40pE5K9UuizkCJvdbtpWMe0OdQAkB2XxdT7ACOafDs%3D) at EuroCALL in Milano, Italy
 
 2025: **How Polyglots Can Benefit from A Platform for Multilingual Free Reading and Vocabulary Learning**
 - Workshop at the [Polyglot Gathering](https://www.polyglotgathering.com/2025/en/program/) in Brno, Czech Republic
 
-2022: [**Can we make learning foreign languages more personalized?**]()
+2022: [**Can We Make Learning New Languages More Personalized?**](assets/Can-We-Make-Learning-New-Languages-More-Personalized.pdf)
 - Invited talk at University of Lausanne 
 
-2021: [**Lessons Learned Developing a Personalized Language Learning System**]()
+2021: [**Lessons Learned Developing a Personalized Language Learning System**](assets/EASEAI-Keynote-Lessons-Learned.pdf)
 - Keynote at EASEAI: International Workshop on Education, Software Engineering, and AI 
 
 

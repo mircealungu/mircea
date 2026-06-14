@@ -86,7 +86,7 @@ Keybindings
 #### MSc (10)
 
 ##### Software Engineering
-1. **Simone Jakobsen - Dead Code Detection with Dynamic Analysis - An Industrial Case Study**
+1. **Simone Jakobsen - Dead Code Detection with Dynamic Analysis - An Industrial Case Study** ([overleaf](https://www.overleaf.com/project/69f1c56bf6cbf5494b00d209))
 2. **Babete & Lotte - ArchLens for C#**
 3. **Gustav & Jonas - Categories in Git-Truck**
 ##### Human Computer Interaction 
@@ -231,6 +231,10 @@ Fall 2024
 - [TID'23 LearnIt](https://learnit.itu.dk/course/view.php?id=3022263) ([GitHub](https://github.com/itu-tid/lecture-notes/tree/main/Lectures))
 
 
+## Music
+
+- [These Nights](https://drive.google.com/drive/folders/1dYx9PERxsmrfirWy3WKtuV2Dcd0xKq0t)
+- 
 
 # Others
 
