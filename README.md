@@ -27,6 +27,13 @@ I always loved and I still love coding. However, nowadays I'm more of a product 
 
 [> past projects](/projects/history.md)
 
+
+
+# Working Papers
+Longer pieces still in draft, developed in the open:
+
+- 2026 - [LLM Patterns](llm-patterns.md) - recurring patterns for building with large language models
+
 # Essays
 Pieces of text that aim to have a beginning and an end... slowly porting them here from other platforms:
 
