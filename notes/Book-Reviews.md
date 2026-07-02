@@ -1,13 +1,20 @@
 I've decided that I must write short notes about the books I read. I'll try to keep them here.
 
-# Books 
 
-## 2024
+# 2026
 
-gulag archipelago
+## Project Hail Mary
 
-- the soviet paranthesis inthe history of russia
-- a reminder of how 
+4/5
+
+A feel good story. I imagine that as a movie would be a bit claustrophobic. 
+
+
+# 2024
+
+Gulag archipelago
+- the soviet paranthesis in the history of russia
+- a reminder of how evil people can become quite quickly
 
 
 

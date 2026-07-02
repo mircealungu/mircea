@@ -3,6 +3,13 @@
 
 | [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) | [Claude](https://claude.ai/chat/)| [Gemini](https://aistudio.google.com/live)| [claude.ai/code](claude.ai/code) | [section meetings](https://teams.microsoft.com/l/message/19:5662f31d36c34bb792710fef64f044f6@thread.tacv2/1762158463912?tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb&groupId=71380aea-63cd-4c79-8124-97c2b3455dfd&parentMessageId=1762158463912&teamName=ITU.Community&channelName=Section.SoftwareEngineering&createdTime=1762158463912&ngc=true "https://teams.microsoft.com/l/message/19:5662f31d36c34bb792710fef64f044f6@thread.tacv2/1762158463912?tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb&groupId=71380aea-63cd-4c79-8124-97c2b3455dfd&parentMessageId=1762158463912&teamName=ITU.Community&channelName=Section.SoftwareEngineering&createdTime=1762158463912&ngc=true")
 
+
+## Current
+
+- [EuroPLOP Schedule](https://www.europlop.net/program/)
+- [LLM integration patterns](http://patterns.mircealungu.com/)
+
+
 ## Teaching
 
 
@@ -168,9 +175,9 @@ FAQ:
 
 
 ## Censoring
-- [aau digitaleksam](https://digitaleksamen.aau.dk/)
-- [censor list](https://services2.brics.dk/censor/)
-- [sdu digitalexam]([https://digitaleksamen.sdu.dk/bedoemmer/proeve/100388](https://digitaleksamen.sdu.dk/bedoemmer?filter=IkkeFaerdigBedoemte))
+- Digitaleksam: [aau](https://digitaleksamen.aau.dk/bedoemmer/), [sdu]([https://digitaleksamen.sdu.dk/bedoemmer/)), [ku](https://eksamen.ku.dk/bedoemmer/)
+- [Censor list](https://services2.brics.dk/censor/)
+
 
 
 ## Copenhagen
