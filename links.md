@@ -6,13 +6,11 @@
 
 ## Current
 
-- [EuroPLOP Schedule](https://www.europlop.net/program/)
+- [llm integration patterns repo](https://github.com/mircealungu/llm-integration-patterns) 
 - [LLM integration patterns](http://patterns.mircealungu.com/)
 
 
 ## Teaching
-
-
 
 ### Spring Semester
 - **Software Architecture**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3025472)
