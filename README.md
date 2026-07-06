@@ -74,6 +74,7 @@ In the past I have been involved in teaching a wide variety of computer science 
 
 
 # News
+- June '26 - Focus Group at EuroPLOP, Kloster Irsee, Germany
 - Aug '25 - Workshop on Zeeguu at EuroCALL in Milano, Italy
 - Jun '25 - Presenting Zeeguu at the Polyglot Gathering in Brno, Czechia
 - Oct '24 - General Chair of Vissoft 2024 - in Flagstaff, Arizona.

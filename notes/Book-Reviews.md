@@ -3,6 +3,10 @@ I've decided that I must write short notes about the books I read. I'll try to k
 
 # 2026
 
+## The Andromeda Strain
+
+
+
 ## Project Hail Mary
 
 4/5
