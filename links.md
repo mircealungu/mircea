@@ -6,8 +6,8 @@
 
 ## Current
 
-- [llm integration patterns repo](https://github.com/mircealungu/llm-integration-patterns) 
-- [LLM integration patterns](http://patterns.mircealungu.com/)
+- [ARTS Zeeguu](https://aarhusuniversitet.sharepoint.com/sites/ARTSZeeguu)
+- llm integration patterns: [Web](http://patterns.mircealungu.com/),  [GH Repo](https://github.com/mircealungu/llm-integration-patterns) 
 
 
 ## Teaching
