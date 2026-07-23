@@ -12,7 +12,7 @@ Jul 21
 Some people you meet and you will forever remember, because you want to stay clear of similar ones in the future. Luckily they are rare. 
 
 
-Life its going towards a goal that matters to you, while helping others on the way. The story arc in all the stories of my childhood: the hero needs to solve a quest, but on the way, he does take tame to help the ants, and the thirsty guy, and the hungry guy, etc. It is wiser than both western philosophy (it's the goal that matters) or the eastern philosophy (it's the way that matters). Both the goal and the way matter. What did Michael call this? 
+Life its going towards a goal that matters to you, while helping others on the way. The story arc in all the stories of my childhood: the hero needs to solve a quest, but on the way, he does take tatime me to help the ants, the elderly woman, the thirsty guy, and the hungry guy, etc. It is wiser than both western philosophy (it's only your goal that matters) or the eastern philosophy (it's only *the way* that matters). Both the goal and the way matter. What did Michael call this? 
 
 
 My father: "*zi cum zic ei, și fă cum vrei tu*" = "*say what they want to hear, and do what you want to do*". Diferent but similar in spirit with Feynman who in his autobiography was very proud of asking for forgiveness not permission. 
