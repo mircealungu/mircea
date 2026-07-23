@@ -1,16 +1,18 @@
 
+
+
 Jul 22
 
-When you see some elderly people how enthusiastic are about God, you almost start to understand how the creator might like praise. I mean, we all like when somebody is enthusiastic about us. Imagine having created the whole universe. You'd kind of like that somebody appreciates the work :) 
+When you see some elderly people how enthusiastic are about God, you almost start to understand how the creator might like praise. Imagine having created the whole universe. You'd kind of like that somebody appreciates the job :) 
 
 
 
 Jul 21
 
-Some people you meet and you will forever remember them. Because you want to stay clear of similar ones in the future. Luckily they are rare. 
+Some people you meet and you will forever remember, because you want to stay clear of similar ones in the future. Luckily they are rare. 
 
 
-Life its going towards a goal that matters to you, while helping others on the way. Quest with side-quests. The story arc is wiser than both western philosophy (it's the goal that matters) or the eastern philosophy (it's the way that matters). Both the goal and the way matter. What did Michael call this? 
+Life its going towards a goal that matters to you, while helping others on the way. The story arc in all the stories of my childhood: the hero needs to solve a quest, but on the way, he does take tame to help the ants, and the thirsty guy, and the hungry guy, etc. It is wiser than both western philosophy (it's the goal that matters) or the eastern philosophy (it's the way that matters). Both the goal and the way matter. What did Michael call this? 
 
 
 My father: "*zi cum zic ei, și fă cum vrei tu*" = "*say what they want to hear, and do what you want to do*". Diferent but similar in spirit with Feynman who in his autobiography was very proud of asking for forgiveness not permission. 
@@ -48,7 +50,7 @@ Maybe we should learn from this in the age of genai.
 
 Jul 17
 
-Meeting A. at the hospital. She asks me: whats happening with AI. I answer about students. She wants to know about the profession as a whole not whether students use it. Sharp :) I explain that it’s going to make it more fun and powerful. She also asks me about my faith. Tells me that: “God is the most important thing in life”. I never know what to answer to this kind of assertions. Though I think I could answer with something from the Bible that I actually believe. Something along the lines of I don't have faith, but I'm trying to compensate with love. Paul in 1 Corinthians 13: “love is bigger than faith”. (Also because faith it’s mistranslated in Christianity anyway in my opinioin. See Karen Armstrong, the History of God.)
+Meeting A. at the hospital. She asks me: whats happening with AI. I answer about students. She wants to know about the profession as a whole not whether students use it. Sharp :) I explain that it’s going to make it more fun and powerful. She also asks me about my faith. Tells me that: “God is the most important thing in life”. I never know what to answer to this kind of assertions. Though I think I could answer with something from the Bible that I actually believe. Something along the lines of I don't have faith, but I'm trying to compensate with love. Paul in 1 Corinthians 13: “love is bigger than faith”. Although I don’t really like Paul.
 
 
 
