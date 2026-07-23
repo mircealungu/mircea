@@ -1,5 +1,10 @@
 
 
+Jul 23
+
+I don't remember who said that walking is a perpetual falling down to earth and lifting up again. I saw another similar metaphor today: *life it is a series of losing your spark and finding it again*. (With a drawing of a seed that sprouts after rain.)
+
+
 
 Jul 22
 
