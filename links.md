@@ -8,7 +8,7 @@
 
 - [ARTS Zeeguu](https://aarhusuniversitet.sharepoint.com/sites/ARTSZeeguu)
 - LLM integration patterns: 
-	- [Web page](http://patterns.mircealungu.com/)
+	- [Web page](https://llm-patterns.mircealungu.com/)
 	- [GH Repo](https://github.com/mircealungu/llm-integration-patterns) 
 	- [PLoP submission link](https://submission.plopcon.org/plop/2026/submission/submit.cgi?action=submit&session=cb124f4908701aa308d073c59ae1f96ffe019388&status=existing&reference=28)
 

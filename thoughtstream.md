@@ -1,8 +1,26 @@
 
+Planks. If life seems to short, planks are the answer :)
+
+
+Jul 25
+
+What Parkinson disease is teaching Us?? I think is that not even walking you should take for granted.
+
+
+Jul 24
+
+Unspoken expectations are premeditated resentments.
+
 
 Jul 23
 
 I don't remember who said that walking is a perpetual falling down to earth and lifting up again. I saw another similar metaphor today: *life it is a series of losing your spark and finding it again*. (With a drawing of a seed that sprouts after rain.)
+
+
+TIL: holding a score in log odds lets you update beliefs additively as new data arrives. 
+- Meteo app predicts rain: +2; outside it's sunny: −2; your knee hurts: +1. Total = +1. 
+- You then apply the sigmoid to get a probability (σ maps any real number to (0, 1). σ(1) ≈ 0.73, so ~73% chance of rain)
+
 
 
 
