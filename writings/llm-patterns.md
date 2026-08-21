@@ -6,4 +6,4 @@ It's a **working paper**: a draft I'm developing in the open and revising as the
 
 **Status:** working draft, June 2026
 
-[Read the working paper →](https://patterns.mircealungu.com/)
+[Read the working paper →](https://llm-patterns.mircealungu.com/)

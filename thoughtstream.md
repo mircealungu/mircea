@@ -1,5 +1,32 @@
 
-Planks. If life seems to short, planks are the answer :)
+
+Aug 20
+
+adapting st. paul for me: truth, hope, and love. but the biggest is love.
+
+
+
+Aug 4
+
+Phones are like yawning. When you see somebody yawning you have a reflex of yawning too. When you see somebody reaching for their phone…
+
+
+
+Aug 3
+
+The “falling short of the goal, being sincerely sorry, and tying again” model of Christianity is a good model for life. 
+
+We keep reading the stories from the books and holy books and cartoons and what not. But our fathers have sometimes even better stories. Even more inspiring.
+
+Aug 2
+
+Phones. Not objects we have but rather "portals into cyberspace". 
+
+
+
+
+
+Planks. If life seems to short, planks are the answer. 
 
 
 Jul 25

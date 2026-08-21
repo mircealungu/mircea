@@ -16,6 +16,12 @@
 
 ## Teaching
 
+### Fall Semester 2026
+
+- [TID GH Repo](https://github.com/itu-tid/lecture-notes/)
+
+
+
 ### Spring Semester
 - **Software Architecture**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3025472)
 	- **Architecture Recovery**: [github.io](https://architecture-recovery.github.io/), [github.com](https://github.com/architecture-recovery/architecture-recovery.github.io)
