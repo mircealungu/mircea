@@ -3,35 +3,19 @@
 
 | [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) | [Claude](https://claude.ai/chat/)| [Gemini](https://aistudio.google.com/live)| [claude.ai/code](claude.ai/code) | [section meetings](https://teams.microsoft.com/l/message/19:5662f31d36c34bb792710fef64f044f6@thread.tacv2/1762158463912?tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb&groupId=71380aea-63cd-4c79-8124-97c2b3455dfd&parentMessageId=1762158463912&teamName=ITU.Community&channelName=Section.SoftwareEngineering&createdTime=1762158463912&ngc=true "https://teams.microsoft.com/l/message/19:5662f31d36c34bb792710fef64f044f6@thread.tacv2/1762158463912?tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb&groupId=71380aea-63cd-4c79-8124-97c2b3455dfd&parentMessageId=1762158463912&teamName=ITU.Community&channelName=Section.SoftwareEngineering&createdTime=1762158463912&ngc=true")
 
-
 ## Current
 
-- [ARTS Zeeguu](https://aarhusuniversitet.sharepoint.com/sites/ARTSZeeguu)
+- Astrid + Julia = [ARTS Zeeguu](https://aarhusuniversitet.sharepoint.com/sites/ARTSZeeguu)
 - LLM integration patterns: 
 	- [Web page](https://llm-patterns.mircealungu.com/)
 	- [GH Repo](https://github.com/mircealungu/llm-integration-patterns) 
 	- [PLoP submission link](https://submission.plopcon.org/plop/2026/submission/submit.cgi?action=submit&session=cb124f4908701aa308d073c59ae1f96ffe019388&status=existing&reference=28)
 
-
-
 ## Teaching
 
 ### Fall Semester 2026
 
-- [TID GH Repo](https://github.com/itu-tid/lecture-notes/)
-
-
-
-### Spring Semester
-- **Software Architecture**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3025472)
-	- **Architecture Recovery**: [github.io](https://architecture-recovery.github.io/), [github.com](https://github.com/architecture-recovery/architecture-recovery.github.io)
-- **DevOps (MSc)**: [GitHub](https://github.com/itu-devops/MSc_lecture_notes) - [LearnIt](https://learnit.itu.dk/course/view.php?id=3022842) 
-- TimeEdit: [Lectures](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X360Q90YQ59x5YZ61ZY1Q6y5695Y05X59207QX01483Yg56092gX64Y09Q5.html), [Exams](https://cloud.timeedit.net/itu/web/public/ri1005899YX425Q8X0Q0Y98YZ011Y2YXX5X885052592415X5Y25055315510YXY7005X51215555X9X100Y022Y50XY6729X0Y2XY5Z2g4Q0gy9605x0466593Q8YZg5Q9Y01662X0Y5.html)
-
-
-### Fall Semester
-- **ASE**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024665), [Hypes in software engineering](https://software-hypes.github.io/)
-- **TID**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024691), [LectureNotes on GitHub](https://github.com/itu-tid/lecture-notes/tree/main), [Schedule](https://docs.google.com/spreadsheets/d/1dmJkZtfHSH8XEhFdVEtIr_ubl2u5-PHy-P2uZNb4bz4/edit)
+- **TID**: [ GH Repo](https://github.com/itu-tid/lecture-notes/), [LearnIt](https://learnit.itu.dk/user/index.php?id=3025988)
 
 ## Zeeguu
 
@@ -235,8 +219,18 @@ Reddit threads: [recycling stations](https://www.reddit.com/r/copenhagen/comment
 
 ## **Past Courses**
 
+### Spring Semester 2026
+- **Software Architecture**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3025472)
+	- **Architecture Recovery**: [github.io](https://architecture-recovery.github.io/), [github.com](https://github.com/architecture-recovery/architecture-recovery.github.io)
+- **DevOps (MSc)**: [GitHub](https://github.com/itu-devops/MSc_lecture_notes) - [LearnIt](https://learnit.itu.dk/course/view.php?id=3022842) 
+- TimeEdit: [Lectures](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X360Q90YQ59x5YZ61ZY1Q6y5695Y05X59207QX01483Yg56092gX64Y09Q5.html), [Exams](https://cloud.timeedit.net/itu/web/public/ri1005899YX425Q8X0Q0Y98YZ011Y2YXX5X885052592415X5Y25055315510YXY7005X51215555X9X100Y022Y50XY6729X0Y2XY5Z2g4Q0gy9605x0466593Q8YZg5Q9Y01662X0Y5.html)
 
-Fall 2024
+
+### Fall Semester 2025
+- **ASE**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024665), [Hypes in software engineering](https://software-hypes.github.io/)
+- **TID**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3024691), [LectureNotes on GitHub](https://github.com/itu-tid/lecture-notes/tree/main), [Schedule](https://docs.google.com/spreadsheets/d/1dmJkZtfHSH8XEhFdVEtIr_ubl2u5-PHy-P2uZNb4bz4/edit)
+
+###  Fall 2024
 - **ASE**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3023599), [TimeEdit](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X360Q90YQ52x5YZ61ZY1Q9y5695Y05X58207QX01433Yg56092gX64Y09Q5.html) ([exams](https://cloud.timeedit.net/itu/web/public/ri1005899YX425Q8X0Q0Y98YZ011Y2YXX5X885052582415X5Y25055315510YXY7005X51215555X9X100Y022Y50XY6729X0Y2XY5Z2g4Q0gy9605x0466593Q8YZg5Q9Y01662X0Y5.html)), [Course Description](https://learnit.itu.dk/local/coursebase/view.php?ciid=1486), Past: [2023](https://learnit.itu.dk/course/view.php?id=3022230) 
 - **TID**: [LearnIt](https://learnit.itu.dk/course/view.php?id=3023628), [GitHub](https://github.com/itu-tid/lecture-notes), TimeEdit: [Lectures](https://cloud.timeedit.net/itu/web/public/ri10Z80g79X360Q90YQ50x5YZ61ZY1Q9y5695Y05X58307QX01473Yg56092gX64Y09Q5.html)/ [Exam](https://cloud.timeedit.net/itu/web/public/ri1005899YX425Q8X0Q0Y98YZ011Y2YXX5X885052582415X5Y25055315510YXY7005X51215555X9X100Y022Y50XY6729X0Y2XY5Z3g4Q0gy0605x0496593Q7YZg5Q9Y01662X0Y5.html) , [Lecture Plan](https://docs.google.com/spreadsheets/d/1CSeqHOSnSdf381EJmpaoiOpfrnqZyG_XecSND6qMiy8/edit?gid=1468158338#gid=1468158338). Past: [2023](https://learnit.itu.dk/course/view.php?id=30222) 
 
