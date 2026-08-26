@@ -3,21 +3,16 @@
 
 | [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) | [Claude](https://claude.ai/chat/)| [Gemini](https://aistudio.google.com/live)| [claude.ai/code](claude.ai/code) | [section meetings](https://teams.microsoft.com/l/message/19:5662f31d36c34bb792710fef64f044f6@thread.tacv2/1762158463912?tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb&groupId=71380aea-63cd-4c79-8124-97c2b3455dfd&parentMessageId=1762158463912&teamName=ITU.Community&channelName=Section.SoftwareEngineering&createdTime=1762158463912&ngc=true "https://teams.microsoft.com/l/message/19:5662f31d36c34bb792710fef64f044f6@thread.tacv2/1762158463912?tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb&groupId=71380aea-63cd-4c79-8124-97c2b3455dfd&parentMessageId=1762158463912&teamName=ITU.Community&channelName=Section.SoftwareEngineering&createdTime=1762158463912&ngc=true")
 
-## Current
-
-- Astrid + Julia = [ARTS Zeeguu](https://aarhusuniversitet.sharepoint.com/sites/ARTSZeeguu)
-- LLM integration patterns: 
-	- [Web page](https://llm-patterns.mircealungu.com/)
-	- [GH Repo](https://github.com/mircealungu/llm-integration-patterns) 
-	- [PLoP submission link](https://submission.plopcon.org/plop/2026/submission/submit.cgi?action=submit&session=cb124f4908701aa308d073c59ae1f96ffe019388&status=existing&reference=28)
-
 ## Teaching
 
 ### Fall Semester 2026
 
 - **TID**: [ GH Repo](https://github.com/itu-tid/lecture-notes/), [LearnIt](https://learnit.itu.dk/user/index.php?id=3025988)
+- **ASE**
 
-## Zeeguu
+## Coding
+
+### Zeeguu
 
 | [Reports](https://zeeguu.org/reports) | [Stats](https://api.zeeguu.org/stats) | [User Activity](https://api.zeeguu.org/user_stats/dashboard) | [DockerHub](https://hub.docker.com/?namespace=zeeguu) | [ Org](https://github.com/zeeguu) | [Wiki](https://wiki.zeeguu.org/)| 
 
@@ -26,6 +21,15 @@
 - **Extension**: [code](https://github.com/zeeguu/browser-extension): [pulls](https://github.com/zeeguu/browser-extension/pulls), [issues](https://github.com/zeeguu/browser-extension/issues)
 - [Ops](https://github.com/mircealungu/zeeguu-ops)
 - [Provisioning](https://github.com/mircealungu/zeeguu-provisioning) 
+
+## Writing 
+
+- Astrid + Julia = [ARTS Zeeguu](https://aarhusuniversitet.sharepoint.com/sites/ARTSZeeguu)
+- LLM integration patterns: 
+	- [Web page](https://llm-patterns.mircealungu.com/)
+	- [GH Repo](https://github.com/mircealungu/llm-integration-patterns) 
+	- [PLoP submission link](https://submission.plopcon.org/plop/2026/submission/submit.cgi?action=submit&session=cb124f4908701aa308d073c59ae1f96ffe019388&status=existing&reference=28)
+	- 
 
 ---
 
