@@ -7,7 +7,7 @@
 
 ### Fall Semester 2026
 
-- **TID**: [ GH Repo](https://github.com/itu-tid/lecture-notes/), [LearnIt](https://learnit.itu.dk/user/index.php?id=3025988)
+- **TID**: [ GH Repo](https://github.com/itu-tid/lecture-notes/), [LearnIt](https://learnit.itu.dk/user/index.php?id=3025988), [feedback-qr](../teaching/technical%20interaction%20design/images/feedback-qr.png)
 - **ASE**
 
 ## Coding

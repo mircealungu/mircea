@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:mircealungu.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(gh api:*)",
+      "Bash(python3 -c \"import sys,json,base64; d=json.load\\(sys.stdin\\); print\\(base64.b64decode\\(d['content']\\).decode\\(\\)\\)\")",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(d.get\\('message','ok'\\), d.get\\('default_branch',''\\)\\)\")",
+      "Bash(curl -s https://mircealungu.com/)",
+      "Bash(curl -s \"https://mircealungu.com/assets/css/style.css?v=dc361969fb067323c1039f0d3cf4e652cfda2a7b\")",
+      "Bash(curl -s https://mircealungu.com)",
+      "Bash(mkdir -p \"/Users/mircea/code/mircealungu.com/assets/css\")",
+      "Bash(mv \"/Users/mircea/code/mircealungu.com/docs/assets/css/style.css\" \"/Users/mircea/code/mircealungu.com/assets/css/style.css\")",
+      "Bash(curl -sI https://mircealungu.com/assets/css/style.css)",
+      "Bash(curl -s https://mircealungu.com/assets/css/style.css)",
+      "Read(//Users/mircea/code/mircealungu.com/**)",
+      "Bash(mv assets/css/style.css assets/css/style.scss)",
+      "Bash(rm \"/Users/mircea/Library/Mobile Documents/iCloud~md~obsidian/Documents/Megavault/mircealungu.com/docs/assets/css/style.css\")",
+      "Bash(rmdir \"/Users/mircea/Library/Mobile Documents/iCloud~md~obsidian/Documents/Megavault/mircealungu.com/docs/assets/css\")",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)"
+    ]
+  }
+}
