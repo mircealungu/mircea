@@ -1,5 +1,16 @@
 
 
+Sep 8
+
+Omul face locul, nu locul face omul.
+
+Go into the most expensive hotel. Have a coffee. Reminds me of M. 
+
+*Leoparzii mici se fac mari, si leoparzii mari ucid.* AI agents roaming the net for bounty. This is the future. If you want to have a system in half a year from now, you must take security seriously now. And backups. And security of those backups. I don't focus much on the anthropomorphic part when I talk about AI agents. The danger are programs with tools that can hack at your system non stop. If they're goal directed to steal your credits they'll be insistent at it. And maybe even the anthropomorphic part is useful as a metaphor for the general population. I wonder if it's like the 2000s again: there was so much fraud online that most of the payment processors failed. Only that now, with services. We'll see.
+
+
+
+
 Aug 20
 
 adapting st. paul for me: truth, hope, and love. but the biggest is love.
