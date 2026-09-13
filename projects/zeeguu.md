@@ -12,7 +12,7 @@ The architecture of Zeeguu includes both a browser extension and a web applicati
 - Source code: [github.com/zeeguu](https://github.com/zeeguu)
 - Online: [zeeguu.org](https://zeeguu.org) (try it with the `zeeguu-beta` invite code)
 - Mobile: [iOS](https://apps.apple.com/us/app/zeeguu-news-for-learners/id6756917355) (since January 2026) and [Android](https://play.google.com/store/apps/details?id=org.zeeguu.app) (since February 2026)
-- Contributors: [many students over the years](https://zeeguu.org/about)
+- Contributors: [many students over the years](https://zeeguu.org/about#contributors)
 
 
 ## Presentations 
