@@ -1,5 +1,38 @@
 
 
+sept 21
+
+Hearing a lot about effective altruism these days. Especially in the context of the benevolent species-saving oligarchs who lose sleep trying to save us from the superintelligent-chatbot apocalypse. 
+
+I'm thinking: it's the exact opposite of what Jesus preached: that one should take care of the person who needs your help, here and now. The child who is thirsty, the man to whom you can give your shirt. 
+
+But no, this is too simple for them. They have to optimize the integral sum of all the wellbeing of all the present and future children. Scratch that, the happiness of all present and future life in the universe. 
+
+How naive can you be to believe that you can compute that? Focus on the here and now, and there'll always be a few dollars left for the there and far. Or maybe you're not naive. Maybe you're just trying to look like a good person.
+
+
+
+
+
+Sep 20
+
+Open source if you have a service, becomes not beneficial, but rather, disrecommended heavily. 
+
+
+
+
+Sep 18
+
+Nate Silver. 
+- Worry about the [superpersistence](https://www.natesilver.net/p/were-not-ready-for-superpersistent) of the models, not their super-intelligence. How would you safeguard against super-perseverence. 
+- Interviewed bot Fable and Sol, and Sol got the job :)
+
+
+**
+Good and bad compound exponentially. C.S. Lewis? Could be. He was a matematician. 
+
+
+
 Sep 8
 
 Omul face locul, nu locul face omul.
