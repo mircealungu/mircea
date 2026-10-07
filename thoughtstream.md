@@ -1,4 +1,21 @@
 
+Oct 7
+
+Claude code in the terminal is beautiful because it's a one stop shop for all the tools I want to have as a programmers: all my automation, skills, scripts, information search, refactoring, and a scalable army of mini-programmers all in one place. The ultimate meta-programming in the sense of Charles Simony.
+
+
+
+Oct 6
+
+Japan is cool. I’d like to do a sabbatical here I think. So different than Europe. And naturally it’s so beautiful. Outside of the city it’s amazing.
+
+![](assets/IMG_4454.jpeg)
+
+oct 3
+
+you have to trust claude sometimes. the same way as you would have had to trust a phd student, or you trust your programmer. you don't verify everything they do. 
+
+
 
 sept 21
 
