@@ -16,7 +16,7 @@ This helps me understand what are your strengths and weaknesses and guide you to
 
 ## Project Topics
 
-If you're interested in a student project, look at the prototypes and directions listed on my [homepage](../README.md) and see whether you'd like to contribute to any of them. At the end of each, there are several ideas of possible future directions. It's important that you find an already existing project to contribute to rather than start a new one because these are already maintained by me. This means that if you do a good job, your code will end up being useful, much more likely than 
+If you're interested in a student project, look at the prototypes and directions listed on my [homepage](../knowledge/howto/README.md) and see whether you'd like to contribute to any of them. At the end of each, there are several ideas of possible future directions. It's important that you find an already existing project to contribute to rather than start a new one because these are already maintained by me. This means that if you do a good job, your code will end up being useful, much more likely than 
 
 You can also look at the [list of projects available on GitHub](https://github.com/mircealungu/student-projects/) - for more other ideas. Use this list more as a hint at the kinds of projects I'm interested in. If you have an idea that is similar, we can still discuss. But if it's very far, then I won't be able to supervise you. 
 ### Collaboration with Companies

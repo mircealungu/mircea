@@ -4,5 +4,5 @@ Everybody's needs are different. What if we could devise learning environments t
 
 
 ## Projects
-- [Zeeguu](/projects/zeeguu) - personalized  reading and vocabulary practice online
+- [Zeeguu](../../projects/zeeguu/todo-2022.md) - personalized  reading and vocabulary practice online
 - [MathsCamp](/projects/maths-camp) - personalized maths for kidsv

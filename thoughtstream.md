@@ -1,7 +1,29 @@
 
+Oct 9
+
+Cars took away from us the enjoyment of walking, feeling the breeze in our hair, the smell of the flowers. But it allowed us travel to new and more destinations that we would have never reached otherwise. They allowed to created cities that we would have never been able to otherwise. Programming with coding agents might be the same. We lose something but we gain something else. As Peggy Storey and McLuhan say: every new technology enables something and disables something else. 
+
+
+Oct 8
+
+Essence and accident in software engineering. LLMs can really take the pain out of the accidental complexity. Boilerplate. Arcane knowledge about how to "run tests without output" and how to create GH workflows.  These are details that one needed to remember. Now they don't. The essence, the million little decisions that decide how your system will behave, still have to be taken. 
+
+
+GenAI ca si pestisor de aur. 
+
+Meetings where everybody can discuss. Super nice. But you are also reminded of how letting everybody talk is not the best pattern either. Some people are talking too much, some are confusing.
+
+There is such a good feeling to be in a plane without internet and just go through emails, organize the files and folders, decide, plan. The satisfaction of conquering enthropy.
+
+
 Oct 7
 
 Claude code in the terminal is beautiful because it's a one stop shop for all the tools I want to have as a programmers: all my automation, skills, scripts, information search, refactoring, and a scalable army of mini-programmers all in one place. The ultimate meta-programming in the sense of Charles Simony.
+
+
+Research idea: the impact of the metaphor on the developer. If you tell them they're a manager of agents vs. telling them that they are putting on a mecha suit. 
+
+
 
 
 
@@ -1000,7 +1022,7 @@ If you have a principle, but you make an exception it will be much easier to mak
 
 Presenter talking about how we measure progress:  
 
-![](../bughi%20mambo%20rag/image.jpg)
+![](../to%20classify/bughi%20mambo%20rag/image.jpg)
 
 
 Words known - “I don’t want to go into the question I’d what a word is”. So true :)

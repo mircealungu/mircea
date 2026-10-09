@@ -21,7 +21,7 @@ I always loved and I still love coding. However, nowadays I'm more of a product 
 - [Git-Truck](projects/git-truck.md) - visualizing git repositories for fun and profit
 - [Flask Monitoring Dashboard](projects/flask-monitoring-dashboard.md) - a lightweight API monitor for Flask/Python systems 
 - [ArchLens](projects/ArchLens.md) -  helps developers track the evolution of the structure of their systems 
-- [Zeeguu](projects/zeeguu.md) - personalized adaptive reading and vocabulary practice online
+- [Zeeguu](../projects/zeeguu/todo-2022.md) - personalized adaptive reading and vocabulary practice online
 - [Aiki](projects/aiki.md) - a browser extension that uses procrastination for good
 - [MathsCamp](projects/maths-camp.md) - personalized maths for kids
 
@@ -78,7 +78,7 @@ In the past I have been involved in teaching a wide variety of computer science 
 - Aug '25 - Workshop on Zeeguu at EuroCALL in Milaxno, Italy
 - Jun '25 - Presenting Zeeguu at the Polyglot Gathering in Brno, Czechia
 - Oct '24 - General Chair of Vissoft 2024 - in Flagstaff, Arizona.
-- Nov '23 - Awarded a 2M DKK Villum Experiment grant (🎉) to study the impact of hyper-personalized reading recommendations on the motivation of foreign language learners. Work will be done in the context of the [zeeguu](projects/zeeguu.md) project.
+- Nov '23 - Awarded a 2M DKK Villum Experiment grant (🎉) to study the impact of hyper-personalized reading recommendations on the motivation of foreign language learners. Work will be done in the context of the [todo-2022](../projects/zeeguu/todo-2022.md) project.
  - Nov, 2022 - Visiting the lab of Gregorio Robles and Jesus Gonzales-Barahonja at U. Rey-Juan Carlos in Madrid
 - Oct, 2022 - Attending Vissoft 2022 where we're presenting two papers about [Git-Truck](projects/git-truck.md)
 - Sept, 2022 - Accepted to become the General Chair for the Vissoft 2023 which will happen in Bogota, Colombia

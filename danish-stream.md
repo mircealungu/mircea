@@ -1,3 +1,12 @@
+
+
+- opgive 
+- skrive ned / nedskrive
+- Jeg kende mennesker da elsker dyr
+- 
+
+
+
 Sep 27
 
 der er bedre her end pa den andre side = at the cafe - it's better here than on the other side (referring to around the corner)

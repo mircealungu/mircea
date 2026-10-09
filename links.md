@@ -34,6 +34,13 @@
 ---
 
 Keybindings
+- **Caps** (tap = Esc), hold +
+	- **H J K L** - arrows (add ⇧ to select, ⌥ by word, ⌘ to line/doc ends)
+	- **;** - Return, **'** - Delete
+- **Tab** (tap = Tab), hold +
+	- **O** - Obsidian, **M** - Mail, **U** - Terminal in zeeguU + claude
+	- **H / L** - window left/right half, **K / J** - top half / center
+	- **N / P** - window to next / previous display
 - Obsidian: **^-R** - reveal in navigation
 - Rectangle: 
 	- ^⌘-2 - center third
