@@ -3,6 +3,11 @@
 
 | [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) | [Claude](https://claude.ai/chat/)| [Gemini](https://aistudio.google.com/live)| [claude.ai/code](claude.ai/code) | [section meetings](https://teams.microsoft.com/l/message/19:5662f31d36c34bb792710fef64f044f6@thread.tacv2/1762158463912?tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb&groupId=71380aea-63cd-4c79-8124-97c2b3455dfd&parentMessageId=1762158463912&teamName=ITU.Community&channelName=Section.SoftwareEngineering&createdTime=1762158463912&ngc=true "https://teams.microsoft.com/l/message/19:5662f31d36c34bb792710fef64f044f6@thread.tacv2/1762158463912?tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb&groupId=71380aea-63cd-4c79-8124-97c2b3455dfd&parentMessageId=1762158463912&teamName=ITU.Community&channelName=Section.SoftwareEngineering&createdTime=1762158463912&ngc=true")
 
+
+
+[caps layout game](https://claude.ai/artifact/T2RH3yxKLymoXV2Gzw6trp)
+
+
 ## Teaching
 
 ### Fall Semester 2026
@@ -35,13 +40,15 @@
 
 Keybindings
 - **Caps** (tap = Esc), hold +
-	- **H J K L** - arrows (add ⇧ to select, ⌥ by word, ⌘ to line/doc ends)
-	- **;** - Return, **'** - Delete
+	- **H J K L** - direction; also hold **S** = select, **F** = fast (word / page), **G** = superfast (line / document ends)
+	- **D** + H/L - delete in that direction (with F / G: word / to line end); **D** + J/K - delete line (with F: a page; with G: to document end / start; in Terminal: clear line, G: to line end / start)
+	- **W** + HJKL - winDow half; **C** center; **F** = large (H/L two-thirds, tap almost-max); **G** = very large (tap maximise, H/L other display)
+	- tap **D** - backspace
+	- **C / V / X** - copy / paste / cut (in Terminal V = ⌃V, image paste), **U / R** - undo / redo
+	- **;** - Return, **/** - new line without sending, **'** - Backspace (F + ' word, G + ' to line start)
 - **Tab** (tap = Tab), hold +
-	- **O** - Obsidian, **M** - Mail, **U** - Terminal in zeeguU + claude
-	- **H / L** - window left/right half, **K / J** - top half / center
-	- **N / P** - window to next / previous display
-- Obsidian: **^-R** - reveal in navigation
+	- **O** - Obsidian, **I** - Ideas note, **M** - Mail, **U** - Terminal in zeeguU + claude, **P** - 1Pass.numbers, **S** - Sublime, **T** - Terminal, **H** - Claude here (Obsidian: note's folder; Finder: window's folder)
+- Obsidian: **^-R** - reveal in navigation, **⌥⌘-R** - reveal in Finder
 - Rectangle: 
 	- ^⌘-2 - center third
 	- ⌥⌘-C - center 
