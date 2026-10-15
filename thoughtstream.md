@@ -1,4 +1,18 @@
 
+Oct 15
+
+When my father was working as an programmer analyst in romain Romania in the 80s he was not responsible with typing the code. He had people typing the code for him. Because his time was too important to type. Maybe, just maybe, that is coming back again in some sense. But it a slightly higher level of abstraction. 
+
+Only that now, it really is the meta-programming dream of Charles Szymonyi. 
+
+Oct 11
+
+In Limassol for two days to present about zeeguu for English as a foreign language teachers and researchers. Cipriot people are so friendly! And the weather is so hot here. Hotter than Copenhagen in the summer. 
+
+
+Somebody should make a comparison between the Danish “nå” and the transilvănean “noa”.
+
+
 Oct 9
 
 Cars took away from us the enjoyment of walking, feeling the breeze in our hair, the smell of the flowers. But it allowed us travel to new and more destinations that we would have never reached otherwise. They allowed to created cities that we would have never been able to otherwise. Programming with coding agents might be the same. We lose something but we gain something else. As Peggy Storey and McLuhan say: every new technology enables something and disables something else. 

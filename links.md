@@ -38,17 +38,8 @@
 
 ---
 
-Keybindings
-- **Caps** (tap = Esc), hold +
-	- **H J K L** - direction; also hold **S** = select, **F** = fast (word / page), **G** = superfast (line / document ends)
-	- **D** + H/L - delete in that direction (with F / G: word / to line end); **D** + J/K - delete line (with F: a page; with G: to document end / start; in Terminal: clear line, G: to line end / start)
-	- **W** + HJKL - winDow half; **C** center; **F** = large (H/L two-thirds, tap almost-max); **G** = very large (tap maximise, H/L other display)
-	- tap **D** - backspace
-	- **C / V / X** - copy / paste / cut (in Terminal V = ⌃V, image paste), **U / R** - undo / redo
-	- **;** - Return, **/** - new line without sending, **'** - Backspace (F + ' word, G + ' to line start)
-- **Tab** (tap = Tab), hold +
-	- **O** - Obsidian, **I** - Ideas note, **M** - Mail, **U** - Terminal in zeeguU + claude, **P** - 1Pass.numbers, **S** - Sublime, **T** - Terminal, **H** - Claude here (Obsidian: note's folder; Finder: window's folder)
-- Obsidian: **^-R** - reveal in navigation, **⌥⌘-R** - reveal in Finder
+Keybindings: Caps layer & Tab apps → [[caps-layer.pdf|cheat sheet PDF]]
+- Obsidian: **^-R** - reveal in navigation
 - Rectangle: 
 	- ^⌘-2 - center third
 	- ⌥⌘-C - center 
