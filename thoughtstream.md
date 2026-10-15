@@ -5,6 +5,11 @@ When my father was working as an programmer analyst in romain Romania in the 80s
 
 Only that now, it really is the meta-programming dream of Charles Szymonyi. 
 
+
+**
+
+My Cousin Vinnie - Still one of the best movies of all time. 
+
 Oct 11
 
 In Limassol for two days to present about zeeguu for English as a foreign language teachers and researchers. Cipriot people are so friendly! And the weather is so hot here. Hotter than Copenhagen in the summer. 
