@@ -5,7 +5,7 @@
 
 
 
-[caps layout game](https://claude.ai/artifact/T2RH3yxKLymoXV2Gzw6trp)
+Caps layer & Tab apps: [Rules PDF](docs/assets/caps-layer.pdf)  ·  [Trainer game](https://claude.ai/artifact/T2RH3yxKLymoXV2Gzw6trp) 
 
 
 ## Teaching
@@ -38,7 +38,7 @@
 
 ---
 
-Keybindings: Caps layer & Tab apps → [[caps-layer.pdf|cheat sheet PDF]]
+Keybindings:
 - Obsidian: **^-R** - reveal in navigation
 - Rectangle: 
 	- ^⌘-2 - center third

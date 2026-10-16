@@ -1,4 +1,5 @@
 
+
 Oct 15
 
 When my father was working as an programmer analyst in romain Romania in the 80s he was not responsible with typing the code. He had people typing the code for him. Because his time was too important to type. Maybe, just maybe, that is coming back again in some sense. But it a slightly higher level of abstraction. 
@@ -9,6 +10,10 @@ Only that now, it really is the meta-programming dream of Charles Szymonyi.
 **
 
 My Cousin Vinnie - Still one of the best movies of all time. 
+
+
+“A good programmer is someone who looks both ways before crossing a one-way street.” — Doug Linder
+
 
 Oct 11
 
