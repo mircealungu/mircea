@@ -1,5 +1,12 @@
 
 
+
+Oct 18
+
+
+
+
+
 Oct 15
 
 When my father was working as an programmer analyst in romain Romania in the 80s he was not responsible with typing the code. He had people typing the code for him. Because his time was too important to type. Maybe, just maybe, that is coming back again in some sense. But it a slightly higher level of abstraction. 
