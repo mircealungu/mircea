@@ -3,11 +3,6 @@
 
 | [LeChat](https://chat.mistral.ai/chat) | [DeepSeek](https://chat.deepseek.com/) | [Claude](https://claude.ai/chat/)| [Gemini](https://aistudio.google.com/live)| [claude.ai/code](claude.ai/code) | [section meetings](https://teams.microsoft.com/l/message/19:5662f31d36c34bb792710fef64f044f6@thread.tacv2/1762158463912?tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb&groupId=71380aea-63cd-4c79-8124-97c2b3455dfd&parentMessageId=1762158463912&teamName=ITU.Community&channelName=Section.SoftwareEngineering&createdTime=1762158463912&ngc=true "https://teams.microsoft.com/l/message/19:5662f31d36c34bb792710fef64f044f6@thread.tacv2/1762158463912?tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb&groupId=71380aea-63cd-4c79-8124-97c2b3455dfd&parentMessageId=1762158463912&teamName=ITU.Community&channelName=Section.SoftwareEngineering&createdTime=1762158463912&ngc=true")
 
-![](assets/plop-program.png)
-
-
-![](assets/session-papers.png)
-
 
 Caps layer & Tab apps: [Rules PDF](docs/assets/caps-layer.pdf)  ·  [Trainer game](https://claude.ai/artifact/T2RH3yxKLymoXV2Gzw6trp) 
 
