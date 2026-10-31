@@ -37,6 +37,7 @@ Longer pieces still in draft, developed in the open:
 # Essays
 Pieces of text that aim to have a beginning and an end... slowly porting them here from other platforms:
 
+- Oct '26 - [drawing-the-pattern-map](essays/drawing-the-pattern-map.md)
 - Feb '24 - [bitcoin-and-trust](essays/bitcoin-and-trust.md)
 - Feb '24 - [devx-and-ai](essays/devx-and-ai.md)
 - Feb '23 - [who-is-afraid-of-agi](essays/whos-afraid-of-agi.md)
