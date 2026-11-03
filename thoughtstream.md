@@ -1,7 +1,11 @@
 
 
 
-Oct 18
+Nov 3
+
+Claude being patronizing towards DeepSeek v4 Flash. 
+
+![](assets/claude-patronizing-deepseek.png)
 
 
 
