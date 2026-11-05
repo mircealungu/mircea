@@ -1,5 +1,8 @@
 
 
+Architects are there to lower risk. https://youtu.be/F8X9_Dp3ZUk?t=286
+
+
 
 Nov 3
 
@@ -7,6 +10,7 @@ Claude being patronizing towards DeepSeek v4 Flash.
 
 ![](assets/claude-patronizing-deepseek.png)
 
+Deepseek running locally on my Mac Studio almost one-shotted a doodle-like service for me. 
 
 
 
