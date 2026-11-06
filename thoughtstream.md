@@ -1,7 +1,49 @@
 
 
+
+Nov 6
+
 Architects are there to lower risk. https://youtu.be/F8X9_Dp3ZUk?t=286
 
+** 
+
+Dependencies. The very small ones might make sense to be rewritten by the agent. Or at least have your agent review the changes before upgrading. 
+- Jarred Summer - "Dependencies are over. The same Brotli vulnerability impacted .NET, Node, Bun, Envoy and more. Dependencies are too big of a target."
+- Armin Ronacher - https://t.co/EmT4Kle4Hu 
+
+
+**
+
+Working with local models
+- it's cheaper
+- and you maintain your skills
+
+With deep seek flash - you're the senior software engineer, and it is your junior
+Claude Opus - you're the client, and it is the outsourcing provider 
+
+**
+
+“Before you become too entranced with gorgeous gadgets, remember that the goal is not to have more information, but to have more understanding.” — Arthur C. Clarke
+
+**
+
+A local LLM as a "tool" for Claude for simple tasks. 
+
+** 
+
+The equivalent of Andy Warhol's "15min of fame" rewritten for the AI era: in the future, every app builder will have 15 users. 
+
+**
+
+For vissoft, we might end up publishing "tool seeds", as kent beck was proposing. "Tools" and the tool track might lose value. Although it's a super complicated tool. Case in which you might need more space to describe it. 
+
+**
+
+As we'll have to start working with multiple agents, we'll have to name them and really remember the capabilities of them all. one will have to remember that fm can search in emails but only sancho can write them, etc. 
+
+**
+
+Is it time to start thinking about Polite as a language again? 
 
 
 Nov 3
@@ -64,11 +106,15 @@ Research idea: the impact of the metaphor on the developer. If you tell them the
 
 
 
+**
+
+Up to a point, LLMs get more intelligent the more they read. Is GenAI teaching us about the importance of reading broadly for intelligence? :) 
+
 
 
 Oct 6
 
-Japan is cool. I’d like to do a sabbatical here I think. So different than Europe. And naturally it’s so beautiful. Outside of the city it’s amazing.
+Japan is cool. It's so different than Europe. And the nature is so beautiful when you get outside of the city. I’d like to do a sabbatical here.
 
 ![](assets/IMG_4454.jpeg)
 
