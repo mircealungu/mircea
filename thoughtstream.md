@@ -3,7 +3,7 @@
 
 Nov 6
 
-Architects are there to lower risk. https://youtu.be/F8X9_Dp3ZUk?t=286
+The role of a software architect is to lower risk. ([Greg Hope](https://youtu.be/F8X9_Dp3ZUk?t=286))
 
 ** 
 
