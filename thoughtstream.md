@@ -1,5 +1,15 @@
 
 
+Nov 8
+
+Signals that used to be expensive are now cheap. Distinguishing quality based on the artifact itself [is becoming increasingly difficult](https://thelastsoftwareengineer.substack.com/p/ai-is-causing-signal-collapse-everywhere). 
+
+One plausible future is one in which we are going back to a reputation-based society. With the asymmetry that it entails: reputation is hard to build and easy to lose, just like trust. The duels of the medieval ages were the result of a reputation-based society: one would rather be dead than lose their reputation. Is this coming back? Only that instead of duels we'll have some kind of online "fight"? Not piling tweets on top of each other, but some new future way of reputation duel.
+
+An alternative would be, scaling back ambitions, slowing down, and emphasize quality over quantity. That would be a nice future actually. Everything should slow down again to the speed of evaluation. But that is, unfortunately, not a game theoretical equilibrium. Some people will abuse it. Still, I can be the change I want to see in the world. 
+
+And one possible future is one where the two above are not alternatives. But rather, emphasizing quality over quantity might be the signal that an individual, and an organization might be able to costly create in a world where everything else has become cheap.
+
 
 Nov 6
 
