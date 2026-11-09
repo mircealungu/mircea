@@ -21,10 +21,10 @@ If you're interested in a student project, look at the prototypes and directions
 You can also look at the [list of projects available on GitHub](https://github.com/mircealungu/student-projects/) - for more other ideas. Use this list more as a hint at the kinds of projects I'm interested in. If you have an idea that is similar, we can still discuss. But if it's very far, then I won't be able to supervise you. 
 ### Collaboration with Companies
 
-My default answer is no for supervisions where you work for a company. The only exceptions are if:
+My default answer is no for supervisions where you work for a company. I make an exception only if both of these hold:
 
-- There is a clear research question that is relevant and publishable in one of the software engineering or human-computer interaction conferences; and that if the work turns out well, the company is ok with publishing the research (evidently after anonymization of any relevant data)
-- You put me in contact with somebody responsible at the company (e.g. CTO) that can explain to me that the problem is something that the company really cares about; I've done "work" in the past for some middle manager that had some idea, and then a student spent a whole thesis on it, only to find out in the end that it wasn't that important after all. 
+- There is a clear research question that is relevant and publishable in one of the software engineering or human-computer interaction conferences; and if the work turns out well, the company is ok with publishing the research (evidently after anonymization of any relevant data)
+- Before we start, you put me in contact with the person at the company who decides on the problem (e.g. CTO, head of engineering, or the team lead who owns it). I want a short conversation with them about why the company cares about the problem and how the collaboration could continue beyond your thesis. I've done "work" in the past for some middle manager that had some idea, and then a student spent a whole thesis on it, only to find out in the end that it wasn't that important after all. 
 
 ### Thesis Examples
 
