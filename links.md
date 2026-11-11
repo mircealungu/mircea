@@ -7,6 +7,10 @@
 Caps layer & Tab apps: [Rules PDF](docs/assets/caps-layer.pdf)  ·  [Trainer game](https://claude.ai/artifact/T2RH3yxKLymoXV2Gzw6trp) 
 
 
+## Tools
+
+- [AgentBoard](http://localhost:8787)
+
 ## Teaching
 
 ### Fall Semester 2026

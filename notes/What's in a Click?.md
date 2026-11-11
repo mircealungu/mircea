@@ -70,3 +70,8 @@ How do you save the word in the database? As a tripled: Word, translation, conte
 
 
 
+
+
+# Related work
+
+- Liz England, [The Door Problem](https://lizengland.com/blog/2014/04/the-door-problem/) (2014). The game-design version of this essay: "does the game have doors?" turns into dozens of questions (can they lock, can they break, what if the player gets stuck behind one), and every role in the studio ends up owning a piece of the same door. Found via a [tweet](https://x.com/dihuang111/status/2119396322646352092) by Di Huang, who points people to it when they think AI will make AAA games a matter of months.
